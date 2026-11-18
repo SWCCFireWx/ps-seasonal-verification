@@ -17,7 +17,7 @@ What's read from a zip, in order of preference:
     can't be turned into PSA categories automatically.
 Which file is Month 1-4 comes from its name (month1, M2, "Aug", "August", ...).
 
-Issues already archived from the live service are never overwritten (use --replace to allow it).
+Issues already saved (from the live service or an earlier import) are skipped (use --replace to redo them).
 Writes data/<GACC>/outlooks.csv, logs each issue in data/outlook_log.csv and data/archive_import_log.csv.
 
 Usage:
@@ -339,8 +339,49 @@ def read_zip(blob, issue, psa_names, psas_geo, save_dir):
                 notes.append(f"Month {lead} from {fname} ({how}, {len(res)} PSAs)")
                 break
     if not out:
-        kinds = sorted({os.path.splitext(nm(n))[1].lower() for n in names})
-        notes.append("no PSA categories found (files: " + ", ".join(kinds) + "); images/PDFs saved as the record")
+        imgs = {}
+        for n in names:
+            if nm(n).lower().endswith(".png"):
+                imgs[os.path.basename(nm(n))] = read(n)
+        out, more = read_images(imgs, issue, psas_geo)
+        notes += more
+        if not out:
+            kinds = sorted({os.path.splitext(nm(n))[1].lower() for n in names})
+            notes.append("no PSA categories found (files: " + ", ".join(kinds) + "); images/PDFs saved as the record")
+    return out, notes
+
+
+def read_images(imgs, issue, psas_geo):
+    """{lead: {psa: category}} read off the US outlook map images (landscape PNGs) of one issue."""
+    try:
+        from PIL import Image
+        import read_outlook_maps as rom
+    except ImportError as e:
+        return {}, [f"can't read map images ({e}); install numpy, scipy and pillow"]
+    picks = {}
+    for name, blob in sorted(imgs.items()):
+        try:
+            w, h = Image.open(io.BytesIO(blob)).size
+        except Exception:
+            continue
+        lead = lead_of(name, issue)
+        if not lead or w <= h:                    # portrait images are the North American maps
+            continue
+        if lead not in picks or name.lower().startswith("na"):
+            picks.setdefault(lead, (name, blob))
+    out, notes = {}, []
+    geo = rom.load_psas()
+    for lead, (name, blob) in sorted(picks.items()):
+        tmp = os.path.join(gaccs.DATA, f".map_{issue}_{lead}.png")
+        with open(tmp, "wb") as fh:
+            fh.write(blob)
+        try:
+            cats, n = rom.read_map(tmp, geo)
+        finally:
+            os.remove(tmp)
+        notes += [x.replace(os.path.basename(tmp), f"Month {lead} ({name})") for x in n]
+        if cats:
+            out[lead] = cats
     return out, notes
 
 
@@ -379,14 +420,43 @@ def save_issue(issue, cats, names, source):
     return len(rows)
 
 
+def from_saved(replace=False):
+    done_issues = {r["issue_month"] for r in gaccs.read_csv(LOG_PATH) if r.get("rows") not in ("", "0")}
+    psas_geo = common.load_psas()
+    idx = json.load(open(gaccs.INDEX_PATH)) if os.path.exists(gaccs.INDEX_PATH) else {"gaccs": []}
+    names = {p: "" for p in psas_geo}
+    for g in idx.get("gaccs", []):
+        names.update(g.get("psa_names") or {})
+    log = gaccs.read_csv(IMPORT_LOG)
+    n_ok = 0
+    for issue in sorted(os.listdir(RAW_DIR)) if os.path.isdir(RAW_DIR) else []:
+        if not re.fullmatch(r"\d{4}-\d\d", issue) or (issue in done_issues and not replace):
+            continue
+        d = os.path.join(RAW_DIR, issue)
+        imgs = {f: open(os.path.join(d, f), "rb").read() for f in os.listdir(d) if f.lower().endswith(".png")}
+        cats, notes = read_images(imgs, issue, psas_geo)
+        n = save_issue(issue, cats, names, "map images") if cats else 0
+        n_ok += bool(n)
+        print(f"  {issue}: {n} PSA rows" + "".join(f"\n      {x}" for x in notes))
+        log.append({"issue_month": issue, "source": "saved map images", "rows": n, "months": ",".join(map(str, sorted(cats))),
+                    "notes": " | ".join(notes)[:900], "imported_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")})
+    gaccs.write_csv(IMPORT_LOG, log, ["issue_month", "source", "rows", "months", "notes", "imported_at_utc"])
+    print(f"Read {n_ok} issue(s) from saved map images.")
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--years", help="e.g. 2025 or 2023-2025")
     ap.add_argument("--zip", nargs="*", help="zip files on disk instead of the NIFC page")
     ap.add_argument("--replace", action="store_true", help="overwrite issues already saved from the live service")
     ap.add_argument("--list", action="store_true")
+    ap.add_argument("--from-saved", action="store_true",
+                    help="read the map images already saved under data/raw/outlooks/ for issues that have no PSA categories yet")
     args = ap.parse_args()
 
+    if args.from_saved:
+        return from_saved(args.replace)
     if args.zip:
         sources = [(p, None) for p in args.zip]
     else:
@@ -406,7 +476,7 @@ def main():
     names = {p: "" for p in psas_geo}
     for g in idx.get("gaccs", []):
         names.update(g.get("psa_names") or {})
-    live = {r["issue_month"] for r in gaccs.read_csv(LOG_PATH) if r.get("rows") not in ("", "0") and "archive" not in (r.get("note") or "")}
+    live = {r["issue_month"] for r in gaccs.read_csv(LOG_PATH) if r.get("rows") not in ("", "0")}   # already have PSA categories
     log = gaccs.read_csv(IMPORT_LOG)
     done = 0
     for src, _ in sources:
@@ -416,7 +486,7 @@ def main():
             print(f"  {label}: can't tell the issue month from the name; skipped")
             continue
         if issue in live and not args.replace:
-            print(f"  {issue}: already saved from the live service; skipped")
+            print(f"  {issue}: already saved; skipped")
             continue
         try:
             blob = open(src, "rb").read() if os.path.exists(src) else common.http(src, retries=3, timeout=180, binary=True)
