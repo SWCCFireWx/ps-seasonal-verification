@@ -70,6 +70,11 @@ jobs:
           python scripts/station_weather.py --backfill-all --backfill-start "$START" --backfill-days "$DAYS" | tee weather_out.txt
           echo "remaining=$(grep '^BACKFILL_REMAINING=' weather_out.txt | tail -1 | cut -d= -f2)" >> "$GITHUB_OUTPUT"
 
+      - name: Last run only - re-check every month with the full history (station ERC percentiles need it)
+        if: steps.weather.outcome == 'success' && steps.weather.outputs.remaining == '0'
+        continue-on-error: true
+        run: python scripts/station_weather.py --rebuild
+
       - name: Score the outlooks
         continue-on-error: true
         run: python scripts/verify_outlook.py
