@@ -1,4 +1,222 @@
 date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
+2023-01-01,20212,DRY PARK,RAWS,SW01,bad_rain,22.49,0,,impossible rain total
+2023-01-01,20216,WARM SPRINGS CANYON,RAWS,SW01,bad_rain,13.23,0,,impossible rain total
+2023-01-01,20612,PINE,RAWS,SW06N,bad_rain,19.14,0,,impossible rain total
+2023-01-01,21302,HOPKINS,RAWS,SW06S,wet,11.95,8,1.01,far more rain than any neighbor
+2023-01-01,21414,RUCKER,RAWS,SW06S,bad_rain,22.4,0,,impossible rain total
+2023-01-01,290801,TOWER,RAWS,SW07,wet,2.09,8,0.34,far more rain than any neighbor
+2023-01-01,291301,BRUSHY MOUNTAIN,RAWS,SW07,bad_rain,20.12,0,,impossible rain total
+2023-01-01,291408,SANDIA LAB,RAWS,SW11,wet,5.15,8,0.17,far more rain than any neighbor
+2023-01-01,292008,SLAUGHTER,RAWS,SW08,wet,6.39,6,0.62,far more rain than any neighbor
+2023-01-01,293002,MAYHILL,RAWS,SW12,bad_rain,19.79,0,,impossible rain total
+2023-01-01,293101,BATDRAW,RAWS,SW14N,bad_rain,12.27,0,,impossible rain total
+2023-01-01,293202,PADUCA,RAWS,SW14N,rain_alone,3.93,3,0.0,rain no neighbor saw
+2023-01-01,ASOS-JTC,Springerville,ASOS,SW08,hot,51.8,8,43.0,max temp much warmer than neighbors
+2023-01-03,ASOS-ROW,Roswell/Industrial,ASOS,SW14N,hot,77.0,3,57.7,max temp much warmer than neighbors
+2023-01-04,20603,PLEASANT VALLEY,RAWS,SW06N,missed,0.0,8,0.53,no rain while most neighbors got rain
+2023-01-04,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,hot,57.0,5,36.6,max temp much warmer than neighbors
+2023-01-04,ASOS-SOW,Show Low Municipal,ASOS,SW05,missed,0.0,7,0.54,no rain while most neighbors got rain
+2023-01-05,290202,COYOTE,RAWS,SW07,hot,49.0,8,37.3,max temp much warmer than neighbors
+2023-01-05,292008,SLAUGHTER,RAWS,SW08,cold,34.0,6,42.8,max temp much colder than neighbors
+2023-01-05,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,59.0,4,49.7,max temp much warmer than neighbors
+2023-01-06,292005,RESERVE,RAWS,SW08,rain_alone,0.86,8,0.01,rain no neighbor saw
+2023-01-07,291002,BARTLEY,RAWS,SW10,hot,48.0,7,36.9,max temp much warmer than neighbors
+2023-01-07,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,cold,40.0,5,50.6,max temp much colder than neighbors
+2023-01-07,ASOS-TYL,Taylor,ASOS,SW05,cold,48.2,6,59.1,max temp much colder than neighbors
+2023-01-09,ASOS-MZJ,Pinal Airpark,ASOS,SW06S,cold,46.4,8,73.0,max temp much colder than neighbors
+2023-01-12,20212,DRY PARK,RAWS,SW01,hot,53.0,8,37.6,max temp much warmer than neighbors
+2023-01-12,20220,LINDBERGH HILL,RAWS,SW01,hot,47.0,8,37.3,max temp much warmer than neighbors
+2023-01-12,291002,BARTLEY,RAWS,SW10,hot,51.0,7,36.4,max temp much warmer than neighbors
+2023-01-13,290101,WASHINGTON PASS,RAWS,SW04,hot,55.0,3,44.8,max temp much warmer than neighbors
+2023-01-13,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,52.0,4,65.7,max temp much colder than neighbors
+2023-01-14,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,cold,38.0,5,51.6,max temp much colder than neighbors
+2023-01-15,20221,PROMONTORY,RAWS,SW05,missed,0.0,8,0.53,no rain while most neighbors got rain
+2023-01-15,20610,RED LAKE,RAWS,SW05,missed,0.0,8,0.53,no rain while most neighbors got rain
+2023-01-16,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,53.0,4,42.4,max temp much warmer than neighbors
+2023-01-16,ASOS-JTC,Springerville,ASOS,SW08,hot,48.2,8,35.7,max temp much warmer than neighbors
+2023-01-18,20220,LINDBERGH HILL,RAWS,SW01,hot,34.0,8,25.2,max temp much warmer than neighbors
+2023-01-18,291002,BARTLEY,RAWS,SW10,hot,30.0,7,21.9,max temp much warmer than neighbors
+2023-01-18,ASOS-GCN,Grand Canyon Park,ASOS,SW01,missed,0.0,5,0.53,no rain while most neighbors got rain
+2023-01-18,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,hot,38.0,4,29.4,max temp much warmer than neighbors
+2023-01-19,290101,WASHINGTON PASS,RAWS,SW04,hot,33.0,3,20.7,max temp much warmer than neighbors
+2023-01-19,291002,BARTLEY,RAWS,SW10,hot,42.0,7,29.9,max temp much warmer than neighbors
+2023-01-19,291202,PECOS,RAWS,SW10,hot,45.0,8,35.7,max temp much warmer than neighbors
+2023-01-19,292008,SLAUGHTER,RAWS,SW08,cold,25.0,6,38.7,max temp much colder than neighbors
+2023-01-19,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,cold,29.0,5,43.2,max temp much colder than neighbors
+2023-01-21,20502,CROWN KING,RAWS,SW02,hot,49.0,7,39.4,max temp much warmer than neighbors
+2023-01-21,291202,PECOS,RAWS,SW10,hot,38.0,8,29.4,max temp much warmer than neighbors
+2023-01-21,ASOS-CMR,Williams,ASOS,SW05,cold,28.4,8,36.8,max temp much colder than neighbors
+2023-01-22,292008,SLAUGHTER,RAWS,SW08,cold,33.0,6,41.8,max temp much colder than neighbors
+2023-01-23,293004,COSMIC,RAWS,SW12,hot,34.0,3,24.7,max temp much warmer than neighbors
+2023-01-23,ASOS-TYL,Taylor,ASOS,SW05,wet,3.08,6,0.43,far more rain than any neighbor
+2023-01-24,291002,BARTLEY,RAWS,SW10,hot,38.0,7,27.0,max temp much warmer than neighbors
+2023-01-24,ASOS-CMR,Williams,ASOS,SW05,cold,30.2,8,40.4,max temp much colder than neighbors
+2023-01-25,20215,MORMON LAKE,RAWS,SW05,cold,28.0,8,37.4,max temp much colder than neighbors
+2023-01-26,20215,MORMON LAKE,RAWS,SW05,cold,26.0,8,34.4,max temp much colder than neighbors
+2023-01-26,291002,BARTLEY,RAWS,SW10,hot,33.0,7,23.1,max temp much warmer than neighbors
+2023-01-27,20401,ALPINE,RAWS,SW08,hot,52.0,8,43.6,max temp much warmer than neighbors
+2023-01-27,291002,BARTLEY,RAWS,SW10,hot,47.0,7,31.9,max temp much warmer than neighbors
+2023-01-27,291202,PECOS,RAWS,SW10,hot,48.0,8,36.7,max temp much warmer than neighbors
+2023-01-27,292203,SMOKEY BEAR,RAWS,SW12,hot,54.0,7,40.4,max temp much warmer than neighbors
+2023-01-27,293002,MAYHILL,RAWS,SW12,hot,57.0,8,41.2,max temp much warmer than neighbors
+2023-01-27,ASOS-GCN,Grand Canyon Park,ASOS,SW01,cold,37.0,6,51.1,max temp much colder than neighbors
+2023-01-27,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,cold,39.0,5,47.6,max temp much colder than neighbors
+2023-01-27,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,46.0,4,56.1,max temp much colder than neighbors
+2023-01-28,291002,BARTLEY,RAWS,SW10,hot,44.0,7,34.9,max temp much warmer than neighbors
+2023-01-28,ASOS-GCN,Grand Canyon Park,ASOS,SW01,cold,36.0,6,44.2,max temp much colder than neighbors
+2023-01-30,292302,DUNKEN,RAWS,SW12,cold,37.0,7,58.2,max temp much colder than neighbors
+2023-01-30,417101,PINERY,RAWS,SW12,cold,48.0,6,58.6,max temp much colder than neighbors
+2023-01-31,292302,DUNKEN,RAWS,SW12,cold,26.0,7,52.8,max temp much colder than neighbors
+2023-01-31,417103,THE BOWL,RAWS,SW12,hot,45.0,3,20.7,max temp much warmer than neighbors
+2023-02-01,20291,HAPPY JACK,RAWS,SW05,cold,37.0,8,46.3,max temp much colder than neighbors
+2023-02-01,290101,WASHINGTON PASS,RAWS,SW04,hot,40.0,3,31.7,max temp much warmer than neighbors
+2023-02-01,ASOS-GCN,Grand Canyon Park,ASOS,SW01,cold,30.9,6,42.5,max temp much colder than neighbors
+2023-02-02,20402,PINEY HILL,RAWS,SW04,hot,50.0,4,40.2,max temp much warmer than neighbors
+2023-02-02,ASOS-GCN,Grand Canyon Park,ASOS,SW01,cold,42.0,6,52.8,max temp much colder than neighbors
+2023-02-03,290101,WASHINGTON PASS,RAWS,SW04,hot,48.0,3,39.7,max temp much warmer than neighbors
+2023-02-03,291002,BARTLEY,RAWS,SW10,hot,54.0,7,40.9,max temp much warmer than neighbors
+2023-02-04,293002,MAYHILL,RAWS,SW12,hot,65.0,8,55.5,max temp much warmer than neighbors
+2023-02-04,ASOS-GCN,Grand Canyon Park,ASOS,SW01,cold,47.0,6,58.1,max temp much colder than neighbors
+2023-02-05,291408,SANDIA LAB,RAWS,SW11,rain_alone,1.29,8,0.03,rain no neighbor saw
+2023-02-08,20220,LINDBERGH HILL,RAWS,SW01,hot,50.0,8,41.6,max temp much warmer than neighbors
+2023-02-08,291002,BARTLEY,RAWS,SW10,hot,45.0,7,34.3,max temp much warmer than neighbors
+2023-02-09,20310,MOUNTAIN LION,RAWS,SW08,hot,47.0,8,36.8,max temp much warmer than neighbors
+2023-02-09,21010,NOON CREEK,RAWS,SW06S,hot,59.0,7,50.9,max temp much warmer than neighbors
+2023-02-10,20212,DRY PARK,RAWS,SW01,hot,56.0,8,37.1,max temp much warmer than neighbors
+2023-02-10,20220,LINDBERGH HILL,RAWS,SW01,hot,57.0,8,36.8,max temp much warmer than neighbors
+2023-02-10,21302,HOPKINS,RAWS,SW06S,hot,59.0,6,49.1,max temp much warmer than neighbors
+2023-02-10,290101,WASHINGTON PASS,RAWS,SW04,hot,47.0,3,35.7,max temp much warmer than neighbors
+2023-02-10,290401,CIMARRON,RAWS,SW10,hot,44.0,4,34.6,max temp much warmer than neighbors
+2023-02-11,291002,BARTLEY,RAWS,SW10,hot,59.0,7,47.9,max temp much warmer than neighbors
+2023-02-12,20215,MORMON LAKE,RAWS,SW05,cold,46.0,8,54.5,max temp much colder than neighbors
+2023-02-12,ASOS-CNM,Carlsbad/Cavern Cty,ASOS,SW14N,cold,60.0,8,70.7,max temp much colder than neighbors
+2023-02-14,291002,BARTLEY,RAWS,SW10,hot,35.0,7,26.6,max temp much warmer than neighbors
+2023-02-14,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,50.0,4,36.6,max temp much warmer than neighbors
+2023-02-14,ASOS-TYL,Taylor,ASOS,SW05,rain_alone,10.42,6,0.02,rain no neighbor saw
+2023-02-15,20611,SHADOW RIM,RAWS,SW05,hot,38.0,8,28.8,max temp much warmer than neighbors
+2023-02-16,290101,WASHINGTON PASS,RAWS,SW04,hot,30.0,3,17.8,max temp much warmer than neighbors
+2023-02-16,292203,SMOKEY BEAR,RAWS,SW12,hot,41.0,7,32.4,max temp much warmer than neighbors
+2023-02-16,ASOS-JTC,Springerville,ASOS,SW08,cold,23.0,8,34.7,max temp much colder than neighbors
+2023-02-17,20207,TUSAYAN,RAWS,SW01,cold,32.0,7,41.5,max temp much colder than neighbors
+2023-02-17,20291,HAPPY JACK,RAWS,SW05,cold,30.0,8,42.8,max temp much colder than neighbors
+2023-02-17,290401,CIMARRON,RAWS,SW10,hot,46.0,4,30.4,max temp much warmer than neighbors
+2023-02-17,292008,SLAUGHTER,RAWS,SW08,cold,32.0,6,41.7,max temp much colder than neighbors
+2023-02-17,292203,SMOKEY BEAR,RAWS,SW12,hot,53.0,7,40.8,max temp much warmer than neighbors
+2023-02-17,ASOS-BRG,Belen,ASOS,SW09,cold,19.2,8,43.3,max temp much colder than neighbors
+2023-02-17,ASOS-JTC,Springerville,ASOS,SW08,cold,35.6,8,47.5,max temp much colder than neighbors
+2023-02-18,291002,BARTLEY,RAWS,SW10,hot,47.0,7,37.9,max temp much warmer than neighbors
+2023-02-18,ASOS-RTN,Raton/Crews Fld,ASOS,SW10,cold,42.0,5,50.9,max temp much colder than neighbors
+2023-02-22,ASOS-SVC,Silver City/Grant,ASOS,SW08,hot,52.5,3,43.4,max temp much warmer than neighbors
+2023-02-24,292008,SLAUGHTER,RAWS,SW08,cold,37.0,6,46.7,max temp much colder than neighbors
+2023-02-26,ASOS-SOW,Show Low Municipal,ASOS,SW05,hot,52.0,8,37.7,max temp much warmer than neighbors
+2023-02-26,ASOS-TYL,Taylor,ASOS,SW05,wet,2.71,6,0.16,far more rain than any neighbor
+2023-02-27,291002,BARTLEY,RAWS,SW10,hot,46.0,7,37.9,max temp much warmer than neighbors
+2023-02-27,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,hot,57.0,4,47.5,max temp much warmer than neighbors
+2023-02-28,20603,PLEASANT VALLEY,RAWS,SW06N,bad_rain,24.6,0,,impossible rain total
+2023-03-01,20209,FLAGSTAFF,RAWS,SW05,missed,0.0,8,0.62,no rain while most neighbors got rain
+2023-03-01,ASOS-BRG,Belen,ASOS,SW09,cold,37.2,8,59.0,max temp much colder than neighbors
+2023-03-01,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,49.0,4,37.6,max temp much warmer than neighbors
+2023-03-01,ASOS-LUF,Luke Afb/Phoenix,ASOS,SW02,missed,0.0,8,0.55,no rain while most neighbors got rain
+2023-03-02,20120,TRUXTON CANYON,RAWS,SW02,cold,36.0,4,46.2,max temp much colder than neighbors
+2023-03-02,20207,TUSAYAN,RAWS,SW01,hot,48.0,7,36.2,max temp much warmer than neighbors
+2023-03-02,20209,FLAGSTAFF,RAWS,SW05,hot,46.0,8,34.0,max temp much warmer than neighbors
+2023-03-02,20502,CROWN KING,RAWS,SW02,hot,43.0,7,34.0,max temp much warmer than neighbors
+2023-03-02,21009,DRY LAKE,RAWS,SW06S,cold,27.0,7,35.3,max temp much colder than neighbors
+2023-03-02,292901,MCGREGGOR RANGE,RAWS,SW12,cold,43.0,4,51.3,max temp much colder than neighbors
+2023-03-02,ASOS-BRG,Belen,ASOS,SW09,cold,39.4,8,47.6,max temp much colder than neighbors
+2023-03-02,ASOS-IGM,Kingman,ASOS,SW02,cold,41.0,7,49.9,max temp much colder than neighbors
+2023-03-02,ASOS-PAN,Payson,ASOS,SW06N,cold,32.0,8,42.2,max temp much colder than neighbors
+2023-03-03,20212,DRY PARK,RAWS,SW01,cold,27.0,8,35.1,max temp much colder than neighbors
+2023-03-03,ASOS-CGZ,Casa Granda (Awos),ASOS,SW06N,cold,47.0,8,58.7,max temp much colder than neighbors
+2023-03-03,ASOS-SOW,Show Low Municipal,ASOS,SW05,cold,45.0,8,53.4,max temp much colder than neighbors
+2023-03-04,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,63.0,4,53.2,max temp much warmer than neighbors
+2023-03-05,20212,DRY PARK,RAWS,SW01,cold,29.0,8,37.4,max temp much colder than neighbors
+2023-03-07,20212,DRY PARK,RAWS,SW01,cold,32.0,8,44.2,max temp much colder than neighbors
+2023-03-07,ASOS-AXX,Angel Fire,ASOS,SW10,cold,43.2,6,51.3,max temp much colder than neighbors
+2023-03-08,20212,DRY PARK,RAWS,SW01,cold,30.0,8,39.2,max temp much colder than neighbors
+2023-03-08,ASOS-OLS,Nogales Intl Airport,ASOS,SW06S,cold,65.0,7,74.4,max temp much colder than neighbors
+2023-03-09,20212,DRY PARK,RAWS,SW01,cold,34.0,8,45.2,max temp much colder than neighbors
+2023-03-09,291408,SANDIA LAB,RAWS,SW11,rain_alone,6.39,7,0.0,rain no neighbor saw
+2023-03-09,ASOS-CNM,Carlsbad/Cavern Cty,ASOS,SW14N,cold,65.0,8,75.1,max temp much colder than neighbors
+2023-03-09,ASOS-FLG,Flagstaff - Pulliam,ASOS,SW05,cold,47.0,8,55.1,max temp much colder than neighbors
+2023-03-10,291002,BARTLEY,RAWS,SW10,hot,60.0,7,51.6,max temp much warmer than neighbors
+2023-03-11,290101,WASHINGTON PASS,RAWS,SW04,cold,36.0,3,45.7,max temp much colder than neighbors
+2023-03-12,20212,DRY PARK,RAWS,SW01,cold,35.0,8,44.4,max temp much colder than neighbors
+2023-03-14,291002,BARTLEY,RAWS,SW10,hot,58.0,7,46.9,max temp much warmer than neighbors
+2023-03-15,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,62.0,4,48.7,max temp much warmer than neighbors
+2023-03-16,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,32.0,4,42.0,max temp much colder than neighbors
+2023-03-18,290210,TRUCHAS,RAWS,SW10,hot,41.0,8,31.9,max temp much warmer than neighbors
+2023-03-19,ASOS-AXX,Angel Fire,ASOS,SW10,cold,32.0,6,41.6,max temp much colder than neighbors
+2023-03-19,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,60.0,4,51.2,max temp much warmer than neighbors
+2023-03-20,291002,BARTLEY,RAWS,SW10,hot,42.0,7,32.8,max temp much warmer than neighbors
+2023-03-21,20402,PINEY HILL,RAWS,SW04,missed,0.0,4,0.56,no rain while most neighbors got rain
+2023-03-21,290101,WASHINGTON PASS,RAWS,SW04,missed,0.0,3,0.55,no rain while most neighbors got rain
+2023-03-21,291002,BARTLEY,RAWS,SW10,hot,46.0,7,34.1,max temp much warmer than neighbors
+2023-03-21,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,hot,52.0,4,43.0,max temp much warmer than neighbors
+2023-03-22,21302,HOPKINS,RAWS,SW06S,cold,45.0,6,53.7,max temp much colder than neighbors
+2023-03-24,291501,MOUNTAINAIR,RAWS,SW11,wet,1.71,5,0.1,far more rain than any neighbor
+2023-03-24,ASOS-TYL,Taylor,ASOS,SW05,wet,1.04,7,0.16,far more rain than any neighbor
+2023-03-28,20212,DRY PARK,RAWS,SW01,cold,30.0,8,45.4,max temp much colder than neighbors
+2023-03-28,291002,BARTLEY,RAWS,SW10,hot,49.0,7,39.9,max temp much warmer than neighbors
+2023-03-28,417105,PX WELL,RAWS,SW12,hot,65.0,5,56.2,max temp much warmer than neighbors
+2023-03-29,20212,DRY PARK,RAWS,SW01,cold,30.0,8,47.4,max temp much colder than neighbors
+2023-03-29,20220,LINDBERGH HILL,RAWS,SW01,cold,29.0,8,47.1,max temp much colder than neighbors
+2023-03-29,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,70.0,4,61.6,max temp much warmer than neighbors
+2023-03-30,ASOS-CHD,Chandler Municipal Airport,ASOS,SW06N,hot,78.8,8,64.5,max temp much warmer than neighbors
+2023-03-31,20220,LINDBERGH HILL,RAWS,SW01,cold,29.0,8,37.6,max temp much colder than neighbors
+2023-03-31,290101,WASHINGTON PASS,RAWS,SW04,cold,29.0,3,37.4,max temp much colder than neighbors
+2023-04-01,20212,DRY PARK,RAWS,SW01,cold,30.0,8,51.5,max temp much colder than neighbors
+2023-04-01,20220,LINDBERGH HILL,RAWS,SW01,cold,29.0,8,51.1,max temp much colder than neighbors
+2023-04-01,ASOS-HMN,Holloman Afb,ASOS,SW09,cold,49.5,6,76.1,max temp much colder than neighbors
+2023-04-01,ASOS-JTC,Springerville,ASOS,SW08,cold,41.0,8,62.5,max temp much colder than neighbors
+2023-04-02,20212,DRY PARK,RAWS,SW01,cold,31.0,8,50.6,max temp much colder than neighbors
+2023-04-02,20220,LINDBERGH HILL,RAWS,SW01,cold,30.0,8,50.2,max temp much colder than neighbors
+2023-04-02,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,73.0,4,64.6,max temp much warmer than neighbors
+2023-04-03,20212,DRY PARK,RAWS,SW01,cold,31.0,8,45.9,max temp much colder than neighbors
+2023-04-03,20220,LINDBERGH HILL,RAWS,SW01,cold,31.0,8,45.6,max temp much colder than neighbors
+2023-04-03,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,69.0,4,58.2,max temp much warmer than neighbors
+2023-04-04,20212,DRY PARK,RAWS,SW01,hot,32.0,8,22.5,max temp much warmer than neighbors
+2023-04-04,20220,LINDBERGH HILL,RAWS,SW01,hot,31.0,8,22.1,max temp much warmer than neighbors
+2023-04-04,ASOS-SOW,Show Low Municipal,ASOS,SW05,hot,53.0,8,39.7,max temp much warmer than neighbors
+2023-04-05,291002,BARTLEY,RAWS,SW10,hot,43.0,7,34.6,max temp much warmer than neighbors
+2023-04-05,ASOS-RYN,Tucson/Ryan Fld,ASOS,SW06S,cold,59.0,7,68.5,max temp much colder than neighbors
+2023-04-06,20212,DRY PARK,RAWS,SW01,cold,32.0,8,41.4,max temp much colder than neighbors
+2023-04-06,20220,LINDBERGH HILL,RAWS,SW01,cold,31.0,8,41.1,max temp much colder than neighbors
+2023-04-06,417105,PX WELL,RAWS,SW12,hot,72.0,5,63.2,max temp much warmer than neighbors
+2023-04-07,20212,DRY PARK,RAWS,SW01,cold,32.0,8,52.1,max temp much colder than neighbors
+2023-04-07,20220,LINDBERGH HILL,RAWS,SW01,cold,34.0,8,51.8,max temp much colder than neighbors
+2023-04-08,20212,DRY PARK,RAWS,SW01,cold,32.0,8,53.7,max temp much colder than neighbors
+2023-04-08,20220,LINDBERGH HILL,RAWS,SW01,cold,36.0,8,53.3,max temp much colder than neighbors
+2023-04-08,ASOS-RYN,Tucson/Ryan Fld,ASOS,SW06S,cold,75.2,7,84.5,max temp much colder than neighbors
+2023-04-09,20212,DRY PARK,RAWS,SW01,cold,32.0,8,60.0,max temp much colder than neighbors
+2023-04-09,20220,LINDBERGH HILL,RAWS,SW01,cold,44.0,8,59.7,max temp much colder than neighbors
+2023-04-09,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,44.0,4,65.9,max temp much colder than neighbors
+2023-04-10,20212,DRY PARK,RAWS,SW01,cold,39.0,8,63.9,max temp much colder than neighbors
+2023-04-10,20220,LINDBERGH HILL,RAWS,SW01,cold,51.0,8,63.5,max temp much colder than neighbors
+2023-04-11,20212,DRY PARK,RAWS,SW01,cold,50.0,8,68.6,max temp much colder than neighbors
+2023-04-11,20220,LINDBERGH HILL,RAWS,SW01,cold,54.0,8,68.2,max temp much colder than neighbors
+2023-04-12,20212,DRY PARK,RAWS,SW01,cold,42.0,8,59.6,max temp much colder than neighbors
+2023-04-12,20220,LINDBERGH HILL,RAWS,SW01,cold,45.0,8,59.2,max temp much colder than neighbors
+2023-04-12,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,84.0,4,73.7,max temp much warmer than neighbors
+2023-04-13,20212,DRY PARK,RAWS,SW01,cold,39.0,8,50.8,max temp much colder than neighbors
+2023-04-13,20220,LINDBERGH HILL,RAWS,SW01,cold,39.0,8,50.4,max temp much colder than neighbors
+2023-04-13,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,73.0,4,64.1,max temp much warmer than neighbors
+2023-04-14,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,68.0,4,59.6,max temp much warmer than neighbors
+2023-04-16,20220,LINDBERGH HILL,RAWS,SW01,cold,45.0,8,59.3,max temp much colder than neighbors
+2023-04-16,417105,PX WELL,RAWS,SW12,hot,79.0,5,69.3,max temp much warmer than neighbors
+2023-04-16,ASOS-RYN,Tucson/Ryan Fld,ASOS,SW06S,cold,77.0,7,89.5,max temp much colder than neighbors
+2023-04-17,20220,LINDBERGH HILL,RAWS,SW01,cold,49.0,8,59.8,max temp much colder than neighbors
+2023-04-17,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,80.0,4,71.2,max temp much warmer than neighbors
+2023-04-18,20220,LINDBERGH HILL,RAWS,SW01,cold,46.0,8,55.1,max temp much colder than neighbors
+2023-04-18,290101,WASHINGTON PASS,RAWS,SW04,rain_alone,1.64,3,0.0,rain no neighbor saw
+2023-04-18,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,75.0,4,65.7,max temp much warmer than neighbors
+2023-04-19,290101,WASHINGTON PASS,RAWS,SW04,rain_alone,0.55,3,0.0,rain no neighbor saw
+2023-04-22,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.69,6,0.0,rain no neighbor saw
+2023-04-22,293002,MAYHILL,RAWS,SW12,cold,62.0,8,70.9,max temp much colder than neighbors
+2023-04-22,417105,PX WELL,RAWS,SW12,hot,83.0,5,74.0,max temp much warmer than neighbors
+2023-04-23,417105,PX WELL,RAWS,SW12,hot,69.0,5,55.3,max temp much warmer than neighbors
+2023-04-24,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.69,7,0.04,rain no neighbor saw
+2023-04-24,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,79.0,4,70.6,max temp much warmer than neighbors
 2026-11-08,291408,SANDIA LAB,RAWS,SW11,bad_rain,14.34,0,,impossible rain total
 2026-11-11,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.34,6,0.0,rain no neighbor saw
 2026-11-14,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,60.0,4,51.7,max temp much warmer than neighbors

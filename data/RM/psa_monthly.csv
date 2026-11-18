@@ -1,4 +1,116 @@
 month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,precip_pct_normal,max_temp_mean_f,max_temp_f,temp_anom_f,temp_anom_stations,min_rh_mean,erc_mean,erc_max,erc_90_days,bi_mean,bi_max,flagged_stations,flag_list,complete
+2023-01,RM01,31,3,2,1,,0,,,27.9,43.0,-6.9,1,49.7,0.8,0.86,,0.0,0.0,2,EAGLE (reads dry); ELKHORN (reads wet),yes
+2023-01,RM02,31,17,10,7,0.1,11,0.22,5,30.2,41.0,-5.5,3,53.5,1.6,5.8,,0.0,0.0,8,"RATTLESNAKE MTN. (3 hot days, 1 rain flag); GRASS CREEK DIVIDE (runs hot, reads wet); PISTOL DRAW (reads wet); DRY CREEK (runs hot); Greybull/South Big Horn Cnty Apt (runs cold); Powell (runs cold); Cowley (runs cold); Worland Municipal (runs cold)",yes
+2023-01,RM03,31,3,3,0,0.38,3,,,26.7,47.0,,0,51.5,0.8,0.81,,0.0,0.0,2,MILL CREEK (1 rain flag); SCHOOL HOUSE (1 hot day),yes
+2023-01,RM04,31,13,5,8,0.43,9,0.32,148,34.1,50.0,-2.1,6,57.2,9.0,17.96,,3.5,14.93,6,"BEAR LODGE (1 hot day); DEVILS TOWER (1 cold day); Douglas/Converse County Airport (1 cold day); Newcastle (runs cold); Ellsworth Afb (3 cold days); Sheridan Co. Arpt (reads wet, 3 cold days)",yes
+2023-01,RM05,31,8,7,1,0.66,7,,,36.6,60.0,0.9,1,49.4,10.0,22.99,,2.8,18.8,1,MT. RUSHMORE (1 hot day),yes
+2023-01,RM06,31,4,3,1,0.58,4,0.41,193,36.6,55.5,-2.2,1,51.8,13.4,23.56,,6.4,22.7,0,,yes
+2023-01,RM07,31,9,3,6,0.54,2,0.38,5,23.0,33.9,-5.8,2,70.6,0.8,0.95,,0.0,0.0,5,"ANDERSON RIDGE (runs hot, reads dry, 1 cold day); SNOW SPRINGS CREEK (reads dry, 2 cold days); Big Piney - Marbleton (runs cold, reads dry, 1 rain flag); Evanston/Burns Fld (runs cold, reads dry); Pinedale/Ralph Wenz Field (runs cold)",yes
+2023-01,RM08,31,11,6,5,1.38,8,0.39,353,26.0,37.0,-7.4,4,65.8,1.1,1.62,,0.0,0.0,6,"WIND RIVER (runs hot); CASPER MOUNTAIN (3 hot days); Lander/Hunt Field (reads wet); Riverton (runs cold); Rawlins Municipal (reads wet, 1 cold day); Saratoga (1 cold day)",yes
+2023-01,RM09,31,2,2,0,0.14,1,,,26.2,41.0,,0,62.4,5.9,16.2,,1.6,12.12,1,ESTERBROOK (reads dry),yes
+2023-01,RM10,31,9,6,3,1.04,8,1.35,96,28.3,40.0,-2.9,3,67.7,0.9,1.16,,0.0,0.0,7,COW CREEK (2 hot days); SANDSTONE (2 hot days); LODORE (runs hot); DINOSAUR NM SUCCESS (1 hot day); Craig - Moffat (1 cold day); Dixon (1 cold day); Hayden/Yampa (Awos) (1 hot day),yes
+2023-01,RM11,31,15,10,5,0.85,10,,,27.0,39.5,,0,60.7,0.8,0.83,,0.0,0.0,7,SAWMILL PARK (1 hot day); WILLOW CREEK (1 hot day); GUNSIGHT (1 hot day); Kremmling (runs cold); Walden (runs cold); Granby (runs cold); Steamboat Springs (runs cold),yes
+2023-01,RM12,31,15,7,8,0.4,9,0.41,80,36.6,60.0,-9.0,8,45.9,5.7,15.57,,0.7,12.45,7,POLE MT (reads dry); REDSTONE (1 hot day); BUCKEYE (runs cold); SUGARLOAF (1 hot day); ARSENAL (1 hot day); Fort Collins (Awos) (2 cold days); Longmont/Vbrand (1 cold day),yes
+2023-01,RM13,31,8,7,1,0.61,6,,,33.1,51.5,-8.1,1,37.6,2.5,4.69,,0.0,0.0,5,ESTES PARK (1 hot day); DUMONT (reads dry); PICKLE GULCH (1 hot day); LOST PARK (1 hot day); Dakota Hills (1 cold day),yes
+2023-01,RM14,31,14,8,6,1.23,10,0.7,271,34.6,45.0,0.6,3,57.6,1.3,1.76,,0.0,0.0,7,"DRAGON ROAD (1 hot day); LITTLE DOLORES (1 hot day); ROAN PLATEAU (reads wet); Rangely (runs cold); Meeker (runs cold); Montrose Co. Arpt (reads dry, 1 cold day); Rifle/Garfield Rgnl (runs cold)",yes
+2023-01,RM15,31,13,8,5,1.01,9,1.05,70,28.9,42.0,-7.0,4,57.0,0.8,0.85,,0.0,0.0,5,THE CROWN (1 hot day); STORM KING MOUNTAIN (2 hot days); GRAND MESA (1 hot day); Berthoud Pass (runs cold); Eagle Co. Regional (3 cold days),yes
+2023-01,RM16,31,9,7,2,1.57,7,,,34.5,46.7,-5.5,1,48.3,1.0,1.32,,0.0,0.0,2,JACKS CANYON (1 hot day); JAY (2 hot days),yes
+2023-01,RM17,31,14,8,6,0.57,9,0.88,60,30.3,46.0,-5.8,4,39.8,0.8,0.95,,0.0,0.0,6,"TAYLOR PARK (reads wet, 2 hot days, 1 rain flag); BEAR CREEK (1 rain flag); LUJAN (1 rain flag); NEEDLE CREEK (runs cold); Gunnison Co. (Awos) (runs cold); Monarch Pass (Cdot) (runs cold)",yes
+2023-01,RM18,31,16,11,5,0.31,11,,,36.7,55.0,-6.7,5,37.4,9.0,20.65,,4.6,21.88,2,CHEESMAN (2 cold days); RAMAH (1 cold day),yes
+2023-01,RM19,31,11,8,3,2.48,8,1.18,179,35.4,52.5,-6.8,2,56.9,2.7,6.67,,0.0,0.0,3,DEVIL MTN. (reads wet); BUCKLES (reads wet); Durango/La Plata Co (runs cold),yes
+2023-01,RM20,31,5,4,1,2.66,4,,,29.9,47.0,-15.7,1,48.7,0.9,1.24,,0.0,0.0,2,BLUE PARK (runs hot); BIG BEAR PARK (runs hot),yes
+2023-01,RM21,31,4,1,3,0.2,2,0.32,122,36.3,50.85,0.2,3,37.7,14.5,32.12,,9.9,32.72,0,,yes
+2023-01,RM22,31,6,5,1,0.38,5,,,36.1,52.5,,0,32.1,19.4,33.45,,10.6,31.43,2,BOSQUE (runs hot); La Veta Pass (Cdot) (runs cold),yes
+2023-01,RM23,31,25,9,16,0.17,21,0.47,83,26.0,39.0,-0.8,16,75.5,1.4,2.4,,0.0,0.0,7,"TATANKA PRAIRIE (1 hot day, 1 rain flag); MARSHALL CO (4 hot days); HURON (runs hot); Sisseton (2 hot days); Watertown (1 cold day); Mobridge (1 hot day); Madison (1 cold day)",yes
+2023-01,RM24,31,8,4,4,0.41,6,0.32,175,32.8,53.0,-5.3,3,65.7,8.4,17.5,,3.5,22.35,6,MONTROSE (1 cold day); PORCUPINE (2 hot days); KINGS CANYON (3 hot days); Chadron (reads wet); Pine Ridge (1 cold day); Rapid City (runs cold),yes
+2023-01,RM25,31,33,7,26,0.56,11,0.25,388,32.6,47.8,-9.5,22,63.5,4.6,12.4,,0.4,7.11,13,"GUERNSEY (reads wet); NORTH STERLING (2 hot days); SOUTH REPUBLICAN (1 hot day); Raymer (1 cold day); Alliance (reads dry, 1 cold day); Akron/Washington Co (1 hot day); Scottsbluff (1 cold day); Cheyenne/Warren Afb (reads wet); Denver Intnl Arpt (reads wet); Guernsey (1 cold day); Greeley/Weld (Awos) (runs cold); Holyoke (runs hot); Torrington Municipal Airport (reads dry)",yes
+2023-01,RM26,31,35,3,32,1.02,20,0.61,200,33.2,46.05,-1.5,32,69.3,8.2,16.65,,4.0,15.69,5,"Kearney Muni (1 hot day, 2 cold days); Holdrege/Brewstr (reads dry); Lincoln (1 hot day); Mccook (3 cold days); Valentine (reads wet, 1 cold day)",yes
+2023-01,RM27,31,36,7,29,0.39,18,0.29,221,42.3,62.6,-4.7,28,43.9,26.3,39.71,,16.3,41.75,7,ROCKY FORD (1 cold day); PINION CANYON (4 hot days); Fort Carson/Butts (2 rain flags); Springfield/Comanche Natl Grass (1 cold day); St Francis (2 cold days); Trinidad/Animas Co. (runs cold); Scott City (1 cold day),yes
+2023-01,RM28,31,47,5,42,1.15,25,0.74,151,45.1,60.5,2.5,41,52.8,17.1,25.01,,13.4,24.76,2,KIRWIN (1 cold day); Parsons (reads dry),yes
+2023-02,RM01,28,3,2,1,,0,,,30.4,44.6,-5.3,1,38.1,0.8,0.77,,0.0,0.0,2,EAGLE (reads dry); ELKHORN (reads dry),yes
+2023-02,RM02,28,17,10,7,0.1,12,0.17,6,33.0,44.8,-6.7,3,40.8,1.0,1.31,,0.0,0.0,10,RATTLESNAKE MTN. (runs hot); CRANDALL (reads dry); HYATT HIGH (runs hot); GRASS CREEK DIVIDE (runs hot); PISTOL DRAW (1 cold day); DRY CREEK (runs hot); Greybull/South Big Horn Cnty Apt (runs cold); Powell (runs cold); Cowley (runs cold); Worland Municipal (runs cold),yes
+2023-02,RM03,28,3,3,0,0.03,3,,,28.3,44.0,,0,39.6,0.8,0.76,,0.0,0.0,1,SCHOOL HOUSE (1 hot day),yes
+2023-02,RM04,28,13,5,8,0.22,7,0.37,115,36.6,51.8,-1.7,5,45.8,11.6,23.36,,8.4,23.11,8,"INDIAN BUTTE (runs cold, reads dry); BEAR LODGE (reads wet); DEVILS TOWER (2 cold days); Douglas/Converse County Airport (2 cold days); Newcastle (runs cold, 1 hot day); Ellsworth Afb (runs cold); Sheridan Co. Arpt (runs cold, reads wet); Hulett (1 cold day)",yes
+2023-02,RM05,28,8,7,1,0.3,7,,,40.6,59.5,2.8,1,32.9,14.0,26.76,,9.2,22.32,2,MT. RUSHMORE (1 hot day); WHITETAIL PEAK (1 hot day),yes
+2023-02,RM06,28,4,3,1,0.2,4,0.59,124,41.0,58.0,0.5,1,33.5,21.4,31.93,,16.7,29.88,0,,yes
+2023-02,RM07,28,9,3,6,0.12,4,0.37,73,24.7,33.9,-7.2,2,59.4,0.8,0.78,,0.0,0.0,7,"MUDDY CREEK (reads dry, 2 cold days); ANDERSON RIDGE (runs hot, 2 cold days); SNOW SPRINGS CREEK (2 cold days); Big Piney - Marbleton (runs cold); Kemmerer (1 cold day); Evanston/Burns Fld (runs cold, reads dry); Pinedale/Ralph Wenz Field (runs cold)",yes
+2023-02,RM08,28,11,6,5,0.19,9,0.46,150,28.0,39.0,-7.9,4,48.5,0.8,0.83,,0.0,0.0,7,"WIND RIVER (runs hot); SHARPNOSE (1 hot day); CASPER MOUNTAIN (1 hot day); Lander/Hunt Field (reads wet, 2 cold days); Riverton (runs cold); Rawlins Municipal (1 cold day, 1 rain flag); Saratoga (1 cold day)",yes
+2023-02,RM09,28,2,2,0,0.02,2,,,30.9,45.5,,0,40.9,6.6,14.3,,7.3,27.09,1,DODGE CREEK (runs cold),yes
+2023-02,RM10,28,9,6,3,0.39,8,1.17,26,28.9,40.0,-6.5,2,53.1,0.8,0.79,,0.0,0.0,3,SANDSTONE (runs hot); LODORE (runs hot); Craig - Moffat (runs cold),yes
+2023-02,RM11,28,15,10,5,0.47,9,,,30.3,44.0,,0,42.4,0.8,0.77,,0.0,0.0,6,"DRY LAKE (runs hot, reads wet); GUNSIGHT (runs cold, 1 hot day); Kremmling (runs cold); Walden (runs cold); Granby (runs cold); Steamboat Springs (runs cold)",yes
+2023-02,RM12,28,15,7,8,0.11,10,0.43,21,45.1,59.0,-1.6,7,27.0,12.9,23.39,,10.2,22.25,5,"REDSTONE (1 hot day); BUCKEYE (1 hot day); Broomfield/Jeffco (1 hot day, 1 cold day); Fort Collins (Awos) (runs cold); Longmont/Vbrand (1 cold day)",yes
+2023-02,RM13,28,8,7,1,0.35,7,,,38.2,56.0,-4.1,1,25.9,6.0,16.68,,3.8,17.83,2,REDFEATHER (runs hot); LOST PARK (1 hot day),yes
+2023-02,RM14,28,14,8,6,0.66,10,0.56,129,37.1,49.0,-4.9,2,40.7,0.8,0.96,,0.0,0.0,8,HUNTER CREEK (runs hot); PINE RIDGE (reads dry); ROAN PLATEAU (reads wet); Rangely (runs cold); Meeker (runs cold); Grand Junction (1 cold day); Montrose Co. Arpt (runs cold); Rifle/Garfield Rgnl (runs cold),yes
+2023-02,RM15,28,13,8,5,0.54,8,0.9,71,31.4,47.0,-8.4,4,38.2,0.8,0.77,,0.0,0.0,4,"STORM KING MOUNTAIN (1 hot day); GRAND MESA (reads dry, 1 hot day, 4 cold days); Berthoud Pass (runs cold); Eagle Co. Regional (1 cold day)",yes
+2023-02,RM16,28,9,7,2,0.97,7,,,37.7,50.0,-3.5,1,36.2,0.8,0.8,,0.0,0.0,2,JACKS CANYON (3 hot days); JAY (1 hot day),yes
+2023-02,RM17,28,14,8,6,0.53,7,0.91,69,34.3,47.5,-3.9,4,28.6,0.8,0.78,,0.0,0.0,5,"TAYLOR PARK (1 hot day); HUNTSMAN MESA (reads dry, 1 cold day); NEEDLE CREEK (runs cold, reads dry); Gunnison Co. (Awos) (runs cold); Monarch Pass (Cdot) (runs cold)",yes
+2023-02,RM18,28,16,11,5,0.23,11,,,43.2,55.5,-0.5,4,24.5,9.4,19.11,,8.8,26.41,2,POLHEMUS (1 hot day); Monument/Elbert (Cdot) (runs cold),yes
+2023-02,RM19,28,11,8,3,0.67,9,1.06,79,39.9,52.0,-8.2,2,39.9,0.9,1.14,,0.0,0.0,3,CHAPIN (reads wet); Cortez/Montezuma Co (4 cold days); Durango/La Plata Co (runs cold),yes
+2023-02,RM20,28,5,4,1,0.58,3,,,33.2,45.0,-17.2,1,37.6,0.8,0.79,,0.0,0.0,3,BLUE PARK (1 hot day); BIG BEAR PARK (runs hot); BIG HORN (reads dry),yes
+2023-02,RM21,28,4,1,3,0.19,2,0.28,136,39.6,52.5,-2.3,3,29.8,20.2,28.81,,18.2,34.23,0,,yes
+2023-02,RM22,28,6,5,1,0.37,5,,,40.9,53.0,,0,24.4,15.4,22.74,,12.7,26.29,2,SAND DUNES (1 hot day); La Veta Pass (Cdot) (runs cold),yes
+2023-02,RM23,28,25,9,16,0.45,21,0.65,115,30.1,43.0,-0.3,16,63.9,0.8,0.89,,0.0,0.0,5,TATANKA PRAIRIE (1 hot day); MARSHALL CO (3 hot days); HURON (1 hot day); Sisseton (1 hot day); Britton (1 hot day),yes
+2023-02,RM24,28,8,4,4,0.37,6,0.5,110,38.7,56.0,-4.0,2,46.2,13.8,23.71,,12.6,31.35,7,MONTROSE (1 cold day); PINNACLES (reads dry); PORCUPINE (runs hot); KINGS CANYON (1 hot day); Gordon (runs cold); Pine Ridge (2 cold days); Rapid City (runs cold),yes
+2023-02,RM25,28,33,7,26,0.04,16,0.36,8,38.4,51.0,-6.7,19,47.3,13.1,20.83,,13.6,29.9,12,"SOUTH REPUBLICAN (1 hot day); Gurley (1 cold day); Alliance (runs cold); Akron/Washington Co (2 hot days, 2 cold days); Colorado Air And Space (runs cold); Denver Intnl Arpt (2 cold days); Wheatland (2 hot days); Cheyenne Few (1 hot day); Grant (1 cold day); Greeley/Weld (Awos) (runs cold); Holyoke (runs hot); Wray (runs hot)",yes
+2023-02,RM26,28,35,3,32,0.62,22,0.71,97,40.2,57.5,1.4,31,54.0,13.4,20.63,,12.5,26.34,5,BESSEY (1 hot day); Broken Bow Muni (1 cold day); Mccook (1 cold day); Tekamah (2 cold days); Valentine (runs cold),yes
+2023-02,RM27,28,36,7,29,0.35,18,0.32,112,50.4,69.6,0.2,29,28.6,24.3,30.74,,21.0,34.74,6,CIMARRON (1 rain flag); UTE CANYON (1 hot day); Burlington (1 cold day); Pueblo Memorial(Aw) (1 cold day); Trinidad/Animas Co. (4 cold days); Scott City (2 cold days),yes
+2023-02,RM28,28,47,5,42,1.33,25,1.16,113,52.1,67.0,4.4,42,36.0,23.4,26.73,,22.2,34.68,6,"TALLGRASS PRAIRIE (1 rain flag); Wellington (1 rain flag); Iola (1 cold day); Lyons (1 cold day); Parsons (reads dry, 1 rain flag); Russell (1 cold day)",yes
+2023-03,RM01,31,3,2,1,,0,,,31.9,43.0,-11.5,1,36.3,0.8,0.76,,0.0,0.0,2,EAGLE (reads dry); ELKHORN (reads dry),yes
+2023-03,RM02,31,17,10,7,0.5,11,0.44,100,36.9,50.0,-14.2,7,43.3,0.8,0.82,,0.0,0.0,7,"RATTLESNAKE MTN. (reads wet, 2 hot days); CRANDALL (1 hot day); GRASS CREEK DIVIDE (1 hot day); PISTOL DRAW (2 hot days); SPLIT ROCK CREEK (1 hot day); DRY CREEK (reads dry, 1 hot day); Worland Municipal (1 cold day)",yes
+2023-03,RM03,31,3,3,0,0.66,3,,,28.4,43.0,,0,41.8,0.8,0.76,,0.0,0.0,1,BURGESS (1 hot day),yes
+2023-03,RM04,31,13,5,8,0.68,9,0.73,97,36.7,56.0,-12.0,7,50.1,15.8,26.11,,11.0,22.17,6,"INDIAN BUTTE (2 cold days); ECHETA (reads dry); DEVILS TOWER (2 hot days); Douglas/Converse County Airport (1 hot day, 1 cold day); Ellsworth Afb (runs cold); Sheridan Co. Arpt (3 cold days)",yes
+2023-03,RM05,31,8,7,1,0.96,7,,,37.0,60.4,-9.4,1,47.5,12.6,22.98,,7.2,22.22,0,,yes
+2023-03,RM06,31,4,3,1,1.46,4,0.91,264,38.4,60.0,-9.7,1,47.6,17.1,27.38,,10.2,26.3,0,,yes
+2023-03,RM07,31,9,3,6,0.33,3,0.58,48,27.6,38.0,-11.7,2,56.8,0.8,0.76,,0.0,0.0,6,"ANDERSON RIDGE (2 cold days); SNOW SPRINGS CREEK (reads dry, 3 cold days); Big Piney - Marbleton (runs cold, reads dry); Kemmerer (1 cold day); Evanston/Burns Fld (runs cold, reads dry); Pinedale/Ralph Wenz Field (runs cold)",yes
+2023-03,RM08,31,11,6,5,0.42,10,0.75,72,32.0,43.0,-14.9,5,47.8,0.8,0.77,,0.0,0.0,7,WIND RIVER (runs hot); SHARPNOSE (2 hot days); CASPER MOUNTAIN (1 hot day); FALES ROCK (1 cold day); Lander/Hunt Field (2 cold days); Riverton (3 cold days); Rawlins Municipal (1 cold day),yes
+2023-03,RM09,31,2,2,0,0.07,2,,,32.4,54.0,,0,44.5,8.9,17.81,,9.1,26.31,2,ESTERBROOK (2 rain flags); DODGE CREEK (runs cold),yes
+2023-03,RM10,31,9,6,3,1.09,6,1.19,105,33.7,45.5,-14.5,3,52.5,0.8,0.76,,0.0,0.0,3,COW CREEK (2 hot days); SANDSTONE (reads wet); GREAT DIVIDE (reads dry),yes
+2023-03,RM11,31,15,10,5,1.27,10,,,32.8,48.1,-8.7,3,43.5,0.8,0.76,,0.0,0.0,6,"INDEPENDENCE MOUNTAIN (1 hot day); GUNSIGHT (1 hot day); PORCUPINE CR. (1 hot day); DEEP CREEK (1 cold day, 1 rain flag); Kremmling (2 cold days); Walden (runs cold)",yes
+2023-03,RM12,31,15,7,8,0.29,10,1.04,24,46.3,67.0,-7.8,8,26.4,15.0,29.21,,8.5,25.18,2,Fort Collins (Awos) (1 cold day); Laramie/Gen. Brees (2 hot days),yes
+2023-03,RM13,31,8,7,1,0.82,7,,,37.2,51.0,-10.4,1,30.4,4.6,15.0,,1.8,17.82,1,LOST PARK (3 hot days),yes
+2023-03,RM14,31,14,8,6,2.04,12,0.78,215,41.0,52.0,-10.6,5,40.6,1.6,9.73,,0.9,14.64,2,Rangely (runs cold); Meeker (1 cold day),yes
+2023-03,RM15,31,13,8,5,1.46,8,1.03,172,34.0,47.0,-14.8,4,41.1,0.8,0.76,,0.0,0.0,6,"THE CROWN (2 hot days); STORM KING MOUNTAIN (runs cold); SODA CREEK (2 hot days); GRAND MESA (reads dry, 1 cold day); Berthoud Pass (runs cold); Sunlight (1 cold day)",yes
+2023-03,RM16,31,9,7,2,3.07,7,,,41.1,52.0,-8.3,1,36.1,0.8,0.76,,0.0,0.0,1,SILVER JACK (1 hot day),yes
+2023-03,RM17,31,14,8,6,1.15,9,1.02,129,35.9,48.2,-9.6,4,30.1,0.8,0.76,,0.0,0.0,4,"TAYLOR PARK (runs hot); NEEDLE CREEK (1 hot day, 1 cold day); Gunnison Co. (Awos) (runs cold); Monarch Pass (Cdot) (runs cold)",yes
+2023-03,RM18,31,16,11,5,0.27,10,,,44.6,61.3,-6.1,5,24.4,22.7,31.11,,20.5,35.22,2,CHEESMAN (reads dry); Wilkerson Pass (1 cold day),yes
+2023-03,RM19,31,11,8,3,3.58,10,0.85,369,42.3,55.0,-12.2,3,40.8,0.8,0.8,,0.0,0.0,2,CHAPIN (1 hot day); Durango/La Plata Co (1 cold day),yes
+2023-03,RM20,31,5,4,1,1.76,4,,,34.4,45.0,-25.7,1,39.4,0.8,0.77,,0.0,0.0,1,"BIG BEAR PARK (1 hot day, 1 rain flag)",yes
+2023-03,RM21,31,4,1,3,0.18,2,0.51,73,45.6,56.7,-7.0,3,25.2,26.5,34.08,,27.3,44.79,1,Saguache Muni (1 cold day),yes
+2023-03,RM22,31,6,5,1,0.48,5,,,42.8,57.0,,0,25.8,23.3,30.76,,20.1,33.31,1,La Veta Pass (Cdot) (runs cold),yes
+2023-03,RM23,31,25,9,16,0.34,20,0.98,118,30.6,40.6,-11.3,16,69.8,0.9,1.1,,0.0,0.0,4,TATANKA PRAIRIE (reads dry); MARSHALL CO (1 hot day); HURON (1 hot day); Watertown (1 hot day),yes
+2023-03,RM24,31,8,4,4,0.77,7,0.81,119,39.8,62.1,-9.3,3,50.6,15.1,22.76,,13.1,28.13,2,PORCUPINE (1 hot day); Rapid City (runs cold),yes
+2023-03,RM25,31,33,7,26,0.42,16,0.79,58,45.0,69.0,-9.3,25,36.3,23.9,31.74,,22.2,37.7,7,Raymer (1 cold day); Yuma (runs cold); Akron/Washington Co (1 hot day); Wheatland (3 hot days); Grant (1 cold day); Greeley/Weld (Awos) (1 cold day); Sidney (1 cold day),yes
+2023-03,RM26,31,35,3,32,0.56,22,1.44,40,46.4,73.0,-5.3,32,47.5,21.5,28.16,,18.5,33.11,2,Mccook (1 cold day); Tekamah (1 cold day),yes
+2023-03,RM27,31,36,7,29,0.11,18,0.81,12,54.7,78.0,-4.9,29,25.0,34.1,42.62,,30.7,47.14,2,Syracuse (1 cold day); Scott City (1 cold day),yes
+2023-03,RM28,31,47,5,42,0.57,26,2.13,23,55.4,76.0,-2.8,42,40.2,23.7,29.58,,23.2,37.34,5,STATE LINE (1 hot day); Iola (1 cold day); Pratt (1 hot day); Russell (1 cold day); Winfield (1 hot day),yes
+2023-04,RM01,30,3,2,1,0.47,2,,,43.9,66.0,-4.5,1,31.4,3.5,13.25,,3.3,12.09,0,,yes
+2023-04,RM02,30,17,10,7,0.3,13,0.98,5,51.9,73.0,-4.2,5,29.5,14.4,34.42,,13.7,28.43,3,DRY CREEK (1 cold day); Greybull/South Big Horn Cnty Apt (runs hot); Boysen Peak (runs cold),yes
+2023-04,RM03,30,3,3,0,0.48,2,,,38.6,61.0,,0,40.7,0.8,0.76,,0.0,0.0,1,BURGESS (reads dry),yes
+2023-04,RM04,30,13,5,8,0.72,9,1.6,45,53.0,79.0,-3.0,8,33.0,26.6,36.58,,23.3,37.06,5,"INDIAN BUTTE (reads dry, 1 cold day); Douglas/Converse County Airport (1 hot day, 1 cold day); Newcastle (1 cold day); Ellsworth Afb (1 cold day); Sheridan Co. Arpt (2 cold days)",yes
+2023-04,RM05,30,8,7,1,1.06,7,,,51.7,80.5,-3.1,1,32.0,22.5,36.23,,15.6,26.83,3,MT. RUSHMORE (1 hot day); RAPID CITY WEST (1 cold day); CUSTER (1 hot day),yes
+2023-04,RM06,30,4,3,1,0.83,4,2.42,41,54.2,81.5,-1.8,1,30.2,26.1,37.7,,19.6,34.72,0,,yes
+2023-04,RM07,30,9,3,6,0.45,5,0.95,63,40.6,66.0,-9.1,2,46.8,1.3,16.29,,0.6,17.42,5,"ANDERSON RIDGE (runs cold); SNOW SPRINGS CREEK (runs cold); Big Piney - Marbleton (runs cold, reads dry); Evanston/Burns Fld (runs cold); Pinedale/Ralph Wenz Field (runs cold)",yes
+2023-04,RM08,30,11,6,5,1.01,9,1.26,135,46.8,68.0,-6.0,5,36.3,9.0,24.34,,8.8,29.57,3,SHARPNOSE (1 hot day); CASPER MOUNTAIN (2 hot days); Lander/Hunt Field (reads wet),yes
+2023-04,RM09,30,2,2,0,0.49,1,,,45.2,68.0,,0,36.5,19.0,27.23,,16.9,37.14,2,"ESTERBROOK (reads dry, 1 cold day); DODGE CREEK (4 cold days)",yes
+2023-04,RM10,30,9,6,3,0.7,5,1.67,50,48.0,69.4,-10.1,3,36.4,8.7,26.99,,8.5,30.18,3,"COW CREEK (reads dry, 2 cold days); DINOSAUR NM SUCCESS (reads wet); Hayden/Yampa (Awos) (1 cold day)",yes
+2023-04,RM11,30,15,10,5,1.39,9,,,44.9,60.4,-4.5,4,33.3,0.8,0.76,,0.0,0.0,6,GUNSIGHT (reads dry); DEAD HORSE (runs cold); DEEP CREEK (3 cold days); Kremmling (1 cold day); Walden (2 cold days); Steamboat Springs (1 cold day),yes
+2023-04,RM12,30,15,7,8,1.06,9,1.94,38,59.6,82.0,-0.8,8,22.4,20.7,34.97,,14.3,32.95,1,BUCKEYE (reads dry),yes
+2023-04,RM13,30,8,7,1,1.4,7,,,48.8,67.5,,0,27.2,14.6,27.06,,10.1,27.45,2,LOST PARK (1 hot day); Dakota Hills (runs cold),yes
+2023-04,RM14,30,14,8,6,1.08,12,0.99,112,55.5,74.5,-3.9,6,27.4,20.6,35.53,,18.3,38.41,0,,yes
+2023-04,RM15,30,13,8,5,0.98,7,1.8,75,46.7,64.0,-5.7,3,30.2,1.5,10.31,,0.9,10.22,4,"STORM KING MOUNTAIN (runs cold, reads dry); GRAND MESA (runs hot, reads wet); Berthoud Pass (runs cold); Sunlight (runs cold)",yes
+2023-04,RM16,30,9,7,2,0.91,6,,,53.1,70.0,-5.4,1,24.9,13.6,32.74,,10.0,25.95,1,SILVER JACK (reads wet),yes
+2023-04,RM17,30,14,8,6,0.89,9,1.36,101,47.2,63.5,-4.1,4,24.1,3.4,20.72,,2.6,24.42,6,TAYLOR PARK (1 hot day); LUJAN (1 hot day); NEEDLE CREEK (1 cold day); Salida (1 hot day); Gunnison Co. (Awos) (runs cold); Monarch Pass (Cdot) (runs cold),yes
+2023-04,RM18,30,16,11,5,1.15,11,,,56.4,77.0,-1.1,5,20.2,27.7,37.8,,21.0,42.64,2,KENOSHA PASS (1 hot day); CHEESMAN (1 cold day),yes
+2023-04,RM19,30,11,8,3,0.27,10,0.91,17,58.1,75.0,-3.4,3,18.8,21.9,43.02,,18.3,33.12,1,Pagosa Springs (1 cold day),yes
+2023-04,RM20,30,5,4,1,0.31,4,,,45.0,61.0,-21.6,1,22.6,3.0,21.54,,2.5,22.57,0,,yes
+2023-04,RM21,30,4,1,3,0.07,2,0.57,25,58.2,72.8,-2.2,3,15.1,42.5,47.49,,38.9,59.0,0,,yes
+2023-04,RM22,30,6,5,1,1.22,4,,,54.0,72.0,,0,19.1,35.8,44.33,,26.6,43.53,2,SAND DUNES (reads dry); La Veta Pass (Cdot) (runs cold),yes
+2023-04,RM23,30,25,9,16,0.62,21,2.08,48,53.4,86.0,-3.2,16,40.5,16.8,29.26,,18.8,39.59,4,MARSHALL CO (2 hot days); HURON (2 cold days); Milbank (1 cold day); Sioux Falls (1 hot day),yes
+2023-04,RM24,30,8,4,4,0.79,4,2.02,39,56.1,85.5,-1.0,4,32.4,26.9,37.78,,26.5,44.93,5,"MONTROSE (reads dry, 1 cold day); PINNACLES (reads dry); Chadron (1 cold day); Gordon (1 hot day); Pine Ridge (reads dry)",yes
+2023-04,RM25,30,33,7,26,0.54,16,1.72,31,61.1,86.0,-0.1,25,24.8,30.6,38.81,,28.6,44.71,3,GUERNSEY (1 hot day); Cheyenne Few (4 cold days); Torrington Municipal Airport (runs hot),yes
+2023-04,RM26,30,35,3,32,0.53,21,2.74,21,64.3,88.3,2.7,32,27.4,32.6,42.01,,30.6,43.18,3,Beatrice Municip (1 hot day); Grand Island (reads dry); Lincoln (1 rain flag),yes
+2023-04,RM27,30,36,7,29,1.7,18,1.45,81,67.5,89.9,1.1,29,19.0,42.4,52.73,,34.9,56.2,4,"Syracuse (1 cold day); Burlington (2 hot days); Springfield/Comanche Natl Grass (1 hot day, 1 cold day); Scott City (1 cold day)",yes
+2023-04,RM28,30,47,5,42,1.16,26,3.13,35,71.0,86.0,3.0,42,27.5,32.5,39.29,,30.6,40.78,4,POTAWATOMI (1 cold day); Topeka (Foe) (1 rain flag); Hill_City (1 cold day); Russell (1 cold day),yes
 2026-11,RM01,10,3,2,1,0.0,2,,,53.0,64.0,10.7,1,23.1,31.2,34.34,,28.3,32.55,0,,10 of 30 days
 2026-11,RM02,10,17,10,7,0.0,13,0.13,,59.8,63.0,12.9,6,25.1,36.4,38.06,,28.3,35.49,1,Powell (runs cold),10 of 30 days
 2026-11,RM03,10,3,3,0,0.01,3,,,52.5,60.0,,0,23.0,26.4,30.57,,27.4,31.94,0,,10 of 30 days

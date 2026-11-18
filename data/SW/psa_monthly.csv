@@ -1,4 +1,64 @@
 month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,precip_pct_normal,max_temp_mean_f,max_temp_f,temp_anom_f,temp_anom_stations,min_rh_mean,erc_mean,erc_max,erc_90_days,bi_mean,bi_max,flagged_stations,flag_list,complete
+2023-01,SW01,31,7,6,1,2.61,7,1.19,180,35.6,53.0,-8.4,1,61.5,1.1,1.58,,0.0,0.0,4,"DRY PARK (1 hot day, 1 rain flag); WARM SPRINGS CANYON (1 rain flag); LINDBERGH HILL (2 hot days); Grand Canyon Park (2 cold days, 1 rain flag)",yes
+2023-01,SW02,31,19,13,6,4.04,14,1.09,244,50.5,64.0,-5.6,6,41.3,19.0,29.19,,15.8,26.09,2,HAVASU (reads dry); CROWN KING (1 hot day),yes
+2023-01,SW03,31,12,7,5,0.42,8,0.39,67,65.2,72.5,-4.9,5,28.7,30.9,40.56,,23.5,35.36,1,SENATOR WASH (reads wet),yes
+2023-01,SW04,31,10,6,4,1.7,9,0.81,149,40.1,53.5,-3.8,4,49.6,3.6,8.52,,0.0,0.0,3,"WASHINGTON PASS (2 hot days); Gallup Muni/Clarke (1 hot day, 4 cold days); Winslow (Aut) (reads dry, 2 hot days, 2 cold days)",yes
+2023-01,SW05,31,15,10,5,2.74,11,1.67,243,41.7,57.0,-6.9,5,48.5,3.8,14.86,,1.1,15.5,7,"MORMON LAKE (2 cold days); OAK CREEK (reads wet); PROMONTORY (1 rain flag); RED LAKE (1 rain flag); Williams (2 cold days); Show Low Municipal (1 rain flag); Taylor (1 cold day, 1 rain flag)",yes
+2023-01,SW06N,31,22,10,12,2.41,13,1.11,99,60.1,73.7,-6.6,12,36.0,18.5,27.69,,14.5,23.77,3,PLEASANT VALLEY (1 rain flag); PINE (1 rain flag); Deer Valley/Phoenix (reads dry),yes
+2023-01,SW06S,31,27,17,10,2.8,21,0.84,168,56.8,69.0,-3.3,10,26.7,25.6,35.63,,19.9,27.41,4,HOPKINS (1 rain flag); RUCKER (1 rain flag); Douglas Bisbee Intl (reads dry); Pinal Airpark (1 cold day),yes
+2023-01,SW07,31,18,16,2,0.96,16,,,39.5,55.5,-3.9,2,41.0,6.6,12.45,,1.8,9.96,3,COYOTE (1 hot day); TOWER (1 rain flag); BRUSHY MOUNTAIN (1 rain flag),yes
+2023-01,SW08,31,19,16,3,1.38,13,,,44.3,58.1,-3.3,2,33.1,11.5,24.29,,5.7,23.39,8,"ALPINE (1 hot day); RESERVE (1 rain flag); SLAUGHTER (3 cold days, 1 rain flag); GILA CENTER RAWS (reads wet); MOGOLLON (reads wet); BURRO MOUNTAIN (reads wet); Springerville (2 hot days); Silver City/Grant (reads dry)",yes
+2023-01,SW09,31,17,6,11,0.43,8,0.46,90,53.0,64.0,-1.0,10,26.0,35.1,40.14,,26.3,40.23,3,BOSQUE (reads dry); SAN ANDRES (reads wet); Alamogordo-White (reads dry),yes
+2023-01,SW10,31,9,5,4,0.79,7,0.41,156,39.4,56.0,-1.7,3,33.6,8.8,23.91,,3.9,23.54,4,"BARTLEY (runs hot); PECOS (3 hot days); Angel Fire (runs cold); Las Vegas Municipal (reads dry, 1 hot day)",yes
+2023-01,SW11,31,6,4,2,0.51,4,0.61,136,43.9,56.5,-0.3,2,33.3,22.3,32.97,,15.1,31.59,2,OAK FLATS (reads wet); SANDIA LAB (1 rain flag),yes
+2023-01,SW12,31,12,11,1,0.38,9,,,50.6,64.0,-4.0,1,25.2,34.3,43.1,,25.5,45.03,8,"SMOKEY BEAR (reads wet, 1 hot day); DUNKEN (2 cold days); MAYHILL (1 hot day, 1 rain flag); MESCAL (reads wet); COSMIC (1 hot day); PINERY (1 cold day); THE BOWL (1 hot day); Ruidoso Regional (reads dry)",yes
+2023-01,SW13,31,8,2,6,0.19,5,0.4,48,51.8,69.3,-2.2,6,30.7,37.3,45.29,,30.0,56.8,0,,yes
+2023-01,SW14N,31,8,4,4,0.42,8,0.42,114,58.1,74.2,1.3,4,27.6,37.9,45.22,,31.6,50.86,3,BATDRAW (1 rain flag); PADUCA (1 rain flag); Roswell/Industrial (1 hot day),yes
+2023-02,SW01,28,7,6,1,1.1,4,1.21,70,39.4,52.5,-7.1,1,40.1,0.8,0.82,,0.0,0.0,6,"TUSAYAN (1 cold day); DRY PARK (reads dry, 1 hot day); FRAZIER WELLS (reads dry); WARM SPRINGS CANYON (reads wet); LINDBERGH HILL (2 hot days); Grand Canyon Park (3 cold days)",yes
+2023-02,SW02,28,19,13,6,0.97,15,1.16,54,54.4,66.0,-4.7,6,26.8,30.6,40.7,,24.5,34.17,0,,yes
+2023-02,SW03,28,12,7,5,0.29,9,0.38,26,68.1,75.85,-5.5,5,21.5,39.6,47.16,,29.8,39.59,0,,yes
+2023-02,SW04,28,10,6,4,0.5,9,0.68,69,44.0,56.5,-5.3,4,35.6,1.0,1.33,,0.0,0.0,3,"PINEY HILL (1 hot day); WASHINGTON PASS (reads dry, 4 hot days); Winslow (Aut) (1 hot day)",yes
+2023-02,SW05,28,15,10,5,1.29,11,1.67,140,43.5,59.0,-7.7,5,38.3,5.6,17.09,,2.7,16.21,5,"MORMON LAKE (1 cold day); HAPPY JACK (reads dry, 2 cold days); SHADOW RIM (1 hot day); Show Low Municipal (1 hot day); Taylor (2 rain flags)",yes
+2023-02,SW06N,28,22,10,12,1.6,12,1.24,31,64.3,75.2,-5.6,12,25.8,30.2,39.29,,22.1,31.45,3,PLEASANT VALLEY (1 rain flag); GOLDFIELD (reads wet); Deer Valley/Phoenix (reads dry),yes
+2023-02,SW06S,28,27,17,10,1.03,18,0.84,90,58.4,74.0,-4.2,9,24.5,31.9,44.47,,22.8,34.98,5,"NOON CREEK (1 hot day); HOPKINS (reads wet, 1 hot day); CARR (reads wet); Douglas Bisbee Intl (reads dry); Safford Municipal (reads dry)",yes
+2023-02,SW07,28,18,16,2,0.53,16,,,43.5,55.1,-4.7,2,32.4,6.6,16.9,,4.7,18.58,0,,yes
+2023-02,SW08,28,19,16,3,0.94,14,0.91,36,46.2,59.0,-4.6,2,30.3,16.9,25.04,,11.7,22.54,7,MOUNTAIN LION (1 hot day); ALPINE (reads dry); GREER (reads dry); SLAUGHTER (2 cold days); PELONA MOUNTAIN (reads dry); Springerville (2 cold days); Silver City/Grant (1 hot day),yes
+2023-02,SW09,28,17,6,11,0.32,11,0.43,74,56.6,68.9,-3.2,10,20.8,38.2,42.25,,30.5,43.39,1,Belen (1 cold day),yes
+2023-02,SW10,28,9,5,4,0.77,7,0.33,177,43.0,54.0,-1.3,3,30.3,3.3,13.22,,1.4,16.66,5,"CIMARRON (2 hot days); BARTLEY (runs hot); Angel Fire (runs cold); Las Vegas Municipal (reads dry, 1 hot day); Raton/Crews Fld (1 cold day)",yes
+2023-02,SW11,28,6,4,2,0.52,5,0.57,123,48.0,61.0,-1.9,2,27.5,21.4,32.13,,17.6,36.64,1,SANDIA LAB (1 rain flag),yes
+2023-02,SW12,28,12,11,1,0.4,8,0.51,10,53.0,67.5,-5.9,1,23.4,35.7,43.1,,30.5,51.37,5,"SMOKEY BEAR (reads wet, 2 hot days); MAYHILL (1 hot day); PINERY (reads wet); PX WELL (reads dry); DOG CANYON (reads wet)",yes
+2023-02,SW13,28,8,2,6,0.09,5,0.36,25,56.7,74.5,-1.2,6,23.1,35.7,41.97,,33.7,55.13,0,,yes
+2023-02,SW14N,28,8,4,4,0.06,8,0.4,11,60.8,79.8,-1.4,4,22.5,38.8,44.84,,36.7,61.31,1,Carlsbad/Cavern Cty (1 cold day),yes
+2023-03,SW01,31,7,6,1,4.69,5,1.2,318,41.4,53.0,-9.8,1,47.6,0.8,0.77,,0.0,0.0,3,"TUSAYAN (1 hot day); DRY PARK (runs cold, reads dry); LINDBERGH HILL (reads dry, 2 cold days)",yes
+2023-03,SW02,31,19,13,6,3.84,14,0.77,332,56.5,65.0,-9.1,6,31.9,22.9,29.57,,20.3,31.9,5,HAVASU (reads dry); TRUXTON CANYON (1 cold day); CROWN KING (1 hot day); Kingman (1 cold day); Luke Afb/Phoenix (1 rain flag),yes
+2023-03,SW03,31,12,7,5,0.49,9,0.39,100,73.4,82.0,-7.1,5,22.1,39.0,47.91,,28.4,39.87,0,,yes
+2023-03,SW04,31,10,6,4,2.02,7,0.62,239,48.2,62.0,-9.1,3,35.4,5.7,14.1,,4.6,19.67,3,"PINEY HILL (reads dry, 1 rain flag); WASHINGTON PASS (reads dry, 2 cold days, 1 rain flag); Winslow (Aut) (runs hot, reads dry)",yes
+2023-03,SW05,31,15,10,5,5.53,12,1.4,325,48.4,59.0,-9.5,5,37.9,8.9,19.71,,6.2,15.63,4,"FLAGSTAFF (1 hot day, 1 rain flag); Flagstaff - Pulliam (1 cold day); Show Low Municipal (1 cold day); Taylor (1 rain flag)",yes
+2023-03,SW06N,31,22,10,12,2.5,14,1.1,137,68.7,80.3,-8.5,12,26.7,23.4,30.2,,19.7,30.04,3,Casa Granda (Awos) (1 cold day); Chandler Municipal Airport (1 hot day); Payson (1 cold day),yes
+2023-03,SW06S,31,27,17,10,0.66,21,0.59,87,65.0,75.0,-4.5,9,22.5,33.0,40.47,,26.1,36.34,4,DRY LAKE (1 cold day); HOPKINS (1 cold day); Douglas Bisbee Intl (reads dry); Nogales Intl Airport (1 cold day),yes
+2023-03,SW07,31,18,16,2,1.83,15,,,46.5,60.5,-8.5,2,34.5,17.2,25.14,,13.6,29.74,1,LAGUNA (reads dry),yes
+2023-03,SW08,31,19,16,3,1.18,17,0.48,17,51.9,62.5,-5.7,2,28.4,25.9,33.75,,20.4,32.02,0,,yes
+2023-03,SW09,31,17,6,11,0.23,11,0.3,37,64.3,77.3,-3.8,10,17.8,43.8,49.77,,35.6,56.98,1,Belen (2 cold days),yes
+2023-03,SW10,31,9,5,4,1.9,6,0.66,171,45.4,58.0,-5.0,3,32.2,9.5,21.16,,6.3,24.42,5,"TRUCHAS (1 hot day); BARTLEY (runs hot); Angel Fire (runs cold); Las Vegas Municipal (reads dry, 1 hot day, 1 cold day); Raton/Crews Fld (reads dry)",yes
+2023-03,SW11,31,6,4,2,1.09,5,0.77,142,52.8,64.5,-5.0,2,26.8,29.7,37.89,,25.2,44.35,2,SANDIA LAB (1 rain flag); MOUNTAINAIR (1 rain flag),yes
+2023-03,SW12,31,12,11,1,0.05,11,0.59,8,59.5,70.0,-7.2,1,18.2,42.7,49.71,,36.2,51.74,3,SMOKEY BEAR (reads wet); MCGREGGOR RANGE (1 cold day); PX WELL (1 hot day),yes
+2023-03,SW13,31,8,2,6,0.07,5,0.91,15,62.8,78.0,-3.5,6,19.7,42.0,47.7,,40.0,61.31,0,,yes
+2023-03,SW14N,31,8,4,4,0.0,8,0.54,0,70.2,82.7,0.4,4,14.9,44.5,50.99,,42.3,57.89,1,Carlsbad/Cavern Cty (1 cold day),yes
+2023-04,SW01,30,7,6,1,0.03,7,0.69,4,58.1,75.0,1.4,1,19.0,16.1,40.95,,12.1,28.41,2,"DRY PARK (runs cold, 1 hot day); LINDBERGH HILL (runs cold, 1 hot day)",yes
+2023-04,SW02,30,19,13,6,0.0,15,0.46,0,73.6,90.0,-0.3,6,12.3,47.1,61.87,,36.2,44.76,0,,yes
+2023-04,SW03,30,12,7,5,0.0,9,0.14,0,87.7,102.0,0.6,5,9.7,58.7,68.95,,39.0,51.15,0,,yes
+2023-04,SW04,30,10,6,4,0.02,10,0.46,4,63.9,79.5,-0.7,3,13.8,36.3,50.61,,28.0,38.73,2,WASHINGTON PASS (2 rain flags); Winslow (Aut) (runs hot),yes
+2023-04,SW05,30,15,10,5,0.01,12,0.73,2,64.5,79.0,0.3,5,14.8,34.9,47.73,,25.7,33.52,1,Show Low Municipal (1 hot day),yes
+2023-04,SW06N,30,22,10,12,0.0,13,0.34,0,84.5,98.6,0.1,12,10.1,48.1,60.8,,34.0,41.2,1,TONTO BASIN (reads wet),yes
+2023-04,SW06S,30,27,17,10,0.0,22,0.2,0,77.9,90.5,1.9,9,8.9,54.2,62.18,,38.3,43.44,1,Tucson/Ryan Fld (3 cold days),yes
+2023-04,SW07,30,18,16,2,0.06,16,,,60.8,75.0,-1.7,2,14.6,40.3,50.47,,30.4,43.97,0,,yes
+2023-04,SW08,30,19,16,3,0.0,17,0.32,0,65.6,78.9,0.2,2,12.2,46.5,54.45,,33.0,41.59,1,Springerville (1 cold day),yes
+2023-04,SW09,30,17,6,11,0.0,11,0.27,0,75.8,88.35,0.3,10,9.1,58.2,62.98,,43.6,61.06,1,Holloman Afb (1 cold day),yes
+2023-04,SW10,30,9,5,4,0.31,7,0.6,20,57.7,72.0,-0.7,4,16.3,34.4,42.51,,25.2,34.43,3,BARTLEY (1 hot day); Las Vegas Municipal (1 cold day); Raton/Crews Fld (reads dry),yes
+2023-04,SW11,30,6,4,2,0.05,5,0.55,27,65.6,79.8,-0.8,2,12.4,48.9,54.73,,37.6,56.42,1,SANDIA LAB (2 rain flags),yes
+2023-04,SW12,30,12,11,1,0.0,12,0.36,0,68.0,80.5,-5.4,1,12.4,51.9,56.6,,41.9,64.69,2,MAYHILL (1 cold day); PX WELL (4 hot days),yes
+2023-04,SW13,30,8,2,6,0.37,5,0.9,41,71.8,85.0,-2.0,6,14.2,50.8,55.7,,45.1,69.31,0,,yes
+2023-04,SW14N,30,8,4,4,0.0,8,0.54,7,77.6,94.0,-0.9,4,12.4,51.2,57.05,,45.4,76.43,0,,yes
 2026-11,SW01,10,7,6,1,1.11,5,,,52.6,60.0,1.6,1,39.3,18.6,23.61,,12.9,17.07,3,"FRAZIER WELLS (reads dry); LINDBERGH HILL (1 hot day); Grand Canyon Park (reads dry, 1 rain flag)",10 of 30 days
 2026-11,SW02,10,19,13,6,0.83,15,0.2,,67.2,73.0,0.1,6,35.9,26.9,32.16,,20.1,24.46,0,,10 of 30 days
 2026-11,SW03,10,12,7,5,0.07,8,0.07,,80.8,85.0,1.3,5,30.0,27.1,30.9,,20.5,22.35,0,,10 of 30 days

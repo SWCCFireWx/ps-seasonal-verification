@@ -1,4 +1,872 @@
 date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
+2023-01-01,392603,MT. RUSHMORE,RAWS,RM05,hot,47.0,8,38.1,max temp much warmer than neighbors
+2023-01-01,480212,RATTLESNAKE MTN.,RAWS,RM02,rain_alone,1.69,7,0.03,rain no neighbor saw
+2023-01-01,480306,MILL CREEK,RAWS,RM03,bad_rain,12.63,0,,impossible rain total
+2023-01-01,50507,ESTES PARK,RAWS,RM13,hot,48.0,8,32.6,max temp much warmer than neighbors
+2023-01-01,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,38.3,max temp much colder than neighbors
+2023-01-01,52812,TAYLOR PARK,RAWS,RM17,wet,6.96,8,0.11,far more rain than any neighbor
+2023-01-01,54702,LUJAN,RAWS,RM17,bad_rain,16.61,0,,impossible rain total
+2023-01-01,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,missed,0.0,4,5.71,no rain while most neighbors got rain
+2023-01-01,ASOS-EAR,Kearney Muni,ASOS,RM26,cold,33.0,4,44.1,max temp much colder than neighbors
+2023-01-02,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,28.1,max temp much colder than neighbors
+2023-01-02,ASOS-FCS,Fort Carson/Butts,ASOS,RM27,wet,1.2,8,0.1,far more rain than any neighbor
+2023-01-02,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,14.0,7,24.3,max temp much colder than neighbors
+2023-01-03,328501,TATANKA PRAIRIE,RAWS,RM23,rain_alone,1.0,4,0.0,rain no neighbor saw
+2023-01-03,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,32.6,max temp much colder than neighbors
+2023-01-03,51407,DRAGON ROAD,RAWS,RM14,hot,40.0,8,30.5,max temp much warmer than neighbors
+2023-01-03,ASOS-HDN,Hayden/Yampa (Awos),ASOS,RM10,hot,33.8,8,25.1,max temp much warmer than neighbors
+2023-01-04,481411,WIND RIVER,RAWS,RM08,hot,26.0,4,14.1,max temp much warmer than neighbors
+2023-01-04,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,32.1,max temp much colder than neighbors
+2023-01-04,50604,SUGARLOAF,RAWS,RM12,hot,39.0,8,30.7,max temp much warmer than neighbors
+2023-01-04,52704,JAY,RAWS,RM16,hot,47.0,8,35.1,max temp much warmer than neighbors
+2023-01-04,ASOS-4V0,Rangely,ASOS,RM14,cold,18.1,8,37.6,max temp much colder than neighbors
+2023-01-04,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,5.0,6,24.9,max temp much colder than neighbors
+2023-01-04,ASOS-WRL,Worland Municipal,ASOS,RM02,cold,19.9,6,36.0,max temp much colder than neighbors
+2023-01-05,481903,ANDERSON RIDGE,RAWS,RM07,hot,25.0,3,4.0,max temp much warmer than neighbors
+2023-01-05,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,37.3,max temp much colder than neighbors
+2023-01-05,55305,BLUE PARK,RAWS,RM20,hot,42.0,8,24.4,max temp much warmer than neighbors
+2023-01-05,55522299,KINGS CANYON,RAWS,RM24,hot,43.0,6,26.9,max temp much warmer than neighbors
+2023-01-05,ASOS-20V,Kremmling,ASOS,RM11,cold,21.2,8,38.1,max temp much colder than neighbors
+2023-01-05,ASOS-AKO,Akron/Washington Co,ASOS,RM25,hot,30.9,4,21.2,max temp much warmer than neighbors
+2023-01-05,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,cold,19.9,3,34.8,max temp much colder than neighbors
+2023-01-05,ASOS-EGE,Eagle Co. Regional,ASOS,RM15,cold,33.0,8,41.2,max temp much colder than neighbors
+2023-01-05,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,12.0,8,34.8,max temp much colder than neighbors
+2023-01-05,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,19.4,7,31.7,max temp much colder than neighbors
+2023-01-05,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,27.0,3,38.2,max temp much colder than neighbors
+2023-01-05,ASOS-SYF,St Francis,ASOS,RM27,cold,30.9,6,39.3,max temp much colder than neighbors
+2023-01-05,ASOS-VTN,Valentine,ASOS,RM26,cold,23.0,4,33.9,max temp much colder than neighbors
+2023-01-06,393101,HURON,RAWS,RM23,hot,19.0,3,7.8,max temp much warmer than neighbors
+2023-01-06,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,39.8,max temp much colder than neighbors
+2023-01-06,ASOS-20V,Kremmling,ASOS,RM11,cold,26.6,8,35.5,max temp much colder than neighbors
+2023-01-06,ASOS-4V0,Rangely,ASOS,RM14,cold,27.5,8,40.8,max temp much colder than neighbors
+2023-01-06,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,23.0,8,36.3,max temp much colder than neighbors
+2023-01-06,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,14.0,7,24.3,max temp much colder than neighbors
+2023-01-07,390701,MARSHALL CO,RAWS,RM23,hot,17.0,6,8.4,max temp much warmer than neighbors
+2023-01-07,393101,HURON,RAWS,RM23,hot,25.0,3,5.9,max temp much warmer than neighbors
+2023-01-07,481903,ANDERSON RIDGE,RAWS,RM07,hot,22.0,3,9.0,max temp much warmer than neighbors
+2023-01-07,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,41.1,max temp much colder than neighbors
+2023-01-07,55807,BIG BEAR PARK,RAWS,RM20,hot,43.0,8,33.2,max temp much warmer than neighbors
+2023-01-07,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,10.4,8,20.0,max temp much colder than neighbors
+2023-01-07,ASOS-8D3,Sisseton,ASOS,RM23,hot,26.1,7,10.9,max temp much warmer than neighbors
+2023-01-07,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,37.0,8,46.1,max temp much colder than neighbors
+2023-01-07,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,21.9,8,40.0,max temp much colder than neighbors
+2023-01-07,ASOS-HEQ,Holyoke,ASOS,RM25,hot,44.6,5,30.1,max temp much warmer than neighbors
+2023-01-07,ASOS-MDS,Madison,ASOS,RM23,cold,12.2,3,20.8,max temp much colder than neighbors
+2023-01-07,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,15.8,7,25.8,max temp much colder than neighbors
+2023-01-08,250103,MONTROSE,RAWS,RM24,cold,43.0,5,51.2,max temp much colder than neighbors
+2023-01-08,390701,MARSHALL CO,RAWS,RM23,hot,25.0,6,14.6,max temp much warmer than neighbors
+2023-01-08,393101,HURON,RAWS,RM23,hot,31.0,3,17.9,max temp much warmer than neighbors
+2023-01-08,481903,ANDERSON RIDGE,RAWS,RM07,hot,23.0,3,14.0,max temp much warmer than neighbors
+2023-01-08,50510,BUCKEYE,RAWS,RM12,cold,-5.0,8,48.1,max temp much colder than neighbors
+2023-01-08,51508,STORM KING MOUNTAIN,RAWS,RM15,hot,41.0,8,32.5,max temp much warmer than neighbors
+2023-01-08,54704,NEEDLE CREEK,RAWS,RM17,cold,23.0,8,39.3,max temp much colder than neighbors
+2023-01-08,55522357,ROCKY FORD,RAWS,RM27,cold,52.0,3,63.1,max temp much colder than neighbors
+2023-01-08,ASOS-20V,Kremmling,ASOS,RM11,cold,17.6,8,39.2,max temp much colder than neighbors
+2023-01-08,ASOS-ATY,Watertown,ASOS,RM23,cold,18.0,5,28.0,max temp much colder than neighbors
+2023-01-08,ASOS-BFF,Scottsbluff,ASOS,RM25,cold,36.0,6,47.0,max temp much colder than neighbors
+2023-01-08,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,37.0,8,47.6,max temp much colder than neighbors
+2023-01-08,ASOS-EAR,Kearney Muni,ASOS,RM26,cold,28.9,4,43.5,max temp much colder than neighbors
+2023-01-08,ASOS-GNB,Granby,ASOS,RM11,cold,14.7,8,39.5,max temp much colder than neighbors
+2023-01-08,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,9.0,8,40.8,max temp much colder than neighbors
+2023-01-08,ASOS-HEQ,Holyoke,ASOS,RM25,hot,41.0,5,30.8,max temp much warmer than neighbors
+2023-01-08,ASOS-LMO,Longmont/Vbrand,ASOS,RM12,cold,45.5,8,53.9,max temp much colder than neighbors
+2023-01-08,ASOS-MCK,Mccook,ASOS,RM26,cold,37.0,3,49.2,max temp much colder than neighbors
+2023-01-08,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,17.6,7,31.7,max temp much colder than neighbors
+2023-01-08,ASOS-RAP,Rapid City,ASOS,RM24,cold,45.0,8,55.9,max temp much colder than neighbors
+2023-01-08,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,46.4,8,55.8,max temp much colder than neighbors
+2023-01-08,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,35.0,3,48.5,max temp much colder than neighbors
+2023-01-08,ASOS-SYF,St Francis,ASOS,RM27,cold,39.7,6,47.8,max temp much colder than neighbors
+2023-01-09,390701,MARSHALL CO,RAWS,RM23,hot,22.0,6,12.9,max temp much warmer than neighbors
+2023-01-09,481903,ANDERSON RIDGE,RAWS,RM07,hot,27.0,3,12.9,max temp much warmer than neighbors
+2023-01-09,52410,LITTLE DOLORES,RAWS,RM14,hot,45.0,8,37.0,max temp much warmer than neighbors
+2023-01-09,55807,BIG BEAR PARK,RAWS,RM20,hot,43.0,8,34.8,max temp much warmer than neighbors
+2023-01-09,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,40.0,8,48.1,max temp much colder than neighbors
+2023-01-09,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,16.0,8,39.8,max temp much colder than neighbors
+2023-01-09,ASOS-MCK,Mccook,ASOS,RM26,cold,41.0,3,52.4,max temp much colder than neighbors
+2023-01-09,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,21.2,7,29.4,max temp much colder than neighbors
+2023-01-09,ASOS-RIL,Rifle/Garfield Rgnl,ASOS,RM14,cold,35.0,8,43.8,max temp much colder than neighbors
+2023-01-10,395202,PORCUPINE,RAWS,RM24,hot,46.0,3,37.5,max temp much warmer than neighbors
+2023-01-10,51506,THE CROWN,RAWS,RM15,hot,45.0,8,36.3,max temp much warmer than neighbors
+2023-01-10,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,39.0,8,57.6,max temp much colder than neighbors
+2023-01-10,ASOS-LNK,Lincoln,ASOS,RM26,hot,55.0,8,46.5,max temp much warmer than neighbors
+2023-01-10,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,21.2,7,30.8,max temp much colder than neighbors
+2023-01-12,395202,PORCUPINE,RAWS,RM24,hot,42.0,3,31.3,max temp much warmer than neighbors
+2023-01-12,481411,WIND RIVER,RAWS,RM08,hot,41.0,4,21.3,max temp much warmer than neighbors
+2023-01-12,54704,NEEDLE CREEK,RAWS,RM17,cold,25.0,8,38.0,max temp much colder than neighbors
+2023-01-12,55807,BIG BEAR PARK,RAWS,RM20,hot,44.0,8,31.5,max temp much warmer than neighbors
+2023-01-12,ASOS-20V,Kremmling,ASOS,RM11,cold,26.6,8,35.8,max temp much colder than neighbors
+2023-01-12,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,36.0,8,44.2,max temp much colder than neighbors
+2023-01-12,ASOS-EEO,Meeker,ASOS,RM14,cold,27.0,8,38.6,max temp much colder than neighbors
+2023-01-12,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,17.1,8,41.0,max temp much colder than neighbors
+2023-01-12,ASOS-GUR,Guernsey,ASOS,RM25,cold,15.8,5,40.8,max temp much colder than neighbors
+2023-01-12,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,32.0,8,43.2,max temp much colder than neighbors
+2023-01-12,ASOS-SBS,Steamboat Springs,ASOS,RM11,cold,26.4,8,36.3,max temp much colder than neighbors
+2023-01-12,ASOS-WRL,Worland Municipal,ASOS,RM02,cold,30.0,6,42.5,max temp much colder than neighbors
+2023-01-13,140401,KIRWIN,RAWS,RM28,cold,39.0,3,48.6,max temp much colder than neighbors
+2023-01-13,328501,TATANKA PRAIRIE,RAWS,RM23,hot,31.0,6,18.7,max temp much warmer than neighbors
+2023-01-13,480606,DEVILS TOWER,RAWS,RM04,cold,49.0,4,60.9,max temp much colder than neighbors
+2023-01-13,481903,ANDERSON RIDGE,RAWS,RM07,hot,28.0,3,13.0,max temp much warmer than neighbors
+2023-01-13,54704,NEEDLE CREEK,RAWS,RM17,cold,26.0,8,47.7,max temp much colder than neighbors
+2023-01-13,55522255,DRY CREEK,RAWS,RM02,hot,49.0,7,34.2,max temp much warmer than neighbors
+2023-01-13,55522274,GRAND MESA,RAWS,RM15,hot,56.0,6,36.1,max temp much warmer than neighbors
+2023-01-13,55807,BIG BEAR PARK,RAWS,RM20,hot,51.0,8,41.9,max temp much warmer than neighbors
+2023-01-13,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,26.6,8,35.7,max temp much colder than neighbors
+2023-01-13,ASOS-20V,Kremmling,ASOS,RM11,cold,19.4,8,44.5,max temp much colder than neighbors
+2023-01-13,ASOS-4V0,Rangely,ASOS,RM14,cold,18.5,8,39.3,max temp much colder than neighbors
+2023-01-13,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,40.0,8,54.0,max temp much colder than neighbors
+2023-01-13,ASOS-ECS,Newcastle,ASOS,RM04,cold,44.6,8,59.1,max temp much colder than neighbors
+2023-01-13,ASOS-EGE,Eagle Co. Regional,ASOS,RM15,cold,33.0,8,47.6,max temp much colder than neighbors
+2023-01-13,ASOS-GNB,Granby,ASOS,RM11,cold,19.4,8,44.7,max temp much colder than neighbors
+2023-01-13,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,35.0,8,49.0,max temp much colder than neighbors
+2023-01-13,ASOS-HEQ,Holyoke,ASOS,RM25,hot,42.8,5,34.5,max temp much warmer than neighbors
+2023-01-13,ASOS-MCK,Mccook,ASOS,RM26,cold,41.0,3,52.7,max temp much colder than neighbors
+2023-01-13,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,28.4,7,38.4,max temp much colder than neighbors
+2023-01-13,ASOS-RAP,Rapid City,ASOS,RM24,cold,53.0,8,64.5,max temp much colder than neighbors
+2023-01-13,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,55.4,8,64.4,max temp much colder than neighbors
+2023-01-14,481903,ANDERSON RIDGE,RAWS,RM07,hot,28.0,3,16.0,max temp much warmer than neighbors
+2023-01-14,55522299,KINGS CANYON,RAWS,RM24,hot,58.0,6,44.8,max temp much warmer than neighbors
+2023-01-14,56202,PINION CANYON,RAWS,RM27,hot,70.0,3,55.5,max temp much warmer than neighbors
+2023-01-14,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,17.6,6,35.2,max temp much colder than neighbors
+2023-01-14,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,41.0,8,50.5,max temp much colder than neighbors
+2023-01-14,ASOS-FNL,Fort Collins (Awos),ASOS,RM12,cold,52.0,8,60.8,max temp much colder than neighbors
+2023-01-14,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,19.0,8,46.0,max temp much colder than neighbors
+2023-01-14,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,43.0,8,61.7,max temp much colder than neighbors
+2023-01-14,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,35.6,6,44.0,max temp much colder than neighbors
+2023-01-15,393101,HURON,RAWS,RM23,hot,44.0,3,30.0,max temp much warmer than neighbors
+2023-01-15,481903,ANDERSON RIDGE,RAWS,RM07,hot,28.0,3,18.0,max temp much warmer than neighbors
+2023-01-15,ASOS-4V0,Rangely,ASOS,RM14,cold,27.5,8,41.3,max temp much colder than neighbors
+2023-01-15,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,23.0,6,31.4,max temp much colder than neighbors
+2023-01-15,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,30.0,8,38.6,max temp much colder than neighbors
+2023-01-15,ASOS-TQK,Scott City,ASOS,RM27,cold,49.3,3,62.9,max temp much colder than neighbors
+2023-01-16,ASOS-4V0,Rangely,ASOS,RM14,cold,26.2,8,41.3,max temp much colder than neighbors
+2023-01-16,ASOS-C99,Dakota Hills,ASOS,RM13,cold,17.6,8,28.0,max temp much colder than neighbors
+2023-01-16,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,24.8,8,35.4,max temp much colder than neighbors
+2023-01-16,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,38.0,8,46.8,max temp much colder than neighbors
+2023-01-16,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,14.0,7,24.3,max temp much colder than neighbors
+2023-01-17,480605,BEAR LODGE,RAWS,RM04,hot,41.0,6,30.0,max temp much warmer than neighbors
+2023-01-17,481502,CASPER MOUNTAIN,RAWS,RM08,hot,34.0,3,22.2,max temp much warmer than neighbors
+2023-01-17,481903,ANDERSON RIDGE,RAWS,RM07,hot,29.0,3,18.0,max temp much warmer than neighbors
+2023-01-17,52812,TAYLOR PARK,RAWS,RM17,hot,33.0,8,23.1,max temp much warmer than neighbors
+2023-01-17,56202,PINION CANYON,RAWS,RM27,hot,52.0,3,43.5,max temp much warmer than neighbors
+2023-01-17,ASOS-4V0,Rangely,ASOS,RM14,cold,19.6,8,36.4,max temp much colder than neighbors
+2023-01-17,ASOS-U68,Cowley,ASOS,RM02,cold,28.4,8,38.7,max temp much colder than neighbors
+2023-01-18,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,18.0,5,26.4,max temp much colder than neighbors
+2023-01-19,50508,REDSTONE,RAWS,RM12,hot,46.0,8,29.7,max temp much warmer than neighbors
+2023-01-19,52409,JACKS CANYON,RAWS,RM16,hot,35.0,8,26.5,max temp much warmer than neighbors
+2023-01-19,52704,JAY,RAWS,RM16,hot,42.0,8,33.6,max temp much warmer than neighbors
+2023-01-19,55807,BIG BEAR PARK,RAWS,RM20,hot,35.0,8,21.6,max temp much warmer than neighbors
+2023-01-19,56203,BOSQUE,RAWS,RM22,hot,47.0,5,36.5,max temp much warmer than neighbors
+2023-01-19,ASOS-20V,Kremmling,ASOS,RM11,cold,12.2,8,31.9,max temp much colder than neighbors
+2023-01-19,ASOS-4V0,Rangely,ASOS,RM14,cold,12.6,8,34.1,max temp much colder than neighbors
+2023-01-19,ASOS-EEO,Meeker,ASOS,RM14,cold,21.0,8,32.9,max temp much colder than neighbors
+2023-01-19,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,12.2,7,22.7,max temp much colder than neighbors
+2023-01-20,481411,WIND RIVER,RAWS,RM08,hot,31.0,4,21.8,max temp much warmer than neighbors
+2023-01-20,481502,CASPER MOUNTAIN,RAWS,RM08,hot,30.0,3,15.5,max temp much warmer than neighbors
+2023-01-20,481903,ANDERSON RIDGE,RAWS,RM07,hot,26.0,3,12.0,max temp much warmer than neighbors
+2023-01-20,482012,SANDSTONE,RAWS,RM10,hot,36.0,7,15.3,max temp much warmer than neighbors
+2023-01-20,50901,NORTH STERLING,RAWS,RM25,hot,35.0,7,26.0,max temp much warmer than neighbors
+2023-01-20,ASOS-20V,Kremmling,ASOS,RM11,cold,15.8,8,31.7,max temp much colder than neighbors
+2023-01-20,ASOS-33V,Walden,ASOS,RM11,cold,12.2,8,26.9,max temp much colder than neighbors
+2023-01-20,ASOS-4V0,Rangely,ASOS,RM14,cold,17.8,8,28.6,max temp much colder than neighbors
+2023-01-20,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,12.2,6,34.1,max temp much colder than neighbors
+2023-01-21,50404,GUNSIGHT,RAWS,RM11,hot,32.0,8,18.1,max temp much warmer than neighbors
+2023-01-21,55807,BIG BEAR PARK,RAWS,RM20,hot,28.0,8,17.5,max temp much warmer than neighbors
+2023-01-21,ASOS-4V0,Rangely,ASOS,RM14,cold,13.5,8,31.8,max temp much colder than neighbors
+2023-01-21,ASOS-CAG,Craig - Moffat,ASOS,RM10,cold,17.1,7,25.3,max temp much colder than neighbors
+2023-01-21,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,3.2,7,14.8,max temp much colder than neighbors
+2023-01-21,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,5.0,6,34.1,max temp much colder than neighbors
+2023-01-22,390701,MARSHALL CO,RAWS,RM23,hot,23.0,6,10.1,max temp much warmer than neighbors
+2023-01-22,393101,HURON,RAWS,RM23,hot,24.0,3,15.1,max temp much warmer than neighbors
+2023-01-22,53006,LOST PARK,RAWS,RM13,hot,39.0,8,28.6,max temp much warmer than neighbors
+2023-01-22,55305,BLUE PARK,RAWS,RM20,hot,31.0,8,19.8,max temp much warmer than neighbors
+2023-01-22,55807,BIG BEAR PARK,RAWS,RM20,hot,36.0,8,18.2,max temp much warmer than neighbors
+2023-01-22,56202,PINION CANYON,RAWS,RM27,hot,41.0,3,30.1,max temp much warmer than neighbors
+2023-01-22,ASOS-1NW,Raymer,ASOS,RM25,cold,24.3,7,32.4,max temp much colder than neighbors
+2023-01-22,ASOS-8D3,Sisseton,ASOS,RM23,hot,28.0,7,14.5,max temp much warmer than neighbors
+2023-01-22,ASOS-DWX,Dixon,ASOS,RM10,cold,20.1,7,29.5,max temp much colder than neighbors
+2023-01-22,ASOS-EGE,Eagle Co. Regional,ASOS,RM15,cold,28.0,8,36.6,max temp much colder than neighbors
+2023-01-22,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,10.0,8,31.5,max temp much colder than neighbors
+2023-01-22,ASOS-IEN,Pine Ridge,ASOS,RM24,cold,28.0,4,38.3,max temp much colder than neighbors
+2023-01-23,482011,COW CREEK,RAWS,RM10,hot,35.0,5,23.0,max temp much warmer than neighbors
+2023-01-23,482012,SANDSTONE,RAWS,RM10,hot,30.0,7,20.0,max temp much warmer than neighbors
+2023-01-23,482105,SAWMILL PARK,RAWS,RM11,hot,29.0,6,17.7,max temp much warmer than neighbors
+2023-01-23,50901,NORTH STERLING,RAWS,RM25,hot,41.0,7,31.9,max temp much warmer than neighbors
+2023-01-23,51301,SOUTH REPUBLICAN,RAWS,RM25,hot,40.0,5,31.9,max temp much warmer than neighbors
+2023-01-23,52812,TAYLOR PARK,RAWS,RM17,hot,31.0,8,18.4,max temp much warmer than neighbors
+2023-01-23,ASOS-20V,Kremmling,ASOS,RM11,cold,24.8,8,40.1,max temp much colder than neighbors
+2023-01-23,ASOS-33V,Walden,ASOS,RM11,cold,17.6,8,32.6,max temp much colder than neighbors
+2023-01-23,ASOS-4V0,Rangely,ASOS,RM14,cold,20.1,8,31.8,max temp much colder than neighbors
+2023-01-23,ASOS-SAA,Saratoga,ASOS,RM08,cold,24.8,6,35.1,max temp much colder than neighbors
+2023-01-23,ASOS-SPD,Springfield/Comanche Natl Grass,ASOS,RM27,cold,33.0,3,43.0,max temp much colder than neighbors
+2023-01-24,481903,ANDERSON RIDGE,RAWS,RM07,hot,21.0,3,10.0,max temp much warmer than neighbors
+2023-01-24,52301,ARSENAL,RAWS,RM12,hot,42.0,8,33.2,max temp much warmer than neighbors
+2023-01-24,55807,BIG BEAR PARK,RAWS,RM20,hot,29.0,8,18.6,max temp much warmer than neighbors
+2023-01-24,ASOS-20V,Kremmling,ASOS,RM11,cold,19.4,8,27.5,max temp much colder than neighbors
+2023-01-24,ASOS-33V,Walden,ASOS,RM11,cold,8.6,8,23.6,max temp much colder than neighbors
+2023-01-24,ASOS-4V0,Rangely,ASOS,RM14,cold,18.3,8,33.1,max temp much colder than neighbors
+2023-01-24,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,12.2,6,21.4,max temp much colder than neighbors
+2023-01-25,ASOS-4V0,Rangely,ASOS,RM14,cold,20.3,8,32.5,max temp much colder than neighbors
+2023-01-25,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,27.0,8,35.4,max temp much colder than neighbors
+2023-01-25,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,1.4,7,11.4,max temp much colder than neighbors
+2023-01-25,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,10.4,6,19.2,max temp much colder than neighbors
+2023-01-26,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,29.0,6,17.8,max temp much warmer than neighbors
+2023-01-26,481002,SCHOOL HOUSE,RAWS,RM03,hot,34.0,4,24.2,max temp much warmer than neighbors
+2023-01-26,481411,WIND RIVER,RAWS,RM08,hot,34.0,4,19.3,max temp much warmer than neighbors
+2023-01-26,481903,ANDERSON RIDGE,RAWS,RM07,cold,14.0,3,24.0,max temp much colder than neighbors
+2023-01-26,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,21.0,5,30.6,max temp much colder than neighbors
+2023-01-26,50304,WILLOW CREEK,RAWS,RM11,hot,20.0,8,11.8,max temp much warmer than neighbors
+2023-01-26,54704,NEEDLE CREEK,RAWS,RM17,cold,13.0,8,23.7,max temp much colder than neighbors
+2023-01-26,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,7.0,8,26.2,max temp much colder than neighbors
+2023-01-26,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,-0.4,7,9.8,max temp much colder than neighbors
+2023-01-26,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,10.4,6,20.2,max temp much colder than neighbors
+2023-01-27,53905,BEAR CREEK,RAWS,RM17,rain_alone,0.72,8,0.03,rain no neighbor saw
+2023-01-27,55807,BIG BEAR PARK,RAWS,RM20,hot,32.0,8,23.6,max temp much warmer than neighbors
+2023-01-27,56203,BOSQUE,RAWS,RM22,hot,51.0,5,35.7,max temp much warmer than neighbors
+2023-01-27,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,25.0,8,36.0,max temp much colder than neighbors
+2023-01-27,ASOS-FNL,Fort Collins (Awos),ASOS,RM12,cold,34.0,8,43.1,max temp much colder than neighbors
+2023-01-27,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,16.0,8,35.3,max temp much colder than neighbors
+2023-01-27,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,30.9,8,43.0,max temp much colder than neighbors
+2023-01-27,ASOS-RIW,Riverton,ASOS,RM08,cold,25.0,4,33.1,max temp much colder than neighbors
+2023-01-28,51901,PICKLE GULCH,RAWS,RM13,hot,31.0,8,22.2,max temp much warmer than neighbors
+2023-01-28,53606,RAMAH,RAWS,RM18,cold,29.0,8,37.1,max temp much colder than neighbors
+2023-01-29,481903,ANDERSON RIDGE,RAWS,RM07,hot,2.0,3,-8.0,max temp much warmer than neighbors
+2023-01-29,50105,DINOSAUR NM SUCCESS,RAWS,RM10,hot,33.0,8,25.0,max temp much warmer than neighbors
+2023-01-29,53102,CHEESMAN,RAWS,RM18,cold,26.0,8,38.1,max temp much colder than neighbors
+2023-01-29,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,5.0,6,16.5,max temp much colder than neighbors
+2023-01-29,ASOS-FCS,Fort Carson/Butts,ASOS,RM27,rain_alone,0.65,8,0.04,rain no neighbor saw
+2023-01-29,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,21.9,8,38.8,max temp much colder than neighbors
+2023-01-30,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,12.0,6,3.5,max temp much warmer than neighbors
+2023-01-30,481502,CASPER MOUNTAIN,RAWS,RM08,hot,2.0,3,-9.5,max temp much warmer than neighbors
+2023-01-30,482011,COW CREEK,RAWS,RM10,hot,11.0,5,-1.1,max temp much warmer than neighbors
+2023-01-30,53102,CHEESMAN,RAWS,RM18,cold,19.0,8,36.6,max temp much colder than neighbors
+2023-01-30,56202,PINION CANYON,RAWS,RM27,hot,13.0,3,3.5,max temp much warmer than neighbors
+2023-01-30,ASOS-EAR,Kearney Muni,ASOS,RM26,hot,23.0,4,9.2,max temp much warmer than neighbors
+2023-01-30,ASOS-EEO,Meeker,ASOS,RM14,cold,10.9,8,28.7,max temp much colder than neighbors
+2023-01-30,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,10.4,7,18.8,max temp much colder than neighbors
+2023-01-30,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,-7.6,6,12.3,max temp much colder than neighbors
+2023-01-30,ASOS-RAP,Rapid City,ASOS,RM24,cold,1.9,8,17.0,max temp much colder than neighbors
+2023-01-30,ASOS-RWL,Rawlins Municipal,ASOS,RM08,cold,-2.0,4,12.7,max temp much colder than neighbors
+2023-01-30,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,23.0,6,31.2,max temp much colder than neighbors
+2023-01-31,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,23.0,6,11.3,max temp much warmer than neighbors
+2023-01-31,481411,WIND RIVER,RAWS,RM08,hot,31.0,4,5.3,max temp much warmer than neighbors
+2023-01-31,481903,ANDERSON RIDGE,RAWS,RM07,hot,7.0,3,-14.0,max temp much warmer than neighbors
+2023-01-31,51508,STORM KING MOUNTAIN,RAWS,RM15,hot,30.0,8,20.5,max temp much warmer than neighbors
+2023-01-31,55522299,KINGS CANYON,RAWS,RM24,hot,25.0,6,13.9,max temp much warmer than neighbors
+2023-01-31,ASOS-20V,Kremmling,ASOS,RM11,cold,5.0,8,20.8,max temp much colder than neighbors
+2023-01-31,ASOS-33V,Walden,ASOS,RM11,cold,6.8,8,18.8,max temp much colder than neighbors
+2023-01-31,ASOS-AIA,Alliance,ASOS,RM25,cold,15.1,4,25.3,max temp much colder than neighbors
+2023-01-31,ASOS-EEO,Meeker,ASOS,RM14,cold,7.0,8,26.0,max temp much colder than neighbors
+2023-01-31,ASOS-MBG,Mobridge,ASOS,RM23,hot,24.1,3,14.2,max temp much warmer than neighbors
+2023-01-31,ASOS-MTJ,Montrose Co. Arpt,ASOS,RM14,cold,21.9,7,33.4,max temp much colder than neighbors
+2023-01-31,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,8.6,7,18.7,max temp much colder than neighbors
+2023-01-31,ASOS-RAP,Rapid City,ASOS,RM24,cold,21.2,8,35.5,max temp much colder than neighbors
+2023-01-31,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,23.7,8,35.3,max temp much colder than neighbors
+2023-01-31,ASOS-SBS,Steamboat Springs,ASOS,RM11,cold,0.0,8,20.8,max temp much colder than neighbors
+2023-01-31,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,18.0,3,29.2,max temp much colder than neighbors
+2023-02-01,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,31.0,6,19.8,max temp much warmer than neighbors
+2023-02-01,481903,ANDERSON RIDGE,RAWS,RM07,hot,17.0,3,6.1,max temp much warmer than neighbors
+2023-02-01,482106,DODGE CREEK,RAWS,RM09,cold,19.0,5,28.5,max temp much colder than neighbors
+2023-02-01,50508,REDSTONE,RAWS,RM12,hot,50.0,8,39.9,max temp much warmer than neighbors
+2023-02-01,50510,BUCKEYE,RAWS,RM12,hot,44.0,8,35.9,max temp much warmer than neighbors
+2023-02-01,51301,SOUTH REPUBLICAN,RAWS,RM25,hot,39.0,5,30.0,max temp much warmer than neighbors
+2023-02-01,54704,NEEDLE CREEK,RAWS,RM17,cold,21.0,8,36.5,max temp much colder than neighbors
+2023-02-01,55807,BIG BEAR PARK,RAWS,RM20,hot,37.0,8,27.1,max temp much warmer than neighbors
+2023-02-01,ASOS-20V,Kremmling,ASOS,RM11,cold,8.6,8,32.0,max temp much colder than neighbors
+2023-02-01,ASOS-ECS,Newcastle,ASOS,RM04,cold,30.2,8,40.2,max temp much colder than neighbors
+2023-02-01,ASOS-EGE,Eagle Co. Regional,ASOS,RM15,cold,24.1,8,34.7,max temp much colder than neighbors
+2023-02-01,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,9.0,8,38.4,max temp much colder than neighbors
+2023-02-01,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,30.9,8,44.4,max temp much colder than neighbors
+2023-02-01,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,17.6,7,26.1,max temp much colder than neighbors
+2023-02-01,ASOS-RAP,Rapid City,ASOS,RM24,cold,34.0,8,45.9,max temp much colder than neighbors
+2023-02-01,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,37.0,8,45.8,max temp much colder than neighbors
+2023-02-01,ASOS-TAD,Trinidad/Animas Co.,ASOS,RM27,cold,39.0,4,49.9,max temp much colder than neighbors
+2023-02-01,ASOS-TQE,Tekamah,ASOS,RM26,cold,28.9,8,40.9,max temp much colder than neighbors
+2023-02-02,390701,MARSHALL CO,RAWS,RM23,hot,20.0,6,11.5,max temp much warmer than neighbors
+2023-02-02,392603,MT. RUSHMORE,RAWS,RM05,hot,38.0,8,29.1,max temp much warmer than neighbors
+2023-02-02,482012,SANDSTONE,RAWS,RM10,hot,31.0,7,22.8,max temp much warmer than neighbors
+2023-02-02,482106,DODGE CREEK,RAWS,RM09,cold,25.0,5,33.2,max temp much colder than neighbors
+2023-02-02,50404,GUNSIGHT,RAWS,RM11,cold,20.0,8,35.5,max temp much colder than neighbors
+2023-02-02,52813,HUNTSMAN MESA,RAWS,RM17,cold,31.0,8,39.6,max temp much colder than neighbors
+2023-02-02,54704,NEEDLE CREEK,RAWS,RM17,cold,26.0,8,40.4,max temp much colder than neighbors
+2023-02-02,55522299,KINGS CANYON,RAWS,RM24,hot,33.0,6,24.6,max temp much warmer than neighbors
+2023-02-02,55807,BIG BEAR PARK,RAWS,RM20,hot,41.0,8,31.7,max temp much warmer than neighbors
+2023-02-02,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,12.2,8,23.8,max temp much colder than neighbors
+2023-02-02,ASOS-20V,Kremmling,ASOS,RM11,cold,8.6,8,39.3,max temp much colder than neighbors
+2023-02-02,ASOS-33V,Walden,ASOS,RM11,cold,17.6,8,34.1,max temp much colder than neighbors
+2023-02-02,ASOS-AIA,Alliance,ASOS,RM25,cold,25.0,4,33.8,max temp much colder than neighbors
+2023-02-02,ASOS-CEZ,Cortez/Montezuma Co,ASOS,RM19,cold,36.0,7,45.7,max temp much colder than neighbors
+2023-02-02,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,34.0,8,44.5,max temp much colder than neighbors
+2023-02-02,ASOS-GNB,Granby,ASOS,RM11,cold,16.9,8,36.2,max temp much colder than neighbors
+2023-02-02,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,12.0,8,45.3,max temp much colder than neighbors
+2023-02-02,ASOS-LYO,Lyons,ASOS,RM28,cold,22.5,6,47.6,max temp much colder than neighbors
+2023-02-02,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,19.4,7,29.8,max temp much colder than neighbors
+2023-02-02,ASOS-TAD,Trinidad/Animas Co.,ASOS,RM27,cold,42.0,4,51.2,max temp much colder than neighbors
+2023-02-03,481801,MUDDY CREEK,RAWS,RM07,cold,22.0,5,39.2,max temp much colder than neighbors
+2023-02-03,481903,ANDERSON RIDGE,RAWS,RM07,hot,25.0,3,12.0,max temp much warmer than neighbors
+2023-02-03,482012,SANDSTONE,RAWS,RM10,hot,39.0,7,28.8,max temp much warmer than neighbors
+2023-02-03,50505,REDFEATHER,RAWS,RM13,hot,49.0,8,37.0,max temp much warmer than neighbors
+2023-02-03,54704,NEEDLE CREEK,RAWS,RM17,cold,24.0,8,44.4,max temp much colder than neighbors
+2023-02-03,55305,BLUE PARK,RAWS,RM20,hot,49.0,8,32.5,max temp much warmer than neighbors
+2023-02-03,55807,BIG BEAR PARK,RAWS,RM20,hot,50.0,8,38.2,max temp much warmer than neighbors
+2023-02-03,ASOS-20V,Kremmling,ASOS,RM11,cold,3.2,8,41.6,max temp much colder than neighbors
+2023-02-03,ASOS-CEZ,Cortez/Montezuma Co,ASOS,RM19,cold,42.0,7,51.7,max temp much colder than neighbors
+2023-02-03,ASOS-ECS,Newcastle,ASOS,RM04,cold,39.2,8,57.6,max temp much colder than neighbors
+2023-02-03,ASOS-GNB,Granby,ASOS,RM11,cold,12.6,8,41.9,max temp much colder than neighbors
+2023-02-03,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,8.1,8,41.0,max temp much colder than neighbors
+2023-02-03,ASOS-LMO,Longmont/Vbrand,ASOS,RM12,cold,52.2,8,60.5,max temp much colder than neighbors
+2023-02-03,ASOS-RAP,Rapid City,ASOS,RM24,cold,46.0,8,64.5,max temp much colder than neighbors
+2023-02-03,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,48.6,8,64.3,max temp much colder than neighbors
+2023-02-03,ASOS-TQK,Scott City,ASOS,RM27,cold,42.6,3,55.7,max temp much colder than neighbors
+2023-02-03,ASOS-VTN,Valentine,ASOS,RM26,cold,38.0,4,46.9,max temp much colder than neighbors
+2023-02-04,ASOS-20V,Kremmling,ASOS,RM11,cold,10.4,8,42.1,max temp much colder than neighbors
+2023-02-04,ASOS-4V0,Rangely,ASOS,RM14,cold,18.0,8,44.6,max temp much colder than neighbors
+2023-02-04,ASOS-AIA,Alliance,ASOS,RM25,cold,38.0,4,46.3,max temp much colder than neighbors
+2023-02-04,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,40.0,8,50.6,max temp much colder than neighbors
+2023-02-04,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,cold,35.0,8,47.6,max temp much colder than neighbors
+2023-02-04,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,14.0,8,46.3,max temp much colder than neighbors
+2023-02-04,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,32.0,6,41.9,max temp much colder than neighbors
+2023-02-05,252402,BESSEY,RAWS,RM26,hot,52.0,3,40.8,max temp much warmer than neighbors
+2023-02-05,54704,NEEDLE CREEK,RAWS,RM17,cold,35.0,8,45.7,max temp much colder than neighbors
+2023-02-05,ASOS-20V,Kremmling,ASOS,RM11,cold,33.8,8,47.9,max temp much colder than neighbors
+2023-02-05,ASOS-4V0,Rangely,ASOS,RM14,cold,21.2,8,46.6,max temp much colder than neighbors
+2023-02-05,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,43.0,8,54.1,max temp much colder than neighbors
+2023-02-05,ASOS-GNB,Granby,ASOS,RM11,cold,32.0,8,44.9,max temp much colder than neighbors
+2023-02-05,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,21.0,8,51.4,max temp much colder than neighbors
+2023-02-05,ASOS-PUB,Pueblo Memorial(Aw),ASOS,RM27,cold,57.0,8,67.6,max temp much colder than neighbors
+2023-02-05,ASOS-SBS,Steamboat Springs,ASOS,RM11,cold,37.4,8,48.7,max temp much colder than neighbors
+2023-02-05,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,40.0,3,52.0,max temp much colder than neighbors
+2023-02-05,ASOS-TAD,Trinidad/Animas Co.,ASOS,RM27,cold,53.0,4,65.2,max temp much colder than neighbors
+2023-02-05,ASOS-VTN,Valentine,ASOS,RM26,cold,39.0,4,48.4,max temp much colder than neighbors
+2023-02-05,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,37.4,6,45.4,max temp much colder than neighbors
+2023-02-06,ASOS-TQE,Tekamah,ASOS,RM26,cold,40.0,8,48.9,max temp much colder than neighbors
+2023-02-07,395202,PORCUPINE,RAWS,RM24,hot,46.0,3,37.4,max temp much warmer than neighbors
+2023-02-07,482106,DODGE CREEK,RAWS,RM09,cold,25.0,5,33.7,max temp much colder than neighbors
+2023-02-07,53006,LOST PARK,RAWS,RM13,hot,41.0,8,31.7,max temp much warmer than neighbors
+2023-02-07,54704,NEEDLE CREEK,RAWS,RM17,cold,21.0,8,37.9,max temp much colder than neighbors
+2023-02-07,ASOS-20V,Kremmling,ASOS,RM11,cold,15.8,8,34.3,max temp much colder than neighbors
+2023-02-07,ASOS-33V,Walden,ASOS,RM11,cold,12.2,8,32.3,max temp much colder than neighbors
+2023-02-07,ASOS-4V0,Rangely,ASOS,RM14,cold,19.6,8,39.0,max temp much colder than neighbors
+2023-02-07,ASOS-AIA,Alliance,ASOS,RM25,cold,37.0,4,45.8,max temp much colder than neighbors
+2023-02-07,ASOS-EEO,Meeker,ASOS,RM14,cold,27.0,8,37.8,max temp much colder than neighbors
+2023-02-07,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,36.0,8,49.8,max temp much colder than neighbors
+2023-02-07,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,19.4,7,28.7,max temp much colder than neighbors
+2023-02-07,ASOS-RIW,Riverton,ASOS,RM08,cold,23.0,4,33.4,max temp much colder than neighbors
+2023-02-08,481903,ANDERSON RIDGE,RAWS,RM07,cold,21.0,3,29.0,max temp much colder than neighbors
+2023-02-08,482106,DODGE CREEK,RAWS,RM09,cold,27.0,5,35.5,max temp much colder than neighbors
+2023-02-08,54704,NEEDLE CREEK,RAWS,RM17,cold,25.0,8,36.8,max temp much colder than neighbors
+2023-02-08,ASOS-20V,Kremmling,ASOS,RM11,cold,21.2,8,37.4,max temp much colder than neighbors
+2023-02-08,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,36.0,8,45.1,max temp much colder than neighbors
+2023-02-08,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,19.0,8,40.5,max temp much colder than neighbors
+2023-02-08,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,15.8,7,25.7,max temp much colder than neighbors
+2023-02-08,ASOS-PPF,Parsons,ASOS,RM28,missed,0.0,7,0.58,no rain while most neighbors got rain
+2023-02-08,ASOS-RIW,Riverton,ASOS,RM08,cold,27.0,4,37.6,max temp much colder than neighbors
+2023-02-08,ASOS-WRL,Worland Municipal,ASOS,RM02,cold,30.9,6,40.7,max temp much colder than neighbors
+2023-02-09,ASOS-4V0,Rangely,ASOS,RM14,cold,23.9,8,34.6,max temp much colder than neighbors
+2023-02-09,ASOS-EMM,Kemmerer,ASOS,RM07,cold,19.4,6,28.1,max temp much colder than neighbors
+2023-02-09,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,3.2,7,12.7,max temp much colder than neighbors
+2023-02-10,395202,PORCUPINE,RAWS,RM24,hot,43.0,3,33.3,max temp much warmer than neighbors
+2023-02-10,480606,DEVILS TOWER,RAWS,RM04,cold,46.0,4,54.3,max temp much colder than neighbors
+2023-02-10,482012,SANDSTONE,RAWS,RM10,hot,31.0,7,20.7,max temp much warmer than neighbors
+2023-02-10,482106,DODGE CREEK,RAWS,RM09,cold,26.0,5,34.8,max temp much colder than neighbors
+2023-02-10,50505,REDFEATHER,RAWS,RM13,hot,52.0,8,33.9,max temp much warmer than neighbors
+2023-02-10,54704,NEEDLE CREEK,RAWS,RM17,cold,23.0,8,43.1,max temp much colder than neighbors
+2023-02-10,55807,BIG BEAR PARK,RAWS,RM20,hot,56.0,8,30.8,max temp much warmer than neighbors
+2023-02-10,ASOS-33V,Walden,ASOS,RM11,cold,12.2,8,33.7,max temp much colder than neighbors
+2023-02-10,ASOS-4V0,Rangely,ASOS,RM14,cold,17.6,8,35.5,max temp much colder than neighbors
+2023-02-10,ASOS-AIA,Alliance,ASOS,RM25,cold,37.0,4,47.3,max temp much colder than neighbors
+2023-02-10,ASOS-AKO,Akron/Washington Co,ASOS,RM25,cold,19.9,5,31.7,max temp much colder than neighbors
+2023-02-10,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,33.0,8,42.5,max temp much colder than neighbors
+2023-02-10,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,36.0,8,47.4,max temp much colder than neighbors
+2023-02-10,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,23.0,7,35.1,max temp much colder than neighbors
+2023-02-11,393101,HURON,RAWS,RM23,hot,46.0,3,33.0,max temp much warmer than neighbors
+2023-02-11,481903,ANDERSON RIDGE,RAWS,RM07,hot,30.0,3,15.0,max temp much warmer than neighbors
+2023-02-11,482012,SANDSTONE,RAWS,RM10,hot,46.0,7,29.0,max temp much warmer than neighbors
+2023-02-11,52409,JACKS CANYON,RAWS,RM16,hot,49.0,8,40.8,max temp much warmer than neighbors
+2023-02-11,54704,NEEDLE CREEK,RAWS,RM17,cold,31.0,8,45.6,max temp much colder than neighbors
+2023-02-11,ASOS-33V,Walden,ASOS,RM11,cold,19.4,8,47.6,max temp much colder than neighbors
+2023-02-11,ASOS-4V0,Rangely,ASOS,RM14,cold,13.8,8,36.3,max temp much colder than neighbors
+2023-02-11,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,48.2,8,60.5,max temp much colder than neighbors
+2023-02-11,ASOS-DEN,Denver Intnl Arpt,ASOS,RM25,cold,50.0,8,60.7,max temp much colder than neighbors
+2023-02-11,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,43.0,8,52.1,max temp much colder than neighbors
+2023-02-11,ASOS-GNB,Granby,ASOS,RM11,cold,17.2,8,49.0,max temp much colder than neighbors
+2023-02-11,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,10.9,8,46.5,max temp much colder than neighbors
+2023-02-11,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,41.0,8,55.7,max temp much colder than neighbors
+2023-02-11,ASOS-ITR,Burlington,ASOS,RM27,cold,42.0,3,53.0,max temp much colder than neighbors
+2023-02-11,ASOS-VTN,Valentine,ASOS,RM26,cold,42.0,4,52.4,max temp much colder than neighbors
+2023-02-12,395202,PORCUPINE,RAWS,RM24,hot,51.0,3,41.1,max temp much warmer than neighbors
+2023-02-12,481903,ANDERSON RIDGE,RAWS,RM07,hot,36.0,3,16.0,max temp much warmer than neighbors
+2023-02-12,482012,SANDSTONE,RAWS,RM10,hot,38.0,7,27.9,max temp much warmer than neighbors
+2023-02-12,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,19.4,8,30.6,max temp much colder than neighbors
+2023-02-12,ASOS-20V,Kremmling,ASOS,RM11,cold,19.4,8,47.0,max temp much colder than neighbors
+2023-02-12,ASOS-AKO,Akron/Washington Co,ASOS,RM25,cold,30.0,5,40.5,max temp much colder than neighbors
+2023-02-12,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,cold,38.0,3,46.8,max temp much colder than neighbors
+2023-02-12,ASOS-EEO,Meeker,ASOS,RM14,cold,35.0,8,49.4,max temp much colder than neighbors
+2023-02-12,ASOS-GNB,Granby,ASOS,RM11,cold,28.0,8,43.5,max temp much colder than neighbors
+2023-02-12,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,19.9,8,48.5,max temp much colder than neighbors
+2023-02-12,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,24.8,7,33.3,max temp much colder than neighbors
+2023-02-12,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,19.4,6,50.1,max temp much colder than neighbors
+2023-02-12,ASOS-VTN,Valentine,ASOS,RM26,cold,38.0,4,47.9,max temp much colder than neighbors
+2023-02-13,148601,CIMARRON,RAWS,RM27,rain_alone,9.43,3,0.0,rain no neighbor saw
+2023-02-13,482106,DODGE CREEK,RAWS,RM09,cold,34.0,5,47.0,max temp much colder than neighbors
+2023-02-13,52409,JACKS CANYON,RAWS,RM16,hot,46.0,8,36.2,max temp much warmer than neighbors
+2023-02-13,52812,TAYLOR PARK,RAWS,RM17,hot,41.0,8,32.6,max temp much warmer than neighbors
+2023-02-13,54704,NEEDLE CREEK,RAWS,RM17,cold,27.0,8,38.5,max temp much colder than neighbors
+2023-02-13,ASOS-20V,Kremmling,ASOS,RM11,cold,12.2,8,43.4,max temp much colder than neighbors
+2023-02-13,ASOS-4V0,Rangely,ASOS,RM14,cold,19.0,8,40.1,max temp much colder than neighbors
+2023-02-13,ASOS-CEZ,Cortez/Montezuma Co,ASOS,RM19,cold,43.0,7,53.7,max temp much colder than neighbors
+2023-02-13,ASOS-GRN,Gordon,ASOS,RM24,cold,40.0,4,55.0,max temp much colder than neighbors
+2023-02-13,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,42.0,8,57.7,max temp much colder than neighbors
+2023-02-13,ASOS-IEN,Pine Ridge,ASOS,RM24,cold,45.0,4,55.8,max temp much colder than neighbors
+2023-02-13,ASOS-LND,Lander/Hunt Field,ASOS,RM08,cold,21.0,3,32.0,max temp much colder than neighbors
+2023-02-13,ASOS-MNH,Monument/Elbert (Cdot),ASOS,RM18,cold,42.8,8,54.5,max temp much colder than neighbors
+2023-02-13,ASOS-RIW,Riverton,ASOS,RM08,cold,17.1,4,34.2,max temp much colder than neighbors
+2023-02-13,ASOS-RYA,Wray,ASOS,RM25,hot,57.2,5,46.6,max temp much warmer than neighbors
+2023-02-13,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,43.0,3,55.0,max temp much colder than neighbors
+2023-02-13,ASOS-VTN,Valentine,ASOS,RM26,cold,43.0,4,55.5,max temp much colder than neighbors
+2023-02-14,328501,TATANKA PRAIRIE,RAWS,RM23,hot,42.0,6,33.1,max temp much warmer than neighbors
+2023-02-14,390701,MARSHALL CO,RAWS,RM23,hot,39.0,6,30.5,max temp much warmer than neighbors
+2023-02-14,53103,POLHEMUS,RAWS,RM18,hot,46.0,8,37.6,max temp much warmer than neighbors
+2023-02-15,55503,SAND DUNES,RAWS,RM22,hot,26.0,8,17.3,max temp much warmer than neighbors
+2023-02-15,55522274,GRAND MESA,RAWS,RM15,hot,19.0,6,10.9,max temp much warmer than neighbors
+2023-02-15,ASOS-FEW,Cheyenne Few,ASOS,RM25,hot,33.8,8,16.1,max temp much warmer than neighbors
+2023-02-15,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,12.2,6,26.4,max temp much colder than neighbors
+2023-02-16,481412,SHARPNOSE,RAWS,RM08,hot,16.0,3,5.9,max temp much warmer than neighbors
+2023-02-16,482106,DODGE CREEK,RAWS,RM09,cold,10.0,5,21.0,max temp much colder than neighbors
+2023-02-16,50404,GUNSIGHT,RAWS,RM11,hot,28.0,8,19.0,max temp much warmer than neighbors
+2023-02-16,51508,STORM KING MOUNTAIN,RAWS,RM15,hot,29.0,8,16.6,max temp much warmer than neighbors
+2023-02-16,55807,BIG BEAR PARK,RAWS,RM20,hot,27.0,8,16.3,max temp much warmer than neighbors
+2023-02-16,ASOS-20V,Kremmling,ASOS,RM11,cold,12.2,8,24.2,max temp much colder than neighbors
+2023-02-16,ASOS-33V,Walden,ASOS,RM11,cold,1.4,8,19.1,max temp much colder than neighbors
+2023-02-16,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,21.0,8,29.1,max temp much colder than neighbors
+2023-02-16,ASOS-EEO,Meeker,ASOS,RM14,cold,15.1,8,24.6,max temp much colder than neighbors
+2023-02-16,ASOS-GJT,Grand Junction,ASOS,RM14,cold,21.9,8,32.2,max temp much colder than neighbors
+2023-02-16,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,10.0,8,26.9,max temp much colder than neighbors
+2023-02-16,ASOS-HEQ,Holyoke,ASOS,RM25,hot,32.0,5,23.4,max temp much warmer than neighbors
+2023-02-16,ASOS-LND,Lander/Hunt Field,ASOS,RM08,cold,5.0,3,16.0,max temp much colder than neighbors
+2023-02-16,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,3.2,7,13.5,max temp much colder than neighbors
+2023-02-17,481002,SCHOOL HOUSE,RAWS,RM03,hot,40.0,4,31.0,max temp much warmer than neighbors
+2023-02-17,481903,ANDERSON RIDGE,RAWS,RM07,hot,16.0,3,6.1,max temp much warmer than neighbors
+2023-02-17,482106,DODGE CREEK,RAWS,RM09,cold,28.0,5,36.9,max temp much colder than neighbors
+2023-02-17,52409,JACKS CANYON,RAWS,RM16,hot,37.0,8,28.1,max temp much warmer than neighbors
+2023-02-17,ASOS-20V,Kremmling,ASOS,RM11,cold,10.4,8,37.0,max temp much colder than neighbors
+2023-02-17,ASOS-GRN,Gordon,ASOS,RM24,cold,41.7,4,50.0,max temp much colder than neighbors
+2023-02-17,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,9.0,8,37.8,max temp much colder than neighbors
+2023-02-17,ASOS-IEN,Pine Ridge,ASOS,RM24,cold,38.0,4,50.8,max temp much colder than neighbors
+2023-02-17,ASOS-K88,Iola,ASOS,RM28,cold,23.0,8,47.1,max temp much colder than neighbors
+2023-02-17,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,17.6,6,37.5,max temp much colder than neighbors
+2023-02-17,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,33.0,3,44.5,max temp much colder than neighbors
+2023-02-17,ASOS-TQK,Scott City,ASOS,RM27,cold,39.6,3,48.7,max temp much colder than neighbors
+2023-02-18,54704,NEEDLE CREEK,RAWS,RM17,cold,28.0,8,37.5,max temp much colder than neighbors
+2023-02-18,55522274,GRAND MESA,RAWS,RM15,cold,20.0,6,29.0,max temp much colder than neighbors
+2023-02-18,ASOS-20V,Kremmling,ASOS,RM11,cold,30.2,8,41.2,max temp much colder than neighbors
+2023-02-18,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,10.9,6,32.7,max temp much colder than neighbors
+2023-02-18,ASOS-CEZ,Cortez/Montezuma Co,ASOS,RM19,cold,37.0,7,46.8,max temp much colder than neighbors
+2023-02-18,ASOS-EAN,Wheatland,ASOS,RM25,hot,53.2,5,42.6,max temp much warmer than neighbors
+2023-02-18,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,12.0,8,42.9,max temp much colder than neighbors
+2023-02-18,ASOS-MTJ,Montrose Co. Arpt,ASOS,RM14,cold,28.9,7,46.1,max temp much colder than neighbors
+2023-02-18,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,14.0,6,34.0,max temp much colder than neighbors
+2023-02-18,ASOS-SBS,Steamboat Springs,ASOS,RM11,cold,25.9,8,40.7,max temp much colder than neighbors
+2023-02-19,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,22.0,5,33.6,max temp much colder than neighbors
+2023-02-19,ASOS-4V0,Rangely,ASOS,RM14,cold,31.5,8,44.3,max temp much colder than neighbors
+2023-02-19,ASOS-AKO,Akron/Washington Co,ASOS,RM25,hot,71.0,5,38.7,max temp much warmer than neighbors
+2023-02-19,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,17.1,6,27.2,max temp much colder than neighbors
+2023-02-19,ASOS-MTJ,Montrose Co. Arpt,ASOS,RM14,cold,38.0,7,49.3,max temp much colder than neighbors
+2023-02-20,481411,WIND RIVER,RAWS,RM08,hot,41.0,4,27.9,max temp much warmer than neighbors
+2023-02-20,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,29.0,5,40.6,max temp much colder than neighbors
+2023-02-20,55522274,GRAND MESA,RAWS,RM15,cold,21.0,6,33.3,max temp much colder than neighbors
+2023-02-20,ASOS-1HW,Gurley,ASOS,RM25,cold,42.0,5,50.2,max temp much colder than neighbors
+2023-02-20,ASOS-AKO,Akron/Washington Co,ASOS,RM25,hot,69.0,5,42.6,max temp much warmer than neighbors
+2023-02-20,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,46.0,8,56.9,max temp much colder than neighbors
+2023-02-20,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,32.0,6,43.7,max temp much colder than neighbors
+2023-02-21,390901,INDIAN BUTTE,RAWS,RM04,cold,31.0,4,42.7,max temp much colder than neighbors
+2023-02-21,480902,PISTOL DRAW,RAWS,RM02,cold,34.0,7,45.0,max temp much colder than neighbors
+2023-02-21,481903,ANDERSON RIDGE,RAWS,RM07,cold,27.0,3,38.0,max temp much colder than neighbors
+2023-02-21,55522274,GRAND MESA,RAWS,RM15,cold,25.0,6,34.9,max temp much colder than neighbors
+2023-02-21,ASOS-BJC,Broomfield/Jeffco,ASOS,RM12,cold,48.2,8,60.0,max temp much colder than neighbors
+2023-02-21,ASOS-EAN,Wheatland,ASOS,RM25,hot,53.0,5,44.1,max temp much warmer than neighbors
+2023-02-21,ASOS-GRN,Gordon,ASOS,RM24,cold,39.0,4,49.0,max temp much colder than neighbors
+2023-02-21,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,34.0,8,49.4,max temp much colder than neighbors
+2023-02-21,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,48.0,8,61.5,max temp much colder than neighbors
+2023-02-21,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,26.6,7,36.3,max temp much colder than neighbors
+2023-02-21,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,32.0,6,42.6,max temp much colder than neighbors
+2023-02-22,481903,ANDERSON RIDGE,RAWS,RM07,hot,11.0,3,-0.9,max temp much warmer than neighbors
+2023-02-22,ASOS-BBW,Broken Bow Muni,ASOS,RM26,cold,21.9,3,30.7,max temp much colder than neighbors
+2023-02-22,ASOS-DEN,Denver Intnl Arpt,ASOS,RM25,cold,27.0,8,36.3,max temp much colder than neighbors
+2023-02-22,ASOS-ECS,Newcastle,ASOS,RM04,hot,12.2,8,1.5,max temp much warmer than neighbors
+2023-02-22,ASOS-RSL,Russell,ASOS,RM28,cold,49.0,3,63.4,max temp much colder than neighbors
+2023-02-22,ASOS-RWL,Rawlins Municipal,ASOS,RM08,rain_alone,1.24,3,0.0,rain no neighbor saw
+2023-02-22,ASOS-SAA,Saratoga,ASOS,RM08,cold,8.6,6,32.3,max temp much colder than neighbors
+2023-02-23,392607,WHITETAIL PEAK,RAWS,RM05,hot,12.0,8,-4.6,max temp much warmer than neighbors
+2023-02-23,481502,CASPER MOUNTAIN,RAWS,RM08,hot,16.0,3,-9.8,max temp much warmer than neighbors
+2023-02-23,481801,MUDDY CREEK,RAWS,RM07,cold,6.0,5,22.8,max temp much colder than neighbors
+2023-02-23,55522255,DRY CREEK,RAWS,RM02,hot,6.0,7,-3.6,max temp much warmer than neighbors
+2023-02-23,ASOS-4V0,Rangely,ASOS,RM14,cold,18.1,8,29.3,max temp much colder than neighbors
+2023-02-23,ASOS-8D3,Sisseton,ASOS,RM23,hot,27.0,8,2.8,max temp much warmer than neighbors
+2023-02-23,ASOS-AIA,Alliance,ASOS,RM25,cold,-9.0,4,5.8,max temp much colder than neighbors
+2023-02-23,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,5.0,7,23.8,max temp much colder than neighbors
+2023-02-23,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,3.2,6,15.0,max temp much colder than neighbors
+2023-02-23,ASOS-RWL,Rawlins Municipal,ASOS,RM08,cold,4.0,4,20.9,max temp much colder than neighbors
+2023-02-23,ASOS-TAD,Trinidad/Animas Co.,ASOS,RM27,cold,30.9,4,43.9,max temp much colder than neighbors
+2023-02-24,250103,MONTROSE,RAWS,RM24,cold,10.0,5,22.3,max temp much colder than neighbors
+2023-02-24,390901,INDIAN BUTTE,RAWS,RM04,cold,0.0,4,31.9,max temp much colder than neighbors
+2023-02-24,480606,DEVILS TOWER,RAWS,RM04,cold,16.0,4,30.2,max temp much colder than neighbors
+2023-02-24,56301,UTE CANYON,RAWS,RM27,hot,51.0,3,42.1,max temp much warmer than neighbors
+2023-02-24,ASOS-4V0,Rangely,ASOS,RM14,cold,25.2,8,35.8,max temp much colder than neighbors
+2023-02-24,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,5.0,6,25.3,max temp much colder than neighbors
+2023-02-24,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,cold,21.9,3,30.8,max temp much colder than neighbors
+2023-02-24,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,23.0,8,42.7,max temp much colder than neighbors
+2023-02-24,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,8.6,6,24.3,max temp much colder than neighbors
+2023-02-24,ASOS-RAP,Rapid City,ASOS,RM24,cold,10.0,8,34.6,max temp much colder than neighbors
+2023-02-24,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,7.0,3,31.0,max temp much colder than neighbors
+2023-02-25,ASOS-33V,Walden,ASOS,RM11,cold,32.0,8,42.8,max temp much colder than neighbors
+2023-02-25,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,30.9,8,49.6,max temp much colder than neighbors
+2023-02-25,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,42.0,8,59.2,max temp much colder than neighbors
+2023-02-25,ASOS-RAP,Rapid City,ASOS,RM24,cold,36.0,8,51.5,max temp much colder than neighbors
+2023-02-25,ASOS-RIW,Riverton,ASOS,RM08,cold,25.0,4,33.1,max temp much colder than neighbors
+2023-02-26,390701,MARSHALL CO,RAWS,RM23,hot,31.0,6,20.4,max temp much warmer than neighbors
+2023-02-26,480804,GRASS CREEK DIVIDE,RAWS,RM02,hot,49.0,8,39.3,max temp much warmer than neighbors
+2023-02-26,55522274,GRAND MESA,RAWS,RM15,cold,21.0,6,31.8,max temp much colder than neighbors
+2023-02-26,ASOS-4V0,Rangely,ASOS,RM14,cold,29.3,8,45.8,max temp much colder than neighbors
+2023-02-26,ASOS-BTN,Britton,ASOS,RM23,hot,37.4,6,22.9,max temp much warmer than neighbors
+2023-02-26,ASOS-GNB,Granby,ASOS,RM11,cold,35.0,8,45.0,max temp much colder than neighbors
+2023-02-26,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,33.0,8,41.5,max temp much colder than neighbors
+2023-02-26,ASOS-MCK,Mccook,ASOS,RM26,cold,59.0,3,69.5,max temp much colder than neighbors
+2023-02-26,ASOS-RAP,Rapid City,ASOS,RM24,cold,51.0,8,62.7,max temp much colder than neighbors
+2023-02-26,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,42.0,3,55.0,max temp much colder than neighbors
+2023-02-27,145201,TALLGRASS PRAIRIE,RAWS,RM28,rain_alone,0.94,5,0.05,rain no neighbor saw
+2023-02-27,52704,JAY,RAWS,RM16,hot,48.0,8,37.8,max temp much warmer than neighbors
+2023-02-27,ASOS-BJC,Broomfield/Jeffco,ASOS,RM12,hot,62.6,8,49.5,max temp much warmer than neighbors
+2023-02-27,ASOS-EGT,Wellington,ASOS,RM28,rain_alone,0.64,6,0.02,rain no neighbor saw
+2023-02-27,ASOS-GGF,Grant,ASOS,RM25,cold,39.2,3,48.4,max temp much colder than neighbors
+2023-02-27,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,28.9,8,39.0,max temp much colder than neighbors
+2023-02-27,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,14.0,7,24.3,max temp much colder than neighbors
+2023-02-27,ASOS-W43,Hulett,ASOS,RM04,cold,30.2,5,40.9,max temp much colder than neighbors
+2023-02-28,482106,DODGE CREEK,RAWS,RM09,cold,25.0,5,33.2,max temp much colder than neighbors
+2023-02-28,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,21.2,6,30.8,max temp much colder than neighbors
+2023-03-01,482011,COW CREEK,RAWS,RM10,hot,42.0,5,29.1,max temp much warmer than neighbors
+2023-03-01,54704,NEEDLE CREEK,RAWS,RM17,hot,40.0,8,29.4,max temp much warmer than neighbors
+2023-03-01,55704,CHAPIN,RAWS,RM19,hot,44.0,8,33.7,max temp much warmer than neighbors
+2023-03-01,ASOS-20V,Kremmling,ASOS,RM11,cold,21.2,8,33.5,max temp much colder than neighbors
+2023-03-01,ASOS-4V0,Rangely,ASOS,RM14,cold,25.2,8,35.5,max temp much colder than neighbors
+2023-03-01,ASOS-RWL,Rawlins Municipal,ASOS,RM08,cold,21.0,4,33.7,max temp much colder than neighbors
+2023-03-02,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,32.0,6,21.9,max temp much warmer than neighbors
+2023-03-02,481411,WIND RIVER,RAWS,RM08,hot,37.0,4,18.4,max temp much warmer than neighbors
+2023-03-02,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,18.0,5,30.6,max temp much colder than neighbors
+2023-03-02,482106,DODGE CREEK,RAWS,RM09,cold,20.0,5,32.9,max temp much colder than neighbors
+2023-03-02,53006,LOST PARK,RAWS,RM13,hot,39.0,8,30.6,max temp much warmer than neighbors
+2023-03-02,ASOS-3K3,Syracuse,ASOS,RM27,cold,35.6,4,44.4,max temp much colder than neighbors
+2023-03-02,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,17.6,7,26.7,max temp much colder than neighbors
+2023-03-02,ASOS-RIW,Riverton,ASOS,RM08,cold,19.0,4,28.5,max temp much colder than neighbors
+2023-03-03,481903,ANDERSON RIDGE,RAWS,RM07,cold,17.0,3,25.9,max temp much colder than neighbors
+2023-03-03,ASOS-04V,Saguache Muni,ASOS,RM21,cold,35.6,8,45.9,max temp much colder than neighbors
+2023-03-03,ASOS-GGF,Grant,ASOS,RM25,cold,39.2,3,47.5,max temp much colder than neighbors
+2023-03-03,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,17.6,7,29.3,max temp much colder than neighbors
+2023-03-03,ASOS-RIW,Riverton,ASOS,RM08,cold,26.1,4,34.3,max temp much colder than neighbors
+2023-03-04,ASOS-2V6,Yuma,ASOS,RM25,cold,33.8,5,42.3,max temp much colder than neighbors
+2023-03-04,ASOS-4V0,Rangely,ASOS,RM14,cold,23.9,8,39.3,max temp much colder than neighbors
+2023-03-04,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,12.0,6,26.0,max temp much colder than neighbors
+2023-03-04,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,26.1,8,41.4,max temp much colder than neighbors
+2023-03-05,480213,CRANDALL,RAWS,RM02,hot,35.0,8,23.1,max temp much warmer than neighbors
+2023-03-05,480902,PISTOL DRAW,RAWS,RM02,hot,40.0,7,31.0,max temp much warmer than neighbors
+2023-03-05,482106,DODGE CREEK,RAWS,RM09,cold,26.0,5,35.6,max temp much colder than neighbors
+2023-03-05,ASOS-TQE,Tekamah,ASOS,RM26,cold,49.0,8,60.6,max temp much colder than neighbors
+2023-03-06,55522367,SILVER JACK,RAWS,RM16,hot,53.0,7,44.1,max temp much warmer than neighbors
+2023-03-06,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,35.6,6,44.0,max temp much colder than neighbors
+2023-03-07,480902,PISTOL DRAW,RAWS,RM02,hot,44.0,7,31.0,max temp much warmer than neighbors
+2023-03-07,55522274,GRAND MESA,RAWS,RM15,cold,22.0,6,34.4,max temp much colder than neighbors
+2023-03-07,ASOS-ATY,Watertown,ASOS,RM23,hot,24.1,6,15.2,max temp much warmer than neighbors
+2023-03-07,ASOS-DRO,Durango/La Plata Co,ASOS,RM19,cold,44.0,8,53.0,max temp much colder than neighbors
+2023-03-07,ASOS-LND,Lander/Hunt Field,ASOS,RM08,cold,15.1,3,25.0,max temp much colder than neighbors
+2023-03-07,ASOS-RIW,Riverton,ASOS,RM08,cold,14.0,4,24.9,max temp much colder than neighbors
+2023-03-07,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,35.6,6,43.7,max temp much colder than neighbors
+2023-03-08,395202,PORCUPINE,RAWS,RM24,hot,33.0,3,23.4,max temp much warmer than neighbors
+2023-03-08,480904,SPLIT ROCK CREEK,RAWS,RM02,hot,36.0,6,23.5,max temp much warmer than neighbors
+2023-03-08,481504,FALES ROCK,RAWS,RM08,cold,23.0,4,34.6,max temp much colder than neighbors
+2023-03-08,482011,COW CREEK,RAWS,RM10,hot,31.0,5,22.8,max temp much warmer than neighbors
+2023-03-08,482102,ESTERBROOK,RAWS,RM09,rain_alone,4.0,4,0.0,rain no neighbor saw
+2023-03-08,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,26.0,8,34.2,max temp much colder than neighbors
+2023-03-08,55522255,DRY CREEK,RAWS,RM02,hot,40.0,7,28.8,max temp much warmer than neighbors
+2023-03-08,ASOS-33V,Walden,ASOS,RM11,cold,32.0,8,40.6,max temp much colder than neighbors
+2023-03-08,ASOS-EAN,Wheatland,ASOS,RM25,hot,39.0,5,30.4,max temp much warmer than neighbors
+2023-03-08,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,36.0,8,45.6,max temp much colder than neighbors
+2023-03-09,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,12.0,6,30.2,max temp much colder than neighbors
+2023-03-09,ASOS-WLD,Winfield,ASOS,RM28,hot,59.0,8,49.3,max temp much warmer than neighbors
+2023-03-09,ASOS-WRL,Worland Municipal,ASOS,RM02,cold,26.1,6,36.5,max temp much colder than neighbors
+2023-03-10,390901,INDIAN BUTTE,RAWS,RM04,cold,29.0,5,50.6,max temp much colder than neighbors
+2023-03-10,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,38.0,6,29.4,max temp much warmer than neighbors
+2023-03-10,480804,GRASS CREEK DIVIDE,RAWS,RM02,hot,49.0,8,37.1,max temp much warmer than neighbors
+2023-03-10,482102,ESTERBROOK,RAWS,RM09,rain_alone,1.19,3,0.0,rain no neighbor saw
+2023-03-10,ASOS-2V6,Yuma,ASOS,RM25,cold,19.4,5,42.5,max temp much colder than neighbors
+2023-03-10,ASOS-EAN,Wheatland,ASOS,RM25,hot,58.6,5,49.2,max temp much warmer than neighbors
+2023-03-10,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,25.0,8,39.2,max temp much colder than neighbors
+2023-03-10,ASOS-RAP,Rapid City,ASOS,RM24,cold,33.0,8,50.5,max temp much colder than neighbors
+2023-03-10,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,33.8,8,50.3,max temp much colder than neighbors
+2023-03-10,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,33.0,3,52.0,max temp much colder than neighbors
+2023-03-11,51510,DEEP CREEK,RAWS,RM11,wet,1.92,8,0.39,far more rain than any neighbor
+2023-03-11,ASOS-2V6,Yuma,ASOS,RM25,cold,32.0,5,52.2,max temp much colder than neighbors
+2023-03-11,ASOS-4V0,Rangely,ASOS,RM14,cold,39.6,8,48.7,max temp much colder than neighbors
+2023-03-12,481412,SHARPNOSE,RAWS,RM08,hot,35.0,4,26.2,max temp much warmer than neighbors
+2023-03-12,53006,LOST PARK,RAWS,RM13,hot,43.0,8,33.2,max temp much warmer than neighbors
+2023-03-12,ASOS-2V6,Yuma,ASOS,RM25,cold,26.6,5,40.7,max temp much colder than neighbors
+2023-03-12,ASOS-LND,Lander/Hunt Field,ASOS,RM08,cold,25.0,3,35.0,max temp much colder than neighbors
+2023-03-12,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,19.4,7,29.7,max temp much colder than neighbors
+2023-03-12,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,23.0,6,32.4,max temp much colder than neighbors
+2023-03-13,390701,MARSHALL CO,RAWS,RM23,hot,32.0,6,15.5,max temp much warmer than neighbors
+2023-03-13,393101,HURON,RAWS,RM23,hot,31.0,3,22.8,max temp much warmer than neighbors
+2023-03-13,482106,DODGE CREEK,RAWS,RM09,cold,35.0,5,43.8,max temp much colder than neighbors
+2023-03-13,ASOS-2V6,Yuma,ASOS,RM25,cold,35.6,5,51.5,max temp much colder than neighbors
+2023-03-13,ASOS-LAR,Laramie/Gen. Brees,ASOS,RM12,hot,61.0,8,42.1,max temp much warmer than neighbors
+2023-03-13,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,19.4,7,31.7,max temp much colder than neighbors
+2023-03-13,ASOS-RAP,Rapid City,ASOS,RM24,cold,36.0,8,45.0,max temp much colder than neighbors
+2023-03-13,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,36.0,3,46.2,max temp much colder than neighbors
+2023-03-14,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,23.0,8,32.5,max temp much colder than neighbors
+2023-03-14,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,35.0,8,50.6,max temp much colder than neighbors
+2023-03-14,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,21.2,7,37.3,max temp much colder than neighbors
+2023-03-14,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,37.4,6,46.3,max temp much colder than neighbors
+2023-03-15,390901,INDIAN BUTTE,RAWS,RM04,cold,44.0,5,62.6,max temp much colder than neighbors
+2023-03-15,50305,INDEPENDENCE MOUNTAIN,RAWS,RM11,hot,45.0,8,35.7,max temp much warmer than neighbors
+2023-03-15,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,26.6,7,37.7,max temp much colder than neighbors
+2023-03-15,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,38.0,3,53.0,max temp much colder than neighbors
+2023-03-16,481412,SHARPNOSE,RAWS,RM08,hot,43.0,4,28.7,max temp much warmer than neighbors
+2023-03-16,52812,TAYLOR PARK,RAWS,RM17,hot,39.0,8,29.0,max temp much warmer than neighbors
+2023-03-16,55807,BIG BEAR PARK,RAWS,RM20,hot,40.0,8,29.0,max temp much warmer than neighbors
+2023-03-16,ASOS-LAR,Laramie/Gen. Brees,ASOS,RM12,hot,43.0,8,28.8,max temp much warmer than neighbors
+2023-03-17,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,3.2,8,17.6,max temp much colder than neighbors
+2023-03-17,ASOS-33V,Walden,ASOS,RM11,cold,17.6,8,27.9,max temp much colder than neighbors
+2023-03-17,ASOS-4BM,Wilkerson Pass,ASOS,RM18,cold,10.4,8,23.1,max temp much colder than neighbors
+2023-03-17,ASOS-5SM,Sunlight,ASOS,RM15,cold,14.0,8,22.7,max temp much colder than neighbors
+2023-03-17,ASOS-EEO,Meeker,ASOS,RM14,cold,28.0,8,36.9,max temp much colder than neighbors
+2023-03-17,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,14.0,6,22.6,max temp much colder than neighbors
+2023-03-18,480403,BURGESS,RAWS,RM03,hot,48.0,7,32.5,max temp much warmer than neighbors
+2023-03-18,53006,LOST PARK,RAWS,RM13,hot,33.0,8,24.8,max temp much warmer than neighbors
+2023-03-18,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,6.8,8,19.5,max temp much colder than neighbors
+2023-03-18,ASOS-33V,Walden,ASOS,RM11,cold,15.8,8,31.9,max temp much colder than neighbors
+2023-03-18,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,21.0,8,42.1,max temp much colder than neighbors
+2023-03-18,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,23.0,8,41.1,max temp much colder than neighbors
+2023-03-18,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,14.0,7,26.7,max temp much colder than neighbors
+2023-03-19,ASOS-EMM,Kemmerer,ASOS,RM07,cold,5.0,6,35.9,max temp much colder than neighbors
+2023-03-19,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,25.0,8,42.6,max temp much colder than neighbors
+2023-03-19,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,23.0,6,32.9,max temp much colder than neighbors
+2023-03-20,51506,THE CROWN,RAWS,RM15,hot,45.0,8,34.5,max temp much warmer than neighbors
+2023-03-20,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,17.6,7,28.8,max temp much colder than neighbors
+2023-03-21,481903,ANDERSON RIDGE,RAWS,RM07,cold,22.0,3,31.0,max temp much colder than neighbors
+2023-03-21,482106,DODGE CREEK,RAWS,RM09,cold,30.0,5,39.0,max temp much colder than neighbors
+2023-03-21,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,24.1,6,36.2,max temp much colder than neighbors
+2023-03-21,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,26.6,6,35.8,max temp much colder than neighbors
+2023-03-21,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,30.2,6,38.5,max temp much colder than neighbors
+2023-03-22,480606,DEVILS TOWER,RAWS,RM04,hot,46.0,5,37.6,max temp much warmer than neighbors
+2023-03-22,481502,CASPER MOUNTAIN,RAWS,RM08,hot,35.0,3,22.2,max temp much warmer than neighbors
+2023-03-22,50406,PORCUPINE CR.,RAWS,RM11,hot,41.0,8,32.0,max temp much warmer than neighbors
+2023-03-22,51703,SODA CREEK,RAWS,RM15,hot,42.0,8,33.2,max temp much warmer than neighbors
+2023-03-22,55807,BIG BEAR PARK,RAWS,RM20,missed,0.0,8,0.6,no rain while most neighbors got rain
+2023-03-22,ASOS-K88,Iola,ASOS,RM28,cold,63.9,8,77.8,max temp much colder than neighbors
+2023-03-22,ASOS-RSL,Russell,ASOS,RM28,cold,46.0,3,56.1,max temp much colder than neighbors
+2023-03-22,ASOS-TQK,Scott City,ASOS,RM27,cold,60.6,3,79.7,max temp much colder than neighbors
+2023-03-22,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,32.0,6,41.5,max temp much colder than neighbors
+2023-03-23,145801,STATE LINE,RAWS,RM28,hot,69.0,7,54.2,max temp much warmer than neighbors
+2023-03-23,482106,DODGE CREEK,RAWS,RM09,cold,31.0,5,40.9,max temp much colder than neighbors
+2023-03-23,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,12.2,8,23.3,max temp much colder than neighbors
+2023-03-23,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,27.0,6,37.2,max temp much colder than neighbors
+2023-03-23,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,17.6,7,28.8,max temp much colder than neighbors
+2023-03-23,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,30.2,6,38.8,max temp much colder than neighbors
+2023-03-23,ASOS-PTT,Pratt,ASOS,RM28,hot,69.8,3,53.4,max temp much warmer than neighbors
+2023-03-23,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,28.4,6,37.3,max temp much colder than neighbors
+2023-03-24,482106,DODGE CREEK,RAWS,RM09,cold,33.0,5,42.9,max temp much colder than neighbors
+2023-03-24,50404,GUNSIGHT,RAWS,RM11,hot,43.0,8,33.7,max temp much warmer than neighbors
+2023-03-24,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,23.0,6,33.3,max temp much colder than neighbors
+2023-03-25,480606,DEVILS TOWER,RAWS,RM04,hot,45.0,5,36.8,max temp much warmer than neighbors
+2023-03-25,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,17.0,5,25.6,max temp much colder than neighbors
+2023-03-26,482106,DODGE CREEK,RAWS,RM09,cold,22.0,5,31.9,max temp much colder than neighbors
+2023-03-26,51506,THE CROWN,RAWS,RM15,hot,36.0,8,25.6,max temp much warmer than neighbors
+2023-03-26,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,16.0,6,26.2,max temp much colder than neighbors
+2023-03-26,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,18.0,7,28.5,max temp much colder than neighbors
+2023-03-26,ASOS-SNY,Sidney,ASOS,RM25,cold,33.0,5,41.2,max temp much colder than neighbors
+2023-03-27,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,16.0,6,28.3,max temp much colder than neighbors
+2023-03-27,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,21.9,7,30.0,max temp much colder than neighbors
+2023-03-27,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,14.0,6,28.9,max temp much colder than neighbors
+2023-03-28,54704,NEEDLE CREEK,RAWS,RM17,cold,26.0,8,42.0,max temp much colder than neighbors
+2023-03-28,ASOS-20V,Kremmling,ASOS,RM11,cold,23.0,8,42.8,max temp much colder than neighbors
+2023-03-28,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,hot,49.0,3,40.8,max temp much warmer than neighbors
+2023-03-28,ASOS-FNL,Fort Collins (Awos),ASOS,RM12,cold,38.0,8,46.8,max temp much colder than neighbors
+2023-03-28,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,21.9,8,47.3,max temp much colder than neighbors
+2023-03-28,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,38.0,8,47.6,max temp much colder than neighbors
+2023-03-28,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,32.0,6,40.8,max temp much colder than neighbors
+2023-03-29,51510,DEEP CREEK,RAWS,RM11,cold,26.0,8,43.2,max temp much colder than neighbors
+2023-03-29,51703,SODA CREEK,RAWS,RM15,hot,55.0,8,46.2,max temp much warmer than neighbors
+2023-03-29,ASOS-33V,Walden,ASOS,RM11,cold,42.8,8,51.1,max temp much colder than neighbors
+2023-03-29,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,cold,38.0,3,50.8,max temp much colder than neighbors
+2023-03-29,ASOS-EAN,Wheatland,ASOS,RM25,hot,52.3,5,40.6,max temp much warmer than neighbors
+2023-03-29,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,33.0,8,54.7,max temp much colder than neighbors
+2023-03-29,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,41.0,6,49.7,max temp much colder than neighbors
+2023-03-30,482106,DODGE CREEK,RAWS,RM09,cold,47.0,5,55.7,max temp much colder than neighbors
+2023-03-30,ASOS-1NW,Raymer,ASOS,RM25,cold,50.7,8,65.4,max temp much colder than neighbors
+2023-03-30,ASOS-AKO,Akron/Washington Co,ASOS,RM25,hot,67.0,5,51.1,max temp much warmer than neighbors
+2023-03-30,ASOS-MCK,Mccook,ASOS,RM26,cold,66.0,3,78.1,max temp much colder than neighbors
+2023-03-30,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,37.4,6,46.2,max temp much colder than neighbors
+2023-03-31,481411,WIND RIVER,RAWS,RM08,hot,37.0,4,26.0,max temp much warmer than neighbors
+2023-03-31,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,27.0,5,35.7,max temp much colder than neighbors
+2023-04-01,481903,ANDERSON RIDGE,RAWS,RM07,cold,29.0,3,39.0,max temp much colder than neighbors
+2023-04-01,55522274,GRAND MESA,RAWS,RM15,hot,55.0,6,38.3,max temp much warmer than neighbors
+2023-04-01,ASOS-CDR,Chadron,ASOS,RM24,cold,47.0,5,58.1,max temp much colder than neighbors
+2023-04-01,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,hot,55.0,3,46.8,max temp much warmer than neighbors
+2023-04-01,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,hot,71.0,8,53.1,max temp much warmer than neighbors
+2023-04-01,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,37.0,8,50.9,max temp much colder than neighbors
+2023-04-01,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,39.2,6,50.4,max temp much colder than neighbors
+2023-04-02,393101,HURON,RAWS,RM23,cold,43.0,3,53.0,max temp much colder than neighbors
+2023-04-02,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,31.0,5,47.0,max temp much colder than neighbors
+2023-04-02,482106,DODGE CREEK,RAWS,RM09,cold,35.0,5,45.4,max temp much colder than neighbors
+2023-04-02,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,28.0,8,47.3,max temp much colder than neighbors
+2023-04-02,55522274,GRAND MESA,RAWS,RM15,hot,56.0,6,41.8,max temp much warmer than neighbors
+2023-04-02,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,33.8,8,57.6,max temp much colder than neighbors
+2023-04-02,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,hot,67.0,8,46.6,max temp much warmer than neighbors
+2023-04-02,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,42.8,6,52.7,max temp much colder than neighbors
+2023-04-03,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,28.0,8,46.1,max temp much colder than neighbors
+2023-04-03,ASOS-ANK,Salida,ASOS,RM17,hot,62.2,8,53.3,max temp much warmer than neighbors
+2023-04-03,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,hot,61.0,8,40.3,max temp much warmer than neighbors
+2023-04-04,53102,CHEESMAN,RAWS,RM18,cold,33.0,8,44.9,max temp much colder than neighbors
+2023-04-04,ASOS-3K3,Syracuse,ASOS,RM27,cold,60.8,4,69.3,max temp much colder than neighbors
+2023-04-04,ASOS-BIE,Beatrice Municip,ASOS,RM26,hot,82.0,3,70.5,max temp much warmer than neighbors
+2023-04-04,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,hot,53.0,8,32.7,max temp much warmer than neighbors
+2023-04-04,ASOS-RSL,Russell,ASOS,RM28,cold,67.0,3,84.1,max temp much colder than neighbors
+2023-04-04,ASOS-TQK,Scott City,ASOS,RM27,cold,55.4,3,70.1,max temp much colder than neighbors
+2023-04-05,481412,SHARPNOSE,RAWS,RM08,hot,36.0,3,24.9,max temp much warmer than neighbors
+2023-04-05,481502,CASPER MOUNTAIN,RAWS,RM08,hot,26.0,3,17.2,max temp much warmer than neighbors
+2023-04-05,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,hot,69.0,8,39.8,max temp much warmer than neighbors
+2023-04-05,ASOS-TOR,Torrington Municipal Airport,ASOS,RM25,hot,51.0,8,33.2,max temp much warmer than neighbors
+2023-04-06,392603,MT. RUSHMORE,RAWS,RM05,hot,51.0,8,41.6,max temp much warmer than neighbors
+2023-04-06,393101,HURON,RAWS,RM23,cold,37.0,3,46.0,max temp much colder than neighbors
+2023-04-06,483101,GUERNSEY,RAWS,RM25,hot,46.0,6,36.1,max temp much warmer than neighbors
+2023-04-06,55522274,GRAND MESA,RAWS,RM15,hot,58.0,6,30.8,max temp much warmer than neighbors
+2023-04-06,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,26.6,6,36.3,max temp much colder than neighbors
+2023-04-06,ASOS-TOR,Torrington Municipal Airport,ASOS,RM25,hot,54.0,8,43.4,max temp much warmer than neighbors
+2023-04-07,250103,MONTROSE,RAWS,RM24,cold,48.0,5,61.7,max temp much colder than neighbors
+2023-04-07,51510,DEEP CREEK,RAWS,RM11,cold,27.0,8,46.8,max temp much colder than neighbors
+2023-04-07,55522274,GRAND MESA,RAWS,RM15,hot,58.0,6,46.6,max temp much warmer than neighbors
+2023-04-07,ASOS-20V,Kremmling,ASOS,RM11,cold,42.8,8,54.1,max temp much colder than neighbors
+2023-04-07,ASOS-DGW,Douglas/Converse County Airport,ASOS,RM04,cold,44.0,3,53.5,max temp much colder than neighbors
+2023-04-07,ASOS-FSD,Sioux Falls,ASOS,RM23,hot,61.0,3,44.9,max temp much warmer than neighbors
+2023-04-07,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,hot,74.0,8,58.3,max temp much warmer than neighbors
+2023-04-07,ASOS-GRN,Gordon,ASOS,RM24,hot,65.0,4,54.5,max temp much warmer than neighbors
+2023-04-07,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,40.0,8,56.8,max temp much colder than neighbors
+2023-04-08,481502,CASPER MOUNTAIN,RAWS,RM08,hot,46.0,3,37.2,max temp much warmer than neighbors
+2023-04-08,51404,DEAD HORSE,RAWS,RM11,cold,26.0,8,44.9,max temp much colder than neighbors
+2023-04-08,51510,DEEP CREEK,RAWS,RM11,cold,30.0,8,45.1,max temp much colder than neighbors
+2023-04-08,55522274,GRAND MESA,RAWS,RM15,hot,53.0,6,44.4,max temp much warmer than neighbors
+2023-04-08,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,28.4,7,36.6,max temp much colder than neighbors
+2023-04-08,ASOS-HDN,Hayden/Yampa (Awos),ASOS,RM10,cold,36.0,8,50.6,max temp much colder than neighbors
+2023-04-08,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,35.6,6,47.0,max temp much colder than neighbors
+2023-04-09,390701,MARSHALL CO,RAWS,RM23,hot,50.0,6,38.5,max temp much warmer than neighbors
+2023-04-09,482106,DODGE CREEK,RAWS,RM09,cold,42.0,5,51.4,max temp much colder than neighbors
+2023-04-09,51404,DEAD HORSE,RAWS,RM11,cold,27.0,8,50.9,max temp much colder than neighbors
+2023-04-09,51510,DEEP CREEK,RAWS,RM11,cold,33.0,8,50.3,max temp much colder than neighbors
+2023-04-09,55522274,GRAND MESA,RAWS,RM15,hot,62.0,6,49.2,max temp much warmer than neighbors
+2023-04-09,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,28.4,7,38.0,max temp much colder than neighbors
+2023-04-09,ASOS-BPI,Big Piney - Marbleton,ASOS,RM07,cold,39.0,6,51.3,max temp much colder than neighbors
+2023-04-09,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,41.0,8,61.6,max temp much colder than neighbors
+2023-04-09,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,50.0,8,58.7,max temp much colder than neighbors
+2023-04-09,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,42.8,6,53.3,max temp much colder than neighbors
+2023-04-09,ASOS-TOR,Torrington Municipal Airport,ASOS,RM25,hot,78.0,8,63.3,max temp much warmer than neighbors
+2023-04-10,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,47.0,5,59.6,max temp much colder than neighbors
+2023-04-10,482106,DODGE CREEK,RAWS,RM09,cold,52.0,5,62.9,max temp much colder than neighbors
+2023-04-10,51404,DEAD HORSE,RAWS,RM11,cold,29.0,8,56.8,max temp much colder than neighbors
+2023-04-10,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,31.0,8,58.8,max temp much colder than neighbors
+2023-04-10,54704,NEEDLE CREEK,RAWS,RM17,cold,53.0,8,64.6,max temp much colder than neighbors
+2023-04-10,55522255,DRY CREEK,RAWS,RM02,cold,60.0,6,68.3,max temp much colder than neighbors
+2023-04-10,55522274,GRAND MESA,RAWS,RM15,hot,68.0,6,54.4,max temp much warmer than neighbors
+2023-04-10,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,37.4,8,47.7,max temp much colder than neighbors
+2023-04-10,ASOS-33V,Walden,ASOS,RM11,cold,51.8,8,59.9,max temp much colder than neighbors
+2023-04-10,ASOS-ITR,Burlington,ASOS,RM27,hot,82.0,3,73.0,max temp much warmer than neighbors
+2023-04-10,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,44.6,6,61.5,max temp much colder than neighbors
+2023-04-10,ASOS-SBS,Steamboat Springs,ASOS,RM11,cold,50.0,8,64.4,max temp much colder than neighbors
+2023-04-10,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,68.0,3,78.5,max temp much colder than neighbors
+2023-04-10,ASOS-TOR,Torrington Municipal Airport,ASOS,RM25,hot,92.0,8,74.4,max temp much warmer than neighbors
+2023-04-11,481903,ANDERSON RIDGE,RAWS,RM07,cold,43.0,3,60.0,max temp much colder than neighbors
+2023-04-11,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,52.0,5,64.6,max temp much colder than neighbors
+2023-04-11,482011,COW CREEK,RAWS,RM10,cold,52.0,5,62.5,max temp much colder than neighbors
+2023-04-11,ASOS-GUC,Gunnison Co. (Awos),ASOS,RM17,cold,53.0,8,70.3,max temp much colder than neighbors
+2023-04-11,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,46.4,7,54.7,max temp much colder than neighbors
+2023-04-11,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,42.8,6,57.1,max temp much colder than neighbors
+2023-04-12,393506,CUSTER,RAWS,RM05,hot,72.0,8,62.4,max temp much warmer than neighbors
+2023-04-12,481904,SNOW SPRINGS CREEK,RAWS,RM07,cold,51.0,5,63.0,max temp much colder than neighbors
+2023-04-12,482011,COW CREEK,RAWS,RM10,cold,53.0,5,61.6,max temp much colder than neighbors
+2023-04-12,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,50.0,7,63.0,max temp much colder than neighbors
+2023-04-12,ASOS-PSO,Pagosa Springs,ASOS,RM19,cold,55.8,8,69.8,max temp much colder than neighbors
+2023-04-12,ASOS-TOR,Torrington Municipal Airport,ASOS,RM25,hot,100.0,8,85.5,max temp much warmer than neighbors
+2023-04-13,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,43.0,3,53.0,max temp much colder than neighbors
+2023-04-14,390701,MARSHALL CO,RAWS,RM23,hot,55.0,6,41.5,max temp much warmer than neighbors
+2023-04-14,52812,TAYLOR PARK,RAWS,RM17,hot,45.0,8,35.2,max temp much warmer than neighbors
+2023-04-14,ASOS-33V,Walden,ASOS,RM11,cold,32.0,8,40.9,max temp much colder than neighbors
+2023-04-14,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,30.9,7,39.7,max temp much colder than neighbors
+2023-04-14,ASOS-ITR,Burlington,ASOS,RM27,hot,77.0,3,60.2,max temp much warmer than neighbors
+2023-04-15,142301,POTAWATOMI,RAWS,RM28,cold,56.0,4,66.5,max temp much colder than neighbors
+2023-04-15,481903,ANDERSON RIDGE,RAWS,RM07,cold,29.0,3,37.0,max temp much colder than neighbors
+2023-04-15,55522274,GRAND MESA,RAWS,RM15,hot,57.0,6,34.3,max temp much warmer than neighbors
+2023-04-15,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,10.4,8,22.3,max temp much colder than neighbors
+2023-04-15,ASOS-TBX,Boysen Peak,ASOS,RM02,cold,32.0,6,40.2,max temp much colder than neighbors
+2023-04-16,481903,ANDERSON RIDGE,RAWS,RM07,cold,41.0,3,52.0,max temp much colder than neighbors
+2023-04-16,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,32.0,8,49.8,max temp much colder than neighbors
+2023-04-16,55522274,GRAND MESA,RAWS,RM15,hot,58.0,6,46.3,max temp much warmer than neighbors
+2023-04-16,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,47.0,7,62.1,max temp much colder than neighbors
+2023-04-16,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,44.6,6,52.7,max temp much colder than neighbors
+2023-04-17,481903,ANDERSON RIDGE,RAWS,RM07,cold,43.0,3,57.0,max temp much colder than neighbors
+2023-04-17,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,32.0,8,55.3,max temp much colder than neighbors
+2023-04-17,ASOS-PNA,Pinedale/Ralph Wenz Field,ASOS,RM07,cold,42.8,6,53.6,max temp much colder than neighbors
+2023-04-17,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,50.0,6,58.6,max temp much colder than neighbors
+2023-04-18,390901,INDIAN BUTTE,RAWS,RM04,cold,51.0,5,61.8,max temp much colder than neighbors
+2023-04-18,392608,RAPID CITY WEST,RAWS,RM05,cold,61.0,8,69.3,max temp much colder than neighbors
+2023-04-18,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,32.0,8,52.1,max temp much colder than neighbors
+2023-04-18,ASOS-LNK,Lincoln,ASOS,RM26,missed,0.0,3,0.5,no rain while most neighbors got rain
+2023-04-18,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,61.5,8,71.3,max temp much colder than neighbors
+2023-04-19,481903,ANDERSON RIDGE,RAWS,RM07,cold,23.0,3,34.0,max temp much colder than neighbors
+2023-04-19,482102,ESTERBROOK,RAWS,RM09,cold,36.0,5,44.2,max temp much colder than neighbors
+2023-04-19,482106,DODGE CREEK,RAWS,RM09,cold,32.0,5,42.0,max temp much colder than neighbors
+2023-04-19,ASOS-FOE,Topeka (Foe),ASOS,RM28,wet,1.19,4,0.29,far more rain than any neighbor
+2023-04-19,ASOS-SPD,Springfield/Comanche Natl Grass,ASOS,RM27,cold,56.0,3,82.1,max temp much colder than neighbors
+2023-04-20,481903,ANDERSON RIDGE,RAWS,RM07,cold,27.0,3,37.0,max temp much colder than neighbors
+2023-04-20,55522274,GRAND MESA,RAWS,RM15,hot,43.0,6,29.3,max temp much warmer than neighbors
+2023-04-20,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,5.0,8,15.5,max temp much colder than neighbors
+2023-04-20,ASOS-HLC,Hill_City,ASOS,RM28,cold,44.6,4,61.2,max temp much colder than neighbors
+2023-04-20,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,12.2,7,22.8,max temp much colder than neighbors
+2023-04-21,ASOS-ECS,Newcastle,ASOS,RM04,cold,32.0,8,42.2,max temp much colder than neighbors
+2023-04-21,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,8.6,7,26.1,max temp much colder than neighbors
+2023-04-22,55522274,GRAND MESA,RAWS,RM15,hot,57.0,6,33.6,max temp much warmer than neighbors
+2023-04-22,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,12.2,8,23.4,max temp much colder than neighbors
+2023-04-23,481903,ANDERSON RIDGE,RAWS,RM07,cold,34.0,3,43.0,max temp much colder than neighbors
+2023-04-23,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,32.0,8,46.9,max temp much colder than neighbors
+2023-04-23,53005,KENOSHA PASS,RAWS,RM18,hot,49.0,8,39.3,max temp much warmer than neighbors
+2023-04-23,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,23.0,8,34.9,max temp much colder than neighbors
+2023-04-23,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,32.0,7,40.3,max temp much colder than neighbors
+2023-04-23,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,33.8,6,50.1,max temp much colder than neighbors
+2023-04-24,481903,ANDERSON RIDGE,RAWS,RM07,cold,40.0,3,49.0,max temp much colder than neighbors
+2023-04-24,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,33.0,8,50.6,max temp much colder than neighbors
+2023-04-24,55522274,GRAND MESA,RAWS,RM15,hot,54.0,6,44.8,max temp much warmer than neighbors
+2023-04-24,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,26.6,7,42.3,max temp much colder than neighbors
+2023-04-24,ASOS-SPD,Springfield/Comanche Natl Grass,ASOS,RM27,hot,67.0,3,57.1,max temp much warmer than neighbors
+2023-04-25,55522274,GRAND MESA,RAWS,RM15,hot,52.0,6,31.7,max temp much warmer than neighbors
+2023-04-25,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,39.2,6,50.0,max temp much colder than neighbors
+2023-04-26,481903,ANDERSON RIDGE,RAWS,RM07,cold,41.0,3,54.0,max temp much colder than neighbors
+2023-04-26,51508,STORM KING MOUNTAIN,RAWS,RM15,cold,34.0,8,50.4,max temp much colder than neighbors
+2023-04-26,53006,LOST PARK,RAWS,RM13,hot,50.0,8,39.4,max temp much warmer than neighbors
+2023-04-26,54702,LUJAN,RAWS,RM17,hot,48.0,8,39.4,max temp much warmer than neighbors
+2023-04-26,55522274,GRAND MESA,RAWS,RM15,hot,64.0,6,43.9,max temp much warmer than neighbors
+2023-04-26,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,28.4,8,37.6,max temp much colder than neighbors
+2023-04-26,ASOS-1D1,Milbank,ASOS,RM23,cold,37.4,8,67.3,max temp much colder than neighbors
+2023-04-26,ASOS-5SM,Sunlight,ASOS,RM15,cold,33.8,8,43.5,max temp much colder than neighbors
+2023-04-26,ASOS-C99,Dakota Hills,ASOS,RM13,cold,32.0,8,43.0,max temp much colder than neighbors
+2023-04-26,ASOS-EVW,Evanston/Burns Fld,ASOS,RM07,cold,44.0,8,54.2,max temp much colder than neighbors
+2023-04-26,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,28.4,7,36.9,max temp much colder than neighbors
+2023-04-27,481903,ANDERSON RIDGE,RAWS,RM07,cold,44.0,3,53.0,max temp much colder than neighbors
+2023-04-27,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,32.0,7,42.7,max temp much colder than neighbors
+2023-04-27,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,44.6,6,56.1,max temp much colder than neighbors
+2023-04-28,55522274,GRAND MESA,RAWS,RM15,hot,55.0,6,43.7,max temp much warmer than neighbors
+2023-04-28,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,39.2,8,53.2,max temp much colder than neighbors
+2023-04-29,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,33.8,8,44.7,max temp much colder than neighbors
+2023-04-29,ASOS-5SM,Sunlight,ASOS,RM15,cold,44.6,8,52.8,max temp much colder than neighbors
+2023-04-29,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,41.0,7,50.8,max temp much colder than neighbors
+2023-04-30,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,33.8,8,45.6,max temp much colder than neighbors
+2023-04-30,ASOS-5SM,Sunlight,ASOS,RM15,cold,46.4,8,55.7,max temp much colder than neighbors
+2023-04-30,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,44.6,8,64.2,max temp much colder than neighbors
+2023-04-30,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,41.0,7,50.4,max temp much colder than neighbors
 2026-11-08,50505,REDFEATHER,RAWS,RM13,hot,65.0,8,55.9,max temp much warmer than neighbors
 2026-11-08,56203,BOSQUE,RAWS,RM22,hot,63.0,7,54.6,max temp much warmer than neighbors
 2026-11-08,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,50.0,8,68.1,max temp much colder than neighbors
