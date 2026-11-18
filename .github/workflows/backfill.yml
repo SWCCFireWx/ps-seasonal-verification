@@ -46,10 +46,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Load past outlooks from the NIFC archive (first run only)
+      - name: Install the map-reading tools
+        run: pip install --quiet numpy scipy pillow
+
+      - name: Past outlooks from the NIFC archive (only issues not loaded yet; maps are read for PSA categories)
         continue-on-error: true
         run: |
-          if [ -f data/archive_import_log.csv ]; then echo "Already loaded."; else python scripts/import_archive.py; fi
+          python scripts/import_archive.py
+          python scripts/import_archive.py --from-saved
 
       - name: Fire records far enough back for every archived outlook
         continue-on-error: true
