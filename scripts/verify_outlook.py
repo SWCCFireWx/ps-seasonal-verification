@@ -1,24 +1,32 @@
 #!/usr/bin/env python3
 """
-Score every archived monthly outlook (Month 1 to Month 4) against what happened, PSA by PSA.
+Score every archived monthly outlook (Month 1 to Month 4) against what happened, PSA by PSA,
+using several separate measures, each giving Above / Normal / Below for the PSA and month:
 
-Observed category for a PSA and month (counts decide):
-  * fires = significant fires (sig_fire_acres or larger) discovered in that PSA that month
-  * normal = the same calendar month in the previous normal_years years (only years on file):
-    low = the bottom-third mark, high = the top-third mark of those yearly counts
-  * Above  if fires > high and fires >= min_fires_for_above
-    Below  if fires < low
-    Normal otherwise
-  The same is worked out from acres burned by those fires and shown beside it, but doesn't decide.
+  count    Significant fires vs past years (the official measure): fires that reached sig_fire_acres,
+           compared with the same month in the previous normal_years years. Above = more than the
+           top third of those years (and at least min_fires_for_above fires), Below = fewer than the
+           bottom third.
+  chance   The same fire count, judged by how unusual it is for that PSA's average (a Poisson chance):
+           Above if a count this high happens less than 1 time in 3 at that average, Below if a count
+           this low does. Behaves sensibly when the average is a fraction of a fire.
+  acres    Acres burned by those fires vs past years (top / bottom third).
+  f209     Fires with an ICS-209 report (the fires that needed more than initial attack) vs past years.
+  fuels    Days the PSA's ERC reached its stations' 90th percentile. Normally about 1 day in 10:
+           Above if fuels_above_share (20%) of days or more, Below if fuels_below_share (3%) or fewer.
+  overall  The four measures above that aren't the official one's twin (chance, acres, f209, fuels)
+           combined: Above = +1, Normal = 0, Below = -1, averaged; Above if the average is 1/3 or more,
+           Below if -1/3 or less. Needs at least two measures.
 
-Outcome: Correct (same category), One category off (Above or Below vs Normal), Opposite (Above vs Below).
-Status: "in progress" during the month, "provisional" for 30 days after it ends (sizes and late reports
-still settle), then "final".
+Outcome (official measure): Correct, One category off, Opposite.
+Status: "in progress" during the month, "provisional" for 30 days after it ends, then "final".
+Also written: the normal fire average (used to weight scores and to pick out quiet months on the site).
 
 Writes data/<GACC>/verification.csv. Usage: python scripts/verify_outlook.py [--today YYYY-MM-DD]
 """
 
 import argparse
+import math
 import os
 import sys
 from collections import defaultdict
@@ -28,10 +36,16 @@ from zoneinfo import ZoneInfo
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import gaccs  # noqa: E402
 
-COLS = ["issue_month", "lead", "valid_month", "psa", "forecast", "obs_fires", "obs_acres", "normal_years", "normal_counts",
-        "normal_mean", "normal_low", "normal_high", "obs_category", "acres_mean", "acres_low", "acres_high", "acres_category",
+COLS = ["issue_month", "lead", "valid_month", "psa", "forecast",
+        "obs_fires", "obs_acres", "normal_years", "normal_counts", "normal_mean", "normal_low", "normal_high", "obs_category",
+        "chance_high", "chance_low", "chance_category",
+        "acres_mean", "acres_low", "acres_high", "acres_category",
+        "fires_209", "f209_mean", "f209_low", "f209_high", "f209_category",
+        "fuel_days", "fuel_hot_days", "fuel_share", "fuels_category",
+        "overall_score", "overall_measures", "overall_category",
         "outcome", "status"]
 RANK = {"Below": 0, "Normal": 1, "Above": 2}
+VAL = {"Below": -1, "Normal": 0, "Above": 1}
 MIN_YEARS = 3
 
 
@@ -51,12 +65,35 @@ def first_history_year():
     return first
 
 
-def category(v, lo, hi, min_above=0):
+def tercile(v, lo, hi, min_above=0):
     if v > hi and v >= min_above:
         return "Above"
     if v < lo:
         return "Below"
     return "Normal"
+
+
+def poisson_cdf(k, lam):
+    """P(X <= k) for a Poisson average lam."""
+    if k < 0:
+        return 0.0
+    if lam <= 0:
+        return 1.0
+    term = total = math.exp(-lam)
+    for i in range(1, int(k) + 1):
+        term *= lam / i
+        total += term
+    return min(1.0, total)
+
+
+def chance(n, lam, min_above):
+    """(chance of a count this high or higher, chance of this low or lower, category)."""
+    p_high = 1.0 - poisson_cdf(n - 1, lam)
+    p_low = poisson_cdf(n, lam)
+    if lam <= 0:
+        p_high = 0.0 if n > 0 else 1.0
+    cat = "Above" if p_high <= 1 / 3 and n >= min_above else "Below" if p_low <= 1 / 3 else "Normal"
+    return round(p_high, 3), round(p_low, 3), cat
 
 
 def outcome(f, o):
@@ -85,8 +122,12 @@ def main():
             continue
         counts = defaultdict(dict)
         for r in gaccs.read_csv(os.path.join(gdir, "fire_counts.csv")):
-            counts[r["month"]][r["psa"]] = (int(float(r["sig_fires"] or 0)), float(r["sig_acres"] or 0))
+            counts[r["month"]][r["psa"]] = (int(float(r.get("sig_fires") or 0)), float(r.get("sig_acres") or 0),
+                                            int(float(r.get("fires_209") or 0)))
+        wx = {(r["month"], r["psa"]): r for r in gaccs.read_csv(os.path.join(gdir, "psa_monthly.csv"))}
+        has209 = any(v[2] > 0 for mm in counts.values() for v in mm.values())   # no 209 records at all: leave that measure out
         n_years, min_above = int(cfg.get("normal_years") or 10), int(cfg.get("min_fires_for_above") or 1)
+        f_hi, f_lo, f_days = float(cfg.get("fuels_above_share") or .2), float(cfg.get("fuels_below_share") or .03), int(cfg.get("min_fuel_days") or 15)
         out = []
         for r in ol:
             vm = r["valid_month"]
@@ -94,19 +135,39 @@ def main():
                 continue
             y, m = int(vm[:4]), vm[5:]
             yrs = [yy for yy in range(y - n_years, y) if fy is not None and yy >= fy]
-            n, ac = counts.get(vm, {}).get(r["psa"], (0, 0.0))
+            n, ac, n209 = counts.get(vm, {}).get(r["psa"], (0, 0.0, 0))
             row = {"issue_month": r["issue_month"], "lead": r["lead"], "valid_month": vm, "psa": r["psa"], "forecast": r["potential"],
-                   "obs_fires": n, "obs_acres": round(ac)}
+                   "obs_fires": n, "obs_acres": round(ac), "fires_209": n209}
+            votes = []
             if len(yrs) >= MIN_YEARS:
-                cs = [counts.get(f"{yy}-{m}", {}).get(r["psa"], (0, 0.0))[0] for yy in yrs]
-                aa = [counts.get(f"{yy}-{m}", {}).get(r["psa"], (0, 0.0))[1] for yy in yrs]
+                past = [counts.get(f"{yy}-{m}", {}).get(r["psa"], (0, 0.0, 0)) for yy in yrs]
+                cs, aa, ff = [p[0] for p in past], [p[1] for p in past], [p[2] for p in past]
                 lo, hi = gaccs.pctl(cs, 100 / 3), gaccs.pctl(cs, 200 / 3)
                 alo, ahi = gaccs.pctl(aa, 100 / 3), gaccs.pctl(aa, 200 / 3)
-                oc = category(n, lo, hi, min_above)
-                row.update(normal_years=f"{yrs[0]}-{yrs[-1]}", normal_counts=";".join(map(str, cs)), normal_mean=round(sum(cs) / len(cs), 2),
-                           normal_low=round(lo, 2), normal_high=round(hi, 2), obs_category=oc,
+                flo, fhi = gaccs.pctl(ff, 100 / 3), gaccs.pctl(ff, 200 / 3)
+                mean = sum(cs) / len(cs)
+                ph, pl, ccat = chance(n, mean, min_above)
+                row.update(normal_years=f"{yrs[0]}-{yrs[-1]}", normal_counts=";".join(map(str, cs)), normal_mean=round(mean, 2),
+                           normal_low=round(lo, 2), normal_high=round(hi, 2), obs_category=tercile(n, lo, hi, min_above),
+                           chance_high=ph, chance_low=pl, chance_category=ccat,
                            acres_mean=round(sum(aa) / len(aa)), acres_low=round(alo), acres_high=round(ahi),
-                           acres_category=category(ac, alo, ahi, 1))
+                           acres_category=tercile(ac, alo, ahi, 1),
+                           )
+                votes += [row["chance_category"], row["acres_category"]]
+                if has209:
+                    row.update(f209_mean=round(sum(ff) / len(ff), 2), f209_low=round(flo, 2), f209_high=round(fhi, 2),
+                               f209_category=tercile(n209, flo, fhi, 1))
+                    votes.append(row["f209_category"])
+            w = wx.get((vm, r["psa"]))
+            if w and str(w.get("erc_days") or "").isdigit() and int(w["erc_days"]) >= f_days and w.get("erc_90_days") not in (None, ""):
+                share = int(float(w["erc_90_days"])) / int(w["erc_days"])
+                row.update(fuel_days=w["erc_days"], fuel_hot_days=int(float(w["erc_90_days"])), fuel_share=round(share, 3),
+                           fuels_category="Above" if share >= f_hi else "Below" if share <= f_lo else "Normal")
+                votes.append(row["fuels_category"])
+            if len(votes) >= 2:
+                sc = sum(VAL[v] for v in votes) / len(votes)
+                row.update(overall_score=round(sc, 2), overall_measures=len(votes),
+                           overall_category="Above" if sc >= 1 / 3 - 1e-9 else "Below" if sc <= -1 / 3 + 1e-9 else "Normal")
             row["outcome"] = outcome(row["forecast"], row.get("obs_category", ""))
             end = gaccs.month_end(vm)
             row["status"] = "in progress" if vm == cur else "provisional" if today <= end + timedelta(days=30) else "final"
@@ -115,7 +176,9 @@ def main():
         gaccs.write_csv(os.path.join(gdir, "verification.csv"), out, COLS)
         done = [x for x in out if x["status"] != "in progress" and x.get("outcome") in ("Correct", "One category off", "Opposite")]
         ok = sum(1 for x in done if x["outcome"] == "Correct")
-        print(f"{g}: {len(out)} PSA-months scored ({len(done)} complete; {ok} correct)" + ("" if fy else " - no fire history yet"))
+        fuels = sum(1 for x in out if x.get("fuels_category"))
+        print(f"{g}: {len(out)} PSA-months scored ({len(done)} complete; {ok} correct by fire count; {fuels} with a fuels result)"
+              + ("" if fy else " - no fire history yet"))
     return 0
 
 
