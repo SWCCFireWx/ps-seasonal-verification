@@ -59,6 +59,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install the map-reading tools
+        if: github.event_name != 'schedule' || github.event.schedule == '0 20 1-3 * *'
+        run: pip install --quiet numpy scipy pillow
+
       - name: Save the monthly outlook (all GACCs) and the NIFC maps
         id: outlook
         if: github.event_name != 'schedule' || github.event.schedule == '0 20 1-3 * *'
@@ -67,13 +71,14 @@ jobs:
           if [ "${{ github.event_name }}" = "schedule" ]; then python scripts/archive_outlook.py --only-if-missing
           else python scripts/archive_outlook.py ${{ inputs.force && '--force' || '' }}; fi
 
-      - name: Load past outlooks from the NIFC archive
+      - name: Past outlooks from the NIFC archive (any issue still missing, e.g. last month's once NIFC posts it)
         id: archive
-        if: inputs.import_archive != ''
+        if: github.event_name != 'schedule' || github.event.schedule == '0 20 1-3 * *'
         continue-on-error: true
         run: |
-          if [ "${{ inputs.import_archive }}" = "all" ]; then python scripts/import_archive.py
-          else python scripts/import_archive.py --years "${{ inputs.import_archive }}"; fi
+          if [ -n "${{ inputs.import_archive }}" ] && [ "${{ inputs.import_archive }}" != "all" ]; then python scripts/import_archive.py --years "${{ inputs.import_archive }}"
+          else python scripts/import_archive.py; fi
+          python scripts/import_archive.py --from-saved
 
       - name: Station weather, ERC and BI, neighbor checks
         if: github.event_name != 'schedule' || github.event.schedule == '0 3 * * *'
