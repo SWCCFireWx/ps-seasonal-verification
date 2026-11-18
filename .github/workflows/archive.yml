@@ -1,0 +1,95 @@
+name: Archive monthly outlook and check fires and weather
+
+on:
+  schedule:
+    # Times are UTC. 09:35 UTC = 2:35 am MST / 3:35 am MDT, every night.
+    - cron: "35 9 * * *"
+    # The outlook is issued in the first workdays of the month; an extra afternoon run on the
+    # 1st-8th saves it the same day it appears (every step skips work that's already done).
+    - cron: "5 20 1-8 * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Re-save this month's outlook even if it hasn't changed"
+        type: boolean
+        default: false
+      rebuild:
+        description: "Re-check every saved station day with each GACC's current settings"
+        type: boolean
+        default: false
+      backfill_from:
+        description: "Fetch station weather from this date (YYYY-MM-DD), if the services still have it"
+        type: string
+        default: ""
+      refresh_fires:
+        description: "Re-read every past year of fire records"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save the monthly outlook (all GACCs) and the NIFC maps
+        id: outlook
+        continue-on-error: true
+        run: python scripts/archive_outlook.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Station weather, ERC and BI, neighbor checks
+        id: weather
+        continue-on-error: true
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.backfill_from }}" ]; then ARGS="--from ${{ inputs.backfill_from }}"; fi
+          if [ "${{ inputs.rebuild }}" = "true" ]; then ARGS="$ARGS --rebuild"; fi
+          python scripts/station_weather.py $ARGS
+
+      - name: Significant fires per PSA per month, and normal (WFIGS)
+        id: history
+        continue-on-error: true
+        run: python scripts/fire_history.py ${{ inputs.refresh_fires && '--refresh-all' || '' }}
+
+      - name: Nightly fire growth and new starts (WFIGS)
+        id: fires
+        continue-on-error: true
+        run: python scripts/update_fires.py
+
+      - name: Score the outlooks
+        id: verify
+        continue-on-error: true
+        run: python scripts/verify_outlook.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "outlook-archiver"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ config/
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Archive $(TZ=America/Denver date +%F)"
+            git pull --rebase --quiet
+            git push
+          fi
+
+      - name: Flag any failed step
+        if: steps.outlook.outcome == 'failure' || steps.weather.outcome == 'failure' || steps.history.outcome == 'failure' || steps.fires.outcome == 'failure' || steps.verify.outcome == 'failure'
+        run: |
+          echo "Outlook: ${{ steps.outlook.outcome }}  Weather: ${{ steps.weather.outcome }}  Fire history: ${{ steps.history.outcome }}  Fire growth: ${{ steps.fires.outcome }}  Scores: ${{ steps.verify.outcome }}"
+          exit 1
