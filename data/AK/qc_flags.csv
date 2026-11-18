@@ -1,0 +1,44 @@
+date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
+2026-11-08,ASOS-PFWS,South Naknek,ASOS,AK10,bad_rain,15.57,0,,impossible rain total
+2026-11-09,500934,KELLY,RAWS,AK04,hot,34.0,3,14.0,max temp much warmer than neighbors
+2026-11-09,500970,EAGLE RIVER,RAWS,AK13,cold,27.0,8,35.6,max temp much colder than neighbors
+2026-11-09,500971,WILLOW,RAWS,AK11,cold,27.0,8,36.4,max temp much colder than neighbors
+2026-11-09,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,rain_alone,1.01,8,0.0,rain no neighbor saw
+2026-11-10,500751,BOLIO,RAWS,AK01W,hot,44.0,7,32.6,max temp much warmer than neighbors
+2026-11-10,500752,DONNELLY,RAWS,AK01W,hot,41.0,7,32.4,max temp much warmer than neighbors
+2026-11-10,500934,KELLY,RAWS,AK04,hot,42.0,3,16.2,max temp much warmer than neighbors
+2026-11-11,500740,CARIBOU PEAK,RAWS,AK01W,hot,31.0,8,13.2,max temp much warmer than neighbors
+2026-11-11,500756,STUART CREEK,RAWS,AK01W,hot,31.0,8,17.4,max temp much warmer than neighbors
+2026-11-11,500760,BRIGADIER,RAWS,AK01W,hot,32.0,8,15.3,max temp much warmer than neighbors
+2026-11-11,500761,LYNX,RAWS,AK01W,hot,28.0,8,15.4,max temp much warmer than neighbors
+2026-11-11,500934,KELLY,RAWS,AK04,hot,38.0,3,23.3,max temp much warmer than neighbors
+2026-11-11,500942,RABBIT CREEK,RAWS,AK13,hot,37.0,8,28.6,max temp much warmer than neighbors
+2026-11-11,ASOS-PAVE,Venetie,ASOS,AK02,hot,29.0,3,19.7,max temp much warmer than neighbors
+2026-11-12,500740,CARIBOU PEAK,RAWS,AK01W,hot,29.0,8,12.9,max temp much warmer than neighbors
+2026-11-12,500760,BRIGADIER,RAWS,AK01W,hot,27.0,8,14.6,max temp much warmer than neighbors
+2026-11-12,500949,CHISTOCHINA,RAWS,AK12,cold,24.0,3,36.3,max temp much colder than neighbors
+2026-11-13,500740,CARIBOU PEAK,RAWS,AK01W,hot,26.0,8,12.5,max temp much warmer than neighbors
+2026-11-13,500934,KELLY,RAWS,AK04,cold,-25.0,3,23.2,max temp much colder than neighbors
+2026-11-13,500965,HOMER,RAWS,AK14,hot,39.0,4,30.8,max temp much warmer than neighbors
+2026-11-13,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,35.0,8,26.9,max temp much warmer than neighbors
+2026-11-14,500740,CARIBOU PEAK,RAWS,AK01W,hot,24.0,8,13.8,max temp much warmer than neighbors
+2026-11-14,500934,KELLY,RAWS,AK04,cold,-23.0,3,23.2,max temp much colder than neighbors
+2026-11-14,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,30.0,8,20.9,max temp much warmer than neighbors
+2026-11-14,ASOS-PAHN,Haines,ASOS,AK15,cold,38.0,3,50.0,max temp much colder than neighbors
+2026-11-14,ASOS-PAJN,Juneau Intl Airport (Asos),ASOS,AK16,hot,53.0,4,44.7,max temp much warmer than neighbors
+2026-11-15,500740,CARIBOU PEAK,RAWS,AK01W,hot,25.0,8,15.3,max temp much warmer than neighbors
+2026-11-15,500748,GEORGE CREEK RAWS,RAWS,AK01W,hot,27.0,7,18.6,max temp much warmer than neighbors
+2026-11-15,500934,KELLY,RAWS,AK04,cold,-26.0,3,21.5,max temp much colder than neighbors
+2026-11-15,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,33.0,8,24.0,max temp much warmer than neighbors
+2026-11-15,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,39.0,8,28.9,max temp much warmer than neighbors
+2026-11-15,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,1.82,8,0.29,far more rain than any neighbor
+2026-11-15,ASOS-PAVA,Chevak,ASOS,AK08,cold,18.0,3,26.2,max temp much colder than neighbors
+2026-11-16,500740,CARIBOU PEAK,RAWS,AK01W,hot,27.0,8,18.4,max temp much warmer than neighbors
+2026-11-16,500748,GEORGE CREEK RAWS,RAWS,AK01W,hot,34.0,7,22.4,max temp much warmer than neighbors
+2026-11-16,500934,KELLY,RAWS,AK04,cold,-30.0,3,17.9,max temp much colder than neighbors
+2026-11-16,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,37.0,8,28.1,max temp much warmer than neighbors
+2026-11-16,55522360,SALMON RIVER,RAWS,AK04,hot,21.0,3,12.4,max temp much warmer than neighbors
+2026-11-16,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,43.0,8,32.1,max temp much warmer than neighbors
+2026-11-17,500934,KELLY,RAWS,AK04,cold,-27.0,3,20.0,max temp much colder than neighbors
+2026-11-17,500942,RABBIT CREEK,RAWS,AK13,hot,38.0,8,23.9,max temp much warmer than neighbors
+2026-11-17,500971,WILLOW,RAWS,AK11,cold,20.0,8,28.3,max temp much colder than neighbors

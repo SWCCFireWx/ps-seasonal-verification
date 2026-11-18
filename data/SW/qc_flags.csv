@@ -1,0 +1,13 @@
+date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
+2026-11-08,291408,SANDIA LAB,RAWS,SW11,bad_rain,14.34,0,,impossible rain total
+2026-11-11,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.34,6,0.0,rain no neighbor saw
+2026-11-14,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,60.0,4,51.7,max temp much warmer than neighbors
+2026-11-15,20220,LINDBERGH HILL,RAWS,SW01,hot,56.0,8,46.3,max temp much warmer than neighbors
+2026-11-15,290210,TRUCHAS,RAWS,SW10,rain_alone,0.62,8,0.01,rain no neighbor saw
+2026-11-16,293105,QUEEN,RAWS,SW12,hot,52.0,7,42.8,max temp much warmer than neighbors
+2026-11-16,417105,PX WELL,RAWS,SW12,hot,58.0,5,49.0,max temp much warmer than neighbors
+2026-11-17,291002,BARTLEY,RAWS,SW10,hot,52.0,7,42.9,max temp much warmer than neighbors
+2026-11-17,292203,SMOKEY BEAR,RAWS,SW12,hot,61.0,7,48.8,max temp much warmer than neighbors
+2026-11-17,293002,MAYHILL,RAWS,SW12,hot,67.0,8,50.8,max temp much warmer than neighbors
+2026-11-17,ASOS-GCN,Grand Canyon Park,ASOS,SW01,missed,0.0,5,0.63,no rain while most neighbors got rain
+2026-11-17,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,62.0,4,52.7,max temp much warmer than neighbors

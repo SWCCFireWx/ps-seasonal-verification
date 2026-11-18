@@ -1,0 +1,16 @@
+issue_month,lead,valid_month,psa,forecast,obs_fires,obs_acres,normal_years,normal_counts,normal_mean,normal_low,normal_high,obs_category,acres_mean,acres_low,acres_high,acres_category,outcome,status
+2026-11,1,2026-11,SW01,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW02,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW03,Normal,0,0,2016-2025,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,11,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW04,Normal,0,0,2016-2025,1;1;0;0;0;0;0;0;0;0,0.2,0.0,0.0,Normal,26,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW05,Normal,0,0,2016-2025,1;0;0;0;0;0;0;1;0;0,0.2,0.0,0.0,Normal,154,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW06N,Normal,0,0,2016-2025,0;0;0;0;1;0;0;1;1;0,0.3,0.0,0.0,Normal,157,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW06S,Normal,0,0,2016-2025,2;1;1;0;0;0;0;1;0;0,0.5,0.0,1.0,Normal,378,0,242,Normal,Correct,in progress
+2026-11,1,2026-11,SW07,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW08,Normal,0,0,2016-2025,0;1;0;1;1;0;1;0;0;0,0.4,0.0,1.0,Normal,236,0,210,Normal,Correct,in progress
+2026-11,1,2026-11,SW09,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW10,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW11,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,80,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW12,Normal,0,0,2016-2025,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW13,Normal,0,0,2016-2025,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,128,0,0,Normal,Correct,in progress
+2026-11,1,2026-11,SW14N,Normal,0,0,2016-2025,0;0;0;0;0;2;0;0;0;1,0.3,0.0,0.0,Normal,99,0,0,Normal,Correct,in progress
