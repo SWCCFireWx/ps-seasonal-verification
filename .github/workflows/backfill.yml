@@ -1,0 +1,91 @@
+name: Backfill history (turns itself off when caught up)
+
+# Fills in station weather (RAWS, ERC, BI, ASOS/AWOS) and new-fire starts back to START, a few months
+# per run, every 6 hours, oldest first. Past outlooks are loaded from the NIFC archive on the first run.
+# When nothing is left to fill, the last run turns this workflow off (Actions tab > this workflow >
+# "Enable workflow" turns it back on, e.g. after changing START).
+
+on:
+  schedule:
+    # Times are UTC: 01, 07, 13 and 19 (6 pm, midnight, 6 am, noon MST). Clear of the nightly 03:00 run.
+    - cron: "0 1,7,13,19 * * *"
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "Fill back to this date (YYYY-MM-DD)"
+        type: string
+        default: "2023-01-01"
+      days_per_run:
+        description: "Days of weather per run (about 120 = 4 months, roughly 20-40 minutes)"
+        type: string
+        default: "120"
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+env:
+  START: ${{ inputs.start || '2023-01-01' }}
+  DAYS: ${{ inputs.days_per_run || '120' }}
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      PYTHONUNBUFFERED: "1"
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Load past outlooks from the NIFC archive (first run only)
+        continue-on-error: true
+        run: |
+          if [ -f data/archive_import_log.csv ]; then echo "Already loaded."; else python scripts/import_archive.py; fi
+
+      - name: Fire records far enough back for every archived outlook
+        continue-on-error: true
+        run: python scripts/fire_history.py
+
+      - name: New-fire starts back to the start date (first run only)
+        continue-on-error: true
+        run: python scripts/update_fires.py --starts-only --backfill-all --backfill-start "$START"
+
+      - name: Station weather, a few months per run
+        id: weather
+        continue-on-error: true
+        run: |
+          python scripts/station_weather.py --backfill-all --backfill-start "$START" --backfill-days "$DAYS" | tee weather_out.txt
+          echo "remaining=$(grep '^BACKFILL_REMAINING=' weather_out.txt | tail -1 | cut -d= -f2)" >> "$GITHUB_OUTPUT"
+
+      - name: Score the outlooks
+        continue-on-error: true
+        run: python scripts/verify_outlook.py
+
+      - name: Commit results
+        run: |
+          rm -f weather_out.txt
+          git config user.name  "outlook-archiver"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ config/
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Backfill $(TZ=America/Denver date '+%F %H:%M')"
+            git pull --rebase --quiet
+            git push
+          fi
+
+      - name: Turn this workflow off when caught up
+        if: steps.weather.outcome == 'success' && steps.weather.outputs.remaining == '0'
+        run: |
+          echo "Backfill complete back to $START. Turning this workflow off."
+          gh workflow disable backfill.yml --repo "$GITHUB_REPOSITORY"
