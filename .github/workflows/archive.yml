@@ -2,11 +2,12 @@ name: Archive monthly outlook and check fires and weather
 
 on:
   schedule:
-    # Times are UTC. 09:35 UTC = 2:35 am MST / 3:35 am MDT, every night.
-    - cron: "35 9 * * *"
-    # The outlook is issued in the first workdays of the month; an extra afternoon run on the
-    # 1st-8th saves it the same day it appears (every step skips work that's already done).
-    - cron: "5 20 1-8 * *"
+    # Times are UTC.
+    # Weather, ERC/BI, fires and scores: every day at 03:00 UTC (8 pm MST / 9 pm MDT the evening before).
+    - cron: "0 3 * * *"
+    # Monthly outlook: the 1st at 20:00 UTC (1 pm MST / 2 pm MDT); the 2nd and 3rd are backups that
+    # only run if the new month's outlook still isn't saved.
+    - cron: "0 20 1-3 * *"
   workflow_dispatch:
     inputs:
       force:
@@ -17,14 +18,26 @@ on:
         description: "Re-check every saved station day with each GACC's current settings"
         type: boolean
         default: false
+      backfill_all:
+        description: "One time: gather all weather and fire starts back to the first archived outlook"
+        type: boolean
+        default: false
       backfill_from:
-        description: "Fetch station weather from this date (YYYY-MM-DD), if the services still have it"
+        description: "Backfill station weather and new-start counts from this date (YYYY-MM-DD)"
+        type: string
+        default: ""
+      backfill_to:
+        description: "...up to this date (YYYY-MM-DD; blank = yesterday). Do a few months per run."
         type: string
         default: ""
       refresh_fires:
         description: "Re-read every past year of fire records"
         type: boolean
         default: false
+      import_archive:
+        description: "Load past outlooks from the NIFC archive: a year or range (e.g. 2023-2026), or 'all'"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -36,7 +49,7 @@ concurrency:
 jobs:
   archive:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 330
     env:
       PYTHONUNBUFFERED: "1"
     steps:
@@ -48,27 +61,43 @@ jobs:
 
       - name: Save the monthly outlook (all GACCs) and the NIFC maps
         id: outlook
+        if: github.event_name != 'schedule' || github.event.schedule == '0 20 1-3 * *'
         continue-on-error: true
-        run: python scripts/archive_outlook.py ${{ inputs.force && '--force' || '' }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then python scripts/archive_outlook.py --only-if-missing
+          else python scripts/archive_outlook.py ${{ inputs.force && '--force' || '' }}; fi
+
+      - name: Load past outlooks from the NIFC archive
+        id: archive
+        if: inputs.import_archive != ''
+        continue-on-error: true
+        run: |
+          if [ "${{ inputs.import_archive }}" = "all" ]; then python scripts/import_archive.py
+          else python scripts/import_archive.py --years "${{ inputs.import_archive }}"; fi
 
       - name: Station weather, ERC and BI, neighbor checks
+        if: github.event_name != 'schedule' || github.event.schedule == '0 3 * * *'
         id: weather
         continue-on-error: true
         run: |
           ARGS=""
-          if [ -n "${{ inputs.backfill_from }}" ]; then ARGS="--from ${{ inputs.backfill_from }}"; fi
+          if [ "${{ inputs.backfill_all }}" = "true" ]; then ARGS="--backfill-all"; fi
+          if [ -n "${{ inputs.backfill_from }}" ]; then ARGS="$ARGS --from ${{ inputs.backfill_from }}"; fi
+          if [ -n "${{ inputs.backfill_from }}" ] && [ -n "${{ inputs.backfill_to }}" ]; then ARGS="$ARGS --to ${{ inputs.backfill_to }}"; fi
           if [ "${{ inputs.rebuild }}" = "true" ]; then ARGS="$ARGS --rebuild"; fi
           python scripts/station_weather.py $ARGS
 
       - name: Significant fires per PSA per month, and normal (WFIGS)
+        if: github.event_name != 'schedule' || github.event.schedule == '0 3 * * *'
         id: history
         continue-on-error: true
         run: python scripts/fire_history.py ${{ inputs.refresh_fires && '--refresh-all' || '' }}
 
       - name: Nightly fire growth and new starts (WFIGS)
+        if: github.event_name != 'schedule' || github.event.schedule == '0 3 * * *'
         id: fires
         continue-on-error: true
-        run: python scripts/update_fires.py
+        run: python scripts/update_fires.py ${{ inputs.backfill_all && '--backfill-all' || '' }} ${{ inputs.backfill_from && format('--starts-from {0}', inputs.backfill_from) || '' }}
 
       - name: Score the outlooks
         id: verify
