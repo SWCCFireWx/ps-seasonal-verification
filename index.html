@@ -781,8 +781,9 @@ function renderSummary() {
   const normal = sum(rows.map(r => r.v && r.v.normal_mean !== "" ? +r.v.normal_mean : 0));
   const rain = median(rows.map(r => r.pm ? n0(r.pm.precip_in) : null)), flagged = sum(rows.map(r => r.pm ? +r.pm.flagged_stations || 0 : 0));
   const anyF = rows.some(r => r.f);
+  const other = [1, 2, 3, 4].filter(l => l !== lead && PSAS.some(p => fcOf(p, vm, l)));
   let h = `<div class="card"><div class="mohead"><div><div class="eyebrow">${esc(reportArea())} &middot; ${st}</div><h2 style="font-size:20px">${fmtM(vm)}</h2>
-    <p class="note" style="margin:2px 0 0">Month ${lead} outlook, issued ${fmtM(issued)}${anyF ? "" : " &mdash; <b>not archived</b> (the archive starts with the first outlook saved)"}. ${st === "in progress" ? "Fires and weather so far this month." : st === "provisional" ? "Provisional: fire sizes and late reports can still change the counts for 30 days." : ""}</p></div></div></div>`;
+    <p class="note" style="margin:2px 0 0">Month ${lead} outlook, issued ${fmtM(issued)}${anyF ? "" : ` &mdash; <b>not on file</b>${other.length ? `. Outlooks on file for ${fmtM(vm)}: ${other.map(l => `<button class="linkbtn" data-lead="${l}">Month ${l} (issued ${fmtMs(addM(vm, -(l - 1)))})</button>`).join(", ")}` : ""}`}. ${st === "in progress" ? "Fires and weather so far this month." : st === "provisional" ? "Provisional: fire sizes and late reports can still change the counts for 30 days." : ""}</p></div></div></div>`;
   h += `<div class="stats">
     <div class="stat"><small>Outlook (Month ${lead})</small><b>${fN("Above")} / ${fN("Normal")} / ${fN("Below")}</b><small>PSAs Above / Normal / Below</small></div>
     <div class="stat"><small>Observed (fire count vs normal)</small><b>${oN("Above")} / ${oN("Normal")} / ${oN("Below")}</b><small>PSAs Above / Normal / Below</small></div>
@@ -826,6 +827,7 @@ function renderSummary() {
   bindMap(box, {}, null);
   box.querySelectorAll(".minimap").forEach((mm, i) => bindMap(mm, i ? oInfo : fInfo, p => openPsa(p, vm)));
   bindNotes(box, renderSummary); bindSaveBar(box, renderSummary);
+  box.querySelectorAll("[data-lead]").forEach(b => b.onclick = () => { $("suLead").value = b.dataset.lead; renderSummary(); });
 }
 
 // ------------------------------------------------------------------ outlook archive
@@ -1279,7 +1281,12 @@ async function loadGacc(g) {
   $("vfFrom").innerHTML = vopts; $("vfTo").innerHTML = vopts; if (vms.length) { $("vfFrom").value = vms[0]; $("vfTo").value = vms[vms.length - 1]; }
   const popts = `<option value="">All PSAs</option>` + PSAS.map(p => `<option value="${p}">${p}${PNAME[p] ? " " + esc(PNAME[p]) : ""}</option>`).join("");
   $("wxPsa").innerHTML = popts; $("fiPsa").innerHTML = popts;
-  $("suMonth").onchange = $("suLead").onchange = renderSummary;
+  $("suLead").onchange = renderSummary;
+  $("suMonth").onchange = () => {
+    const vm = $("suMonth").value, has = l => PSAS.some(p => fcOf(p, vm, l));
+    if (!has(+$("suLead").value)) { const l = [1, 2, 3, 4].find(has); if (l) $("suLead").value = l; }
+    renderSummary();
+  };
   $("olIssue").onchange = renderOutlooks;
   ["mpMonth", "mpView", "mpLead", "mpDots", "mpSt"].forEach(id => $(id).onchange = () => { $("mpPsa").innerHTML = ""; renderMap(); });
   ["vfLead", "vfFrom", "vfTo", "vfStatus", "vfBy"].forEach(id => $(id).onchange = renderVerify);

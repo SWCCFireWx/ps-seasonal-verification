@@ -34,7 +34,8 @@ This is a separate site from the 7-Day verification site; the two don't share fi
 | `data/raw/outlooks/<month>/` | the four NIFC outlook maps and the raw service pull for each issue |
 | `data/wx_raw/<date>.json.gz` | every station's daily values (kept so days can be re-checked) |
 | `data/fire_history/<year>.csv` | national wildfire records (100+ ac) by year, from WFIGS |
-| `scripts/` | archiver, fire history, station weather and checks, scoring, notes saver |
+| `data/archive_import_log.csv` | what was read from each NIFC archive zip |
+| `scripts/` | archiver, archive importer, fire history, station weather and checks, scoring, notes saver |
 | `.github/workflows/archive.yml` | nightly job |
 | `.github/workflows/apply-notes.yml` | saves review notes sent from the website |
 
@@ -51,6 +52,8 @@ This is a separate site from the 7-Day verification site; the two don't share fi
    wildfire records, so it can take a while (expect 20–60 minutes). Later nightly runs are faster.
    To get a full first month of weather, run it once with **backfill_from** set to the 1st of the
    month (FEMS and IEM still have recent days).
+7. **Load past outlooks:** run the workflow again with **import_archive** set to `all` (or a range such
+   as `2023-2025`). See "Past outlooks" below.
 
 ## Schedule
 
@@ -67,6 +70,39 @@ The four NIFC images (`month1_outlook.png` … `month4_outlook.png`) are saved b
 the official record and shown on the Outlook archive tab. A new issue is saved the night it shows up
 in the service; a later correction to the same issue replaces it and is logged in
 `data/outlook_log.csv`.
+
+## Each month's four outlooks
+
+Every issuance covers four months, so every month is forecast four times. The November 2026 issue
+covers Nov, Dec, Jan and Feb; the December issue covers Dec, Jan, Feb and Mar; and so on. February
+2027 is forecast as Month 4 (issued November), Month 3 (December), Month 2 (January) and Month 1
+(February). The Outlook archive tab shows each issuance's four months; the Monthly summary and a PSA's
+history show all four outlooks made for one month side by side; Verification scores each outlook month
+(1–4) separately or together.
+
+## Past outlooks (NIFC archive)
+
+NIFC keeps one zip per issuance, 2023 onward, under "National Significant Wildland Fire Potential
+Archive" on https://www.nifc.gov/nicc/predictive-services/outlooks; earlier years are available by
+email from nicc.predictiveservices@firenet.gov. `scripts/import_archive.py` (the workflow's
+**import_archive** input) downloads them and reads, in order of preference:
+
+- shapefiles with a PSA code and an Above/Normal/Below field (used directly);
+- shapefiles or KML/KMZ of Above/Below areas without PSA codes (each PSA gets the category covering most
+  of it; geographic or Web Mercator coordinates only);
+- CSV with PSA and category columns.
+
+Which file is Month 1–4 comes from its name (month1, M2, Aug, August, 202508, …). Map images and PDFs in
+a zip are saved under `data/raw/outlooks/<issue>/` as the record; if a zip has only images, that issue
+can't be scored and the import log (`data/archive_import_log.csv`) says so. Issues already saved from the
+live service are never overwritten. Imported outlooks are scored right away against the fire records,
+and the fire history automatically reaches back far enough to give them a full normal (years with too
+few WFIGS records, before about 2014, are left out of normal). For weather in those months, run the
+workflow with **backfill_from** one year at a time (e.g. 2023-01-01 then 2024-01-01), if FEMS and IEM still
+have it; IEM keeps full history.
+
+Zips you have yourself (for example emailed older years): run
+`python scripts/import_archive.py --zip file1.zip file2.zip` and commit the changed `data/` files.
 
 ## How a month is judged (counts decide, acres shown beside)
 
