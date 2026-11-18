@@ -1,0 +1,32 @@
+date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
+2026-11-08,40105,SHIP MTN,RAWS,NC04,hot,88.0,8,49.7,max temp much warmer than neighbors
+2026-11-09,40105,SHIP MTN,RAWS,NC04,hot,87.0,8,45.9,max temp much warmer than neighbors
+2026-11-09,40245,CALLAHAN #2,RAWS,NC04,hot,62.0,8,53.1,max temp much warmer than neighbors
+2026-11-10,40105,SHIP MTN,RAWS,NC04,hot,99.0,8,55.7,max temp much warmer than neighbors
+2026-11-10,43309,PULGAS,RAWS,NC03A,hot,81.0,8,71.2,max temp much warmer than neighbors
+2026-11-10,ASOS-LLR,Little River,ASOS,NC02,cold,69.8,8,79.2,max temp much colder than neighbors
+2026-11-10,ASOS-O05,Chester,ASOS,NC07,cold,62.6,8,70.7,max temp much colder than neighbors
+2026-11-11,40105,SHIP MTN,RAWS,NC04,hot,99.0,8,57.9,max temp much warmer than neighbors
+2026-11-11,40218,OAK KNOLL,RAWS,NC04,cold,58.0,8,71.7,max temp much colder than neighbors
+2026-11-11,40246,DUTCH-INDY,RAWS,NC04,cold,55.0,8,69.0,max temp much colder than neighbors
+2026-11-12,40105,SHIP MTN,RAWS,NC04,hot,98.0,8,57.4,max temp much warmer than neighbors
+2026-11-12,40246,DUTCH-INDY,RAWS,NC04,cold,55.0,8,68.7,max temp much colder than neighbors
+2026-11-12,41005,EEL RIVER (MNF),RAWS,NC02,hot,79.0,8,70.2,max temp much warmer than neighbors
+2026-11-12,43809,BEN LOMOND,RAWS,NC03B,cold,56.0,8,64.3,max temp much colder than neighbors
+2026-11-13,40105,SHIP MTN,RAWS,NC04,hot,87.0,8,47.1,max temp much warmer than neighbors
+2026-11-13,41102,SAC NWR,RAWS,NC05,missed,0.0,8,0.62,no rain while most neighbors got rain
+2026-11-13,42601,BEAVER,RAWS,NC07,missed,0.0,8,0.96,no rain while most neighbors got rain
+2026-11-13,43405,CALAVERAS ROAD,RAWS,NC03A,missed,0.0,8,0.56,no rain while most neighbors got rain
+2026-11-13,ASOS-BAB,Beale Afb/Marysvile,ASOS,NC05,missed,0.0,8,0.97,no rain while most neighbors got rain
+2026-11-14,40105,SHIP MTN,RAWS,NC04,hot,84.0,8,40.9,max temp much warmer than neighbors
+2026-11-14,40609,MANZANITA LAKE,RAWS,NC07,rain_alone,0.62,8,0.03,rain no neighbor saw
+2026-11-14,55522244,COOSKIE MOUNTAIN,RAWS,NC01,rain_alone,0.58,4,0.05,rain no neighbor saw
+2026-11-14,ASOS-C83,Byron,ASOS,NC03B,cold,51.8,8,67.0,max temp much colder than neighbors
+2026-11-14,ASOS-TVL,South Lake Tahoe,ASOS,NC07,missed,0.0,8,0.58,no rain while most neighbors got rain
+2026-11-15,40105,SHIP MTN,RAWS,NC04,hot,83.0,8,38.2,max temp much warmer than neighbors
+2026-11-15,41102,SAC NWR,RAWS,NC05,missed,0.0,8,0.64,no rain while most neighbors got rain
+2026-11-15,ASOS-BAB,Beale Afb/Marysvile,ASOS,NC05,missed,0.0,8,0.54,no rain while most neighbors got rain
+2026-11-16,40105,SHIP MTN,RAWS,NC04,hot,83.0,8,39.1,max temp much warmer than neighbors
+2026-11-16,42601,BEAVER,RAWS,NC07,missed,0.0,8,0.66,no rain while most neighbors got rain
+2026-11-16,ASOS-BAB,Beale Afb/Marysvile,ASOS,NC05,missed,0.0,8,0.58,no rain while most neighbors got rain
+2026-11-17,40105,SHIP MTN,RAWS,NC04,hot,82.0,8,38.6,max temp much warmer than neighbors

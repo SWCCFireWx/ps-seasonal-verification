@@ -1,0 +1,39 @@
+date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
+2026-11-08,119501,DIXON SPRINGS,RAWS,EA14,rain_alone,0.96,4,0.02,rain no neighbor saw
+2026-11-08,213403,ST. CROIX,RAWS,EA03,cold,47.0,8,56.1,max temp much colder than neighbors
+2026-11-08,55522362,SAND ISLAND,RAWS,EA04,bad_rain,70.15,0,,impossible rain total
+2026-11-08,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,39.2,8,56.8,max temp much colder than neighbors
+2026-11-09,213403,ST. CROIX,RAWS,EA03,cold,53.0,8,63.4,max temp much colder than neighbors
+2026-11-09,55522362,SAND ISLAND,RAWS,EA04,bad_rain,70.06,0,,impossible rain total
+2026-11-09,55522362,SAND ISLAND,RAWS,EA04,cold,49.0,5,58.8,max temp much colder than neighbors
+2026-11-10,213403,ST. CROIX,RAWS,EA03,cold,53.0,8,61.5,max temp much colder than neighbors
+2026-11-10,ASOS-ZER,Pottsville,ASOS,EA19,cold,44.6,8,62.1,max temp much colder than neighbors
+2026-11-11,213403,ST. CROIX,RAWS,EA03,cold,44.0,8,53.0,max temp much colder than neighbors
+2026-11-11,55522362,SAND ISLAND,RAWS,EA04,bad_rain,69.83,0,,impossible rain total
+2026-11-11,ASOS-0B1,Bethel,ASOS,EA21,cold,33.3,7,46.7,max temp much colder than neighbors
+2026-11-11,ASOS-IKK,Kankakee,ASOS,EA11,hot,63.5,8,55.2,max temp much warmer than neighbors
+2026-11-11,ASOS-PNT,Pontiac,ASOS,EA10,hot,63.5,5,55.5,max temp much warmer than neighbors
+2026-11-12,213403,ST. CROIX,RAWS,EA03,cold,30.0,8,41.0,max temp much colder than neighbors
+2026-11-12,ASOS-MUI,Muir Aaf/Indiantown,ASOS,EA19,missed,0.0,8,0.54,no rain while most neighbors got rain
+2026-11-12,ASOS-PTW,Pottstown Limerick Airport,ASOS,EA24,missed,0.0,8,0.71,no rain while most neighbors got rain
+2026-11-12,ASOS-SMQ,Somerville,ASOS,EA24,missed,0.0,8,1.03,no rain while most neighbors got rain
+2026-11-13,213403,ST. CROIX,RAWS,EA03,cold,30.0,8,38.6,max temp much colder than neighbors
+2026-11-14,213403,ST. CROIX,RAWS,EA03,cold,35.0,8,44.0,max temp much colder than neighbors
+2026-11-14,234801,MBOT,RAWS,EA13,rain_alone,0.55,4,0.0,rain no neighbor saw
+2026-11-14,55522362,SAND ISLAND,RAWS,EA04,bad_rain,169.6,0,,impossible rain total
+2026-11-14,ASOS-MXO,Monticello Muni,ASOS,EA10,cold,23.0,7,45.1,max temp much colder than neighbors
+2026-11-14,ASOS-UNU,Juneau,ASOS,EA05,rain_alone,0.63,7,0.0,rain no neighbor saw
+2026-11-15,213403,ST. CROIX,RAWS,EA03,cold,41.0,8,50.4,max temp much colder than neighbors
+2026-11-15,55522362,SAND ISLAND,RAWS,EA04,bad_rain,208.66,0,,impossible rain total
+2026-11-15,ASOS-EVU,Maryville,ASOS,EA09,cold,35.6,5,53.0,max temp much colder than neighbors
+2026-11-15,ASOS-UNU,Juneau,ASOS,EA05,rain_alone,0.98,7,0.0,rain no neighbor saw
+2026-11-16,213403,ST. CROIX,RAWS,EA03,cold,49.0,8,57.5,max temp much colder than neighbors
+2026-11-16,270301,WHITE MTN NF,RAWS,EA21,hot,56.0,8,46.0,max temp much warmer than neighbors
+2026-11-16,55522362,SAND ISLAND,RAWS,EA04,bad_rain,209.26,0,,impossible rain total
+2026-11-16,ASOS-ROS,Rush City,ASOS,EA03,cold,35.6,8,56.6,max temp much colder than neighbors
+2026-11-16,ASOS-RRT,Warroad,ASOS,EA01,cold,44.0,5,54.0,max temp much colder than neighbors
+2026-11-17,213403,ST. CROIX,RAWS,EA03,cold,42.0,8,52.6,max temp much colder than neighbors
+2026-11-17,55522362,SAND ISLAND,RAWS,EA04,bad_rain,365.99,0,,impossible rain total
+2026-11-17,55522362,SAND ISLAND,RAWS,EA04,hot,72.0,5,52.7,max temp much warmer than neighbors
+2026-11-17,ASOS-IKK,Kankakee,ASOS,EA11,cold,36.0,8,57.2,max temp much colder than neighbors
+2026-11-17,ASOS-OTM,Ottumwa,ASOS,EA09,cold,51.0,8,59.2,max temp much colder than neighbors
