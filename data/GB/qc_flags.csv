@@ -775,6 +775,153 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2023-04-30,103102,DALE BITNER,RAWS,GB09,cold,62.0,8,71.5,max temp much colder than neighbors
 2023-04-30,480708,GRAND TETON,RAWS,GB10,cold,60.0,8,69.5,max temp much colder than neighbors
 2023-04-30,ASOS-1U7,Bear Lake County,ASOS,GB09,cold,44.6,8,73.0,max temp much colder than neighbors
+2023-05-01,101710,LITTLE ANDERSON,RAWS,GB04,hot,84.0,8,74.9,max temp much warmer than neighbors
+2023-05-01,101804,COPPER BASIN,RAWS,GB02,cold,56.0,6,68.7,max temp much colder than neighbors
+2023-05-01,260203,DRY CANYON,RAWS,GB14,hot,65.0,4,55.2,max temp much warmer than neighbors
+2023-05-01,55522249,DECATHON  CANYON,RAWS,GB20,cold,55.0,4,63.5,max temp much colder than neighbors
+2023-05-01,ASOS-1U7,Bear Lake County,ASOS,GB09,cold,51.8,8,74.5,max temp much colder than neighbors
+2023-05-02,101708,TOWN CREEK,RAWS,GB04,hot,81.0,8,71.5,max temp much warmer than neighbors
+2023-05-03,55522249,DECATHON  CANYON,RAWS,GB20,cold,48.0,4,56.2,max temp much colder than neighbors
+2023-05-03,ASOS-1U7,Bear Lake County,ASOS,GB09,cold,59.0,8,72.3,max temp much colder than neighbors
+2023-05-04,104006,BULL SPRING,RAWS,GB07,hot,66.0,8,57.6,max temp much warmer than neighbors
+2023-05-04,261205,SKYLAND,RAWS,GB11,cold,38.0,8,47.1,max temp much colder than neighbors
+2023-05-04,420912,OTTER CREEK,RAWS,GB26,cold,49.0,8,58.6,max temp much colder than neighbors
+2023-05-05,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,41.0,8,49.7,max temp much colder than neighbors
+2023-05-05,261608,IMMIGRATION WASH,RAWS,GB21,cold,43.0,3,51.1,max temp much colder than neighbors
+2023-05-06,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,38.0,8,46.2,max temp much colder than neighbors
+2023-05-07,260210,MARTIN CREEK,RAWS,GB14,cold,39.0,3,47.6,max temp much colder than neighbors
+2023-05-11,260210,MARTIN CREEK,RAWS,GB14,cold,53.0,3,62.6,max temp much colder than neighbors
+2023-05-11,ASOS-SVR,Salt Lake City Muni No2,ASOS,GB25,cold,52.7,8,68.1,max temp much colder than neighbors
+2023-05-13,420705,HEWINTA,RAWS,GB26,cold,44.0,8,52.3,max temp much colder than neighbors
+2023-05-14,421407,WINTER RIDGE,RAWS,GB29,wet,1.01,8,0.2,far more rain than any neighbor
+2023-05-17,ASOS-SMN,Salmon/Lemhi (Awos),ASOS,GB02,cold,63.0,8,73.2,max temp much colder than neighbors
+2023-05-19,422503,COTTONWOOD MTN,RAWS,GB34,hot,75.0,8,65.2,max temp much warmer than neighbors
+2023-05-20,ASOS-SUN,Hailey - Friedman Memorial,ASOS,GB06,cold,71.6,8,80.2,max temp much colder than neighbors
+2023-05-24,260210,MARTIN CREEK,RAWS,GB14,cold,53.0,3,62.7,max temp much colder than neighbors
+2023-05-25,101905,ARCO,RAWS,GB09,rain_alone,0.8,4,0.05,rain no neighbor saw
+2023-05-28,260603,COILS CREEK,RAWS,GB15,wet,1.07,5,0.23,far more rain than any neighbor
+2023-05-29,260302,POLE CREEK,RAWS,GB18,cold,52.0,3,61.1,max temp much colder than neighbors
+2023-05-29,261301,CHERRY VALLEY,RAWS,GB13,rain_alone,0.59,5,0.04,rain no neighbor saw
+2023-06-01,420914,ROSEBUD,RAWS,GB25,hot,78.0,4,69.9,max temp much warmer than neighbors
+2023-06-01,422712,KANE GULCH,RAWS,GB32,hot,72.0,3,63.7,max temp much warmer than neighbors
+2023-06-04,101220,TEA POT,RAWS,GB01,hot,75.0,7,66.9,max temp much warmer than neighbors
+2023-06-05,420912,OTTER CREEK,RAWS,GB26,rain_alone,0.52,6,0.05,rain no neighbor saw
+2023-06-06,ASOS-40U,Manilla,ASOS,GB29,cold,68.5,8,77.8,max temp much colder than neighbors
+2023-06-07,101044,LODGEPOLE,RAWS,GB01,rain_alone,0.56,7,0.05,rain no neighbor saw
+2023-06-08,422002,FLATTOP MOUNTAIN,RAWS,GB31,hot,81.0,5,71.8,max temp much warmer than neighbors
+2023-06-08,ASOS-TVY,Tooele,ASOS,GB25,rain_alone,0.53,8,0.04,rain no neighbor saw
+2023-06-10,103208,TRIANGLE,RAWS,GB03,cold,63.0,7,71.1,max temp much colder than neighbors
+2023-06-10,260204,MOREY CREEK,RAWS,GB14,rain_alone,0.77,5,0.03,rain no neighbor saw
+2023-06-11,261406,CURRANT CREEK,RAWS,GB21,hot,75.0,3,66.8,max temp much warmer than neighbors
+2023-06-11,422002,FLATTOP MOUNTAIN,RAWS,GB31,hot,82.0,5,72.0,max temp much warmer than neighbors
+2023-06-11,ASOS-PUC,Price/Carbon(Ramos),ASOS,GB31,hot,81.0,8,72.7,max temp much warmer than neighbors
+2023-06-12,103208,TRIANGLE,RAWS,GB03,rain_alone,1.03,7,0.05,rain no neighbor saw
+2023-06-12,103704,BULL CANYON,RAWS,GB08,wet,1.44,7,0.22,far more rain than any neighbor
+2023-06-12,260117,KNOX 2,RAWS,GB11,cold,48.0,8,56.1,max temp much colder than neighbors
+2023-06-13,102004,3 MILE,RAWS,GB09,wet,1.61,7,0.29,far more rain than any neighbor
+2023-06-16,ASOS-DRA,Mercury/Desert Rock,ASOS,GB22,missed,0.0,5,0.51,no rain while most neighbors got rain
+2023-06-18,103902,GRACE,RAWS,GB08,hot,72.0,8,63.2,max temp much warmer than neighbors
+2023-06-18,260309,ROCK SPRING CREEK,RAWS,GB18,hot,76.0,5,65.8,max temp much warmer than neighbors
+2023-06-18,261301,CHERRY VALLEY,RAWS,GB13,cold,65.0,4,73.3,max temp much colder than neighbors
+2023-06-19,260309,ROCK SPRING CREEK,RAWS,GB18,hot,73.0,5,63.0,max temp much warmer than neighbors
+2023-06-19,261301,CHERRY VALLEY,RAWS,GB13,cold,54.0,4,63.6,max temp much colder than neighbors
+2023-06-19,420206,RED SPUR,RAWS,GB26,cold,60.0,5,68.3,max temp much colder than neighbors
+2023-06-22,ASOS-05U,Eureka,ASOS,GB15,cold,55.4,6,77.5,max temp much colder than neighbors
+2023-06-24,ASOS-1U7,Bear Lake County,ASOS,GB09,cold,44.6,8,72.7,max temp much colder than neighbors
+2023-06-24,ASOS-41U,Manti,ASOS,GB27,cold,46.4,6,83.7,max temp much colder than neighbors
+2023-06-24,ASOS-KNB,Kanab,ASOS,GB35,cold,53.6,8,89.8,max temp much colder than neighbors
+2023-06-24,ASOS-SPK,Spanish Fork,ASOS,GB25,cold,55.4,8,82.5,max temp much colder than neighbors
+2023-06-24,ASOS-TMT,Austin,ASOS,GB15,cold,44.2,5,75.4,max temp much colder than neighbors
+2023-06-24,ASOS-U55,Panguitch,ASOS,GB34,cold,42.8,8,80.1,max temp much colder than neighbors
+2023-06-24,ASOS-U69,Duchesne,ASOS,GB29,cold,55.4,8,80.3,max temp much colder than neighbors
+2023-06-29,104104,RAFT RIVER,RAWS,GB06,rain_alone,4.73,8,0.0,rain no neighbor saw
+2023-06-29,ASOS-BDG,Blanding,ASOS,GB32,cold,71.6,5,85.0,max temp much colder than neighbors
+2023-07-02,260309,ROCK SPRING CREEK,RAWS,GB18,wet,6.85,6,0.08,far more rain than any neighbor
+2023-07-06,260110,FOX MOUNTAIN,RAWS,GB14,rain_alone,0.56,8,0.03,rain no neighbor saw
+2023-07-07,104105,GOOSE CREEK,RAWS,GB07,rain_alone,0.5,8,0.02,rain no neighbor saw
+2023-07-07,ASOS-40U,Manilla,ASOS,GB29,cold,72.3,8,81.8,max temp much colder than neighbors
+2023-07-08,ASOS-05U,Eureka,ASOS,GB15,cold,80.6,6,90.2,max temp much colder than neighbors
+2023-07-10,261702,KYLE CANYON,RAWS,GB23,hot,93.0,3,81.5,max temp much warmer than neighbors
+2023-07-11,ASOS-MYL,Mc Call,ASOS,GB01,cold,69.0,7,81.5,max temp much colder than neighbors
+2023-07-13,261702,KYLE CANYON,RAWS,GB23,hot,99.0,3,86.9,max temp much warmer than neighbors
+2023-07-14,ASOS-JAC,Jackson Hole (Awos),ASOS,GB10,cold,69.8,8,77.9,max temp much colder than neighbors
+2023-07-17,421301,YELLOWSTONE DRAINAGE,RAWS,GB29,rain_alone,0.92,8,0.0,rain no neighbor saw
+2023-07-18,55522249,DECATHON  CANYON,RAWS,GB20,rain_alone,0.6,4,0.04,rain no neighbor saw
+2023-07-19,420705,HEWINTA,RAWS,GB26,cold,68.0,8,76.1,max temp much colder than neighbors
+2023-07-19,ASOS-BAN,Usmc Mtn Warfare Tra,ASOS,GB11,cold,64.0,8,85.2,max temp much colder than neighbors
+2023-07-19,ASOS-ELY,Ely/Yelland Fld,ASOS,GB20,cold,78.0,5,87.2,max temp much colder than neighbors
+2023-07-21,104007,COTTON RIDGE,RAWS,GB07,cold,77.0,5,88.4,max temp much colder than neighbors
+2023-07-22,104007,COTTON RIDGE,RAWS,GB07,cold,80.0,5,91.4,max temp much colder than neighbors
+2023-07-26,261702,KYLE CANYON,RAWS,GB23,hot,96.0,3,87.5,max temp much warmer than neighbors
+2023-07-26,55522249,DECATHON  CANYON,RAWS,GB20,cold,75.0,4,84.0,max temp much colder than neighbors
+2023-07-26,ASOS-40U,Manilla,ASOS,GB29,cold,77.4,8,90.2,max temp much colder than neighbors
+2023-07-29,421301,YELLOWSTONE DRAINAGE,RAWS,GB29,rain_alone,9.13,8,0.01,rain no neighbor saw
+2023-07-29,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,97.6,max temp much warmer than neighbors
+2023-07-31,261702,KYLE CANYON,RAWS,GB23,hot,89.0,3,79.4,max temp much warmer than neighbors
+2023-08-01,103704,BULL CANYON,RAWS,GB08,wet,1.72,7,0.38,far more rain than any neighbor
+2023-08-02,260809,MATHER,RAWS,GB20,missed,0.0,3,0.54,no rain while most neighbors got rain
+2023-08-02,ASOS-AZC,Colorado City,ASOS,GB35,hot,91.4,8,81.4,max temp much warmer than neighbors
+2023-08-03,260302,POLE CREEK,RAWS,GB18,wet,1.08,5,0.2,far more rain than any neighbor
+2023-08-03,261702,KYLE CANYON,RAWS,GB23,hot,89.0,3,80.5,max temp much warmer than neighbors
+2023-08-04,261702,KYLE CANYON,RAWS,GB23,hot,95.0,3,83.5,max temp much warmer than neighbors
+2023-08-05,261702,KYLE CANYON,RAWS,GB23,hot,92.0,3,83.9,max temp much warmer than neighbors
+2023-08-05,420705,HEWINTA,RAWS,GB26,cold,63.0,8,72.2,max temp much colder than neighbors
+2023-08-05,ASOS-10U,Owyhee,ASOS,GB17,cold,73.4,5,83.3,max temp much colder than neighbors
+2023-08-05,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,96.4,max temp much warmer than neighbors
+2023-08-06,420705,HEWINTA,RAWS,GB26,cold,59.0,8,68.3,max temp much colder than neighbors
+2023-08-06,ASOS-40U,Manilla,ASOS,GB29,cold,68.0,8,78.5,max temp much colder than neighbors
+2023-08-06,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,96.4,max temp much warmer than neighbors
+2023-08-07,261702,KYLE CANYON,RAWS,GB23,hot,93.0,3,83.5,max temp much warmer than neighbors
+2023-08-07,ASOS-AZC,Colorado City,ASOS,GB35,hot,109.4,8,95.5,max temp much warmer than neighbors
+2023-08-09,261702,KYLE CANYON,RAWS,GB23,hot,88.0,3,78.4,max temp much warmer than neighbors
+2023-08-09,ASOS-AZC,Colorado City,ASOS,GB35,hot,98.6,8,88.4,max temp much warmer than neighbors
+2023-08-11,421405,MCCOOK RIDGE,RAWS,GB29,rain_alone,0.56,8,0.03,rain no neighbor saw
+2023-08-12,261702,KYLE CANYON,RAWS,GB23,hot,89.0,3,78.9,max temp much warmer than neighbors
+2023-08-14,53808,CARPENTER RIDGE,RAWS,GB32,wet,1.5,8,0.33,far more rain than any neighbor
+2023-08-14,ASOS-DIJ,Driggs,ASOS,GB08,cold,74.0,8,82.4,max temp much colder than neighbors
+2023-08-14,ASOS-LLJ,Challis,ASOS,GB02,cold,76.0,8,93.0,max temp much colder than neighbors
+2023-08-14,ASOS-RXE,Rexburg-Madison County Airport,ASOS,GB08,cold,78.0,8,87.7,max temp much colder than neighbors
+2023-08-15,20117,HURRICANE,RAWS,GB35,rain_alone,0.58,8,0.05,rain no neighbor saw
+2023-08-16,260312,RUBY LAKE,RAWS,GB19,cold,80.0,7,89.1,max temp much colder than neighbors
+2023-08-16,421602,JOES VALLEY,RAWS,GB30,cold,71.0,4,79.2,max temp much colder than neighbors
+2023-08-16,ASOS-AZC,Colorado City,ASOS,GB35,hot,100.4,8,91.1,max temp much warmer than neighbors
+2023-08-17,261702,KYLE CANYON,RAWS,GB23,hot,94.0,3,84.4,max temp much warmer than neighbors
+2023-08-17,ASOS-41U,Manti,ASOS,GB27,cold,80.6,7,91.3,max temp much colder than neighbors
+2023-08-17,ASOS-AZC,Colorado City,ASOS,GB35,hot,102.2,8,89.6,max temp much warmer than neighbors
+2023-08-17,ASOS-HND,Henderson,ASOS,GB24,cold,95.0,6,104.7,max temp much colder than neighbors
+2023-08-17,ASOS-RXE,Rexburg-Madison County Airport,ASOS,GB08,cold,68.0,8,94.6,max temp much colder than neighbors
+2023-08-18,ASOS-AZC,Colorado City,ASOS,GB35,hot,98.6,8,84.9,max temp much warmer than neighbors
+2023-08-18,ASOS-PUC,Price/Carbon(Ramos),ASOS,GB31,wet,1.21,8,0.27,far more rain than any neighbor
+2023-08-19,103103,SCOUT MOUNTAIN,RAWS,GB08,cold,72.0,7,80.5,max temp much colder than neighbors
+2023-08-19,ASOS-AZC,Colorado City,ASOS,GB35,hot,91.4,8,79.9,max temp much warmer than neighbors
+2023-08-20,ASOS-41U,Manti,ASOS,GB27,hot,88.7,7,78.4,max temp much warmer than neighbors
+2023-08-20,ASOS-ENV,Wendover (Aut),ASOS,GB25,missed,0.0,3,0.52,no rain while most neighbors got rain
+2023-08-20,ASOS-HND,Henderson,ASOS,GB24,missed,0.0,8,0.92,no rain while most neighbors got rain
+2023-08-20,ASOS-U55,Panguitch,ASOS,GB34,cold,57.2,8,79.8,max temp much colder than neighbors
+2023-08-21,422503,COTTONWOOD MTN,RAWS,GB34,hot,69.0,8,60.1,max temp much warmer than neighbors
+2023-08-21,ASOS-HND,Henderson,ASOS,GB24,missed,0.0,8,0.97,no rain while most neighbors got rain
+2023-08-21,ASOS-LAS,Las Vegas - Harry Reid Intl,ASOS,GB24,missed,0.0,8,0.56,no rain while most neighbors got rain
+2023-08-21,ASOS-LSV,Nellis Afb,ASOS,GB24,missed,0.0,8,0.56,no rain while most neighbors got rain
+2023-08-21,ASOS-VGT,North Las Vegas,ASOS,GB24,missed,0.0,8,0.56,no rain while most neighbors got rain
+2023-08-22,ASOS-AZC,Colorado City,ASOS,GB35,hot,86.0,8,77.4,max temp much warmer than neighbors
+2023-08-22,ASOS-PGA,Page,ASOS,GB35,hot,88.0,4,78.6,max temp much warmer than neighbors
+2023-08-22,ASOS-RTS,Reno,ASOS,GB12,cold,59.0,8,72.9,max temp much colder than neighbors
+2023-08-23,ASOS-AZC,Colorado City,ASOS,GB35,hot,109.4,8,85.7,max temp much warmer than neighbors
+2023-08-24,422102,BRYSON CANYON,RAWS,GB31,hot,86.0,8,77.6,max temp much warmer than neighbors
+2023-08-24,ASOS-40U,Manilla,ASOS,GB29,cold,66.0,8,75.5,max temp much colder than neighbors
+2023-08-24,ASOS-AZC,Colorado City,ASOS,GB35,hot,111.2,8,85.2,max temp much warmer than neighbors
+2023-08-25,421301,YELLOWSTONE DRAINAGE,RAWS,GB29,wet,11.1,8,0.36,far more rain than any neighbor
+2023-08-25,ASOS-AZC,Colorado City,ASOS,GB35,hot,107.6,8,89.1,max temp much warmer than neighbors
+2023-08-26,104006,BULL SPRING,RAWS,GB07,hot,89.0,8,79.8,max temp much warmer than neighbors
+2023-08-26,261702,KYLE CANYON,RAWS,GB23,hot,92.0,3,80.4,max temp much warmer than neighbors
+2023-08-26,ASOS-AZC,Colorado City,ASOS,GB35,hot,107.6,8,92.6,max temp much warmer than neighbors
+2023-08-26,ASOS-BOI,Boise Municipal,ASOS,GB03,wet,1.46,8,0.13,far more rain than any neighbor
+2023-08-27,261702,KYLE CANYON,RAWS,GB23,hot,92.0,3,81.4,max temp much warmer than neighbors
+2023-08-27,423106,CHEPETA,RAWS,GB29,rain_alone,0.94,8,0.03,rain no neighbor saw
+2023-08-27,ASOS-AZC,Colorado City,ASOS,GB35,hot,114.8,8,93.6,max temp much warmer than neighbors
+2023-08-28,261702,KYLE CANYON,RAWS,GB23,hot,96.0,3,83.9,max temp much warmer than neighbors
+2023-08-28,421301,YELLOWSTONE DRAINAGE,RAWS,GB29,rain_alone,6.02,8,0.01,rain no neighbor saw
+2023-08-28,ASOS-AZC,Colorado City,ASOS,GB35,hot,116.6,8,96.1,max temp much warmer than neighbors
 2026-11-08,101303,INDIANOLA,RAWS,GB02,cold,52.0,8,64.1,max temp much colder than neighbors
 2026-11-08,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,60.0,5,68.8,max temp much colder than neighbors
 2026-11-09,260308,SPRING GULCH,RAWS,GB19,cold,54.0,3,66.2,max temp much colder than neighbors
