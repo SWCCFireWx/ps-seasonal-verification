@@ -8,7 +8,8 @@ same calendar month in the previous normal_years (default 10) years.
 
   * data/fire_history/<year>.csv   every wildfire of that year that reached the smallest size any GACC
                                    uses (national, one row per fire; kept so PSAs can be re-assigned)
-  * data/<GACC>/sig_fires.csv      each significant fire: month, discovery date, PSA, name, acres, cause
+  * data/<GACC>/sig_fires.csv      each significant fire (and any smaller one with an ICS-209 report): month, discovery
+                                   date, PSA, name, acres, cause, sig (1 = reached the size), had_209
   * data/<GACC>/fire_counts.csv    per PSA per month: significant fires, their acres, causes
   * data/<GACC>/climatology.csv    normal for the next four months: per PSA, the counts in each past year,
                                    the mean and the bottom/top-third thresholds
@@ -36,9 +37,11 @@ LAYERS = ["WFIGS_Incident_Locations", "InFORM_FireOccurrence_Public"]
 YTD = "WFIGS_Incident_Locations_YearToDate"
 HIST_DIR = os.path.join(gaccs.DATA, "fire_history")
 HIST_LOG = os.path.join(HIST_DIR, "fetch_log.csv")
-HIST_COLS = ["source_id", "fire_name", "discovered_utc", "lat", "lon", "acres", "cause"]
-SIG_COLS = ["month", "discovered", "psa", "source_id", "fire_name", "acres", "cause", "lat", "lon"]
-COUNT_COLS = ["month", "psa", "sig_fires", "sig_acres", "lightning", "human", "other", "largest_acres"]
+HIST_COLS = ["source_id", "fire_name", "discovered_utc", "lat", "lon", "acres", "cause", "had_209"]
+HIST_VERSION = "2"          # 2 = also keeps wildfires that had an ICS-209 report, whatever their size
+F209_FIELDS = ["ICS209ReportDateTime", "ICS209ReportStatus", "ICS209ReportForTimePeriodFrom"]
+SIG_COLS = ["month", "discovered", "psa", "source_id", "fire_name", "acres", "cause", "lat", "lon", "sig", "had_209"]
+COUNT_COLS = ["month", "psa", "sig_fires", "sig_acres", "lightning", "human", "other", "largest_acres", "fires_209"]
 CLIM_COLS = ["psa", "month", "normal_years", "n_years", "mean_fires", "low", "high", "mean_acres", "acres_low", "acres_high", "counts", "acres"]
 SIZE_FIELDS = ["IncidentSize", "FinalAcres", "CalculatedAcres", "DailyAcres", "DiscoveryAcres"]
 
@@ -76,8 +79,10 @@ def fetch_year(year, min_acres):
     """Wildfires discovered in `year` (UTC, padded a day each side) that reached min_acres."""
     t0, t1 = f"{year - 1}-12-31 00:00:00", f"{year + 1}-01-02 00:00:00"
     size = " OR ".join(f"{k} >= {min_acres:g}" for k in SIZE_FIELDS[:3])
-    wheres = [f"FireDiscoveryDateTime >= TIMESTAMP '{t0}' AND FireDiscoveryDateTime < TIMESTAMP '{t1}' AND ({size})",
-              f"FireDiscoveryDateTime >= TIMESTAMP '{t0}' AND FireDiscoveryDateTime < TIMESTAMP '{t1}' AND IncidentSize >= {min_acres:g}",
+    when = f"FireDiscoveryDateTime >= TIMESTAMP '{t0}' AND FireDiscoveryDateTime < TIMESTAMP '{t1}'"
+    wheres = [f"{when} AND ({size} OR ICS209ReportDateTime IS NOT NULL)",       # significant by size, or had an ICS-209
+              f"{when} AND ({size})",
+              f"{when} AND IncidentSize >= {min_acres:g}",
               f"FireDiscoveryDateTime >= DATE '{t0[:10]}' AND FireDiscoveryDateTime < DATE '{t1[:10]}' AND IncidentSize >= {min_acres:g}"]
     layers = LAYERS + ([YTD] if year == datetime.now(timezone.utc).year else [])
     for layer in layers:
@@ -97,7 +102,10 @@ def fetch_year(year, min_acres):
                 lon, lat = g.get("x"), g.get("y")
                 if lon is None or lat is None:
                     lat, lon = first(a, "InitialLatitude", "POOLatitude"), first(a, "InitialLongitude", "POOLongitude")
-                if acres is None or acres < min_acres or disc is None or common.num(lat) is None or common.num(lon) is None:
+                had209 = any(a.get(k) not in (None, "") for k in F209_FIELDS)
+                if acres is None:
+                    acres = 0.0 if had209 else None
+                if acres is None or (acres < min_acres and not had209) or disc is None or common.num(lat) is None or common.num(lon) is None:
                     continue
                 if not t0[:10] <= datetime.fromtimestamp(disc / 1000, tz=timezone.utc).strftime("%Y-%m-%d") < t1[:10]:
                     continue
@@ -106,8 +114,10 @@ def fetch_year(year, min_acres):
                 out[sid] = {"source_id": sid, "fire_name": name.title() if name.isupper() else name,
                             "discovered_utc": datetime.fromtimestamp(disc / 1000, tz=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                             "lat": round(float(lat), 5), "lon": round(float(lon), 5), "acres": round(acres, 1),
-                            "cause": str(first(a, "FireCause") or "").strip()}
-            print(f"  {layer} {year}: {len(out)} wildfires of {min_acres:g}+ ac")
+                            "cause": str(first(a, "FireCause") or "").strip(), "had_209": 1 if had209 else 0}
+            n209 = sum(r["had_209"] for r in out.values())
+            print(f"  {layer} {year}: {len(out)} wildfires ({min_acres:g}+ ac or with an ICS-209; {n209} with an ICS-209)"
+                  + ("" if "ICS209" in w else " - this query couldn't ask for ICS-209 fires"))
             return list(out.values())
     raise RuntimeError(f"couldn't read wildfire records for {year}")
 
@@ -122,7 +132,8 @@ def update_history(years, min_acres, refresh_all=False):
         r = log.get(str(y))
         live = y == cur or (y == cur - 1 and now.month <= 4)
         old = r and (time.time() - datetime.fromisoformat(r["fetched_at_utc"].replace("Z", "+00:00")).timestamp()) > 180 * 86400
-        if os.path.exists(p) and r and float(r.get("min_acres") or 1e9) <= min_acres and not (live or old or refresh_all):
+        if os.path.exists(p) and r and float(r.get("min_acres") or 1e9) <= min_acres and r.get("version") == HIST_VERSION \
+                and not (live or old or refresh_all):
             continue
         try:
             rows = fetch_year(y, min_acres)
@@ -130,15 +141,20 @@ def update_history(years, min_acres, refresh_all=False):
             print(f"{y}: {e}")
             continue
         gaccs.write_csv(p, sorted(rows, key=lambda x: x["discovered_utc"]), HIST_COLS)
-        log[str(y)] = {"year": y, "fetched_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "fires": len(rows), "min_acres": min_acres}
-    gaccs.write_csv(HIST_LOG, [log[k] for k in sorted(log)], ["year", "fetched_at_utc", "fires", "min_acres"])
+        log[str(y)] = {"year": y, "fetched_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "fires": len(rows), "min_acres": min_acres, "version": HIST_VERSION}
+    gaccs.write_csv(HIST_LOG, [log[k] for k in sorted(log)], ["year", "fetched_at_utc", "fires", "min_acres", "version"])
 
 
 def counts_for(fires, psa_list):
-    """month -> psa -> {n, acres, ...} from significant-fire rows."""
-    c = defaultdict(lambda: defaultdict(lambda: {"sig_fires": 0, "sig_acres": 0.0, "lightning": 0, "human": 0, "other": 0, "largest_acres": 0.0}))
+    """month -> psa -> {sig_fires, sig_acres, causes, largest, fires_209}."""
+    c = defaultdict(lambda: defaultdict(lambda: {"sig_fires": 0, "sig_acres": 0.0, "lightning": 0, "human": 0, "other": 0,
+                                                 "largest_acres": 0.0, "fires_209": 0}))
     for f in fires:
         x = c[f["month"]][f["psa"]]
+        if str(f.get("had_209")) == "1":
+            x["fires_209"] += 1
+        if str(f.get("sig", "1")) != "1":
+            continue
         x["sig_fires"] += 1
         x["sig_acres"] += float(f["acres"])
         x[cause_group(f["cause"])] += 1
@@ -200,14 +216,15 @@ def main():
         n_years = int(cfg.get("normal_years") or 10)
         sig = []
         for psa, f in placed:
-            if gaccs.gacc_of(psa) != g or float(f["acres"]) < min_g:
+            is_sig, had209 = float(f["acres"]) >= min_g, str(f.get("had_209") or "0") == "1"
+            if gaccs.gacc_of(psa) != g or not (is_sig or had209):
                 continue
             d = datetime.fromisoformat(f["discovered_utc"].replace("Z", "+00:00")).astimezone(tz).date()
             if d.year < first_year or d.year > cur:
                 continue
             sig.append({"month": gaccs.ym(d), "discovered": d.isoformat(), "psa": psa, "source_id": f["source_id"],
                         "fire_name": f["fire_name"], "acres": int(round(float(f["acres"]))), "cause": f["cause"],
-                        "lat": f["lat"], "lon": f["lon"]})
+                        "lat": f["lat"], "lon": f["lon"], "sig": 1 if is_sig else 0, "had_209": 1 if had209 else 0})
         sig.sort(key=lambda r: (r["discovered"], r["psa"], r["fire_name"]))
         gdir = gaccs.gacc_dir(g)
         gaccs.write_csv(os.path.join(gdir, "sig_fires.csv"), sig, SIG_COLS)
@@ -231,7 +248,7 @@ def main():
                              "mean_acres": round(sum(ac) / len(ac)), "acres_low": round(gaccs.pctl(ac, 100 / 3)), "acres_high": round(gaccs.pctl(ac, 200 / 3)),
                              "counts": ";".join(map(str, cs)), "acres": ";".join(str(round(a)) for a in ac)})
         gaccs.write_csv(os.path.join(gdir, "climatology.csv"), clim, CLIM_COLS)
-        this = sum(1 for r in sig if r["month"] == gaccs.ym(today))
+        this = sum(1 for r in sig if r["month"] == gaccs.ym(today) and r["sig"])
         print(f"{g}: {len(sig)} significant fires ({min_g:g}+ ac) since {first_year}; {this} so far in {gaccs.ym(today)}")
     return 0
 
