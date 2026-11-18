@@ -1201,6 +1201,456 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2023-08-27,240227,SWANEY,RAWS,NR02,bad_rain,12.13,0,,impossible rain total
 2023-08-27,ASOS-2C8,Cavalier,ASOS,NR17,cold,60.8,5,82.6,max temp much colder than neighbors
 2023-08-28,240227,SWANEY,RAWS,NR02,bad_rain,12.13,0,,impossible rain total
+2023-08-29,240227,SWANEY,RAWS,NR02,bad_rain,12.19,0,,impossible rain total
+2023-08-29,ASOS-HRF,Hamilton,ASOS,NR06,cold,60.8,8,92.2,max temp much colder than neighbors
+2023-08-30,240227,SWANEY,RAWS,NR02,bad_rain,13.47,0,,impossible rain total
+2023-08-31,240227,SWANEY,RAWS,NR02,bad_rain,13.47,0,,impossible rain total
+2023-08-31,241519,POINT 6,RAWS,NR04,cold,51.0,7,59.2,max temp much colder than neighbors
+2023-08-31,ASOS-HRF,Hamilton,ASOS,NR06,cold,60.8,8,77.7,max temp much colder than neighbors
+2023-09-01,240227,SWANEY,RAWS,NR02,bad_rain,13.47,0,,impossible rain total
+2023-09-02,240227,SWANEY,RAWS,NR02,bad_rain,13.47,0,,impossible rain total
+2023-09-03,240227,SWANEY,RAWS,NR02,bad_rain,13.47,0,,impossible rain total
+2023-09-04,240227,SWANEY,RAWS,NR02,bad_rain,13.47,0,,impossible rain total
+2023-09-04,ASOS-1LN,Lima,ASOS,NR15,cold,71.6,7,80.6,max temp much colder than neighbors
+2023-09-05,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-05,ASOS-2D5,Oakes,ASOS,NR18,cold,69.8,4,79.5,max temp much colder than neighbors
+2023-09-06,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-07,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-08,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-08,241519,POINT 6,RAWS,NR04,cold,52.0,7,60.3,max temp much colder than neighbors
+2023-09-09,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-09,ASOS-P69,Elk City (Ramos),ASOS,NR06,cold,69.0,8,90.5,max temp much colder than neighbors
+2023-09-10,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-11,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-12,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-12,241519,POINT 6,RAWS,NR04,cold,61.0,7,69.1,max temp much colder than neighbors
+2023-09-12,ASOS-GAF,Grafton,ASOS,NR17,cold,51.8,5,64.8,max temp much colder than neighbors
+2023-09-13,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-14,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-15,100708,KELLY,RAWS,NR03,cold,78.0,8,86.9,max temp much colder than neighbors
+2023-09-15,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-16,100708,KELLY,RAWS,NR03,cold,78.0,8,89.2,max temp much colder than neighbors
+2023-09-16,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-17,240227,SWANEY,RAWS,NR02,bad_rain,13.49,0,,impossible rain total
+2023-09-17,241519,POINT 6,RAWS,NR04,cold,59.0,7,69.2,max temp much colder than neighbors
+2023-09-18,240227,SWANEY,RAWS,NR02,bad_rain,13.53,0,,impossible rain total
+2023-09-18,241519,POINT 6,RAWS,NR04,cold,52.0,7,60.6,max temp much colder than neighbors
+2023-09-19,101049,ROUNDTOP,RAWS,NR06,cold,50.0,8,58.4,max temp much colder than neighbors
+2023-09-19,240227,SWANEY,RAWS,NR02,bad_rain,13.53,0,,impossible rain total
+2023-09-19,ASOS-1EN,Echo (Ryder),ASOS,NR18,cold,62.4,6,83.4,max temp much colder than neighbors
+2023-09-19,ASOS-1GM,Golf,ASOS,NR10,cold,55.4,7,64.9,max temp much colder than neighbors
+2023-09-19,ASOS-MOT,Minot_Intl,ASOS,NR15,hot,88.0,6,63.8,max temp much warmer than neighbors
+2023-09-19,ASOS-RDR,Grand_Forks_Afb,ASOS,NR17,cold,65.7,3,89.8,max temp much colder than neighbors
+2023-09-20,240227,SWANEY,RAWS,NR02,bad_rain,13.57,0,,impossible rain total
+2023-09-21,240227,SWANEY,RAWS,NR02,bad_rain,13.57,0,,impossible rain total
+2023-09-21,245109,WILD HORSE,RAWS,NR14,hot,61.0,3,52.1,max temp much warmer than neighbors
+2023-09-22,240227,SWANEY,RAWS,NR02,bad_rain,13.6,0,,impossible rain total
+2023-09-23,240227,SWANEY,RAWS,NR02,bad_rain,13.6,0,,impossible rain total
+2023-09-23,ASOS-D57,Glen Ullin,ASOS,NR16,wet,1.0,3,0.17,far more rain than any neighbor
+2023-09-24,240227,SWANEY,RAWS,NR02,bad_rain,13.6,0,,impossible rain total
+2023-09-25,240227,SWANEY,RAWS,NR02,bad_rain,13.6,0,,impossible rain total
+2023-09-26,101031,POWELL,RAWS,NR06,cold,64.0,8,72.2,max temp much colder than neighbors
+2023-09-26,240227,SWANEY,RAWS,NR02,bad_rain,13.61,0,,impossible rain total
+2023-09-27,240227,SWANEY,RAWS,NR02,bad_rain,13.8,0,,impossible rain total
+2023-09-27,243004,HARVEY GROUSE,RAWS,NR08,hot,69.0,8,56.9,max temp much warmer than neighbors
+2023-09-28,240227,SWANEY,RAWS,NR02,bad_rain,13.86,0,,impossible rain total
+2023-09-29,240227,SWANEY,RAWS,NR02,bad_rain,13.88,0,,impossible rain total
+2023-09-29,241519,POINT 6,RAWS,NR04,cold,39.0,7,48.1,max temp much colder than neighbors
+2023-09-30,101049,ROUNDTOP,RAWS,NR06,hot,59.0,8,41.1,max temp much warmer than neighbors
+2023-09-30,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-01,101049,ROUNDTOP,RAWS,NR06,hot,62.0,8,41.1,max temp much warmer than neighbors
+2023-10-01,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-01,ASOS-GGW,Glasgow Intl Arpt,ASOS,NR15,hot,63.0,3,54.6,max temp much warmer than neighbors
+2023-10-01,ASOS-RUG,Rugby,ASOS,NR17,hot,80.6,6,69.9,max temp much warmer than neighbors
+2023-10-02,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,43.6,max temp much warmer than neighbors
+2023-10-02,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-03,101049,ROUNDTOP,RAWS,NR06,hot,73.0,8,45.6,max temp much warmer than neighbors
+2023-10-03,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-03,ASOS-1ON,Oscar,ASOS,NR17,cold,59.0,5,68.5,max temp much colder than neighbors
+2023-10-04,101049,ROUNDTOP,RAWS,NR06,hot,75.0,8,48.4,max temp much warmer than neighbors
+2023-10-04,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-04,241519,POINT 6,RAWS,NR04,cold,38.0,7,47.2,max temp much colder than neighbors
+2023-10-05,101049,ROUNDTOP,RAWS,NR06,hot,74.0,8,53.5,max temp much warmer than neighbors
+2023-10-05,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-05,ASOS-MIB,Minot_Afb,ASOS,NR15,hot,65.7,6,54.0,max temp much warmer than neighbors
+2023-10-06,101049,ROUNDTOP,RAWS,NR06,hot,76.0,8,60.9,max temp much warmer than neighbors
+2023-10-06,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-06,ASOS-MIB,Minot_Afb,ASOS,NR15,hot,61.3,6,46.1,max temp much warmer than neighbors
+2023-10-07,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-08,240119,BC BALDY,RAWS,NR02,hot,77.0,8,67.5,max temp much warmer than neighbors
+2023-10-08,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-08,241502,CONDON WORK CENTER,RAWS,NR07,rain_alone,0.89,8,0.0,rain no neighbor saw
+2023-10-08,ASOS-1KM,Kilo,ASOS,NR11,cold,65.3,6,75.9,max temp much colder than neighbors
+2023-10-09,240227,SWANEY,RAWS,NR02,bad_rain,14.3,0,,impossible rain total
+2023-10-10,101049,ROUNDTOP,RAWS,NR06,hot,67.0,8,56.9,max temp much warmer than neighbors
+2023-10-10,240227,SWANEY,RAWS,NR02,bad_rain,14.58,0,,impossible rain total
+2023-10-11,101049,ROUNDTOP,RAWS,NR06,hot,64.0,8,43.0,max temp much warmer than neighbors
+2023-10-11,240227,SWANEY,RAWS,NR02,bad_rain,14.67,0,,impossible rain total
+2023-10-12,101049,ROUNDTOP,RAWS,NR06,hot,66.0,8,45.4,max temp much warmer than neighbors
+2023-10-12,240227,SWANEY,RAWS,NR02,bad_rain,14.67,0,,impossible rain total
+2023-10-12,ASOS-MIB,Minot_Afb,ASOS,NR15,hot,63.3,6,52.1,max temp much warmer than neighbors
+2023-10-13,100708,KELLY,RAWS,NR03,cold,58.0,8,66.2,max temp much colder than neighbors
+2023-10-13,101049,ROUNDTOP,RAWS,NR06,hot,70.0,8,51.7,max temp much warmer than neighbors
+2023-10-13,240227,SWANEY,RAWS,NR02,bad_rain,14.67,0,,impossible rain total
+2023-10-14,101049,ROUNDTOP,RAWS,NR06,hot,68.0,8,50.7,max temp much warmer than neighbors
+2023-10-14,240227,SWANEY,RAWS,NR02,bad_rain,14.67,0,,impossible rain total
+2023-10-15,101049,ROUNDTOP,RAWS,NR06,hot,69.0,8,60.1,max temp much warmer than neighbors
+2023-10-15,240227,SWANEY,RAWS,NR02,bad_rain,14.68,0,,impossible rain total
+2023-10-16,101014,SYRINGA,RAWS,NR03,rain_alone,0.6,8,0.05,rain no neighbor saw
+2023-10-16,240227,SWANEY,RAWS,NR02,bad_rain,14.69,0,,impossible rain total
+2023-10-16,241405,PISTOL CREEK,RAWS,NR04,hot,67.0,8,58.0,max temp much warmer than neighbors
+2023-10-16,ASOS-CTB,Cut Bank (Awos),ASOS,NR10,cold,63.0,4,72.3,max temp much colder than neighbors
+2023-10-17,101049,ROUNDTOP,RAWS,NR06,hot,73.0,8,48.9,max temp much warmer than neighbors
+2023-10-17,240227,SWANEY,RAWS,NR02,bad_rain,14.84,0,,impossible rain total
+2023-10-18,100708,KELLY,RAWS,NR03,cold,58.0,8,71.3,max temp much colder than neighbors
+2023-10-18,101049,ROUNDTOP,RAWS,NR06,hot,73.0,8,63.4,max temp much warmer than neighbors
+2023-10-18,240227,SWANEY,RAWS,NR02,bad_rain,14.84,0,,impossible rain total
+2023-10-19,240227,SWANEY,RAWS,NR02,bad_rain,14.84,0,,impossible rain total
+2023-10-19,241519,POINT 6,RAWS,NR04,cold,55.0,7,63.6,max temp much colder than neighbors
+2023-10-19,ASOS-GPI,Kalispell,ASOS,NR02,cold,69.0,8,77.4,max temp much colder than neighbors
+2023-10-20,100708,KELLY,RAWS,NR03,cold,61.0,8,76.6,max temp much colder than neighbors
+2023-10-20,240227,SWANEY,RAWS,NR02,bad_rain,14.84,0,,impossible rain total
+2023-10-21,100708,KELLY,RAWS,NR03,cold,61.0,8,74.1,max temp much colder than neighbors
+2023-10-21,101049,ROUNDTOP,RAWS,NR06,cold,54.0,8,65.3,max temp much colder than neighbors
+2023-10-21,240227,SWANEY,RAWS,NR02,bad_rain,14.84,0,,impossible rain total
+2023-10-21,242208,JUDITH PEAK,RAWS,NR11,hot,62.0,3,50.1,max temp much warmer than neighbors
+2023-10-21,ASOS-DLN,Dillon Airport,ASOS,NR09,cold,62.0,8,70.5,max temp much colder than neighbors
+2023-10-21,ASOS-LWT,Lewistown Municipal,ASOS,NR11,hot,66.0,5,58.0,max temp much warmer than neighbors
+2023-10-22,101049,ROUNDTOP,RAWS,NR06,cold,39.0,8,57.4,max temp much colder than neighbors
+2023-10-22,240227,SWANEY,RAWS,NR02,bad_rain,14.99,0,,impossible rain total
+2023-10-22,ASOS-XWA,Williston Basin,ASOS,NR15,cold,47.0,5,61.8,max temp much colder than neighbors
+2023-10-23,101049,ROUNDTOP,RAWS,NR06,cold,36.0,8,45.9,max temp much colder than neighbors
+2023-10-23,240227,SWANEY,RAWS,NR02,bad_rain,15.01,0,,impossible rain total
+2023-10-24,240227,SWANEY,RAWS,NR02,bad_rain,15.01,0,,impossible rain total
+2023-10-25,101049,ROUNDTOP,RAWS,NR06,hot,38.0,8,27.2,max temp much warmer than neighbors
+2023-10-25,240227,SWANEY,RAWS,NR02,bad_rain,15.01,0,,impossible rain total
+2023-10-25,240903,KING COULEE,RAWS,NR13,missed,0.0,3,0.5,no rain while most neighbors got rain
+2023-10-25,243402,PORPHYRY,RAWS,NR11,hot,18.0,3,8.9,max temp much warmer than neighbors
+2023-10-25,245303,EKALAKA,RAWS,NR16,hot,41.0,3,30.4,max temp much warmer than neighbors
+2023-10-26,101049,ROUNDTOP,RAWS,NR06,hot,34.0,8,19.3,max temp much warmer than neighbors
+2023-10-26,240227,SWANEY,RAWS,NR02,bad_rain,15.01,0,,impossible rain total
+2023-10-26,391051,SHADEHILL,RAWS,NR16,hot,49.0,3,27.9,max temp much warmer than neighbors
+2023-10-26,ASOS-BIS,Bismarck,ASOS,NR18,rain_alone,0.67,3,0.0,rain no neighbor saw
+2023-10-27,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,22.7,max temp much warmer than neighbors
+2023-10-27,240227,SWANEY,RAWS,NR02,bad_rain,15.11,0,,impossible rain total
+2023-10-27,320220,LOSTWOOD,RAWS,NR15,hot,26.0,4,17.9,max temp much warmer than neighbors
+2023-10-27,391051,SHADEHILL,RAWS,NR16,hot,54.0,3,20.4,max temp much warmer than neighbors
+2023-10-28,101049,ROUNDTOP,RAWS,NR06,hot,48.0,8,26.0,max temp much warmer than neighbors
+2023-10-28,240227,SWANEY,RAWS,NR02,bad_rain,15.15,0,,impossible rain total
+2023-10-28,242904,STEVI,RAWS,NR06,hot,41.0,8,32.8,max temp much warmer than neighbors
+2023-10-28,242911,GIRD POINT,RAWS,NR06,hot,32.0,8,22.9,max temp much warmer than neighbors
+2023-10-28,391051,SHADEHILL,RAWS,NR16,hot,60.0,3,23.7,max temp much warmer than neighbors
+2023-10-28,ASOS-DLN,Dillon Airport,ASOS,NR09,cold,19.0,8,29.5,max temp much colder than neighbors
+2023-10-29,101049,ROUNDTOP,RAWS,NR06,hot,51.0,8,29.7,max temp much warmer than neighbors
+2023-10-29,240227,SWANEY,RAWS,NR02,bad_rain,15.24,0,,impossible rain total
+2023-10-29,242911,GIRD POINT,RAWS,NR06,hot,38.0,8,27.9,max temp much warmer than neighbors
+2023-10-29,ASOS-GWR,Gwinner,ASOS,NR18,cold,17.6,6,28.1,max temp much colder than neighbors
+2023-10-29,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,31.0,8,40.1,max temp much colder than neighbors
+2023-10-30,100708,KELLY,RAWS,NR03,cold,37.0,8,46.8,max temp much colder than neighbors
+2023-10-30,101049,ROUNDTOP,RAWS,NR06,hot,49.0,8,37.1,max temp much warmer than neighbors
+2023-10-30,240227,SWANEY,RAWS,NR02,bad_rain,15.37,0,,impossible rain total
+2023-10-30,241519,POINT 6,RAWS,NR04,cold,22.0,7,30.4,max temp much colder than neighbors
+2023-10-30,245416,HARKNESS,RAWS,NR09,hot,39.0,4,30.6,max temp much warmer than neighbors
+2023-10-30,55522370,SOFT ROCK,RAWS,NR06,cold,33.0,8,45.9,max temp much colder than neighbors
+2023-10-30,ASOS-DLN,Dillon Airport,ASOS,NR09,cold,33.0,8,41.9,max temp much colder than neighbors
+2023-10-30,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,60.0,8,51.4,max temp much warmer than neighbors
+2023-10-31,100708,KELLY,RAWS,NR03,cold,38.0,8,49.1,max temp much colder than neighbors
+2023-10-31,240227,SWANEY,RAWS,NR02,bad_rain,15.42,0,,impossible rain total
+2023-10-31,245415,FRENCH CREEK,RAWS,NR09,hot,49.0,8,35.3,max temp much warmer than neighbors
+2023-10-31,ASOS-1ON,Oscar,ASOS,NR17,cold,15.4,5,26.5,max temp much colder than neighbors
+2023-10-31,ASOS-1S3,Forsyth Tillitt Field,ASOS,NR14,cold,26.6,3,47.8,max temp much colder than neighbors
+2023-10-31,ASOS-3U3,Anaconda,ASOS,NR08,cold,28.4,8,44.4,max temp much colder than neighbors
+2023-10-31,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,38.0,8,48.3,max temp much colder than neighbors
+2023-11-01,240227,SWANEY,RAWS,NR02,bad_rain,15.42,0,,impossible rain total
+2023-11-01,240601,ROCKY BOY,RAWS,NR13,hot,50.0,3,41.6,max temp much warmer than neighbors
+2023-11-01,241308,PARDEE,RAWS,NR04,hot,37.0,8,28.3,max temp much warmer than neighbors
+2023-11-01,241907,HELENA,RAWS,NR11,cold,38.0,7,54.9,max temp much colder than neighbors
+2023-11-01,55522370,SOFT ROCK,RAWS,NR06,cold,33.0,8,53.4,max temp much colder than neighbors
+2023-11-01,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,43.0,8,54.8,max temp much colder than neighbors
+2023-11-01,ASOS-HLN,Helena Regional,ASOS,NR11,cold,34.0,6,53.7,max temp much colder than neighbors
+2023-11-01,ASOS-LWS,Lewiston,ASOS,NR05,cold,45.0,8,55.9,max temp much colder than neighbors
+2023-11-01,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,34.0,8,54.6,max temp much colder than neighbors
+2023-11-02,101014,SYRINGA,RAWS,NR03,missed,0.0,8,0.79,no rain while most neighbors got rain
+2023-11-02,240119,BC BALDY,RAWS,NR02,hot,40.0,8,28.5,max temp much warmer than neighbors
+2023-11-02,240227,SWANEY,RAWS,NR02,bad_rain,16.89,0,,impossible rain total
+2023-11-02,240227,SWANEY,RAWS,NR02,hot,41.0,8,27.8,max temp much warmer than neighbors
+2023-11-02,241308,PARDEE,RAWS,NR04,hot,47.0,8,32.2,max temp much warmer than neighbors
+2023-11-02,241508,SEELEY LAKE,RAWS,NR07,cold,38.0,8,47.5,max temp much colder than neighbors
+2023-11-02,241907,HELENA,RAWS,NR11,cold,44.0,7,53.6,max temp much colder than neighbors
+2023-11-03,101049,ROUNDTOP,RAWS,NR06,hot,52.0,8,40.8,max temp much warmer than neighbors
+2023-11-03,240110,EUREKA,RAWS,NR02,hot,57.0,8,46.0,max temp much warmer than neighbors
+2023-11-03,240227,SWANEY,RAWS,NR02,bad_rain,16.96,0,,impossible rain total
+2023-11-04,100107,SADDLE PASS,RAWS,NR01,hot,41.0,8,32.3,max temp much warmer than neighbors
+2023-11-04,101014,SYRINGA,RAWS,NR03,missed,0.0,8,0.85,no rain while most neighbors got rain
+2023-11-04,101049,ROUNDTOP,RAWS,NR06,hot,51.0,8,42.7,max temp much warmer than neighbors
+2023-11-04,240119,BC BALDY,RAWS,NR02,hot,44.0,8,35.9,max temp much warmer than neighbors
+2023-11-04,240227,SWANEY,RAWS,NR02,bad_rain,17.15,0,,impossible rain total
+2023-11-04,241308,PARDEE,RAWS,NR04,hot,48.0,8,38.1,max temp much warmer than neighbors
+2023-11-04,321703,WATFORD CITY,RAWS,NR16,hot,44.0,3,34.6,max temp much warmer than neighbors
+2023-11-05,101049,ROUNDTOP,RAWS,NR06,hot,51.0,8,39.9,max temp much warmer than neighbors
+2023-11-05,240227,SWANEY,RAWS,NR02,bad_rain,17.46,0,,impossible rain total
+2023-11-06,100717,EAGLE,RAWS,NR03,hot,47.0,8,35.9,max temp much warmer than neighbors
+2023-11-06,240227,SWANEY,RAWS,NR02,bad_rain,17.51,0,,impossible rain total
+2023-11-07,100717,EAGLE,RAWS,NR03,hot,44.0,8,31.8,max temp much warmer than neighbors
+2023-11-07,240227,SWANEY,RAWS,NR02,bad_rain,17.85,0,,impossible rain total
+2023-11-08,240227,SWANEY,RAWS,NR02,bad_rain,17.85,0,,impossible rain total
+2023-11-09,100717,EAGLE,RAWS,NR03,hot,45.0,8,36.3,max temp much warmer than neighbors
+2023-11-09,240118,FISHER RIVER,RAWS,NR02,cold,36.0,8,46.0,max temp much colder than neighbors
+2023-11-09,240227,SWANEY,RAWS,NR02,bad_rain,17.85,0,,impossible rain total
+2023-11-10,100717,EAGLE,RAWS,NR03,hot,41.0,8,31.3,max temp much warmer than neighbors
+2023-11-10,240110,EUREKA,RAWS,NR02,hot,48.0,8,38.6,max temp much warmer than neighbors
+2023-11-10,240227,SWANEY,RAWS,NR02,bad_rain,17.86,0,,impossible rain total
+2023-11-10,244601,SHENANGO,RAWS,NR12,hot,52.0,7,42.8,max temp much warmer than neighbors
+2023-11-11,101049,ROUNDTOP,RAWS,NR06,cold,33.0,8,43.3,max temp much colder than neighbors
+2023-11-11,240227,SWANEY,RAWS,NR02,bad_rain,17.91,0,,impossible rain total
+2023-11-11,241519,POINT 6,RAWS,NR04,cold,28.0,7,37.5,max temp much colder than neighbors
+2023-11-11,ASOS-1EN,Echo (Ryder),ASOS,NR18,cold,27.5,6,41.0,max temp much colder than neighbors
+2023-11-11,ASOS-1JN,Juliet,ASOS,NR15,cold,27.0,7,40.3,max temp much colder than neighbors
+2023-11-11,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,68.0,8,51.3,max temp much warmer than neighbors
+2023-11-12,240227,SWANEY,RAWS,NR02,bad_rain,18.17,0,,impossible rain total
+2023-11-12,ASOS-9S2,Scobey,ASOS,NR15,hot,75.2,4,53.5,max temp much warmer than neighbors
+2023-11-13,101037,SLATE CREEK,RAWS,NR06,hot,69.0,8,60.9,max temp much warmer than neighbors
+2023-11-13,240227,SWANEY,RAWS,NR02,bad_rain,18.31,0,,impossible rain total
+2023-11-13,240903,KING COULEE,RAWS,NR13,cold,51.0,3,59.7,max temp much colder than neighbors
+2023-11-13,241308,PARDEE,RAWS,NR04,hot,52.0,8,43.4,max temp much warmer than neighbors
+2023-11-13,245203,BRADSHAW CREEK,RAWS,NR14,cold,54.0,3,64.6,max temp much colder than neighbors
+2023-11-14,240107,LIBBY,RAWS,NR02,cold,35.0,8,47.5,max temp much colder than neighbors
+2023-11-14,240227,SWANEY,RAWS,NR02,bad_rain,18.31,0,,impossible rain total
+2023-11-14,240807,ZORTMAN BLM,RAWS,NR13,hot,52.0,6,43.9,max temp much warmer than neighbors
+2023-11-14,ASOS-JMS,Jamestown,ASOS,NR18,cold,39.0,4,53.2,max temp much colder than neighbors
+2023-11-15,240227,SWANEY,RAWS,NR02,bad_rain,18.46,0,,impossible rain total
+2023-11-15,240807,ZORTMAN BLM,RAWS,NR13,hot,55.0,6,46.6,max temp much warmer than neighbors
+2023-11-15,241308,PARDEE,RAWS,NR04,hot,45.0,8,36.4,max temp much warmer than neighbors
+2023-11-16,240227,SWANEY,RAWS,NR02,bad_rain,18.6,0,,impossible rain total
+2023-11-16,242207,LITTLE SNOWY,RAWS,NR11,hot,52.0,6,38.1,max temp much warmer than neighbors
+2023-11-16,243906,COW CREEK,RAWS,NR14,hot,53.0,3,41.0,max temp much warmer than neighbors
+2023-11-16,245303,EKALAKA,RAWS,NR16,hot,54.0,3,44.6,max temp much warmer than neighbors
+2023-11-16,321703,WATFORD CITY,RAWS,NR16,hot,50.0,3,38.2,max temp much warmer than neighbors
+2023-11-17,100708,KELLY,RAWS,NR03,cold,36.0,8,46.4,max temp much colder than neighbors
+2023-11-17,240210,POLEBRIDGE,RAWS,NR07,cold,29.0,8,40.9,max temp much colder than neighbors
+2023-11-17,240227,SWANEY,RAWS,NR02,bad_rain,18.86,0,,impossible rain total
+2023-11-17,241308,PARDEE,RAWS,NR04,hot,40.0,8,29.5,max temp much warmer than neighbors
+2023-11-17,ASOS-GIC,Grangeville,ASOS,NR05,cold,37.4,8,45.9,max temp much colder than neighbors
+2023-11-17,ASOS-MIB,Minot_Afb,ASOS,NR15,cold,41.0,3,49.2,max temp much colder than neighbors
+2023-11-18,240227,SWANEY,RAWS,NR02,bad_rain,18.87,0,,impossible rain total
+2023-11-18,240227,SWANEY,RAWS,NR02,hot,39.0,8,26.2,max temp much warmer than neighbors
+2023-11-18,ASOS-79S,Fort Benton,ASOS,NR11,cold,37.4,3,61.2,max temp much colder than neighbors
+2023-11-19,240227,SWANEY,RAWS,NR02,bad_rain,18.89,0,,impossible rain total
+2023-11-20,101049,ROUNDTOP,RAWS,NR06,cold,28.0,8,36.3,max temp much colder than neighbors
+2023-11-20,240227,SWANEY,RAWS,NR02,bad_rain,18.89,0,,impossible rain total
+2023-11-20,ASOS-1EN,Echo (Ryder),ASOS,NR18,cold,35.8,6,48.0,max temp much colder than neighbors
+2023-11-20,ASOS-1LN,Lima,ASOS,NR15,cold,32.0,7,46.0,max temp much colder than neighbors
+2023-11-20,ASOS-1ON,Oscar,ASOS,NR17,cold,33.4,6,47.2,max temp much colder than neighbors
+2023-11-21,100717,EAGLE,RAWS,NR03,hot,47.0,8,35.9,max temp much warmer than neighbors
+2023-11-21,101037,SLATE CREEK,RAWS,NR06,hot,60.0,8,51.1,max temp much warmer than neighbors
+2023-11-21,240227,SWANEY,RAWS,NR02,bad_rain,18.89,0,,impossible rain total
+2023-11-21,240601,ROCKY BOY,RAWS,NR13,hot,58.0,3,49.8,max temp much warmer than neighbors
+2023-11-21,245415,FRENCH CREEK,RAWS,NR09,hot,54.0,8,36.8,max temp much warmer than neighbors
+2023-11-22,100717,EAGLE,RAWS,NR03,hot,42.0,8,29.5,max temp much warmer than neighbors
+2023-11-22,240227,SWANEY,RAWS,NR02,bad_rain,18.97,0,,impossible rain total
+2023-11-22,241308,PARDEE,RAWS,NR04,hot,42.0,8,32.1,max temp much warmer than neighbors
+2023-11-22,244606,YELLOW MULE,RAWS,NR12,hot,37.0,5,27.4,max temp much warmer than neighbors
+2023-11-22,245416,HARKNESS,RAWS,NR09,hot,43.0,4,29.8,max temp much warmer than neighbors
+2023-11-23,100717,EAGLE,RAWS,NR03,hot,40.0,8,27.6,max temp much warmer than neighbors
+2023-11-23,240227,SWANEY,RAWS,NR02,bad_rain,18.98,0,,impossible rain total
+2023-11-24,240227,SWANEY,RAWS,NR02,bad_rain,18.98,0,,impossible rain total
+2023-11-24,480119,SODA BUTTE,RAWS,NR12,hot,25.0,8,11.6,max temp much warmer than neighbors
+2023-11-24,ASOS-LWS,Lewiston,ASOS,NR05,cold,34.0,8,44.9,max temp much colder than neighbors
+2023-11-25,100708,KELLY,RAWS,NR03,cold,23.0,8,37.9,max temp much colder than neighbors
+2023-11-25,240227,SWANEY,RAWS,NR02,bad_rain,18.98,0,,impossible rain total
+2023-11-26,240227,SWANEY,RAWS,NR02,bad_rain,18.98,0,,impossible rain total
+2023-11-26,ASOS-S34,Plains,ASOS,NR04,hot,75.2,8,32.4,max temp much warmer than neighbors
+2023-11-27,240227,SWANEY,RAWS,NR02,bad_rain,18.98,0,,impossible rain total
+2023-11-27,241405,PISTOL CREEK,RAWS,NR04,hot,37.0,8,24.2,max temp much warmer than neighbors
+2023-11-27,244606,YELLOW MULE,RAWS,NR12,hot,30.0,5,19.2,max temp much warmer than neighbors
+2023-11-27,ASOS-3U3,Anaconda,ASOS,NR08,cold,35.6,8,45.1,max temp much colder than neighbors
+2023-11-27,ASOS-HRF,Hamilton,ASOS,NR06,cold,32.0,8,47.7,max temp much colder than neighbors
+2023-11-28,100717,EAGLE,RAWS,NR03,hot,43.0,8,29.9,max temp much warmer than neighbors
+2023-11-28,240227,SWANEY,RAWS,NR02,bad_rain,18.99,0,,impossible rain total
+2023-11-28,240227,SWANEY,RAWS,NR02,hot,34.0,8,20.3,max temp much warmer than neighbors
+2023-11-28,241308,PARDEE,RAWS,NR04,hot,33.0,8,21.2,max temp much warmer than neighbors
+2023-11-28,244603,HEBGEN LAKE,RAWS,NR12,cold,29.0,8,39.1,max temp much colder than neighbors
+2023-11-28,245416,HARKNESS,RAWS,NR09,hot,44.0,4,33.0,max temp much warmer than neighbors
+2023-11-28,ASOS-HRF,Hamilton,ASOS,NR06,cold,33.8,8,51.1,max temp much colder than neighbors
+2023-11-29,100107,SADDLE PASS,RAWS,NR01,hot,27.0,8,18.4,max temp much warmer than neighbors
+2023-11-29,100425,MAGEE PEAK,RAWS,NR01,hot,30.0,8,19.9,max temp much warmer than neighbors
+2023-11-29,240227,SWANEY,RAWS,NR02,bad_rain,19.0,0,,impossible rain total
+2023-11-29,240303,ST. MARY,RAWS,NR07,hot,38.0,8,22.2,max temp much warmer than neighbors
+2023-11-29,241308,PARDEE,RAWS,NR04,hot,32.0,8,20.6,max temp much warmer than neighbors
+2023-11-29,ASOS-3U3,Anaconda,ASOS,NR08,cold,37.4,8,45.4,max temp much colder than neighbors
+2023-11-29,ASOS-HRF,Hamilton,ASOS,NR06,cold,33.8,8,46.8,max temp much colder than neighbors
+2023-11-30,100717,EAGLE,RAWS,NR03,hot,41.0,8,21.4,max temp much warmer than neighbors
+2023-11-30,101049,ROUNDTOP,RAWS,NR06,hot,49.0,8,23.6,max temp much warmer than neighbors
+2023-11-30,240227,SWANEY,RAWS,NR02,bad_rain,19.0,0,,impossible rain total
+2023-11-30,241405,PISTOL CREEK,RAWS,NR04,hot,31.0,8,18.4,max temp much warmer than neighbors
+2023-11-30,ASOS-HRF,Hamilton,ASOS,NR06,cold,24.8,8,33.6,max temp much colder than neighbors
+2023-12-01,100717,EAGLE,RAWS,NR03,hot,51.0,8,26.1,max temp much warmer than neighbors
+2023-12-01,101049,ROUNDTOP,RAWS,NR06,hot,53.0,8,28.4,max temp much warmer than neighbors
+2023-12-01,240227,SWANEY,RAWS,NR02,bad_rain,19.0,0,,impossible rain total
+2023-12-01,ASOS-S32,Rands,ASOS,NR18,cold,26.6,5,36.2,max temp much colder than neighbors
+2023-12-02,100717,EAGLE,RAWS,NR03,hot,57.0,8,25.9,max temp much warmer than neighbors
+2023-12-02,101049,ROUNDTOP,RAWS,NR06,hot,53.0,8,25.4,max temp much warmer than neighbors
+2023-12-02,240227,SWANEY,RAWS,NR02,bad_rain,19.0,0,,impossible rain total
+2023-12-02,ASOS-BHK,Baker,ASOS,NR16,cold,35.0,7,43.2,max temp much colder than neighbors
+2023-12-03,100714,DENT,RAWS,NR03,cold,36.0,8,46.5,max temp much colder than neighbors
+2023-12-03,100717,EAGLE,RAWS,NR03,hot,58.0,8,30.4,max temp much warmer than neighbors
+2023-12-03,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,33.9,max temp much warmer than neighbors
+2023-12-03,240227,SWANEY,RAWS,NR02,bad_rain,19.0,0,,impossible rain total
+2023-12-03,241213,THOMPSON FALLS A/P,RAWS,NR04,cold,35.0,8,45.0,max temp much colder than neighbors
+2023-12-03,241302,ST. REGIS,RAWS,NR04,cold,33.0,8,44.9,max temp much colder than neighbors
+2023-12-04,100425,MAGEE PEAK,RAWS,NR01,hot,41.0,8,29.6,max temp much warmer than neighbors
+2023-12-04,100717,EAGLE,RAWS,NR03,hot,63.0,8,36.9,max temp much warmer than neighbors
+2023-12-04,240227,SWANEY,RAWS,NR02,bad_rain,19.01,0,,impossible rain total
+2023-12-05,100204,PRIEST LAKE,RAWS,NR01,cold,35.0,8,47.3,max temp much colder than neighbors
+2023-12-05,101014,SYRINGA,RAWS,NR03,hot,50.0,8,39.6,max temp much warmer than neighbors
+2023-12-05,240120,YAAK (UPPER FORD),RAWS,NR02,cold,34.0,8,45.7,max temp much colder than neighbors
+2023-12-05,240214,SPOTTED BEAR RS,RAWS,NR07,cold,43.0,8,55.3,max temp much colder than neighbors
+2023-12-05,240227,SWANEY,RAWS,NR02,bad_rain,19.86,0,,impossible rain total
+2023-12-05,241308,PARDEE,RAWS,NR04,hot,51.0,8,35.1,max temp much warmer than neighbors
+2023-12-05,241502,CONDON WORK CENTER,RAWS,NR07,cold,40.0,8,54.6,max temp much colder than neighbors
+2023-12-05,241513,BLUE MTN,RAWS,NR04,cold,44.0,8,60.0,max temp much colder than neighbors
+2023-12-05,245416,HARKNESS,RAWS,NR09,hot,42.0,4,32.0,max temp much warmer than neighbors
+2023-12-06,100714,DENT,RAWS,NR03,cold,45.0,8,54.4,max temp much colder than neighbors
+2023-12-06,100717,EAGLE,RAWS,NR03,hot,68.0,8,37.6,max temp much warmer than neighbors
+2023-12-06,101049,ROUNDTOP,RAWS,NR06,cold,36.0,8,48.4,max temp much colder than neighbors
+2023-12-06,240227,SWANEY,RAWS,NR02,bad_rain,19.98,0,,impossible rain total
+2023-12-06,241308,PARDEE,RAWS,NR04,hot,52.0,8,38.8,max temp much warmer than neighbors
+2023-12-06,245109,WILD HORSE,RAWS,NR14,cold,36.0,3,46.1,max temp much colder than neighbors
+2023-12-06,245203,BRADSHAW CREEK,RAWS,NR14,cold,48.0,3,60.6,max temp much colder than neighbors
+2023-12-07,100717,EAGLE,RAWS,NR03,hot,62.0,8,32.6,max temp much warmer than neighbors
+2023-12-07,240227,SWANEY,RAWS,NR02,bad_rain,20.13,0,,impossible rain total
+2023-12-07,240807,ZORTMAN BLM,RAWS,NR13,hot,57.0,6,47.9,max temp much warmer than neighbors
+2023-12-07,ASOS-1ON,Oscar,ASOS,NR17,cold,44.0,5,52.3,max temp much colder than neighbors
+2023-12-07,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,60.0,8,50.8,max temp much warmer than neighbors
+2023-12-08,100717,EAGLE,RAWS,NR03,hot,54.0,8,27.8,max temp much warmer than neighbors
+2023-12-08,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,25.3,max temp much warmer than neighbors
+2023-12-08,240227,SWANEY,RAWS,NR02,bad_rain,20.13,0,,impossible rain total
+2023-12-09,100717,EAGLE,RAWS,NR03,hot,53.0,8,25.2,max temp much warmer than neighbors
+2023-12-09,101049,ROUNDTOP,RAWS,NR06,hot,35.0,8,25.5,max temp much warmer than neighbors
+2023-12-09,240227,SWANEY,RAWS,NR02,bad_rain,20.14,0,,impossible rain total
+2023-12-10,100717,EAGLE,RAWS,NR03,hot,60.0,8,26.3,max temp much warmer than neighbors
+2023-12-10,240227,SWANEY,RAWS,NR02,bad_rain,20.14,0,,impossible rain total
+2023-12-10,245416,HARKNESS,RAWS,NR09,hot,28.0,4,18.3,max temp much warmer than neighbors
+2023-12-11,100717,EAGLE,RAWS,NR03,hot,61.0,8,31.8,max temp much warmer than neighbors
+2023-12-11,240227,SWANEY,RAWS,NR02,bad_rain,20.24,0,,impossible rain total
+2023-12-12,100717,EAGLE,RAWS,NR03,hot,59.0,8,30.9,max temp much warmer than neighbors
+2023-12-12,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,28.1,max temp much warmer than neighbors
+2023-12-12,240227,SWANEY,RAWS,NR02,bad_rain,20.24,0,,impossible rain total
+2023-12-12,244603,HEBGEN LAKE,RAWS,NR12,cold,23.0,8,36.6,max temp much colder than neighbors
+2023-12-12,245416,HARKNESS,RAWS,NR09,hot,37.0,4,26.0,max temp much warmer than neighbors
+2023-12-12,ASOS-9S2,Scobey,ASOS,NR15,hot,75.2,4,37.7,max temp much warmer than neighbors
+2023-12-12,ASOS-HLN,Helena Regional,ASOS,NR11,cold,31.0,6,40.8,max temp much colder than neighbors
+2023-12-13,100717,EAGLE,RAWS,NR03,hot,59.0,8,29.8,max temp much warmer than neighbors
+2023-12-13,240227,SWANEY,RAWS,NR02,bad_rain,20.24,0,,impossible rain total
+2023-12-13,240303,ST. MARY,RAWS,NR07,hot,49.0,8,28.4,max temp much warmer than neighbors
+2023-12-13,240601,ROCKY BOY,RAWS,NR13,hot,57.0,3,43.1,max temp much warmer than neighbors
+2023-12-13,240807,ZORTMAN BLM,RAWS,NR13,hot,57.0,6,42.2,max temp much warmer than neighbors
+2023-12-13,241901,BENCHMARK,RAWS,NR07,hot,46.0,8,30.5,max temp much warmer than neighbors
+2023-12-13,242208,JUDITH PEAK,RAWS,NR11,hot,54.0,3,44.9,max temp much warmer than neighbors
+2023-12-13,242911,GIRD POINT,RAWS,NR06,hot,54.0,8,32.8,max temp much warmer than neighbors
+2023-12-13,244707,CRAZY,RAWS,NR11,hot,48.0,8,34.1,max temp much warmer than neighbors
+2023-12-13,ASOS-HRF,Hamilton,ASOS,NR06,cold,33.8,8,42.7,max temp much colder than neighbors
+2023-12-14,100717,EAGLE,RAWS,NR03,hot,56.0,8,24.3,max temp much warmer than neighbors
+2023-12-14,240227,SWANEY,RAWS,NR02,bad_rain,20.24,0,,impossible rain total
+2023-12-14,240303,ST. MARY,RAWS,NR07,hot,44.0,8,25.1,max temp much warmer than neighbors
+2023-12-14,240807,ZORTMAN BLM,RAWS,NR13,hot,53.0,6,44.5,max temp much warmer than neighbors
+2023-12-14,245201,FORT HOWES,RAWS,NR14,cold,41.0,3,51.0,max temp much colder than neighbors
+2023-12-15,100717,EAGLE,RAWS,NR03,hot,62.0,8,30.9,max temp much warmer than neighbors
+2023-12-15,240227,SWANEY,RAWS,NR02,bad_rain,20.39,0,,impossible rain total
+2023-12-15,241405,PISTOL CREEK,RAWS,NR04,hot,41.0,8,25.9,max temp much warmer than neighbors
+2023-12-15,242910,TEPEE PT,RAWS,NR06,hot,47.0,8,38.0,max temp much warmer than neighbors
+2023-12-15,ASOS-HRF,Hamilton,ASOS,NR06,cold,28.4,8,46.7,max temp much colder than neighbors
+2023-12-16,100425,MAGEE PEAK,RAWS,NR01,hot,36.0,8,25.2,max temp much warmer than neighbors
+2023-12-16,100717,EAGLE,RAWS,NR03,hot,57.0,8,31.8,max temp much warmer than neighbors
+2023-12-16,101049,ROUNDTOP,RAWS,NR06,cold,34.0,8,44.5,max temp much colder than neighbors
+2023-12-16,240226,BOORMAN,RAWS,NR02,hot,41.0,8,28.8,max temp much warmer than neighbors
+2023-12-16,240227,SWANEY,RAWS,NR02,bad_rain,20.47,0,,impossible rain total
+2023-12-16,241308,PARDEE,RAWS,NR04,hot,38.0,8,23.1,max temp much warmer than neighbors
+2023-12-16,244603,HEBGEN LAKE,RAWS,NR12,cold,26.0,8,37.6,max temp much colder than neighbors
+2023-12-16,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,51.0,8,40.5,max temp much warmer than neighbors
+2023-12-16,55522370,SOFT ROCK,RAWS,NR06,cold,33.0,8,53.8,max temp much colder than neighbors
+2023-12-16,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,40.0,8,48.9,max temp much colder than neighbors
+2023-12-17,100107,SADDLE PASS,RAWS,NR01,hot,35.0,8,24.7,max temp much warmer than neighbors
+2023-12-17,100425,MAGEE PEAK,RAWS,NR01,hot,39.0,8,25.0,max temp much warmer than neighbors
+2023-12-17,100717,EAGLE,RAWS,NR03,hot,58.0,8,33.8,max temp much warmer than neighbors
+2023-12-17,240119,BC BALDY,RAWS,NR02,hot,40.0,8,26.9,max temp much warmer than neighbors
+2023-12-17,240227,SWANEY,RAWS,NR02,bad_rain,20.57,0,,impossible rain total
+2023-12-17,241308,PARDEE,RAWS,NR04,hot,39.0,8,22.1,max temp much warmer than neighbors
+2023-12-17,241520,CLEARWATER,RAWS,NR08,cold,40.0,8,48.0,max temp much colder than neighbors
+2023-12-17,ASOS-LWS,Lewiston,ASOS,NR05,cold,38.0,8,48.6,max temp much colder than neighbors
+2023-12-18,100425,MAGEE PEAK,RAWS,NR01,hot,44.0,8,28.0,max temp much warmer than neighbors
+2023-12-18,100717,EAGLE,RAWS,NR03,hot,61.0,8,32.8,max temp much warmer than neighbors
+2023-12-18,101031,POWELL,RAWS,NR06,hot,40.0,8,31.3,max temp much warmer than neighbors
+2023-12-18,240227,SWANEY,RAWS,NR02,bad_rain,20.59,0,,impossible rain total
+2023-12-18,240601,ROCKY BOY,RAWS,NR13,hot,55.0,3,40.1,max temp much warmer than neighbors
+2023-12-18,240807,ZORTMAN BLM,RAWS,NR13,hot,57.0,6,41.4,max temp much warmer than neighbors
+2023-12-18,241308,PARDEE,RAWS,NR04,hot,39.0,8,26.4,max temp much warmer than neighbors
+2023-12-18,244603,HEBGEN LAKE,RAWS,NR12,cold,25.0,8,40.1,max temp much colder than neighbors
+2023-12-18,245405,WISE RIVER,RAWS,NR09,cold,30.0,8,45.0,max temp much colder than neighbors
+2023-12-18,245417,STEELE CREEK,RAWS,NR09,cold,33.0,8,44.1,max temp much colder than neighbors
+2023-12-18,55522370,SOFT ROCK,RAWS,NR06,cold,32.0,8,51.9,max temp much colder than neighbors
+2023-12-18,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,42.0,8,53.0,max temp much colder than neighbors
+2023-12-18,ASOS-GFA,Malmstrom Afb,ASOS,NR11,hot,60.4,3,49.2,max temp much warmer than neighbors
+2023-12-18,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,29.0,8,43.4,max temp much colder than neighbors
+2023-12-19,100107,SADDLE PASS,RAWS,NR01,hot,35.0,8,26.4,max temp much warmer than neighbors
+2023-12-19,100717,EAGLE,RAWS,NR03,hot,64.0,8,35.4,max temp much warmer than neighbors
+2023-12-19,240227,SWANEY,RAWS,NR02,bad_rain,20.76,0,,impossible rain total
+2023-12-19,240227,SWANEY,RAWS,NR02,hot,37.0,8,28.8,max temp much warmer than neighbors
+2023-12-19,240601,ROCKY BOY,RAWS,NR13,hot,53.0,3,40.1,max temp much warmer than neighbors
+2023-12-19,240705,FORT BELKNAP,RAWS,NR13,cold,44.0,6,56.7,max temp much colder than neighbors
+2023-12-19,241308,PARDEE,RAWS,NR04,hot,42.0,8,31.1,max temp much warmer than neighbors
+2023-12-20,100717,EAGLE,RAWS,NR03,hot,64.0,8,37.4,max temp much warmer than neighbors
+2023-12-20,240227,SWANEY,RAWS,NR02,bad_rain,20.84,0,,impossible rain total
+2023-12-20,241308,PARDEE,RAWS,NR04,hot,42.0,8,33.6,max temp much warmer than neighbors
+2023-12-21,100714,DENT,RAWS,NR03,cold,42.0,8,54.0,max temp much colder than neighbors
+2023-12-21,100717,EAGLE,RAWS,NR03,hot,63.0,8,40.3,max temp much warmer than neighbors
+2023-12-21,101014,SYRINGA,RAWS,NR03,hot,49.0,8,37.6,max temp much warmer than neighbors
+2023-12-21,240214,SPOTTED BEAR RS,RAWS,NR07,cold,40.0,8,50.3,max temp much colder than neighbors
+2023-12-21,240227,SWANEY,RAWS,NR02,bad_rain,20.85,0,,impossible rain total
+2023-12-21,241519,POINT 6,RAWS,NR04,cold,31.0,7,41.1,max temp much colder than neighbors
+2023-12-21,ASOS-LWS,Lewiston,ASOS,NR05,cold,42.0,8,55.1,max temp much colder than neighbors
+2023-12-22,100425,MAGEE PEAK,RAWS,NR01,hot,38.0,8,28.7,max temp much warmer than neighbors
+2023-12-22,100717,EAGLE,RAWS,NR03,hot,63.0,8,36.4,max temp much warmer than neighbors
+2023-12-22,240110,EUREKA,RAWS,NR02,hot,45.0,8,36.1,max temp much warmer than neighbors
+2023-12-22,240227,SWANEY,RAWS,NR02,bad_rain,20.9,0,,impossible rain total
+2023-12-22,241405,PISTOL CREEK,RAWS,NR04,hot,41.0,8,28.5,max temp much warmer than neighbors
+2023-12-22,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,79.0,8,42.7,max temp much warmer than neighbors
+2023-12-23,100717,EAGLE,RAWS,NR03,hot,55.0,8,26.3,max temp much warmer than neighbors
+2023-12-23,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,27.4,max temp much warmer than neighbors
+2023-12-23,240227,SWANEY,RAWS,NR02,bad_rain,20.9,0,,impossible rain total
+2023-12-23,240601,ROCKY BOY,RAWS,NR13,hot,50.0,3,38.6,max temp much warmer than neighbors
+2023-12-23,240807,ZORTMAN BLM,RAWS,NR13,hot,48.0,6,38.5,max temp much warmer than neighbors
+2023-12-23,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,36.0,8,44.4,max temp much colder than neighbors
+2023-12-24,100717,EAGLE,RAWS,NR03,hot,49.0,8,23.8,max temp much warmer than neighbors
+2023-12-24,101049,ROUNDTOP,RAWS,NR06,hot,36.0,8,25.1,max temp much warmer than neighbors
+2023-12-24,240227,SWANEY,RAWS,NR02,bad_rain,20.9,0,,impossible rain total
+2023-12-24,242911,GIRD POINT,RAWS,NR06,hot,40.0,8,25.3,max temp much warmer than neighbors
+2023-12-24,245415,FRENCH CREEK,RAWS,NR09,hot,27.0,8,15.9,max temp much warmer than neighbors
+2023-12-24,245416,HARKNESS,RAWS,NR09,hot,33.0,4,18.6,max temp much warmer than neighbors
+2023-12-25,100717,EAGLE,RAWS,NR03,hot,55.0,8,24.8,max temp much warmer than neighbors
+2023-12-25,240227,SWANEY,RAWS,NR02,bad_rain,20.9,0,,impossible rain total
+2023-12-25,240601,ROCKY BOY,RAWS,NR13,hot,39.0,3,29.6,max temp much warmer than neighbors
+2023-12-25,242207,LITTLE SNOWY,RAWS,NR11,hot,47.0,6,33.8,max temp much warmer than neighbors
+2023-12-25,243206,GALENA,RAWS,NR09,hot,31.0,8,20.4,max temp much warmer than neighbors
+2023-12-25,243303,ELKHORN,RAWS,NR11,hot,30.0,8,21.5,max temp much warmer than neighbors
+2023-12-25,245415,FRENCH CREEK,RAWS,NR09,hot,34.0,8,16.9,max temp much warmer than neighbors
+2023-12-25,245416,HARKNESS,RAWS,NR09,hot,42.0,4,18.6,max temp much warmer than neighbors
+2023-12-25,245506,BURNT CREEK,RAWS,NR09,hot,33.0,8,21.2,max temp much warmer than neighbors
+2023-12-25,ASOS-HRF,Hamilton,ASOS,NR06,cold,28.4,8,37.6,max temp much colder than neighbors
+2023-12-25,ASOS-MLS,Miles City,ASOS,NR14,cold,21.0,4,33.7,max temp much colder than neighbors
+2023-12-25,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,17.0,8,29.1,max temp much colder than neighbors
+2023-12-26,100717,EAGLE,RAWS,NR03,hot,54.0,8,26.3,max temp much warmer than neighbors
+2023-12-26,240227,SWANEY,RAWS,NR02,bad_rain,20.9,0,,impossible rain total
+2023-12-26,240807,ZORTMAN BLM,RAWS,NR13,hot,50.0,6,35.0,max temp much warmer than neighbors
+2023-12-26,242207,LITTLE SNOWY,RAWS,NR11,hot,50.0,6,37.0,max temp much warmer than neighbors
+2023-12-26,242403,SOUTH SAWMILL CREEK,RAWS,NR13,hot,47.0,4,38.8,max temp much warmer than neighbors
+2023-12-26,245415,FRENCH CREEK,RAWS,NR09,hot,34.0,8,18.1,max temp much warmer than neighbors
+2023-12-26,245416,HARKNESS,RAWS,NR09,hot,36.0,4,16.1,max temp much warmer than neighbors
+2023-12-26,245506,BURNT CREEK,RAWS,NR09,hot,30.0,8,20.4,max temp much warmer than neighbors
+2023-12-26,480120,GREBE,RAWS,NR12,cold,25.0,8,34.3,max temp much colder than neighbors
+2023-12-26,ASOS-1GM,Golf,ASOS,NR10,cold,33.0,7,42.6,max temp much colder than neighbors
+2023-12-26,ASOS-MLS,Miles City,ASOS,NR14,cold,31.0,4,40.8,max temp much colder than neighbors
+2023-12-26,ASOS-S34,Plains,ASOS,NR04,hot,75.2,8,35.4,max temp much warmer than neighbors
 2026-11-08,100714,DENT,RAWS,NR03,cold,52.0,8,61.5,max temp much colder than neighbors
 2026-11-08,ASOS-00U,Big Horn County,ASOS,NR14,cold,59.0,6,68.3,max temp much colder than neighbors
 2026-11-11,100425,MAGEE PEAK,RAWS,NR01,hot,54.0,8,43.1,max temp much warmer than neighbors
