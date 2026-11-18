@@ -66,6 +66,9 @@ def default_config(code, gacc_field=""):
         "normal_years": 10,             # "normal" = the same month in this many previous years
         "min_fires_for_above": 2,       # a month needs at least this many significant fires to count as Above normal
         "erc_fuel_model": "Y",          # NFDRS 2016 fuel model for ERC and BI (V, W, X, Y or Z)
+        "fuels_above_share": 0.20,      # fuels measure: Above when ERC reached the 90th percentile on at least this share of days (normal is 0.10)
+        "fuels_below_share": 0.03,      # ...and Below when on this share or fewer
+        "min_fuel_days": 15,            # days with ERC needed to judge a month by fuels
         "use_asos": True,               # also use ASOS/AWOS airport stations (Iowa Environmental Mesonet)
         "fire_min_acres": 100,          # nightly fire-growth days: growth of at least this many acres in one day
         "qc": dict(DEFAULT_QC),
