@@ -65,6 +65,8 @@ RAW_DIR = os.path.join(gaccs.DATA, "wx_raw")
 RAWS_LIST = os.path.join(gaccs.DATA, "stations_raws.csv")
 ASOS_LIST = os.path.join(gaccs.DATA, "stations_asos.csv")
 PCTL_PATH = os.path.join(gaccs.DATA, "erc_percentiles.csv")
+OWN_PCTL_PATH = os.path.join(gaccs.DATA, "erc_percentiles_own.csv")
+OWN_MIN_DAYS = int(os.environ.get("OWN_MIN_DAYS", 365))
 KEEP_DAILY = 62
 REFETCH_DAYS = 3          # days this recent are fetched again (late reports)
 
@@ -77,7 +79,7 @@ SM_COLS = ["month", "station_id", "name", "type", "psa", "days", "precip_days", 
            "temp_diff_mean_f", "temp_checked_days", "hot_days", "cold_days", "rain_flag_days", "erc_mean", "erc_max", "erc_90_days",
            "bi_mean", "bi_max", "normal_high_mean_f", "normal_precip_in", "month_flags"]
 PM_COLS = ["month", "psa", "days", "stations", "raws", "asos", "precip_in", "precip_stations", "precip_normal_in", "precip_pct_normal",
-           "max_temp_mean_f", "max_temp_f", "temp_anom_f", "temp_anom_stations", "min_rh_mean", "erc_mean", "erc_max", "erc_90_days",
+           "max_temp_mean_f", "max_temp_f", "temp_anom_f", "temp_anom_stations", "min_rh_mean", "erc_mean", "erc_max", "erc_days", "erc_90_days",
            "bi_mean", "bi_max", "flagged_stations", "flag_list", "complete"]
 QF_COLS = ["date", "station_id", "name", "type", "psa", "flag", "value", "neighbors", "neighbor_value", "note"]
 FLAG_TEXT = {"hot": "max temp much warmer than neighbors", "cold": "max temp much colder than neighbors",
@@ -227,6 +229,26 @@ def fetch_pctl(ids, fm, years):
                 pick = lambda q: next((num(x) for k, x in v.items() if str(k).startswith(str(q))), None)
                 out[str(r.get("station_id"))] = {"p80": pick(80), "p90": pick(90), "p97": pick(97)}
     return out
+
+
+def own_percentiles():
+    """Each RAWS's 80th/90th/97th percentile of daily max ERC from every day saved in data/wx_raw/."""
+    vals = defaultdict(list)
+    files = sorted(f for f in os.listdir(RAW_DIR) if f.endswith(".json.gz")) if os.path.isdir(RAW_DIR) else []
+    for f in files:
+        try:
+            with gzip.open(os.path.join(RAW_DIR, f), "rt") as fh:
+                st = json.load(fh).get("stations", {})
+        except (OSError, ValueError):
+            continue
+        for sid, v in st.items():
+            e = v.get("erc")
+            if e is not None:
+                vals[sid].append(e)
+    rows = [{"station_id": sid, "days": len(v), "p80": round(gaccs.pctl(v, 80), 1), "p90": round(gaccs.pctl(v, 90), 1),
+             "p97": round(gaccs.pctl(v, 97), 1)} for sid, v in sorted(vals.items()) if len(v) >= OWN_MIN_DAYS]
+    gaccs.write_csv(OWN_PCTL_PATH, rows, ["station_id", "days", "p80", "p90", "p97"])
+    print(f"ERC percentiles from saved history: {len(rows)} stations with a year or more of days ({len(files)} days on file)")
 
 
 # ------------------------------------------------------------------ IEM
@@ -561,7 +583,7 @@ def build_month(month, stations, nbrs, cfg_of, pct):
                    "max_temp_mean_f": mean(tmax), "max_temp_f": max(tmax) if tmax else "",
                    "temp_anom_f": mean(anom), "temp_anom_stations": sum(1 for x in good_t if x["_anom"]),
                    "min_rh_mean": mean([r["min_rh"] for r in pdays if r["min_rh"] != ""]),
-                   "erc_mean": mean(ercs), "erc_max": max(ercs) if ercs else "",
+                   "erc_mean": mean(ercs), "erc_max": max(ercs) if ercs else "", "erc_days": len(ercs),
                    "erc_90_days": sum(1 for e in ercs if p90 is not None and e >= p90) if p90 is not None else "",
                    "bi_mean": mean(bis), "bi_max": max(bis) if bis else "",
                    "flagged_stations": len(flagged),
@@ -678,7 +700,8 @@ def main():
         still = sum(1 for ds in backfill if not os.path.exists(raw_path(ds)) and tries.get(ds, 0) < 2) + remaining
         print(f"BACKFILL_REMAINING={still}")
 
-    # ERC percentiles per station (refreshed every 90 days)
+    # ERC percentiles per station: FEMS's (refreshed every 90 days) where it serves them, otherwise worked out from
+    # this site's own saved daily ERC (a station needs a full year of days); refreshed every 30 days
     pct = {r["station_id"]: {k: num(r.get(k)) for k in ("p80", "p90", "p97")} for r in gaccs.read_csv(PCTL_PATH)}
     if common.stale(PCTL_PATH, 90) and raws:
         by_fm = defaultdict(list)
@@ -691,6 +714,12 @@ def main():
         if new:
             pct.update(new)
             gaccs.write_csv(PCTL_PATH, [{"station_id": k, **v} for k, v in sorted(pct.items())], ["station_id", "fuel_model", "p80", "p90", "p97"])
+        else:
+            print("ERC percentiles from FEMS: none returned; using each station's own saved history instead")
+    if common.stale(OWN_PCTL_PATH, 30) or args.rebuild:
+        own_percentiles()
+    for r in gaccs.read_csv(OWN_PCTL_PATH):
+        pct.setdefault(r["station_id"], {k: num(r.get(k)) for k in ("p80", "p90", "p97")})
 
     saved = sorted(f[:10] for f in os.listdir(RAW_DIR)) if os.path.isdir(RAW_DIR) else []
     months = sorted({d[:7] for d in (saved if args.rebuild else todo)} & {d[:7] for d in saved})
