@@ -1,0 +1,51 @@
+name: Save review notes from website
+
+# The website opens an issue titled "[notes XX] ..." holding review notes for PSA-months.
+# Anyone with a GitHub account can add notes; this checks them, saves, commits, replies and closes.
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: archive
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: startsWith(github.event.issue.title, '[notes')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check and save the notes
+        id: apply
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+        run: python scripts/apply_notes.py
+      - name: Commit
+        run: |
+          git config user.name  "outlook-archiver"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Review notes from website (issue #$ISSUE)"
+            git pull --rebase --quiet
+            git push
+          fi
+      - name: Reply and close
+        if: always()
+        run: |
+          [ -f notes_result.md ] || echo "**Not saved.** Something went wrong; see the Actions tab for details." > notes_result.md
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file notes_result.md
+          gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY"
