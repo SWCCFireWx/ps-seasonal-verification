@@ -971,366 +971,366 @@ issue_month,lead,valid_month,psa,forecast,obs_fires,obs_acres,normal_years,norma
 2023-12,4,2024-03,NR16,Normal,2,525,2014-2023,0;2;2;0;0;0;1;5;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,2032,0,615,Normal,0,0.3,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,One category off,final
 2023-12,4,2024-03,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;4;1;0,0.5,0.0,0.0,Normal,1.0,0.607,Normal,196,0,0,Normal,0,0.3,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
 2023-12,4,2024-03,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;3;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,484,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-04,1,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-04,1,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-04,1,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-04,1,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-04,1,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,24,0,0.0,Below,-0.5,4,Below,Correct,final
-2024-04,1,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,24,10,0.417,Above,0.75,4,Above,One category off,final
-2024-04,1,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,24,6,0.25,Above,0.0,4,Normal,Correct,final
-2024-04,1,2024-04,NR17,Normal,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,24,5,0.208,Above,1.0,4,Above,One category off,final
-2024-04,1,2024-04,NR18,Normal,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,24,7,0.292,Above,0.75,4,Above,One category off,final
-2024-03,2,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-03,2,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-03,2,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-03,2,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-03,2,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-03,2,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,24,0,0.0,Below,-0.5,4,Below,Correct,final
-2024-03,2,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,24,10,0.417,Above,0.75,4,Above,One category off,final
-2024-03,2,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,24,6,0.25,Above,0.0,4,Normal,Correct,final
-2024-03,2,2024-04,NR17,Above,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,24,5,0.208,Above,1.0,4,Above,Correct,final
-2024-03,2,2024-04,NR18,Above,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,24,7,0.292,Above,0.75,4,Above,Correct,final
-2024-02,3,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-02,3,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-02,3,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-02,3,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-02,3,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-02,3,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,24,0,0.0,Below,-0.5,4,Below,Correct,final
-2024-02,3,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,24,10,0.417,Above,0.75,4,Above,One category off,final
-2024-02,3,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,24,6,0.25,Above,0.0,4,Normal,Correct,final
-2024-02,3,2024-04,NR17,Normal,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,24,5,0.208,Above,1.0,4,Above,One category off,final
-2024-02,3,2024-04,NR18,Normal,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,24,7,0.292,Above,0.75,4,Above,One category off,final
-2024-01,4,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-01,4,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-01,4,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-01,4,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,24,0,0.0,Below,-0.25,4,Normal,Correct,final
-2024-01,4,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,24,0,0.0,Below,0.0,4,Normal,Correct,final
-2024-01,4,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,24,0,0.0,Below,-0.5,4,Below,Correct,final
-2024-01,4,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,24,10,0.417,Above,0.75,4,Above,One category off,final
-2024-01,4,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,24,6,0.25,Above,0.0,4,Normal,Correct,final
-2024-01,4,2024-04,NR17,Normal,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,24,5,0.208,Above,1.0,4,Above,One category off,final
-2024-01,4,2024-04,NR18,Normal,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,24,7,0.292,Above,0.75,4,Above,One category off,final
-2024-05,1,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-05,1,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,1,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-05,1,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-04,2,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-04,2,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,2,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-04,2,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-03,3,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-03,3,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,3,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-03,3,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-02,4,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-02,4,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-02,4,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-02,4,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-06,1,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-06,1,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-06,1,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,1,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-06,1,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-05,2,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-05,2,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,2,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-05,2,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-04,3,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-04,3,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,3,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-04,3,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-03,4,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-03,4,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-03,4,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-03,4,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,1,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-07,1,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,1,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,,,,,0.33,3,Above,One category off,final
-2024-07,1,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-07,1,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-07,1,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,,,,,1.0,3,Above,One category off,final
-2024-07,1,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,1,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-07,1,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-07,1,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,1,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,,,,,0.67,3,Above,Correct,final
-2024-07,1,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,1,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-07,1,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,,,,,1.0,3,Above,One category off,final
-2024-07,1,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-07,1,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-07,1,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,1,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,2,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-06,2,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,2,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,,,,,0.33,3,Above,One category off,final
-2024-06,2,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-06,2,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-06,2,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,,,,,1.0,3,Above,One category off,final
-2024-06,2,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,2,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-06,2,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-06,2,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,2,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,,,,,0.67,3,Above,Correct,final
-2024-06,2,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,2,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-06,2,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,,,,,1.0,3,Above,One category off,final
-2024-06,2,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-06,2,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-06,2,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,2,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,3,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-05,3,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,3,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,,,,,0.33,3,Above,One category off,final
-2024-05,3,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-05,3,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-05,3,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,,,,,1.0,3,Above,One category off,final
-2024-05,3,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,3,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-05,3,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-05,3,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,3,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,,,,,0.67,3,Above,Correct,final
-2024-05,3,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,3,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-05,3,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,,,,,1.0,3,Above,One category off,final
-2024-05,3,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-05,3,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-05,3,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,3,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,4,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-04,4,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,4,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,,,,,0.33,3,Above,One category off,final
-2024-04,4,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-04,4,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-04,4,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,,,,,1.0,3,Above,One category off,final
-2024-04,4,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,4,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,,,,,0.67,3,Above,Correct,final
-2024-04,4,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-04,4,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,4,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,,,,,0.67,3,Above,Correct,final
-2024-04,4,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,4,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-04,4,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,,,,,1.0,3,Above,One category off,final
-2024-04,4,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,,,,,0.33,3,Above,Correct,final
-2024-04,4,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,,,,,0.67,3,Above,One category off,final
-2024-04,4,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-04,4,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-08,1,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-08,1,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-08,1,2024-08,NR03,Above,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,,,,,-1.0,3,Below,Opposite,final
-2024-08,1,2024-08,NR04,Above,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,,,,,-1.0,3,Below,Opposite,final
-2024-08,1,2024-08,NR05,Above,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,,,,,-0.67,3,Below,One category off,final
-2024-08,1,2024-08,NR06,Above,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,,,,,0.67,3,Above,Correct,final
-2024-08,1,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-08,1,2024-08,NR08,Above,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,,,,,1.0,3,Above,Correct,final
-2024-08,1,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-08,1,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,,,,,-0.67,3,Below,One category off,final
-2024-08,1,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-08,1,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-08,1,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-08,1,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-08,1,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-08,1,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,,,,,-0.33,3,Below,One category off,final
-2024-08,1,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-08,1,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,2,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-07,2,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-07,2,2024-08,NR03,Above,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,,,,,-1.0,3,Below,Opposite,final
-2024-07,2,2024-08,NR04,Normal,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-07,2,2024-08,NR05,Above,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,,,,,-0.67,3,Below,One category off,final
-2024-07,2,2024-08,NR06,Normal,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,,,,,0.67,3,Above,One category off,final
-2024-07,2,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-07,2,2024-08,NR08,Normal,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-07,2,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,2,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,,,,,-0.67,3,Below,One category off,final
-2024-07,2,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-07,2,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,2,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-07,2,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,2,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-07,2,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,,,,,-0.33,3,Below,One category off,final
-2024-07,2,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-07,2,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,3,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-06,3,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-06,3,2024-08,NR03,Above,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,,,,,-1.0,3,Below,Opposite,final
-2024-06,3,2024-08,NR04,Normal,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-06,3,2024-08,NR05,Above,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,,,,,-0.67,3,Below,One category off,final
-2024-06,3,2024-08,NR06,Normal,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,,,,,0.67,3,Above,One category off,final
-2024-06,3,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-06,3,2024-08,NR08,Normal,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-06,3,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,3,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,,,,,-0.67,3,Below,One category off,final
-2024-06,3,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-06,3,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,3,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-06,3,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,3,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-06,3,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,,,,,-0.33,3,Below,One category off,final
-2024-06,3,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-06,3,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,4,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-05,4,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,,,,,-0.33,3,Below,Correct,final
-2024-05,4,2024-08,NR03,Normal,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-05,4,2024-08,NR04,Normal,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-05,4,2024-08,NR05,Normal,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,,,,,-0.67,3,Below,Correct,final
-2024-05,4,2024-08,NR06,Normal,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,,,,,0.67,3,Above,One category off,final
-2024-05,4,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,,,,,-1.0,3,Below,One category off,final
-2024-05,4,2024-08,NR08,Normal,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,,,,,1.0,3,Above,One category off,final
-2024-05,4,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,4,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,,,,,-0.67,3,Below,One category off,final
-2024-05,4,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-05,4,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,4,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,,,,,0.0,3,Normal,One category off,final
-2024-05,4,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,4,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,,,,,0.33,3,Above,One category off,final
-2024-05,4,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,,,,,-0.33,3,Below,One category off,final
-2024-05,4,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
-2024-05,4,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
+2024-04,1,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-04,1,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-04,1,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-04,1,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,1,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-04,1,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,30,0,0.0,Below,-0.5,4,Below,Correct,final
+2024-04,1,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-04,1,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,30,7,0.233,Above,0.0,4,Normal,Correct,final
+2024-04,1,2024-04,NR17,Normal,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,30,6,0.2,Above,1.0,4,Above,One category off,final
+2024-04,1,2024-04,NR18,Normal,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.75,4,Above,One category off,final
+2024-03,2,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-03,2,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-03,2,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-03,2,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,2,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-03,2,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,30,0,0.0,Below,-0.5,4,Below,Correct,final
+2024-03,2,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-03,2,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,30,7,0.233,Above,0.0,4,Normal,Correct,final
+2024-03,2,2024-04,NR17,Above,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,30,6,0.2,Above,1.0,4,Above,Correct,final
+2024-03,2,2024-04,NR18,Above,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.75,4,Above,Correct,final
+2024-02,3,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-02,3,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-02,3,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-02,3,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,3,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-02,3,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,30,0,0.0,Below,-0.5,4,Below,Correct,final
+2024-02,3,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-02,3,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,30,7,0.233,Above,0.0,4,Normal,Correct,final
+2024-02,3,2024-04,NR17,Normal,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,30,6,0.2,Above,1.0,4,Above,One category off,final
+2024-02,3,2024-04,NR18,Normal,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.75,4,Above,One category off,final
+2024-01,4,2024-04,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,32,0,0,Normal,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR06,Normal,1,157,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,39,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-01,4,2024-04,NR07,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,109,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,12,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR09,Normal,1,100,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,0.0,1.0,Normal,0,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-01,4,2024-04,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,80,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR11,Normal,1,175,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,0.095,0.995,Normal,11,0,0,Above,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-01,4,2024-04,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-01,4,2024-04,NR13,Normal,1,100,2014-2023,1;0;0;0;0;0;0;0;1;0,0.2,0.0,0.0,Normal,0.181,0.982,Normal,96,0,0,Above,0,0.1,0.0,0.0,Normal,30,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-01,4,2024-04,NR14,Normal,0,0,2014-2023,0;6;2;0;0;3;1;0;0;0,1.2,0.0,1.0,Normal,1.0,0.301,Below,443,0,265,Normal,0,0.8,0.0,1.0,Normal,30,0,0.0,Below,-0.5,4,Below,Correct,final
+2024-01,4,2024-04,NR15,Normal,5,2541,2014-2023,0;0;0;0;0;1;1;10;2;3,1.7,0.0,1.0,Above,0.03,0.992,Above,1199,0,219,Above,0,0.2,0.0,0.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-01,4,2024-04,NR16,Normal,0,0,2014-2023,0;2;1;1;0;0;0;5;2;3,1.4,0.0,2.0,Normal,1.0,0.247,Below,2220,0,640,Normal,0,0.8,0.0,1.0,Normal,30,7,0.233,Above,0.0,4,Normal,Correct,final
+2024-01,4,2024-04,NR17,Normal,5,2373,2014-2023,0;1;1;0;0;0;0;2;0;0,0.4,0.0,0.0,Above,0.0,1.0,Above,267,0,0,Above,1,0.2,0.0,0.0,Above,30,6,0.2,Above,1.0,4,Above,One category off,final
+2024-01,4,2024-04,NR18,Normal,4,1204,2014-2023,0;0;0;0;0;1;0;1;0;2,0.4,0.0,0.0,Above,0.001,1.0,Above,160,0,0,Above,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.75,4,Above,One category off,final
+2024-05,1,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-05,1,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,1,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-05,1,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-04,2,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,2,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-04,2,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-03,3,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-03,3,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-03,3,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR03,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,36,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR04,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR05,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR06,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR07,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR09,Normal,0,0,2014-2023,0;0;0;0;0;1;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,20,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;1;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,23,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR13,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,14,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR14,Normal,0,0,2014-2023,0;0;0;0;0;0;1;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR15,Normal,1,140,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,0.259,0.963,Normal,165,0,0,Above,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-02,4,2024-05,NR16,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,1112,0,0,Normal,0,0.1,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-02,4,2024-05,NR17,Normal,1,320,2014-2023,1;0;0;0;1;2;1;6;0;0,1.1,0.0,1.0,Normal,0.667,0.699,Normal,299,0,210,Above,0,0.2,0.0,0.0,Normal,31,0,0.0,Below,0.0,4,Normal,Correct,final
+2024-02,4,2024-05,NR18,Normal,1,500,2014-2023,0;1;0;0;0;0;0;0;0;2,0.3,0.0,0.0,Normal,0.259,0.963,Normal,257,0,0,Above,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,30,2,0.067,Normal,0.0,4,Normal,Correct,final
+2024-06,1,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,14,0.467,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,25,0.833,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,19,0.633,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,30,15,0.5,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,30,16,0.533,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,30,8,0.267,Above,0.75,4,Above,Correct,final
+2024-06,1,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-06,1,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,30,11,0.367,Above,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,30,3,0.1,Normal,0.25,4,Normal,Correct,final
+2024-06,1,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,12,0.4,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,30,2,0.067,Normal,0.0,4,Normal,Correct,final
+2024-05,2,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,14,0.467,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,25,0.833,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,19,0.633,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,30,15,0.5,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,30,16,0.533,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,30,8,0.267,Above,0.75,4,Above,Correct,final
+2024-05,2,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-05,2,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,30,11,0.367,Above,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,30,3,0.1,Normal,0.25,4,Normal,Correct,final
+2024-05,2,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,12,0.4,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,30,2,0.067,Normal,0.0,4,Normal,Correct,final
+2024-04,3,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,14,0.467,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,25,0.833,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,19,0.633,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,30,15,0.5,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,30,16,0.533,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,30,8,0.267,Above,0.75,4,Above,Correct,final
+2024-04,3,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-04,3,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,30,11,0.367,Above,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,30,3,0.1,Normal,0.25,4,Normal,Correct,final
+2024-04,3,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,12,0.4,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR01,Normal,0,0,2014-2023,0;0;0;1;0;0;0;1;0;1,0.3,0.0,0.0,Normal,1.0,0.741,Normal,564,0,0,Normal,0,0.3,0.0,0.0,Normal,30,2,0.067,Normal,0.0,4,Normal,Correct,final
+2024-03,4,2024-06,NR02,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR03,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;1,0.1,0.0,0.0,Normal,1.0,0.905,Normal,94,0,0,Normal,0,0.1,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR04,Normal,0,0,2014-2023,0;0;1;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR05,Normal,0,0,2014-2023,1;0;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,16,0,0,Normal,0,0.0,0.0,0.0,Normal,30,8,0.267,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR06,Normal,0,0,2014-2023,0;2;1;0;0;0;0;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,346,0,0,Normal,0,0.4,0.0,0.0,Normal,30,7,0.233,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR07,Normal,0,0,2014-2023,0;1;0;0;0;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,10,0,0,Normal,0,0.1,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR08,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,14,0.467,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR09,Normal,0,0,2014-2023,0;0;0;0;0;0;1;1;0;0,0.2,0.0,0.0,Normal,1.0,0.819,Normal,53,0,0,Normal,0,0.1,0.0,0.0,Normal,30,25,0.833,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR10,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,19,0.633,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR11,Normal,0,0,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,1.0,0.741,Normal,589,0,0,Normal,0,0.2,0.0,0.0,Normal,30,15,0.5,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR12,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,2988,0,0,Normal,0,0.1,0.0,0.0,Normal,30,16,0.533,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR13,Normal,1,185,2014-2023,1;2;0;1;0;0;0;4;0;0,0.8,0.0,1.0,Normal,0.551,0.809,Normal,295,0,177,Above,1,0.6,0.0,0.0,Above,30,8,0.267,Above,0.75,4,Above,Correct,final
+2024-03,4,2024-06,NR14,Normal,3,734,2014-2023,0;2;3;0;0;0;2;10;0;0,1.7,0.0,2.0,Above,0.243,0.907,Above,1518,0,233,Above,1,1.2,0.0,1.0,Normal,30,16,0.533,Above,0.75,4,Above,One category off,final
+2024-03,4,2024-06,NR15,Normal,0,0,2014-2023,0;1;0;0;0;0;2;1;0;0,0.4,0.0,0.0,Normal,1.0,0.67,Normal,83,0,0,Normal,0,0.0,0.0,0.0,Normal,30,10,0.333,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR16,Normal,0,0,2014-2023,0;0;1;1;0;0;0;5;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,261,0,0,Normal,0,0.1,0.0,0.0,Normal,30,11,0.367,Above,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR17,Normal,1,121,2014-2023,0;0;0;0;0;0;1;2;0;0,0.3,0.0,0.0,Normal,0.259,0.963,Normal,55,0,0,Above,0,0.0,0.0,0.0,Normal,30,3,0.1,Normal,0.25,4,Normal,Correct,final
+2024-03,4,2024-06,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,30,12,0.4,Above,0.25,4,Normal,Correct,final
+2024-07,1,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,31,22,0.71,Above,0.0,4,Normal,Correct,final
+2024-07,1,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-07,1,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,31,25,0.806,Above,0.5,4,Above,One category off,final
+2024-07,1,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,31,26,0.839,Above,0.25,4,Normal,One category off,final
+2024-07,1,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,31,26,0.839,Above,1.0,4,Above,One category off,final
+2024-07,1,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,31,27,0.871,Above,1.0,4,Above,One category off,final
+2024-07,1,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-07,1,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,31,26,0.839,Above,0.75,4,Above,Correct,final
+2024-07,1,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,31,28,0.903,Above,0.75,4,Above,One category off,final
+2024-07,1,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-07,1,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,31,25,0.806,Above,0.75,4,Above,Correct,final
+2024-07,1,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,31,27,0.871,Above,0.25,4,Normal,Correct,final
+2024-07,1,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,31,23,0.742,Above,0.5,4,Above,One category off,final
+2024-07,1,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,31,23,0.742,Above,1.0,4,Above,One category off,final
+2024-07,1,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,31,22,0.71,Above,0.5,4,Above,Correct,final
+2024-07,1,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,31,17,0.548,Above,0.75,4,Above,One category off,final
+2024-07,1,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-07,1,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.0,4,Normal,Correct,final
+2024-06,2,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,31,22,0.71,Above,0.0,4,Normal,Correct,final
+2024-06,2,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-06,2,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,31,25,0.806,Above,0.5,4,Above,One category off,final
+2024-06,2,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,31,26,0.839,Above,0.25,4,Normal,One category off,final
+2024-06,2,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,31,26,0.839,Above,1.0,4,Above,One category off,final
+2024-06,2,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,31,27,0.871,Above,1.0,4,Above,One category off,final
+2024-06,2,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-06,2,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,31,26,0.839,Above,0.75,4,Above,Correct,final
+2024-06,2,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,31,28,0.903,Above,0.75,4,Above,One category off,final
+2024-06,2,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-06,2,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,31,25,0.806,Above,0.75,4,Above,Correct,final
+2024-06,2,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,31,27,0.871,Above,0.25,4,Normal,Correct,final
+2024-06,2,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,31,23,0.742,Above,0.5,4,Above,One category off,final
+2024-06,2,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,31,23,0.742,Above,1.0,4,Above,One category off,final
+2024-06,2,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,31,22,0.71,Above,0.5,4,Above,Correct,final
+2024-06,2,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,31,17,0.548,Above,0.75,4,Above,One category off,final
+2024-06,2,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-06,2,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.0,4,Normal,Correct,final
+2024-05,3,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,31,22,0.71,Above,0.0,4,Normal,Correct,final
+2024-05,3,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-05,3,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,31,25,0.806,Above,0.5,4,Above,One category off,final
+2024-05,3,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,31,26,0.839,Above,0.25,4,Normal,One category off,final
+2024-05,3,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,31,26,0.839,Above,1.0,4,Above,One category off,final
+2024-05,3,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,31,27,0.871,Above,1.0,4,Above,One category off,final
+2024-05,3,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-05,3,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,31,26,0.839,Above,0.75,4,Above,Correct,final
+2024-05,3,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,31,28,0.903,Above,0.75,4,Above,One category off,final
+2024-05,3,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-05,3,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,31,25,0.806,Above,0.75,4,Above,Correct,final
+2024-05,3,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,31,27,0.871,Above,0.25,4,Normal,Correct,final
+2024-05,3,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,31,23,0.742,Above,0.5,4,Above,One category off,final
+2024-05,3,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,31,23,0.742,Above,1.0,4,Above,One category off,final
+2024-05,3,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,31,22,0.71,Above,0.5,4,Above,Correct,final
+2024-05,3,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,31,17,0.548,Above,0.75,4,Above,One category off,final
+2024-05,3,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,3,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.0,4,Normal,Correct,final
+2024-04,4,2024-07,NR01,Normal,0,0,2014-2023,0;3;0;0;5;0;0;4;1;0,1.3,0.0,1.0,Normal,1.0,0.273,Below,4690,0,1403,Normal,0,1.0,0.0,1.0,Normal,31,22,0.71,Above,0.0,4,Normal,Correct,final
+2024-04,4,2024-07,NR02,Normal,0,0,2014-2023,0;0;0;0;2;0;0;2;1;1,0.6,0.0,1.0,Normal,1.0,0.549,Normal,3138,0,2350,Normal,0,0.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-04,4,2024-07,NR03,Normal,2,455,2014-2023,0;1;0;0;0;0;0;35;0;4,4.0,0.0,0.0,Above,0.908,0.238,Below,4623,0,0,Above,2,1.8,0.0,0.0,Above,31,25,0.806,Above,0.5,4,Above,One category off,final
+2024-04,4,2024-07,NR04,Normal,4,728,2014-2023,1;0;1;5;1;2;3;7;3;5,2.8,1.0,3.0,Above,0.308,0.848,Above,26679,4033,28553,Below,3,2.5,1.0,3.0,Normal,31,26,0.839,Above,0.25,4,Normal,One category off,final
+2024-04,4,2024-07,NR05,Normal,5,33196,2014-2023,1;0;1;3;1;0;0;3;2;0,1.1,0.0,1.0,Above,0.005,0.999,Above,16624,0,1628,Above,4,1.0,0.0,1.0,Above,31,26,0.839,Above,1.0,4,Above,One category off,final
+2024-04,4,2024-07,NR06,Normal,8,27108,2014-2023,3;4;2;8;1;2;0;7;2;6,3.5,2.0,4.0,Above,0.027,0.99,Above,20830,1806,13443,Above,8,3.2,2.0,3.0,Above,31,27,0.871,Above,1.0,4,Above,One category off,final
+2024-04,4,2024-07,NR07,Normal,1,182,2014-2023,0;1;1;5;0;0;0;2;0;7,1.6,0.0,1.0,Normal,0.798,0.525,Normal,25539,0,5662,Normal,1,1.6,0.0,1.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-04,4,2024-07,NR08,Normal,1,2724,2014-2023,0;0;0;5;0;0;0;4;0;0,0.9,0.0,0.0,Normal,0.593,0.772,Normal,11071,0,0,Above,1,0.8,0.0,0.0,Above,31,26,0.839,Above,0.75,4,Above,Correct,final
+2024-04,4,2024-07,NR09,Normal,2,6720,2014-2023,0;0;1;0;0;2;0;7;1;0,1.1,0.0,1.0,Above,0.301,0.9,Above,14754,0,495,Above,1,1.0,0.0,1.0,Normal,31,28,0.903,Above,0.75,4,Above,One category off,final
+2024-04,4,2024-07,NR10,Normal,0,0,2014-2023,0;0;0;1;0;1;1;3;0;0,0.6,0.0,1.0,Normal,1.0,0.549,Normal,543,0,100,Normal,0,0.1,0.0,0.0,Normal,31,25,0.806,Above,0.25,4,Normal,Correct,final
+2024-04,4,2024-07,NR11,Normal,3,16278,2014-2023,0;3;0;2;0;4;3;7;0;0,1.9,0.0,3.0,Normal,0.296,0.875,Above,13596,0,2155,Above,2,1.1,0.0,2.0,Normal,31,25,0.806,Above,0.75,4,Above,Correct,final
+2024-04,4,2024-07,NR12,Normal,0,0,2014-2023,0;0;0;0;1;0;0;0;0;0,0.1,0.0,0.0,Normal,1.0,0.905,Normal,523,0,0,Normal,0,0.1,0.0,0.0,Normal,31,27,0.871,Above,0.25,4,Normal,Correct,final
+2024-04,4,2024-07,NR13,Normal,6,4861,2014-2023,3;3;6;22;3;3;4;9;1;1,5.5,3.0,4.0,Above,0.471,0.686,Normal,34779,1696,3245,Above,2,3.1,1.0,2.0,Normal,31,23,0.742,Above,0.5,4,Above,One category off,final
+2024-04,4,2024-07,NR14,Normal,19,59202,2014-2023,6;14;14;30;3;0;10;23;5;0,10.5,5.0,14.0,Above,0.012,0.994,Above,24441,4920,15938,Above,14,7.6,2.0,11.0,Above,31,23,0.742,Above,1.0,4,Above,One category off,final
+2024-04,4,2024-07,NR15,Normal,2,510,2014-2023,0;0;1;4;0;0;2;7;0;3,1.7,0.0,2.0,Normal,0.507,0.757,Normal,1390,0,312,Above,0,0.6,0.0,0.0,Normal,31,22,0.71,Above,0.5,4,Above,Correct,final
+2024-04,4,2024-07,NR16,Normal,7,11325,2014-2023,1;5;3;8;0;0;2;10;0;1,3.0,1.0,3.0,Above,0.034,0.988,Above,3596,548,1412,Above,1,1.5,1.0,1.0,Normal,31,17,0.548,Above,0.75,4,Above,One category off,final
+2024-04,4,2024-07,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-04,4,2024-07,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,31,2,0.065,Normal,0.0,4,Normal,Correct,final
+2024-08,1,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,22,6,0.273,Above,0.0,4,Normal,Correct,final
+2024-08,1,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,22,3,0.136,Normal,-0.25,4,Normal,Correct,final
+2024-08,1,2024-08,NR03,Above,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,22,13,0.591,Above,-0.5,4,Below,Opposite,final
+2024-08,1,2024-08,NR04,Above,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,22,5,0.227,Above,-0.5,4,Below,Opposite,final
+2024-08,1,2024-08,NR05,Above,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,22,17,0.773,Above,-0.25,4,Normal,One category off,final
+2024-08,1,2024-08,NR06,Above,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,22,22,1.0,Above,0.75,4,Above,Correct,final
+2024-08,1,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,22,4,0.182,Normal,-0.75,4,Below,One category off,final
+2024-08,1,2024-08,NR08,Above,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,22,13,0.591,Above,1.0,4,Above,Correct,final
+2024-08,1,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,22,18,0.818,Above,0.25,4,Normal,Correct,final
+2024-08,1,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,22,5,0.227,Above,-0.25,4,Normal,One category off,final
+2024-08,1,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,22,13,0.591,Above,0.5,4,Above,One category off,final
+2024-08,1,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,22,16,0.727,Above,0.25,4,Normal,Correct,final
+2024-08,1,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,22,5,0.227,Above,0.25,4,Normal,One category off,final
+2024-08,1,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,22,11,0.5,Above,0.25,4,Normal,Correct,final
+2024-08,1,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,22,10,0.455,Above,0.5,4,Above,One category off,final
+2024-08,1,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,22,4,0.182,Normal,-0.25,4,Normal,One category off,final
+2024-08,1,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,22,2,0.091,Normal,0.0,4,Normal,Correct,final
+2024-08,1,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,22,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-07,2,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,22,6,0.273,Above,0.0,4,Normal,Correct,final
+2024-07,2,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,22,3,0.136,Normal,-0.25,4,Normal,Correct,final
+2024-07,2,2024-08,NR03,Above,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,22,13,0.591,Above,-0.5,4,Below,Opposite,final
+2024-07,2,2024-08,NR04,Normal,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,22,5,0.227,Above,-0.5,4,Below,One category off,final
+2024-07,2,2024-08,NR05,Above,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,22,17,0.773,Above,-0.25,4,Normal,One category off,final
+2024-07,2,2024-08,NR06,Normal,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,22,22,1.0,Above,0.75,4,Above,One category off,final
+2024-07,2,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,22,4,0.182,Normal,-0.75,4,Below,One category off,final
+2024-07,2,2024-08,NR08,Normal,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,22,13,0.591,Above,1.0,4,Above,One category off,final
+2024-07,2,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,22,18,0.818,Above,0.25,4,Normal,Correct,final
+2024-07,2,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,22,5,0.227,Above,-0.25,4,Normal,One category off,final
+2024-07,2,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,22,13,0.591,Above,0.5,4,Above,One category off,final
+2024-07,2,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,22,16,0.727,Above,0.25,4,Normal,Correct,final
+2024-07,2,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,22,5,0.227,Above,0.25,4,Normal,One category off,final
+2024-07,2,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,22,11,0.5,Above,0.25,4,Normal,Correct,final
+2024-07,2,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,22,10,0.455,Above,0.5,4,Above,One category off,final
+2024-07,2,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,22,4,0.182,Normal,-0.25,4,Normal,One category off,final
+2024-07,2,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,22,2,0.091,Normal,0.0,4,Normal,Correct,final
+2024-07,2,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,22,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-06,3,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,22,6,0.273,Above,0.0,4,Normal,Correct,final
+2024-06,3,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,22,3,0.136,Normal,-0.25,4,Normal,Correct,final
+2024-06,3,2024-08,NR03,Above,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,22,13,0.591,Above,-0.5,4,Below,Opposite,final
+2024-06,3,2024-08,NR04,Normal,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,22,5,0.227,Above,-0.5,4,Below,One category off,final
+2024-06,3,2024-08,NR05,Above,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,22,17,0.773,Above,-0.25,4,Normal,One category off,final
+2024-06,3,2024-08,NR06,Normal,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,22,22,1.0,Above,0.75,4,Above,One category off,final
+2024-06,3,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,22,4,0.182,Normal,-0.75,4,Below,One category off,final
+2024-06,3,2024-08,NR08,Normal,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,22,13,0.591,Above,1.0,4,Above,One category off,final
+2024-06,3,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,22,18,0.818,Above,0.25,4,Normal,Correct,final
+2024-06,3,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,22,5,0.227,Above,-0.25,4,Normal,One category off,final
+2024-06,3,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,22,13,0.591,Above,0.5,4,Above,One category off,final
+2024-06,3,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,22,16,0.727,Above,0.25,4,Normal,Correct,final
+2024-06,3,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,22,5,0.227,Above,0.25,4,Normal,One category off,final
+2024-06,3,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,22,11,0.5,Above,0.25,4,Normal,Correct,final
+2024-06,3,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,22,10,0.455,Above,0.5,4,Above,One category off,final
+2024-06,3,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,22,4,0.182,Normal,-0.25,4,Normal,One category off,final
+2024-06,3,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,22,2,0.091,Normal,0.0,4,Normal,Correct,final
+2024-06,3,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,22,0,0.0,Below,-0.25,4,Normal,Correct,final
+2024-05,4,2024-08,NR01,Normal,0,0,2014-2023,0;14;1;0;1;2;0;0;6;2,2.6,0.0,2.0,Normal,1.0,0.074,Below,8984,0,473,Normal,0,2.0,0.0,1.0,Normal,22,6,0.273,Above,0.0,4,Normal,Correct,final
+2024-05,4,2024-08,NR02,Normal,0,0,2014-2023,0;15;0;8;3;0;0;0;2;1,2.9,0.0,2.0,Normal,1.0,0.055,Below,14392,0,1376,Normal,0,2.7,0.0,1.0,Normal,22,3,0.136,Normal,-0.25,4,Normal,Correct,final
+2024-05,4,2024-08,NR03,Normal,1,192,2014-2023,4;47;5;2;0;4;0;2;12;0,7.6,2.0,4.0,Below,0.999,0.004,Below,16666,661,2715,Below,0,4.6,2.0,4.0,Below,22,13,0.591,Above,-0.5,4,Below,One category off,final
+2024-05,4,2024-08,NR04,Normal,0,0,2014-2023,4;5;2;5;1;0;1;1;4;1,2.4,1.0,4.0,Below,1.0,0.091,Below,6134,1374,7560,Below,0,1.9,1.0,2.0,Below,22,5,0.227,Above,-0.5,4,Below,One category off,final
+2024-05,4,2024-08,NR05,Normal,1,150,2014-2023,4;6;0;1;2;0;2;1;2;1,1.9,1.0,2.0,Normal,0.85,0.434,Normal,21784,378,1465,Below,0,1.1,1.0,1.0,Below,22,17,0.773,Above,-0.25,4,Normal,Correct,final
+2024-05,4,2024-08,NR06,Normal,13,27566,2014-2023,12;30;4;16;1;2;6;1;20;1,9.3,2.0,12.0,Above,0.147,0.91,Above,48931,8150,43017,Normal,13,7.3,2.0,12.0,Above,22,22,1.0,Above,0.75,4,Above,One category off,final
+2024-05,4,2024-08,NR07,Normal,1,151,2014-2023,1;25;0;8;8;2;3;1;5;2,5.5,2.0,5.0,Below,0.996,0.027,Below,38090,451,9949,Below,1,4.9,2.0,5.0,Below,22,4,0.182,Normal,-0.75,4,Below,One category off,final
+2024-05,4,2024-08,NR08,Normal,2,332,2014-2023,0;1;0;0;1;1;1;0;1;0,0.5,0.0,1.0,Above,0.09,0.986,Above,406,0,210,Above,2,0.4,0.0,1.0,Above,22,13,0.591,Above,1.0,4,Above,One category off,final
+2024-05,4,2024-08,NR09,Normal,3,6116,2014-2023,0;4;2;3;5;2;4;0;1;1,2.2,1.0,3.0,Normal,0.377,0.819,Normal,6390,117,6143,Normal,2,1.8,1.0,3.0,Normal,22,18,0.818,Above,0.25,4,Normal,Correct,final
+2024-05,4,2024-08,NR10,Normal,0,0,2014-2023,0;1;1;2;0;2;0;2;2;1,1.1,1.0,2.0,Below,1.0,0.333,Below,827,335,850,Below,0,0.4,0.0,1.0,Normal,22,5,0.227,Above,-0.25,4,Normal,One category off,final
+2024-05,4,2024-08,NR11,Normal,4,774,2014-2023,1;4;1;4;2;0;1;1;5;1,2.0,1.0,2.0,Above,0.143,0.947,Above,3487,215,1500,Normal,2,1.4,1.0,2.0,Normal,22,13,0.591,Above,0.5,4,Above,One category off,final
+2024-05,4,2024-08,NR12,Normal,0,0,2014-2023,0;0;5;0;0;1;1;0;0;0,0.7,0.0,0.0,Normal,1.0,0.497,Normal,6758,0,0,Normal,0,0.6,0.0,0.0,Normal,22,16,0.727,Above,0.25,4,Normal,Correct,final
+2024-05,4,2024-08,NR13,Normal,6,1578,2014-2023,4;3;3;8;2;5;6;6;2;3,4.2,3.0,5.0,Above,0.247,0.867,Above,9253,1965,11473,Below,2,2.8,2.0,3.0,Normal,22,5,0.227,Above,0.25,4,Normal,One category off,final
+2024-05,4,2024-08,NR14,Normal,10,12208,2014-2023,1;5;2;21;9;10;16;16;5;3,8.8,5.0,10.0,Normal,0.386,0.729,Normal,41996,3612,14000,Normal,5,6.1,3.0,6.0,Normal,22,11,0.5,Above,0.25,4,Normal,Correct,final
+2024-05,4,2024-08,NR15,Normal,7,1734,2014-2023,0;0;1;0;4;0;13;10;7;3,3.8,0.0,4.0,Above,0.091,0.96,Above,4314,0,4705,Normal,2,1.1,0.0,2.0,Normal,22,10,0.455,Above,0.5,4,Above,One category off,final
+2024-05,4,2024-08,NR16,Normal,1,1130,2014-2023,2;0;2;13;1;3;2;8;1;5,3.7,2.0,3.0,Below,0.975,0.116,Below,2418,612,1192,Normal,1,1.1,0.0,1.0,Normal,22,4,0.182,Normal,-0.25,4,Normal,One category off,final
+2024-05,4,2024-08,NR17,Normal,0,0,2014-2023,0;0;0;0;0;0;0;1;0;1,0.2,0.0,0.0,Normal,1.0,0.819,Normal,37,0,0,Normal,0,0.0,0.0,0.0,Normal,22,2,0.091,Normal,0.0,4,Normal,Correct,final
+2024-05,4,2024-08,NR18,Normal,0,0,2014-2023,0;0;0;0;0;0;0;0;0;0,0.0,0.0,0.0,Normal,1.0,1.0,Normal,0,0,0,Normal,0,0.0,0.0,0.0,Normal,22,0,0.0,Below,-0.25,4,Normal,Correct,final
 2024-09,1,2024-09,NR01,Normal,0,0,2014-2023,0;0;0;0;0;0;3;1;2;0,0.6,0.0,0.0,Normal,1.0,0.549,Normal,604,0,0,Normal,0,0.6,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final
 2024-09,1,2024-09,NR02,Normal,1,213,2014-2023,0;0;1;1;0;0;2;0;3;0,0.7,0.0,1.0,Normal,0.503,0.844,Normal,922,0,102,Above,1,0.7,0.0,1.0,Normal,,,,,0.33,3,Above,Correct,final
 2024-09,1,2024-09,NR03,Normal,0,0,2014-2023,0;0;0;2;0;0;0;1;3;0,0.6,0.0,0.0,Normal,1.0,0.549,Normal,338,0,0,Normal,0,0.5,0.0,0.0,Normal,,,,,0.0,3,Normal,Correct,final

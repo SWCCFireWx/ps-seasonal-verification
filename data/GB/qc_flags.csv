@@ -1713,6 +1713,263 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2024-04-23,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,66.7,max temp much colder than neighbors
 2024-04-24,104007,COTTON RIDGE,RAWS,GB07,cold,50.0,5,58.4,max temp much colder than neighbors
 2024-04-24,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,61.9,max temp much colder than neighbors
+2024-04-25,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,56.7,max temp much colder than neighbors
+2024-04-26,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,47.6,max temp much colder than neighbors
+2024-04-26,481307,RASPBERRY,RAWS,GB10,hot,58.0,8,47.6,max temp much warmer than neighbors
+2024-04-27,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,56.5,max temp much colder than neighbors
+2024-04-27,ASOS-05U,Eureka,ASOS,GB15,cold,37.4,6,54.2,max temp much colder than neighbors
+2024-04-28,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,60.0,max temp much colder than neighbors
+2024-04-28,ASOS-05U,Eureka,ASOS,GB15,cold,37.4,6,60.3,max temp much colder than neighbors
+2024-04-29,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,59.3,max temp much colder than neighbors
+2024-04-29,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-89.0,0,,impossible temperature
+2024-04-30,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,60.8,max temp much colder than neighbors
+2024-04-30,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-01,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,58.6,max temp much colder than neighbors
+2024-05-01,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-02,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,61.4,max temp much colder than neighbors
+2024-05-02,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-03,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,63.5,max temp much colder than neighbors
+2024-05-03,421304,FIVE MILE,RAWS,GB29,rain_alone,0.65,8,0.04,rain no neighbor saw
+2024-05-03,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-04,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,51.5,max temp much colder than neighbors
+2024-05-04,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-04,ASOS-HTH,Hawthorne,ASOS,GB13,hot,71.6,5,63.5,max temp much warmer than neighbors
+2024-05-05,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,41.2,max temp much colder than neighbors
+2024-05-05,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-06,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,53.4,max temp much colder than neighbors
+2024-05-06,420206,RED SPUR,RAWS,GB26,cold,25.0,5,33.5,max temp much colder than neighbors
+2024-05-06,421602,JOES VALLEY,RAWS,GB30,cold,33.0,4,43.0,max temp much colder than neighbors
+2024-05-06,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-07,104007,COTTON RIDGE,RAWS,GB07,cold,27.0,5,35.1,max temp much colder than neighbors
+2024-05-07,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,56.4,max temp much colder than neighbors
+2024-05-07,421602,JOES VALLEY,RAWS,GB30,cold,30.0,4,40.9,max temp much colder than neighbors
+2024-05-07,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-08,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,51.6,max temp much colder than neighbors
+2024-05-08,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-09,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,60.5,max temp much colder than neighbors
+2024-05-09,420705,HEWINTA,RAWS,GB26,cold,32.0,8,41.7,max temp much colder than neighbors
+2024-05-09,422710,NORTH LONG POINT,RAWS,GB32,cold,44.0,4,52.1,max temp much colder than neighbors
+2024-05-10,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,64.2,max temp much colder than neighbors
+2024-05-10,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-11,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,69.6,max temp much colder than neighbors
+2024-05-11,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-11,ASOS-05U,Eureka,ASOS,GB15,cold,59.0,6,69.4,max temp much colder than neighbors
+2024-05-12,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,73.1,max temp much colder than neighbors
+2024-05-12,422604,ASSAY,RAWS,GB34,rain_alone,1.24,8,0.0,rain no neighbor saw
+2024-05-12,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-12,ASOS-PVU,Provo Muni (Awos),ASOS,GB25,cold,54.0,8,75.3,max temp much colder than neighbors
+2024-05-13,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,74.7,max temp much colder than neighbors
+2024-05-13,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-14,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,75.2,max temp much colder than neighbors
+2024-05-14,421602,JOES VALLEY,RAWS,GB30,cold,58.0,4,66.5,max temp much colder than neighbors
+2024-05-14,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-15,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,75.0,max temp much colder than neighbors
+2024-05-15,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-16,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,77.0,max temp much colder than neighbors
+2024-05-16,420706,NORWAY,RAWS,GB26,rain_alone,9.71,8,0.0,rain no neighbor saw
+2024-05-16,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-17,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,76.8,max temp much colder than neighbors
+2024-05-17,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-18,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,76.1,max temp much colder than neighbors
+2024-05-18,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-19,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,67.6,max temp much colder than neighbors
+2024-05-19,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-20,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,59.4,max temp much colder than neighbors
+2024-05-20,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-21,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,63.8,max temp much colder than neighbors
+2024-05-21,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-22,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,66.0,max temp much colder than neighbors
+2024-05-22,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-23,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,60.5,max temp much colder than neighbors
+2024-05-23,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-24,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,64.3,max temp much colder than neighbors
+2024-05-24,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-25,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,62.4,max temp much colder than neighbors
+2024-05-25,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-25,ASOS-05U,Eureka,ASOS,GB15,cold,51.8,6,65.5,max temp much colder than neighbors
+2024-05-26,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,71.4,max temp much colder than neighbors
+2024-05-26,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-27,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,76.5,max temp much colder than neighbors
+2024-05-27,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-28,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,74.7,max temp much colder than neighbors
+2024-05-28,421905,LOST CREEK,RAWS,GB28,cold,71.0,7,79.0,max temp much colder than neighbors
+2024-05-28,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-29,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,72.8,max temp much colder than neighbors
+2024-05-29,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-30,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,73.3,max temp much colder than neighbors
+2024-05-30,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-05-31,101223,SKI HILL,RAWS,GB01,hot,78.0,7,66.4,max temp much warmer than neighbors
+2024-05-31,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,76.2,max temp much colder than neighbors
+2024-05-31,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-01,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,75.0,max temp much colder than neighbors
+2024-06-01,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-02,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,74.7,max temp much colder than neighbors
+2024-06-02,422502,JENSEN SPRING,RAWS,GB33,hot,92.0,7,83.7,max temp much warmer than neighbors
+2024-06-02,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-03,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,67.1,max temp much colder than neighbors
+2024-06-03,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-04,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,79.7,max temp much colder than neighbors
+2024-06-04,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-05,41302,DOG VALLEY,RAWS,GB12,rain_alone,0.6,8,0.0,rain no neighbor saw
+2024-06-05,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-06,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,87.5,max temp much colder than neighbors
+2024-06-06,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-07,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,86.2,max temp much colder than neighbors
+2024-06-07,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-08,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,83.2,max temp much colder than neighbors
+2024-06-08,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-09,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,81.0,max temp much colder than neighbors
+2024-06-09,420705,HEWINTA,RAWS,GB26,cold,66.0,8,74.1,max temp much colder than neighbors
+2024-06-09,421416,WILDHORSE,RAWS,GB29,hot,90.0,8,81.7,max temp much warmer than neighbors
+2024-06-09,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-10,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,23.0,8,84.0,max temp much colder than neighbors
+2024-06-10,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-11,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-12,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-13,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-14,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-15,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-16,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-17,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-18,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-18,ASOS-PUC,Price/Carbon(Ramos),ASOS,GB31,hot,88.0,8,68.7,max temp much warmer than neighbors
+2024-06-18,ASOS-SMN,Salmon/Lemhi (Awos),ASOS,GB02,cold,53.6,8,62.8,max temp much colder than neighbors
+2024-06-19,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-20,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-21,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-22,422604,ASSAY,RAWS,GB34,cold,59.0,8,85.1,max temp much colder than neighbors
+2024-06-22,55522287,IDARNG1_RG2,RAWS,GB03,rain_alone,0.6,8,0.0,rain no neighbor saw
+2024-06-22,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-23,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-23,ASOS-INS,Indian Springs,ASOS,GB22,cold,89.6,8,105.3,max temp much colder than neighbors
+2024-06-24,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-25,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-25,ASOS-EUL,Caldwell,ASOS,GB03,cold,71.0,8,98.9,max temp much colder than neighbors
+2024-06-25,ASOS-U64,Monticello,ASOS,GB32,cold,83.7,8,92.6,max temp much colder than neighbors
+2024-06-26,421416,WILDHORSE,RAWS,GB29,hot,90.0,8,81.9,max temp much warmer than neighbors
+2024-06-26,422604,ASSAY,RAWS,GB34,cold,57.0,8,84.2,max temp much colder than neighbors
+2024-06-26,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-26,ASOS-05U,Eureka,ASOS,GB15,cold,71.6,6,86.0,max temp much colder than neighbors
+2024-06-27,422604,ASSAY,RAWS,GB34,cold,67.0,8,81.8,max temp much colder than neighbors
+2024-06-27,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-28,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-29,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-29,ASOS-AZC,Colorado City,ASOS,GB35,hot,109.4,8,97.1,max temp much warmer than neighbors
+2024-06-30,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-06-30,ASOS-AZC,Colorado City,ASOS,GB35,hot,111.2,8,97.5,max temp much warmer than neighbors
+2024-06-30,ASOS-INS,Indian Springs,ASOS,GB22,cold,87.8,8,101.0,max temp much colder than neighbors
+2024-07-01,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-01,ASOS-AZC,Colorado City,ASOS,GB35,hot,109.4,8,94.9,max temp much warmer than neighbors
+2024-07-01,ASOS-HIF,Hill Afb/Ogden,ASOS,GB25,cold,73.4,8,82.1,max temp much colder than neighbors
+2024-07-02,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-02,ASOS-AZC,Colorado City,ASOS,GB35,hot,122.0,8,95.9,max temp much warmer than neighbors
+2024-07-03,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-03,ASOS-AZC,Colorado City,ASOS,GB35,hot,116.6,8,99.1,max temp much warmer than neighbors
+2024-07-03,ASOS-LSV,Nellis Afb,ASOS,GB24,cold,84.0,6,112.2,max temp much colder than neighbors
+2024-07-04,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-04,ASOS-AZC,Colorado City,ASOS,GB35,hot,122.0,8,100.0,max temp much warmer than neighbors
+2024-07-05,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-05,ASOS-AZC,Colorado City,ASOS,GB35,hot,113.0,8,99.2,max temp much warmer than neighbors
+2024-07-05,ASOS-SVR,Salt Lake City Muni No2,ASOS,GB25,cold,73.2,8,88.3,max temp much colder than neighbors
+2024-07-06,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-06,ASOS-AZC,Colorado City,ASOS,GB35,hot,123.8,8,101.3,max temp much warmer than neighbors
+2024-07-06,ASOS-LOL,Lovelock / Derby Field,ASOS,GB14,cold,95.0,3,103.8,max temp much colder than neighbors
+2024-07-06,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,77.0,5,96.8,max temp much colder than neighbors
+2024-07-07,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-07,ASOS-AZC,Colorado City,ASOS,GB35,hot,113.0,8,103.3,max temp much warmer than neighbors
+2024-07-07,ASOS-LSV,Nellis Afb,ASOS,GB24,cold,109.2,6,117.4,max temp much colder than neighbors
+2024-07-08,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-08,ASOS-AZC,Colorado City,ASOS,GB35,hot,116.6,8,100.6,max temp much warmer than neighbors
+2024-07-08,ASOS-DPG,Dugway Prvg Ground,ASOS,GB25,cold,66.0,8,95.2,max temp much colder than neighbors
+2024-07-08,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,59.0,5,95.8,max temp much colder than neighbors
+2024-07-10,103903,POLE CANYON,RAWS,GB08,rain_alone,0.65,6,0.0,rain no neighbor saw
+2024-07-10,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-11,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-12,421408,DIAMOND RIM,RAWS,GB29,bad_temp,319.0,0,,impossible temperature
+2024-07-12,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-91.0,0,,impossible temperature
+2024-07-13,420705,HEWINTA,RAWS,GB26,cold,76.0,8,84.8,max temp much colder than neighbors
+2024-07-13,421408,DIAMOND RIM,RAWS,GB29,bad_temp,359.0,0,,impossible temperature
+2024-07-13,421502,MUD SPRING,RAWS,GB27,rain_alone,0.88,8,0.0,rain no neighbor saw
+2024-07-13,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-14,260207,DOUBLE H,RAWS,GB14,cold,74.0,3,82.9,max temp much colder than neighbors
+2024-07-14,421408,DIAMOND RIM,RAWS,GB29,bad_temp,251.0,0,,impossible temperature
+2024-07-14,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-14,ASOS-46U,Alpine,ASOS,GB10,cold,78.8,8,87.0,max temp much colder than neighbors
+2024-07-14,ASOS-MYL,Mc Call,ASOS,GB01,cold,77.0,7,85.3,max temp much colder than neighbors
+2024-07-15,420805,CART CREEK,RAWS,GB29,wet,1.2,8,0.1,far more rain than any neighbor
+2024-07-15,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-15,ASOS-40U,Manilla,ASOS,GB29,cold,80.0,8,89.1,max temp much colder than neighbors
+2024-07-16,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-17,104007,COTTON RIDGE,RAWS,GB07,cold,75.0,5,85.4,max temp much colder than neighbors
+2024-07-17,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-18,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-19,421410,UPPER SAND WASH,RAWS,GB29,rain_alone,0.53,8,0.04,rain no neighbor saw
+2024-07-19,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-20,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-21,422807,LAVA POINT RAWS,RAWS,GB34,cold,78.0,6,87.5,max temp much colder than neighbors
+2024-07-21,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-22,422503,COTTONWOOD MTN,RAWS,GB34,hot,95.0,8,84.2,max temp much warmer than neighbors
+2024-07-22,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-86.0,0,,impossible temperature
+2024-07-23,ASOS-AZC,Colorado City,ASOS,GB35,hot,114.8,8,99.0,max temp much warmer than neighbors
+2024-07-25,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-67.0,0,,impossible temperature
+2024-07-26,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-67.0,0,,impossible temperature
+2024-07-27,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-91.0,0,,impossible temperature
+2024-07-27,ASOS-BYI,Burley Municipal,ASOS,GB06,cold,79.0,8,87.9,max temp much colder than neighbors
+2024-07-28,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-82.0,0,,impossible temperature
+2024-07-29,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-29,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,95.0,max temp much warmer than neighbors
+2024-07-30,420914,ROSEBUD,RAWS,GB25,hot,88.0,4,76.4,max temp much warmer than neighbors
+2024-07-30,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-91.0,0,,impossible temperature
+2024-07-30,ASOS-AZC,Colorado City,ASOS,GB35,hot,114.8,8,95.5,max temp much warmer than neighbors
+2024-07-31,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-07-31,ASOS-AZC,Colorado City,ASOS,GB35,hot,107.6,8,96.9,max temp much warmer than neighbors
+2024-08-01,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-01,ASOS-AZC,Colorado City,ASOS,GB35,hot,113.0,8,101.0,max temp much warmer than neighbors
+2024-08-02,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-02,ASOS-AZC,Colorado City,ASOS,GB35,hot,107.6,8,94.6,max temp much warmer than neighbors
+2024-08-02,ASOS-BAN,Usmc Mtn Warfare Tra,ASOS,GB11,cold,64.0,8,86.2,max temp much colder than neighbors
+2024-08-03,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-03,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,95.9,max temp much warmer than neighbors
+2024-08-04,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-04,ASOS-40U,Manilla,ASOS,GB29,cold,79.5,8,90.1,max temp much colder than neighbors
+2024-08-05,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-06,104007,COTTON RIDGE,RAWS,GB07,cold,77.0,5,88.3,max temp much colder than neighbors
+2024-08-06,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-07,104007,COTTON RIDGE,RAWS,GB07,cold,70.0,5,79.1,max temp much colder than neighbors
+2024-08-07,420914,ROSEBUD,RAWS,GB25,hot,96.0,4,87.8,max temp much warmer than neighbors
+2024-08-07,421406,UPPER P.R. CANYON,RAWS,GB29,cold,79.0,8,87.4,max temp much colder than neighbors
+2024-08-07,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-08,104007,COTTON RIDGE,RAWS,GB07,cold,69.0,5,81.3,max temp much colder than neighbors
+2024-08-08,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-08,ASOS-AZC,Colorado City,ASOS,GB35,hot,102.2,8,93.5,max temp much warmer than neighbors
+2024-08-09,101303,INDIANOLA,RAWS,GB02,hot,92.0,8,83.3,max temp much warmer than neighbors
+2024-08-09,104007,COTTON RIDGE,RAWS,GB07,cold,72.0,5,84.3,max temp much colder than neighbors
+2024-08-09,421602,JOES VALLEY,RAWS,GB30,cold,71.0,4,79.5,max temp much colder than neighbors
+2024-08-09,480708,GRAND TETON,RAWS,GB10,hot,92.0,8,78.0,max temp much warmer than neighbors
+2024-08-09,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-10,104007,COTTON RIDGE,RAWS,GB07,cold,74.0,5,83.4,max temp much colder than neighbors
+2024-08-10,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-11,104007,COTTON RIDGE,RAWS,GB07,cold,71.0,5,83.3,max temp much colder than neighbors
+2024-08-12,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-12,ASOS-FOM,Fillmore,ASOS,GB27,hot,93.2,6,83.4,max temp much warmer than neighbors
+2024-08-13,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-13,ASOS-10U,Owyhee,ASOS,GB17,cold,68.0,5,83.6,max temp much colder than neighbors
+2024-08-14,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-14,ASOS-40U,Manilla,ASOS,GB29,cold,68.7,8,76.8,max temp much colder than neighbors
+2024-08-15,422903,AGUA CANYON,RAWS,GB34,hot,87.0,8,76.3,max temp much warmer than neighbors
+2024-08-15,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-15,ASOS-05U,Eureka,ASOS,GB15,cold,57.2,6,86.4,max temp much colder than neighbors
+2024-08-16,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-17,260302,POLE CREEK,RAWS,GB18,cold,73.0,3,81.2,max temp much colder than neighbors
+2024-08-17,55522326,NEVERSHINE,RAWS,GB35,bad_temp,-99.0,0,,impossible temperature
+2024-08-17,ASOS-HTH,Hawthorne,ASOS,GB13,hot,96.8,5,88.3,max temp much warmer than neighbors
+2024-08-18,421407,WINTER RIDGE,RAWS,GB29,wet,1.39,8,0.08,far more rain than any neighbor
+2024-08-18,ASOS-LGU,Logan-Cache Airport,ASOS,GB26,cold,66.2,8,90.5,max temp much colder than neighbors
+2024-08-19,ASOS-AZC,Colorado City,ASOS,GB35,hot,104.0,8,93.8,max temp much warmer than neighbors
+2024-08-20,421602,JOES VALLEY,RAWS,GB30,cold,70.0,4,80.1,max temp much colder than neighbors
+2024-08-20,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,97.5,max temp much warmer than neighbors
+2024-08-21,ASOS-AZC,Colorado City,ASOS,GB35,hot,105.8,8,95.4,max temp much warmer than neighbors
+2024-08-22,422503,COTTONWOOD MTN,RAWS,GB34,hot,73.0,8,59.7,max temp much warmer than neighbors
 2026-11-08,101303,INDIANOLA,RAWS,GB02,cold,52.0,8,64.1,max temp much colder than neighbors
 2026-11-08,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,60.0,5,68.8,max temp much colder than neighbors
 2026-11-09,260308,SPRING GULCH,RAWS,GB19,cold,54.0,3,66.2,max temp much colder than neighbors
@@ -1731,3 +1988,5 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-16,420705,HEWINTA,RAWS,GB26,hot,52.0,8,42.1,max temp much warmer than neighbors
 2026-11-17,ASOS-EKO,Elko,ASOS,GB19,cold,37.0,3,48.2,max temp much colder than neighbors
 2026-11-17,ASOS-SGU,St George,ASOS,GB35,missed,0.0,8,0.84,no rain while most neighbors got rain
+2026-11-18,420403,BEUS CANYON,RAWS,GB26,rain_alone,0.51,7,0.01,rain no neighbor saw
+2026-11-18,420703,BEAR RIVER,RAWS,GB26,hot,46.0,8,32.8,max temp much warmer than neighbors

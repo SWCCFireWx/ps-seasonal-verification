@@ -2814,6 +2814,816 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2024-04-24,44729,SUGARLOAF,RAWS,SC03,hot,64.0,8,48.8,max temp much warmer than neighbors
 2024-04-24,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,56.0,8,64.0,max temp much colder than neighbors
 2024-04-24,45303,OZENA,RAWS,SC09,hot,72.0,8,58.0,max temp much warmer than neighbors
+2024-04-25,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-04-25,44729,SUGARLOAF,RAWS,SC03,hot,64.0,8,42.1,max temp much warmer than neighbors
+2024-04-25,45303,OZENA,RAWS,SC09,hot,69.0,8,52.1,max temp much warmer than neighbors
+2024-04-25,45449,GRASS MOUNTAIN,RAWS,SC09,cold,43.0,8,54.1,max temp much colder than neighbors
+2024-04-25,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,81.0,8,68.4,max temp much warmer than neighbors
+2024-04-25,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,83.0,8,68.9,max temp much warmer than neighbors
+2024-04-26,44112,EL PORTAL,RAWS,SC02,wet,1.62,8,0.29,far more rain than any neighbor
+2024-04-26,44511,MOUNT TOM,RAWS,SC02,cold,34.0,8,42.8,max temp much colder than neighbors
+2024-04-26,44728,RATTLESNAKE,RAWS,SC03,hot,59.0,7,32.3,max temp much warmer than neighbors
+2024-04-26,44729,SUGARLOAF,RAWS,SC03,hot,60.0,8,35.2,max temp much warmer than neighbors
+2024-04-26,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,70.6,max temp much colder than neighbors
+2024-04-26,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,78.0,8,64.3,max temp much warmer than neighbors
+2024-04-26,55522324,MT. SAN JACINTO,RAWS,SC11,hot,49.0,6,40.2,max temp much warmer than neighbors
+2024-04-26,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,55.4,8,69.8,max temp much colder than neighbors
+2024-04-26,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,81.0,8,64.7,max temp much warmer than neighbors
+2024-04-27,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.24,far more rain than any neighbor
+2024-04-27,44729,SUGARLOAF,RAWS,SC03,hot,66.0,8,41.9,max temp much warmer than neighbors
+2024-04-27,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,75.8,max temp much colder than neighbors
+2024-04-27,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,53.0,8,68.0,max temp much colder than neighbors
+2024-04-27,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,69.6,max temp much colder than neighbors
+2024-04-27,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,85.0,8,76.6,max temp much warmer than neighbors
+2024-04-28,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-04-28,44729,SUGARLOAF,RAWS,SC03,hot,70.0,8,47.2,max temp much warmer than neighbors
+2024-04-28,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,79.2,max temp much colder than neighbors
+2024-04-28,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,55.0,8,69.6,max temp much colder than neighbors
+2024-04-28,45303,OZENA,RAWS,SC09,hot,73.0,8,63.7,max temp much warmer than neighbors
+2024-04-28,ASOS-HMT,Hemet,ASOS,SC08,cold,63.5,8,78.9,max temp much colder than neighbors
+2024-04-28,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,71.6,max temp much colder than neighbors
+2024-04-28,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,63.0,8,76.1,max temp much colder than neighbors
+2024-04-29,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-04-29,44729,SUGARLOAF,RAWS,SC03,hot,71.0,8,50.2,max temp much warmer than neighbors
+2024-04-29,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,79.2,max temp much colder than neighbors
+2024-04-29,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,54.0,8,71.6,max temp much colder than neighbors
+2024-04-30,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-04-30,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,54.9,max temp much warmer than neighbors
+2024-04-30,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,82.1,max temp much colder than neighbors
+2024-04-30,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,54.0,8,71.9,max temp much colder than neighbors
+2024-04-30,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,57.2,8,78.4,max temp much colder than neighbors
+2024-04-30,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,59.0,8,71.5,max temp much colder than neighbors
+2024-05-01,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-01,44729,SUGARLOAF,RAWS,SC03,hot,71.0,8,51.9,max temp much warmer than neighbors
+2024-05-01,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,83.3,max temp much colder than neighbors
+2024-05-01,45108,LYTLE CREEK,RAWS,SC09,hot,79.0,8,69.9,max temp much warmer than neighbors
+2024-05-01,45114,MORMON ROCK,RAWS,SC09,hot,77.0,8,67.4,max temp much warmer than neighbors
+2024-05-01,45221,MONTECITO #2,RAWS,SC08,cold,69.0,8,77.4,max temp much colder than neighbors
+2024-05-01,45426,WARM SPRINGS,RAWS,SC09,hot,75.0,8,67.0,max temp much warmer than neighbors
+2024-05-01,45605,KENWORTHY,RAWS,SC11,hot,76.0,8,67.1,max temp much warmer than neighbors
+2024-05-01,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,51.8,8,78.6,max temp much colder than neighbors
+2024-05-01,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,78.4,max temp much colder than neighbors
+2024-05-02,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-02,44728,RATTLESNAKE,RAWS,SC03,hot,71.0,7,53.7,max temp much warmer than neighbors
+2024-05-02,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,54.3,max temp much warmer than neighbors
+2024-05-02,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,84.7,max temp much colder than neighbors
+2024-05-02,45203,LOS PRIETOS,RAWS,SC09,hot,84.0,8,70.2,max temp much warmer than neighbors
+2024-05-02,45303,OZENA,RAWS,SC09,hot,76.0,8,62.5,max temp much warmer than neighbors
+2024-05-02,45704,CAMERON FIRE STATION,RAWS,SC11,hot,79.0,8,70.8,max temp much warmer than neighbors
+2024-05-02,ASOS-NUC,San Clemente (Awos),ASOS,SC08,hot,75.0,6,66.7,max temp much warmer than neighbors
+2024-05-02,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,59.0,8,76.3,max temp much colder than neighbors
+2024-05-02,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,65.0,8,73.9,max temp much colder than neighbors
+2024-05-02,ASOS-VIS,Visalia Muni (Awos),ASOS,SC05,cold,74.0,8,82.6,max temp much colder than neighbors
+2024-05-03,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-03,44728,RATTLESNAKE,RAWS,SC03,hot,72.0,7,54.7,max temp much warmer than neighbors
+2024-05-03,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,55.7,max temp much warmer than neighbors
+2024-05-03,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,83.7,max temp much colder than neighbors
+2024-05-03,45021,GRAPEVINE PEAK,RAWS,SC09,cold,54.0,8,65.4,max temp much colder than neighbors
+2024-05-03,45203,LOS PRIETOS,RAWS,SC09,hot,75.0,8,59.2,max temp much warmer than neighbors
+2024-05-03,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,57.2,8,81.9,max temp much colder than neighbors
+2024-05-03,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,59.0,8,74.2,max temp much colder than neighbors
+2024-05-04,43612,WWOLF,RAWS,SC02,missed,0.0,8,0.8,no rain while most neighbors got rain
+2024-05-04,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,0.88,no rain while most neighbors got rain
+2024-05-04,44728,RATTLESNAKE,RAWS,SC03,hot,67.0,7,46.5,max temp much warmer than neighbors
+2024-05-04,44729,SUGARLOAF,RAWS,SC03,hot,68.0,8,45.5,max temp much warmer than neighbors
+2024-05-04,44917,SAN SIMEON,RAWS,SC07,cold,54.0,8,62.7,max temp much colder than neighbors
+2024-05-04,45203,LOS PRIETOS,RAWS,SC09,hot,67.0,8,59.0,max temp much warmer than neighbors
+2024-05-04,45302,CHUCHUPATE,RAWS,SC09,hot,64.0,8,51.5,max temp much warmer than neighbors
+2024-05-04,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,69.6,max temp much colder than neighbors
+2024-05-05,44729,SUGARLOAF,RAWS,SC03,hot,58.0,8,33.2,max temp much warmer than neighbors
+2024-05-05,55522324,MT. SAN JACINTO,RAWS,SC11,hot,49.0,6,38.3,max temp much warmer than neighbors
+2024-05-05,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,64.4,max temp much colder than neighbors
+2024-05-06,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-06,44729,SUGARLOAF,RAWS,SC03,hot,67.0,8,47.7,max temp much warmer than neighbors
+2024-05-06,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,75.7,max temp much colder than neighbors
+2024-05-06,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,55.0,8,70.1,max temp much colder than neighbors
+2024-05-06,45426,WARM SPRINGS,RAWS,SC09,hot,76.0,8,65.1,max temp much warmer than neighbors
+2024-05-06,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,44.6,8,72.2,max temp much colder than neighbors
+2024-05-06,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,65.0,8,76.4,max temp much colder than neighbors
+2024-05-06,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,58.0,8,67.2,max temp much colder than neighbors
+2024-05-07,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-07,44729,SUGARLOAF,RAWS,SC03,hot,70.0,8,48.9,max temp much warmer than neighbors
+2024-05-07,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,79.7,max temp much colder than neighbors
+2024-05-07,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,55.0,8,70.6,max temp much colder than neighbors
+2024-05-07,ASOS-NXF,Camp Pendleton,ASOS,SC08,cold,1.0,8,71.4,max temp much colder than neighbors
+2024-05-07,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,60.8,8,72.1,max temp much colder than neighbors
+2024-05-07,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,65.0,8,76.1,max temp much colder than neighbors
+2024-05-08,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-08,44728,RATTLESNAKE,RAWS,SC03,hot,69.0,7,46.7,max temp much warmer than neighbors
+2024-05-08,44729,SUGARLOAF,RAWS,SC03,hot,71.0,8,47.3,max temp much warmer than neighbors
+2024-05-08,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,83.2,max temp much colder than neighbors
+2024-05-08,45021,GRAPEVINE PEAK,RAWS,SC09,cold,51.0,8,69.2,max temp much colder than neighbors
+2024-05-08,45203,LOS PRIETOS,RAWS,SC09,hot,83.0,8,71.2,max temp much warmer than neighbors
+2024-05-08,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,68.0,8,78.6,max temp much colder than neighbors
+2024-05-08,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,63.0,8,74.8,max temp much colder than neighbors
+2024-05-09,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-09,44728,RATTLESNAKE,RAWS,SC03,hot,70.0,7,52.7,max temp much warmer than neighbors
+2024-05-09,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,54.1,max temp much warmer than neighbors
+2024-05-09,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,84.3,max temp much colder than neighbors
+2024-05-09,45021,GRAPEVINE PEAK,RAWS,SC09,cold,60.0,8,70.1,max temp much colder than neighbors
+2024-05-09,45203,LOS PRIETOS,RAWS,SC09,hot,82.0,8,67.7,max temp much warmer than neighbors
+2024-05-09,45426,WARM SPRINGS,RAWS,SC09,hot,78.0,8,67.8,max temp much warmer than neighbors
+2024-05-09,ASOS-L35,Big Bear City,ASOS,SC10,cold,53.6,8,61.7,max temp much colder than neighbors
+2024-05-09,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,73.4,8,84.9,max temp much colder than neighbors
+2024-05-09,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,64.0,8,74.7,max temp much colder than neighbors
+2024-05-10,44112,EL PORTAL,RAWS,SC02,wet,1.68,8,0.09,far more rain than any neighbor
+2024-05-10,44728,RATTLESNAKE,RAWS,SC03,hot,68.0,7,51.7,max temp much warmer than neighbors
+2024-05-10,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,56.1,max temp much warmer than neighbors
+2024-05-10,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,89.3,max temp much colder than neighbors
+2024-05-10,45021,GRAPEVINE PEAK,RAWS,SC09,cold,63.0,8,71.8,max temp much colder than neighbors
+2024-05-10,45203,LOS PRIETOS,RAWS,SC09,hot,84.0,8,67.2,max temp much warmer than neighbors
+2024-05-10,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,71.6,8,88.8,max temp much colder than neighbors
+2024-05-10,ASOS-NXF,Camp Pendleton,ASOS,SC08,cold,1.0,8,70.2,max temp much colder than neighbors
+2024-05-11,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-11,44728,RATTLESNAKE,RAWS,SC03,hot,73.0,7,57.3,max temp much warmer than neighbors
+2024-05-11,44729,SUGARLOAF,RAWS,SC03,hot,74.0,8,59.5,max temp much warmer than neighbors
+2024-05-11,44917,SAN SIMEON,RAWS,SC07,cold,61.0,8,92.1,max temp much colder than neighbors
+2024-05-11,45203,LOS PRIETOS,RAWS,SC09,hot,88.0,8,72.5,max temp much warmer than neighbors
+2024-05-11,45221,MONTECITO #2,RAWS,SC08,cold,65.0,8,75.7,max temp much colder than neighbors
+2024-05-11,45303,OZENA,RAWS,SC09,hot,83.0,8,65.0,max temp much warmer than neighbors
+2024-05-11,45426,WARM SPRINGS,RAWS,SC09,hot,84.0,8,73.3,max temp much warmer than neighbors
+2024-05-11,45437,SANTA FE DAM,RAWS,SC08,bad_rain,19.59,0,,impossible rain total
+2024-05-11,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,70.9,max temp much colder than neighbors
+2024-05-11,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,61.0,8,76.7,max temp much colder than neighbors
+2024-05-12,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.02,rain no neighbor saw
+2024-05-12,44728,RATTLESNAKE,RAWS,SC03,hot,74.0,7,62.3,max temp much warmer than neighbors
+2024-05-12,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,64.1,max temp much warmer than neighbors
+2024-05-12,44917,SAN SIMEON,RAWS,SC07,cold,61.0,8,92.2,max temp much colder than neighbors
+2024-05-12,55522323,MOUNTAIN SPRINGS GRADE,RAWS,SC11,hot,93.0,8,83.5,max temp much warmer than neighbors
+2024-05-12,ASOS-FCH,Fresno - Chandler,ASOS,SC05,cold,77.0,8,93.5,max temp much colder than neighbors
+2024-05-12,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,73.4,max temp much colder than neighbors
+2024-05-12,ASOS-NXF,Camp Pendleton,ASOS,SC08,cold,2.0,8,72.2,max temp much colder than neighbors
+2024-05-13,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.1,far more rain than any neighbor
+2024-05-13,44728,RATTLESNAKE,RAWS,SC03,hot,73.0,7,62.5,max temp much warmer than neighbors
+2024-05-13,44729,SUGARLOAF,RAWS,SC03,hot,74.0,8,63.2,max temp much warmer than neighbors
+2024-05-13,44917,SAN SIMEON,RAWS,SC07,cold,57.0,8,85.8,max temp much colder than neighbors
+2024-05-13,45203,LOS PRIETOS,RAWS,SC09,hot,76.0,8,63.6,max temp much warmer than neighbors
+2024-05-13,45303,OZENA,RAWS,SC09,hot,87.0,8,56.5,max temp much warmer than neighbors
+2024-05-13,ASOS-NXF,Camp Pendleton,ASOS,SC08,cold,1.0,8,68.9,max temp much colder than neighbors
+2024-05-14,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.26,far more rain than any neighbor
+2024-05-14,44728,RATTLESNAKE,RAWS,SC03,hot,73.0,7,61.3,max temp much warmer than neighbors
+2024-05-14,44917,SAN SIMEON,RAWS,SC07,cold,59.0,8,85.8,max temp much colder than neighbors
+2024-05-14,45203,LOS PRIETOS,RAWS,SC09,hot,75.0,8,57.4,max temp much warmer than neighbors
+2024-05-14,45303,OZENA,RAWS,SC09,hot,83.0,8,53.0,max temp much warmer than neighbors
+2024-05-15,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.01,rain no neighbor saw
+2024-05-15,44728,RATTLESNAKE,RAWS,SC03,hot,74.0,7,64.7,max temp much warmer than neighbors
+2024-05-15,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,65.4,max temp much warmer than neighbors
+2024-05-15,45203,LOS PRIETOS,RAWS,SC09,hot,75.0,8,59.0,max temp much warmer than neighbors
+2024-05-15,45230,CUYAMA VALLEY,RAWS,SC06,rain_alone,9.3,8,0.01,rain no neighbor saw
+2024-05-15,45303,OZENA,RAWS,SC09,hot,89.0,8,51.7,max temp much warmer than neighbors
+2024-05-15,45612,VISTA GRANDE,RAWS,SC11,hot,76.0,8,65.0,max temp much warmer than neighbors
+2024-05-16,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-16,44728,RATTLESNAKE,RAWS,SC03,hot,76.0,7,64.3,max temp much warmer than neighbors
+2024-05-16,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,64.9,max temp much warmer than neighbors
+2024-05-16,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,85.9,max temp much colder than neighbors
+2024-05-16,45021,GRAPEVINE PEAK,RAWS,SC09,cold,70.0,8,79.3,max temp much colder than neighbors
+2024-05-16,45203,LOS PRIETOS,RAWS,SC09,hot,78.0,8,63.1,max temp much warmer than neighbors
+2024-05-16,45709,MT. LAGUNA,RAWS,SC11,hot,80.0,8,64.6,max temp much warmer than neighbors
+2024-05-17,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-17,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,64.3,max temp much warmer than neighbors
+2024-05-17,45203,LOS PRIETOS,RAWS,SC09,hot,77.0,8,60.4,max temp much warmer than neighbors
+2024-05-17,45303,OZENA,RAWS,SC09,hot,88.0,8,54.0,max temp much warmer than neighbors
+2024-05-17,ASOS-NXF,Camp Pendleton,ASOS,SC08,cold,1.0,8,69.9,max temp much colder than neighbors
+2024-05-18,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-18,44729,SUGARLOAF,RAWS,SC03,hot,74.0,8,58.7,max temp much warmer than neighbors
+2024-05-18,45203,LOS PRIETOS,RAWS,SC09,hot,75.0,8,58.8,max temp much warmer than neighbors
+2024-05-18,45302,CHUCHUPATE,RAWS,SC09,hot,76.0,8,62.3,max temp much warmer than neighbors
+2024-05-18,45426,WARM SPRINGS,RAWS,SC09,hot,73.0,8,60.1,max temp much warmer than neighbors
+2024-05-18,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,72.0,8,61.9,max temp much warmer than neighbors
+2024-05-18,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,72.4,max temp much colder than neighbors
+2024-05-19,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-19,44728,RATTLESNAKE,RAWS,SC03,hot,75.0,7,58.5,max temp much warmer than neighbors
+2024-05-19,44729,SUGARLOAF,RAWS,SC03,hot,74.0,8,59.9,max temp much warmer than neighbors
+2024-05-19,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,81.8,max temp much colder than neighbors
+2024-05-19,45203,LOS PRIETOS,RAWS,SC09,hot,75.0,8,60.4,max temp much warmer than neighbors
+2024-05-19,45303,OZENA,RAWS,SC09,hot,87.0,8,55.0,max temp much warmer than neighbors
+2024-05-19,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,78.0,8,60.8,max temp much warmer than neighbors
+2024-05-19,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,69.9,max temp much colder than neighbors
+2024-05-20,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-20,44728,RATTLESNAKE,RAWS,SC03,hot,72.0,7,52.5,max temp much warmer than neighbors
+2024-05-20,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,53.5,max temp much warmer than neighbors
+2024-05-20,45303,OZENA,RAWS,SC09,hot,79.0,8,57.5,max temp much warmer than neighbors
+2024-05-20,45449,GRASS MOUNTAIN,RAWS,SC09,cold,52.0,8,63.3,max temp much colder than neighbors
+2024-05-20,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,104.0,8,60.8,max temp much warmer than neighbors
+2024-05-21,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-21,44728,RATTLESNAKE,RAWS,SC03,hot,73.0,7,55.5,max temp much warmer than neighbors
+2024-05-21,44729,SUGARLOAF,RAWS,SC03,hot,74.0,8,56.8,max temp much warmer than neighbors
+2024-05-21,44917,SAN SIMEON,RAWS,SC07,cold,60.0,8,86.3,max temp much colder than neighbors
+2024-05-21,45709,MT. LAGUNA,RAWS,SC11,hot,73.0,8,62.6,max temp much warmer than neighbors
+2024-05-21,55522387,TOPANGA,RAWS,SC08,bad_rain,21.82,0,,impossible rain total
+2024-05-22,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-22,44728,RATTLESNAKE,RAWS,SC03,hot,75.0,7,57.5,max temp much warmer than neighbors
+2024-05-22,44729,SUGARLOAF,RAWS,SC03,hot,75.0,8,59.5,max temp much warmer than neighbors
+2024-05-22,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,86.4,max temp much colder than neighbors
+2024-05-22,45203,LOS PRIETOS,RAWS,SC09,hot,77.0,8,58.5,max temp much warmer than neighbors
+2024-05-22,45303,OZENA,RAWS,SC09,hot,85.0,8,52.0,max temp much warmer than neighbors
+2024-05-22,45709,MT. LAGUNA,RAWS,SC11,hot,73.0,8,62.1,max temp much warmer than neighbors
+2024-05-23,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-23,44729,SUGARLOAF,RAWS,SC03,hot,75.0,8,57.4,max temp much warmer than neighbors
+2024-05-23,44917,SAN SIMEON,RAWS,SC07,cold,60.0,8,83.3,max temp much colder than neighbors
+2024-05-23,45203,LOS PRIETOS,RAWS,SC09,hot,73.0,8,60.1,max temp much warmer than neighbors
+2024-05-23,45216,SANTA CRUZ ISLAND,RAWS,SC08,hot,70.0,8,61.0,max temp much warmer than neighbors
+2024-05-23,45303,OZENA,RAWS,SC09,hot,85.0,8,53.0,max temp much warmer than neighbors
+2024-05-23,45605,KENWORTHY,RAWS,SC11,hot,77.0,8,64.9,max temp much warmer than neighbors
+2024-05-23,45709,MT. LAGUNA,RAWS,SC11,hot,73.0,8,59.2,max temp much warmer than neighbors
+2024-05-24,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-24,44728,RATTLESNAKE,RAWS,SC03,hot,71.0,7,51.7,max temp much warmer than neighbors
+2024-05-24,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,53.6,max temp much warmer than neighbors
+2024-05-24,45302,CHUCHUPATE,RAWS,SC09,hot,68.0,8,54.1,max temp much warmer than neighbors
+2024-05-24,45303,OZENA,RAWS,SC09,hot,79.0,8,60.5,max temp much warmer than neighbors
+2024-05-24,45449,GRASS MOUNTAIN,RAWS,SC09,cold,48.0,8,57.4,max temp much colder than neighbors
+2024-05-24,45605,KENWORTHY,RAWS,SC11,hot,71.0,8,60.2,max temp much warmer than neighbors
+2024-05-24,55522277,HARMON,RAWS,SC08,hot,71.0,8,62.7,max temp much warmer than neighbors
+2024-05-24,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,69.2,max temp much colder than neighbors
+2024-05-25,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-25,44729,SUGARLOAF,RAWS,SC03,hot,72.0,8,52.9,max temp much warmer than neighbors
+2024-05-25,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,74.8,max temp much colder than neighbors
+2024-05-25,45303,OZENA,RAWS,SC09,hot,79.0,8,61.5,max temp much warmer than neighbors
+2024-05-25,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,66.2,max temp much colder than neighbors
+2024-05-26,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-26,44729,SUGARLOAF,RAWS,SC03,hot,75.0,8,61.5,max temp much warmer than neighbors
+2024-05-26,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,83.4,max temp much colder than neighbors
+2024-05-26,45203,LOS PRIETOS,RAWS,SC09,hot,74.0,8,61.5,max temp much warmer than neighbors
+2024-05-26,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,53.0,8,61.1,max temp much colder than neighbors
+2024-05-26,45709,MT. LAGUNA,RAWS,SC11,hot,75.0,8,64.2,max temp much warmer than neighbors
+2024-05-26,ASOS-NLC,Lemoore Nas/Reeves,ASOS,SC05,cold,61.0,8,84.4,max temp much colder than neighbors
+2024-05-26,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,69.4,max temp much colder than neighbors
+2024-05-27,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-27,44728,RATTLESNAKE,RAWS,SC03,hot,76.0,7,62.7,max temp much warmer than neighbors
+2024-05-27,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,64.1,max temp much warmer than neighbors
+2024-05-27,44917,SAN SIMEON,RAWS,SC07,cold,61.0,8,84.8,max temp much colder than neighbors
+2024-05-27,45203,LOS PRIETOS,RAWS,SC09,hot,81.0,8,69.7,max temp much warmer than neighbors
+2024-05-27,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,54.0,8,67.6,max temp much colder than neighbors
+2024-05-27,45303,OZENA,RAWS,SC09,hot,87.0,8,64.2,max temp much warmer than neighbors
+2024-05-27,45709,MT. LAGUNA,RAWS,SC11,hot,78.0,8,69.2,max temp much warmer than neighbors
+2024-05-27,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,70.9,max temp much colder than neighbors
+2024-05-27,ASOS-OKB,Oceanside Municipal (Was L32),ASOS,SC08,cold,63.0,8,71.7,max temp much colder than neighbors
+2024-05-27,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,65.0,8,74.2,max temp much colder than neighbors
+2024-05-28,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-28,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,62.6,max temp much warmer than neighbors
+2024-05-28,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,89.7,max temp much colder than neighbors
+2024-05-28,45203,LOS PRIETOS,RAWS,SC09,hot,80.0,8,69.2,max temp much warmer than neighbors
+2024-05-28,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,73.4,8,90.0,max temp much colder than neighbors
+2024-05-28,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,64.0,8,73.3,max temp much colder than neighbors
+2024-05-29,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-29,44729,SUGARLOAF,RAWS,SC03,hot,76.0,8,62.6,max temp much warmer than neighbors
+2024-05-29,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,90.2,max temp much colder than neighbors
+2024-05-29,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,62.6,8,80.8,max temp much colder than neighbors
+2024-05-30,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-30,44729,SUGARLOAF,RAWS,SC03,hot,78.0,8,67.7,max temp much warmer than neighbors
+2024-05-30,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,94.6,max temp much colder than neighbors
+2024-05-30,45203,LOS PRIETOS,RAWS,SC09,hot,85.0,8,68.7,max temp much warmer than neighbors
+2024-05-31,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-05-31,44729,SUGARLOAF,RAWS,SC03,hot,79.0,8,68.1,max temp much warmer than neighbors
+2024-05-31,44917,SAN SIMEON,RAWS,SC07,cold,61.0,8,94.1,max temp much colder than neighbors
+2024-05-31,45203,LOS PRIETOS,RAWS,SC09,hot,84.0,8,67.2,max temp much warmer than neighbors
+2024-05-31,45303,OZENA,RAWS,SC09,hot,92.0,8,63.2,max temp much warmer than neighbors
+2024-06-01,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-01,44734,MTN HOME,RAWS,SC03,cold,64.0,8,72.3,max temp much colder than neighbors
+2024-06-01,44804,OAK CREEK,RAWS,SC03,hot,89.0,8,79.3,max temp much warmer than neighbors
+2024-06-01,45203,LOS PRIETOS,RAWS,SC09,hot,76.0,8,60.4,max temp much warmer than neighbors
+2024-06-01,45303,OZENA,RAWS,SC09,hot,89.0,8,55.5,max temp much warmer than neighbors
+2024-06-01,45441,CAMP 9,RAWS,SC09,hot,73.0,8,63.7,max temp much warmer than neighbors
+2024-06-01,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,71.3,max temp much colder than neighbors
+2024-06-02,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-02,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,87.2,max temp much colder than neighbors
+2024-06-02,45021,GRAPEVINE PEAK,RAWS,SC09,cold,62.0,8,70.9,max temp much colder than neighbors
+2024-06-02,45605,KENWORTHY,RAWS,SC11,hot,80.0,8,67.9,max temp much warmer than neighbors
+2024-06-02,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,70.2,max temp much colder than neighbors
+2024-06-02,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,60.8,8,74.4,max temp much colder than neighbors
+2024-06-02,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,95.0,8,83.2,max temp much warmer than neighbors
+2024-06-03,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-03,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,86.2,max temp much colder than neighbors
+2024-06-03,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,64.4,8,75.3,max temp much colder than neighbors
+2024-06-04,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-04,44203,MINARETS,RAWS,SC02,hot,88.0,8,79.5,max temp much warmer than neighbors
+2024-06-04,44917,SAN SIMEON,RAWS,SC07,cold,71.0,8,98.6,max temp much colder than neighbors
+2024-06-04,45021,GRAPEVINE PEAK,RAWS,SC09,cold,69.0,8,86.8,max temp much colder than neighbors
+2024-06-04,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,89.6,8,97.8,max temp much colder than neighbors
+2024-06-04,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,71.6,8,89.9,max temp much colder than neighbors
+2024-06-05,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-05,44917,SAN SIMEON,RAWS,SC07,cold,69.0,8,105.6,max temp much colder than neighbors
+2024-06-05,45021,GRAPEVINE PEAK,RAWS,SC09,cold,79.0,8,92.9,max temp much colder than neighbors
+2024-06-05,45203,LOS PRIETOS,RAWS,SC09,hot,97.0,8,74.9,max temp much warmer than neighbors
+2024-06-05,45230,CUYAMA VALLEY,RAWS,SC06,hot,108.0,8,92.8,max temp much warmer than neighbors
+2024-06-05,55522332,OP1 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,62.0,5,73.3,max temp much colder than neighbors
+2024-06-05,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,69.8,8,96.8,max temp much colder than neighbors
+2024-06-05,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,61.0,8,74.0,max temp much colder than neighbors
+2024-06-06,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-06,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,96.7,max temp much colder than neighbors
+2024-06-06,45203,LOS PRIETOS,RAWS,SC09,hot,92.0,8,73.0,max temp much warmer than neighbors
+2024-06-06,45303,OZENA,RAWS,SC09,hot,102.0,8,67.0,max temp much warmer than neighbors
+2024-06-06,45709,MT. LAGUNA,RAWS,SC11,hot,90.0,8,78.1,max temp much warmer than neighbors
+2024-06-07,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-07,44319,HASTINGS,RAWS,SC07,hot,85.0,8,61.4,max temp much warmer than neighbors
+2024-06-07,45203,LOS PRIETOS,RAWS,SC09,hot,89.0,8,69.0,max temp much warmer than neighbors
+2024-06-07,45303,OZENA,RAWS,SC09,hot,100.0,8,66.2,max temp much warmer than neighbors
+2024-06-08,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-08,45203,LOS PRIETOS,RAWS,SC09,hot,80.0,8,62.7,max temp much warmer than neighbors
+2024-06-08,45302,CHUCHUPATE,RAWS,SC09,hot,84.0,8,69.7,max temp much warmer than neighbors
+2024-06-08,45303,OZENA,RAWS,SC09,hot,94.0,8,56.2,max temp much warmer than neighbors
+2024-06-08,45426,WARM SPRINGS,RAWS,SC09,hot,79.0,8,65.1,max temp much warmer than neighbors
+2024-06-08,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,72.7,max temp much colder than neighbors
+2024-06-09,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-09,44511,MOUNT TOM,RAWS,SC02,cold,62.0,8,73.4,max temp much colder than neighbors
+2024-06-09,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,89.8,max temp much colder than neighbors
+2024-06-09,45203,LOS PRIETOS,RAWS,SC09,hot,82.0,8,63.4,max temp much warmer than neighbors
+2024-06-09,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,78.8,8,90.0,max temp much colder than neighbors
+2024-06-09,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,2.0,8,71.5,max temp much colder than neighbors
+2024-06-10,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-10,44917,SAN SIMEON,RAWS,SC07,cold,61.0,8,94.4,max temp much colder than neighbors
+2024-06-10,45203,LOS PRIETOS,RAWS,SC09,hot,87.0,8,69.7,max temp much warmer than neighbors
+2024-06-10,45452,MALIBU CANYON,RAWS,SC08,cold,72.0,8,83.0,max temp much colder than neighbors
+2024-06-11,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-11,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,103.9,max temp much colder than neighbors
+2024-06-11,45021,GRAPEVINE PEAK,RAWS,SC09,cold,78.0,8,88.9,max temp much colder than neighbors
+2024-06-11,45203,LOS PRIETOS,RAWS,SC09,hot,92.0,8,71.7,max temp much warmer than neighbors
+2024-06-11,45303,OZENA,RAWS,SC09,hot,99.0,8,65.7,max temp much warmer than neighbors
+2024-06-11,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,66.2,8,93.8,max temp much colder than neighbors
+2024-06-12,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-12,45203,LOS PRIETOS,RAWS,SC09,hot,90.0,8,68.5,max temp much warmer than neighbors
+2024-06-12,45452,MALIBU CANYON,RAWS,SC08,cold,73.0,8,83.6,max temp much colder than neighbors
+2024-06-12,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,91.4,8,100.5,max temp much colder than neighbors
+2024-06-13,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-13,44511,MOUNT TOM,RAWS,SC02,cold,67.0,8,77.0,max temp much colder than neighbors
+2024-06-13,45203,LOS PRIETOS,RAWS,SC09,hot,84.0,8,71.0,max temp much warmer than neighbors
+2024-06-13,45303,OZENA,RAWS,SC09,hot,93.0,8,65.7,max temp much warmer than neighbors
+2024-06-13,45426,WARM SPRINGS,RAWS,SC09,hot,86.0,8,74.1,max temp much warmer than neighbors
+2024-06-13,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,64.4,8,93.0,max temp much colder than neighbors
+2024-06-13,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,hot,107.0,8,74.7,max temp much warmer than neighbors
+2024-06-14,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-14,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,96.7,max temp much colder than neighbors
+2024-06-14,45221,MONTECITO #2,RAWS,SC08,cold,70.0,8,85.2,max temp much colder than neighbors
+2024-06-14,45303,OZENA,RAWS,SC09,hot,98.0,8,75.5,max temp much warmer than neighbors
+2024-06-14,45314,ROSE VALLEY,RAWS,SC09,hot,96.0,8,75.2,max temp much warmer than neighbors
+2024-06-14,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,82.4,8,94.4,max temp much colder than neighbors
+2024-06-15,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-15,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,94.7,max temp much colder than neighbors
+2024-06-15,45221,MONTECITO #2,RAWS,SC08,cold,80.0,8,91.4,max temp much colder than neighbors
+2024-06-15,45303,OZENA,RAWS,SC09,hot,93.0,8,79.7,max temp much warmer than neighbors
+2024-06-15,45457,CATALINA ISLAND,RAWS,SC08,hot,88.0,8,74.8,max temp much warmer than neighbors
+2024-06-15,ASOS-NZY,North Island Nas,ASOS,SC08,cold,71.0,8,79.9,max temp much colder than neighbors
+2024-06-15,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,62.6,8,81.3,max temp much colder than neighbors
+2024-06-16,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-16,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,93.2,max temp much colder than neighbors
+2024-06-16,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,57.0,8,76.3,max temp much colder than neighbors
+2024-06-16,45221,MONTECITO #2,RAWS,SC08,cold,74.0,8,82.9,max temp much colder than neighbors
+2024-06-16,45426,WARM SPRINGS,RAWS,SC09,hot,87.0,8,75.2,max temp much warmer than neighbors
+2024-06-16,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,60.8,8,81.8,max temp much colder than neighbors
+2024-06-17,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-17,44804,OAK CREEK,RAWS,SC03,hot,87.0,8,73.3,max temp much warmer than neighbors
+2024-06-17,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,87.7,max temp much colder than neighbors
+2024-06-17,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,57.0,8,72.4,max temp much colder than neighbors
+2024-06-17,45605,KENWORTHY,RAWS,SC11,hot,79.0,8,70.1,max temp much warmer than neighbors
+2024-06-17,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,66.0,8,80.5,max temp much colder than neighbors
+2024-06-17,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,62.6,8,80.5,max temp much colder than neighbors
+2024-06-18,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-18,44728,RATTLESNAKE,RAWS,SC03,hot,70.0,7,59.7,max temp much warmer than neighbors
+2024-06-18,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,92.1,max temp much colder than neighbors
+2024-06-18,45021,GRAPEVINE PEAK,RAWS,SC09,cold,63.0,8,79.2,max temp much colder than neighbors
+2024-06-18,45108,LYTLE CREEK,RAWS,SC09,hot,87.0,8,77.6,max temp much warmer than neighbors
+2024-06-18,45114,MORMON ROCK,RAWS,SC09,hot,84.0,8,75.1,max temp much warmer than neighbors
+2024-06-18,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,64.4,8,84.1,max temp much colder than neighbors
+2024-06-19,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-19,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,90.2,max temp much colder than neighbors
+2024-06-19,45021,GRAPEVINE PEAK,RAWS,SC09,cold,65.0,8,77.0,max temp much colder than neighbors
+2024-06-19,45203,LOS PRIETOS,RAWS,SC09,hot,83.0,8,72.0,max temp much warmer than neighbors
+2024-06-19,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,60.0,8,71.3,max temp much colder than neighbors
+2024-06-19,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,50.0,8,75.1,max temp much colder than neighbors
+2024-06-20,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-20,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,90.1,max temp much colder than neighbors
+2024-06-20,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,53.0,8,75.3,max temp much colder than neighbors
+2024-06-20,45303,OZENA,RAWS,SC09,hot,90.0,8,70.9,max temp much warmer than neighbors
+2024-06-20,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,82.4,8,91.4,max temp much colder than neighbors
+2024-06-21,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-21,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,97.6,max temp much colder than neighbors
+2024-06-21,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,54.0,8,77.6,max temp much colder than neighbors
+2024-06-21,45303,OZENA,RAWS,SC09,hot,95.0,8,75.0,max temp much warmer than neighbors
+2024-06-21,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,71.0,8,82.2,max temp much colder than neighbors
+2024-06-21,ASOS-TSP,Tehachapi,ASOS,SC03,cold,82.4,8,91.8,max temp much colder than neighbors
+2024-06-22,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-22,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,103.3,max temp much colder than neighbors
+2024-06-22,45203,LOS PRIETOS,RAWS,SC09,hot,104.0,8,87.7,max temp much warmer than neighbors
+2024-06-22,45221,MONTECITO #2,RAWS,SC08,cold,77.0,8,91.4,max temp much colder than neighbors
+2024-06-22,ASOS-DLO,Delano,ASOS,SC05,cold,98.8,8,107.1,max temp much colder than neighbors
+2024-06-22,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,70.0,8,92.4,max temp much colder than neighbors
+2024-06-23,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-23,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,100.8,max temp much colder than neighbors
+2024-06-23,45203,LOS PRIETOS,RAWS,SC09,hot,106.0,8,91.4,max temp much warmer than neighbors
+2024-06-23,45221,MONTECITO #2,RAWS,SC08,cold,84.0,8,94.2,max temp much colder than neighbors
+2024-06-23,45426,WARM SPRINGS,RAWS,SC09,hot,98.0,8,88.1,max temp much warmer than neighbors
+2024-06-23,ASOS-NZY,North Island Nas,ASOS,SC08,cold,81.0,8,90.7,max temp much colder than neighbors
+2024-06-23,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,50.0,8,88.8,max temp much colder than neighbors
+2024-06-23,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,81.0,8,95.1,max temp much colder than neighbors
+2024-06-23,ASOS-SNA,Santa Ana/Jon-Wayne,ASOS,SC08,cold,86.0,8,95.0,max temp much colder than neighbors
+2024-06-23,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,65.5,8,87.4,max temp much colder than neighbors
+2024-06-24,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.29,far more rain than any neighbor
+2024-06-24,44511,MOUNT TOM,RAWS,SC02,cold,70.0,8,78.1,max temp much colder than neighbors
+2024-06-24,44917,SAN SIMEON,RAWS,SC07,cold,71.0,8,101.4,max temp much colder than neighbors
+2024-06-24,45203,LOS PRIETOS,RAWS,SC09,hot,100.0,8,85.7,max temp much warmer than neighbors
+2024-06-24,45452,MALIBU CANYON,RAWS,SC08,cold,86.0,8,96.1,max temp much colder than neighbors
+2024-06-24,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,90.3,max temp much colder than neighbors
+2024-06-24,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,67.6,8,87.2,max temp much colder than neighbors
+2024-06-25,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.01,rain no neighbor saw
+2024-06-25,44917,SAN SIMEON,RAWS,SC07,cold,70.0,8,99.3,max temp much colder than neighbors
+2024-06-25,45203,LOS PRIETOS,RAWS,SC09,hot,97.0,8,81.7,max temp much warmer than neighbors
+2024-06-25,45709,MT. LAGUNA,RAWS,SC11,hot,89.0,8,77.2,max temp much warmer than neighbors
+2024-06-25,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,86.4,max temp much colder than neighbors
+2024-06-26,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-26,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,96.2,max temp much colder than neighbors
+2024-06-26,45203,LOS PRIETOS,RAWS,SC09,hot,91.0,8,79.5,max temp much warmer than neighbors
+2024-06-26,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,67.0,8,77.6,max temp much colder than neighbors
+2024-06-26,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,51.8,8,82.7,max temp much colder than neighbors
+2024-06-26,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,83.8,max temp much colder than neighbors
+2024-06-27,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-27,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,95.7,max temp much colder than neighbors
+2024-06-27,45203,LOS PRIETOS,RAWS,SC09,hot,90.0,8,77.7,max temp much warmer than neighbors
+2024-06-27,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,62.0,8,77.1,max temp much colder than neighbors
+2024-06-27,45449,GRASS MOUNTAIN,RAWS,SC09,cold,79.0,8,88.0,max temp much colder than neighbors
+2024-06-27,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,51.8,8,80.3,max temp much colder than neighbors
+2024-06-27,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,81.6,max temp much colder than neighbors
+2024-06-28,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-28,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,93.6,max temp much colder than neighbors
+2024-06-28,45203,LOS PRIETOS,RAWS,SC09,hot,89.0,8,75.8,max temp much warmer than neighbors
+2024-06-28,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,57.0,8,74.6,max temp much colder than neighbors
+2024-06-28,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,70.0,8,80.2,max temp much colder than neighbors
+2024-06-29,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-29,44917,SAN SIMEON,RAWS,SC07,cold,60.0,8,97.4,max temp much colder than neighbors
+2024-06-29,45125,BURNS CANYON,RAWS,SC10,hot,91.0,8,82.4,max temp much warmer than neighbors
+2024-06-29,45426,WARM SPRINGS,RAWS,SC09,hot,92.0,8,79.6,max temp much warmer than neighbors
+2024-06-29,45452,MALIBU CANYON,RAWS,SC08,cold,78.0,8,91.0,max temp much colder than neighbors
+2024-06-29,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,84.4,max temp much colder than neighbors
+2024-06-30,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-06-30,44511,MOUNT TOM,RAWS,SC02,cold,64.0,8,73.3,max temp much colder than neighbors
+2024-06-30,44728,RATTLESNAKE,RAWS,SC03,hot,79.0,7,69.7,max temp much warmer than neighbors
+2024-06-30,44917,SAN SIMEON,RAWS,SC07,cold,72.0,8,100.6,max temp much colder than neighbors
+2024-06-30,45221,MONTECITO #2,RAWS,SC08,cold,76.0,8,88.7,max temp much colder than neighbors
+2024-06-30,45426,WARM SPRINGS,RAWS,SC09,hot,94.0,8,85.1,max temp much warmer than neighbors
+2024-06-30,55522332,OP1 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,79.0,4,88.5,max temp much colder than neighbors
+2024-06-30,ASOS-NZY,North Island Nas,ASOS,SC08,cold,73.0,8,81.1,max temp much colder than neighbors
+2024-06-30,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,55.4,8,89.8,max temp much colder than neighbors
+2024-06-30,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,89.7,max temp much colder than neighbors
+2024-07-01,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-01,44511,MOUNT TOM,RAWS,SC02,cold,68.0,8,78.0,max temp much colder than neighbors
+2024-07-01,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,102.3,max temp much colder than neighbors
+2024-07-01,45203,LOS PRIETOS,RAWS,SC09,hot,95.0,8,81.0,max temp much warmer than neighbors
+2024-07-01,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,69.0,8,79.3,max temp much colder than neighbors
+2024-07-01,45221,MONTECITO #2,RAWS,SC08,cold,71.0,8,83.9,max temp much colder than neighbors
+2024-07-01,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,70.0,8,84.9,max temp much colder than neighbors
+2024-07-02,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-02,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,107.7,max temp much colder than neighbors
+2024-07-02,45203,LOS PRIETOS,RAWS,SC09,hot,99.0,8,81.5,max temp much warmer than neighbors
+2024-07-02,45452,MALIBU CANYON,RAWS,SC08,cold,79.0,8,92.5,max temp much colder than neighbors
+2024-07-02,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,86.4,max temp much colder than neighbors
+2024-07-03,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-03,44917,SAN SIMEON,RAWS,SC07,cold,71.0,8,108.4,max temp much colder than neighbors
+2024-07-04,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-04,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,110.3,max temp much colder than neighbors
+2024-07-04,45221,MONTECITO #2,RAWS,SC08,cold,71.0,8,90.7,max temp much colder than neighbors
+2024-07-04,45314,ROSE VALLEY,RAWS,SC09,hot,101.0,8,81.9,max temp much warmer than neighbors
+2024-07-04,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,67.0,8,92.6,max temp much colder than neighbors
+2024-07-04,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,62.0,8,85.4,max temp much colder than neighbors
+2024-07-05,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-05,44917,SAN SIMEON,RAWS,SC07,cold,68.0,8,113.6,max temp much colder than neighbors
+2024-07-05,45221,MONTECITO #2,RAWS,SC08,cold,81.0,8,105.7,max temp much colder than neighbors
+2024-07-05,45457,CATALINA ISLAND,RAWS,SC08,hot,92.0,8,74.7,max temp much warmer than neighbors
+2024-07-05,45731,CASE SPRINGS,RAWS,SC08,hot,98.0,8,78.8,max temp much warmer than neighbors
+2024-07-05,45744,SWEETWATER,RAWS,SC11,cold,99.0,8,107.2,max temp much colder than neighbors
+2024-07-05,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,90.0,8,73.4,max temp much warmer than neighbors
+2024-07-05,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,98.6,8,108.0,max temp much colder than neighbors
+2024-07-05,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,60.8,8,97.7,max temp much colder than neighbors
+2024-07-05,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,77.0,8,106.6,max temp much colder than neighbors
+2024-07-06,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-06,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,116.3,max temp much colder than neighbors
+2024-07-06,55522332,OP1 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,67.0,4,81.7,max temp much colder than neighbors
+2024-07-06,ASOS-NZY,North Island Nas,ASOS,SC08,cold,71.0,8,84.4,max temp much colder than neighbors
+2024-07-07,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-07,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,106.3,max temp much colder than neighbors
+2024-07-07,45203,LOS PRIETOS,RAWS,SC09,hot,96.0,8,80.0,max temp much warmer than neighbors
+2024-07-07,45303,OZENA,RAWS,SC09,hot,109.0,8,77.5,max temp much warmer than neighbors
+2024-07-07,45605,KENWORTHY,RAWS,SC11,hot,101.0,8,90.6,max temp much warmer than neighbors
+2024-07-08,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-08,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,110.3,max temp much colder than neighbors
+2024-07-08,45203,LOS PRIETOS,RAWS,SC09,hot,100.0,8,80.7,max temp much warmer than neighbors
+2024-07-08,45221,MONTECITO #2,RAWS,SC08,cold,71.0,8,83.4,max temp much colder than neighbors
+2024-07-08,45303,OZENA,RAWS,SC09,hot,110.0,8,77.0,max temp much warmer than neighbors
+2024-07-08,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,118.0,8,109.2,max temp much warmer than neighbors
+2024-07-08,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,121.0,8,109.7,max temp much warmer than neighbors
+2024-07-08,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,84.4,max temp much colder than neighbors
+2024-07-09,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-09,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,105.7,max temp much colder than neighbors
+2024-07-09,45303,OZENA,RAWS,SC09,hot,109.0,8,79.0,max temp much warmer than neighbors
+2024-07-09,45457,CATALINA ISLAND,RAWS,SC08,hot,83.0,8,72.3,max temp much warmer than neighbors
+2024-07-09,45731,CASE SPRINGS,RAWS,SC08,hot,94.0,8,79.5,max temp much warmer than neighbors
+2024-07-09,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,69.0,8,91.9,max temp much colder than neighbors
+2024-07-10,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-10,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,108.8,max temp much colder than neighbors
+2024-07-10,45221,MONTECITO #2,RAWS,SC08,cold,75.0,8,92.9,max temp much colder than neighbors
+2024-07-10,45457,CATALINA ISLAND,RAWS,SC08,hot,90.0,8,73.9,max temp much warmer than neighbors
+2024-07-10,45731,CASE SPRINGS,RAWS,SC08,hot,96.0,8,78.8,max temp much warmer than neighbors
+2024-07-10,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,86.0,8,73.6,max temp much warmer than neighbors
+2024-07-10,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,71.0,8,94.9,max temp much colder than neighbors
+2024-07-11,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-11,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,110.3,max temp much colder than neighbors
+2024-07-11,45111,ROCK CAMP,RAWS,SC10,hot,103.0,8,94.3,max temp much warmer than neighbors
+2024-07-11,45203,LOS PRIETOS,RAWS,SC09,hot,110.0,8,91.2,max temp much warmer than neighbors
+2024-07-11,45221,MONTECITO #2,RAWS,SC08,cold,74.0,8,94.2,max temp much colder than neighbors
+2024-07-11,45222,SB BOTANIC GARDEN,RAWS,SC08,cold,82.0,8,92.5,max temp much colder than neighbors
+2024-07-11,45307,TEMESCAL (LPF),RAWS,SC09,cold,94.0,8,102.6,max temp much colder than neighbors
+2024-07-11,45314,ROSE VALLEY,RAWS,SC09,hot,103.0,8,84.9,max temp much warmer than neighbors
+2024-07-11,45457,CATALINA ISLAND,RAWS,SC08,hot,93.0,8,77.0,max temp much warmer than neighbors
+2024-07-11,45709,MT. LAGUNA,RAWS,SC11,hot,98.0,8,89.1,max temp much warmer than neighbors
+2024-07-11,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,88.0,8,75.6,max temp much warmer than neighbors
+2024-07-11,ASOS-DLO,Delano,ASOS,SC05,cold,104.0,8,112.2,max temp much colder than neighbors
+2024-07-11,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,70.0,8,95.1,max temp much colder than neighbors
+2024-07-12,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-12,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,104.9,max temp much colder than neighbors
+2024-07-12,45203,LOS PRIETOS,RAWS,SC09,hot,96.0,8,79.0,max temp much warmer than neighbors
+2024-07-12,45303,OZENA,RAWS,SC09,hot,105.0,8,74.0,max temp much warmer than neighbors
+2024-07-12,45314,ROSE VALLEY,RAWS,SC09,hot,99.0,8,77.6,max temp much warmer than neighbors
+2024-07-12,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,100.4,8,109.2,max temp much colder than neighbors
+2024-07-12,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,84.4,max temp much colder than neighbors
+2024-07-13,45102,BIG PINE FLAT,RAWS,SC10,hot,91.0,8,82.3,max temp much warmer than neighbors
+2024-07-13,45335,WILEY RIDGE,RAWS,SC08,cold,87.0,8,95.0,max temp much colder than neighbors
+2024-07-13,45449,GRASS MOUNTAIN,RAWS,SC09,cold,86.0,8,94.1,max temp much colder than neighbors
+2024-07-14,43612,WWOLF,RAWS,SC02,cold,70.0,8,78.4,max temp much colder than neighbors
+2024-07-14,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.27,far more rain than any neighbor
+2024-07-14,45203,LOS PRIETOS,RAWS,SC09,hot,97.0,8,78.2,max temp much warmer than neighbors
+2024-07-14,45709,MT. LAGUNA,RAWS,SC11,rain_alone,1.9,8,0.0,rain no neighbor saw
+2024-07-14,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,82.9,max temp much colder than neighbors
+2024-07-15,43612,WWOLF,RAWS,SC02,cold,67.0,8,76.0,max temp much colder than neighbors
+2024-07-15,44112,EL PORTAL,RAWS,SC02,wet,1.48,8,0.36,far more rain than any neighbor
+2024-07-15,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,96.3,max temp much colder than neighbors
+2024-07-15,45203,LOS PRIETOS,RAWS,SC09,hot,94.0,8,81.4,max temp much warmer than neighbors
+2024-07-15,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,60.0,8,78.1,max temp much colder than neighbors
+2024-07-15,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,74.0,8,85.1,max temp much colder than neighbors
+2024-07-16,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-16,45203,LOS PRIETOS,RAWS,SC09,hot,92.0,8,80.3,max temp much warmer than neighbors
+2024-07-16,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,62.0,8,79.6,max temp much colder than neighbors
+2024-07-16,55522397,WHITEWATER,RAWS,SC10,rain_alone,6.78,8,0.0,rain no neighbor saw
+2024-07-16,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,113.0,8,103.2,max temp much warmer than neighbors
+2024-07-17,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-17,44511,MOUNT TOM,RAWS,SC02,cold,71.0,8,79.3,max temp much colder than neighbors
+2024-07-17,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,101.7,max temp much colder than neighbors
+2024-07-17,45021,GRAPEVINE PEAK,RAWS,SC09,cold,78.0,8,90.2,max temp much colder than neighbors
+2024-07-17,45203,LOS PRIETOS,RAWS,SC09,hot,94.0,8,81.4,max temp much warmer than neighbors
+2024-07-17,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,61.0,8,78.8,max temp much colder than neighbors
+2024-07-17,45221,MONTECITO #2,RAWS,SC08,cold,76.0,8,84.2,max temp much colder than neighbors
+2024-07-17,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,75.0,8,85.1,max temp much colder than neighbors
+2024-07-18,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-18,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,104.8,max temp much colder than neighbors
+2024-07-18,45203,LOS PRIETOS,RAWS,SC09,hot,98.0,8,83.5,max temp much warmer than neighbors
+2024-07-18,45221,MONTECITO #2,RAWS,SC08,cold,72.0,8,86.7,max temp much colder than neighbors
+2024-07-18,45230,CUYAMA VALLEY,RAWS,SC06,hot,103.0,8,92.4,max temp much warmer than neighbors
+2024-07-18,45335,WILEY RIDGE,RAWS,SC08,cold,85.0,8,94.3,max temp much colder than neighbors
+2024-07-18,55522338,PALA,RAWS,SC08,rain_alone,0.72,8,0.0,rain no neighbor saw
+2024-07-18,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,51.8,8,89.2,max temp much colder than neighbors
+2024-07-18,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,70.0,8,87.6,max temp much colder than neighbors
+2024-07-19,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.21,far more rain than any neighbor
+2024-07-19,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,107.2,max temp much colder than neighbors
+2024-07-19,45203,LOS PRIETOS,RAWS,SC09,hot,103.0,8,83.7,max temp much warmer than neighbors
+2024-07-19,45221,MONTECITO #2,RAWS,SC08,cold,72.0,8,88.4,max temp much colder than neighbors
+2024-07-19,45426,WARM SPRINGS,RAWS,SC09,hot,98.0,8,88.8,max temp much warmer than neighbors
+2024-07-19,45457,CATALINA ISLAND,RAWS,SC08,hot,92.0,8,76.0,max temp much warmer than neighbors
+2024-07-19,55522332,OP1 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,76.0,5,91.4,max temp much colder than neighbors
+2024-07-19,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,55.4,8,95.8,max temp much colder than neighbors
+2024-07-19,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,89.4,max temp much colder than neighbors
+2024-07-20,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.01,rain no neighbor saw
+2024-07-20,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,101.8,max temp much colder than neighbors
+2024-07-20,55522283,HOEPPEL,RAWS,SC08,cold,78.0,5,90.6,max temp much colder than neighbors
+2024-07-20,ASOS-NZY,North Island Nas,ASOS,SC08,cold,75.0,8,86.0,max temp much colder than neighbors
+2024-07-20,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,50.0,8,78.9,max temp much colder than neighbors
+2024-07-20,ASOS-POC,La Verne/Brackett,ASOS,SC08,cold,91.4,8,99.9,max temp much colder than neighbors
+2024-07-20,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,74.0,8,93.6,max temp much colder than neighbors
+2024-07-21,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-21,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,97.7,max temp much colder than neighbors
+2024-07-21,45018,HART FLAT,RAWS,SC03,cold,94.0,8,102.2,max temp much colder than neighbors
+2024-07-21,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,57.0,8,83.3,max temp much colder than neighbors
+2024-07-21,45221,MONTECITO #2,RAWS,SC08,cold,79.0,8,89.4,max temp much colder than neighbors
+2024-07-21,45457,CATALINA ISLAND,RAWS,SC08,hot,84.0,8,73.7,max temp much warmer than neighbors
+2024-07-21,55522332,OP1 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,72.0,4,83.0,max temp much colder than neighbors
+2024-07-21,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,82.0,8,73.5,max temp much warmer than neighbors
+2024-07-21,ASOS-NZY,North Island Nas,ASOS,SC08,cold,72.0,8,80.4,max temp much colder than neighbors
+2024-07-21,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,51.8,8,79.9,max temp much colder than neighbors
+2024-07-21,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,76.0,8,90.1,max temp much colder than neighbors
+2024-07-22,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-22,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,101.9,max temp much colder than neighbors
+2024-07-22,45203,LOS PRIETOS,RAWS,SC09,hot,103.0,8,87.2,max temp much warmer than neighbors
+2024-07-22,45221,MONTECITO #2,RAWS,SC08,cold,78.0,8,90.4,max temp much colder than neighbors
+2024-07-22,45614,LOST HORSE,RAWS,SC14,rain_alone,0.65,8,0.0,rain no neighbor saw
+2024-07-22,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,91.4,max temp much colder than neighbors
+2024-07-23,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.02,rain no neighbor saw
+2024-07-23,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,107.9,max temp much colder than neighbors
+2024-07-23,45203,LOS PRIETOS,RAWS,SC09,hot,106.0,8,85.4,max temp much warmer than neighbors
+2024-07-23,45605,KENWORTHY,RAWS,SC11,rain_alone,0.52,8,0.0,rain no neighbor saw
+2024-07-23,55522399,WILSON CANYON,RAWS,SC14,rain_alone,0.52,8,0.0,rain no neighbor saw
+2024-07-23,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,72.0,8,89.1,max temp much colder than neighbors
+2024-07-24,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-24,44917,SAN SIMEON,RAWS,SC07,cold,70.0,8,107.3,max temp much colder than neighbors
+2024-07-24,55522324,MT. SAN JACINTO,RAWS,SC11,rain_alone,0.71,8,0.0,rain no neighbor saw
+2024-07-24,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,94.9,max temp much colder than neighbors
+2024-07-25,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-25,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,107.7,max temp much colder than neighbors
+2024-07-25,45203,LOS PRIETOS,RAWS,SC09,hot,104.0,8,90.0,max temp much warmer than neighbors
+2024-07-25,45221,MONTECITO #2,RAWS,SC08,cold,79.0,8,93.4,max temp much colder than neighbors
+2024-07-25,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,57.2,8,92.5,max temp much colder than neighbors
+2024-07-25,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,75.0,8,94.4,max temp much colder than neighbors
+2024-07-26,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-26,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,104.2,max temp much colder than neighbors
+2024-07-26,45125,BURNS CANYON,RAWS,SC10,hot,93.0,8,84.3,max temp much warmer than neighbors
+2024-07-26,45203,LOS PRIETOS,RAWS,SC09,hot,101.0,8,86.5,max temp much warmer than neighbors
+2024-07-26,45221,MONTECITO #2,RAWS,SC08,cold,75.0,8,89.7,max temp much colder than neighbors
+2024-07-26,45426,WARM SPRINGS,RAWS,SC09,hot,96.0,8,86.8,max temp much warmer than neighbors
+2024-07-26,45452,MALIBU CANYON,RAWS,SC08,cold,85.0,8,95.5,max temp much colder than neighbors
+2024-07-26,45510,CHINO HILLS,RAWS,SC08,cold,84.0,8,92.9,max temp much colder than neighbors
+2024-07-26,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,71.6,8,105.0,max temp much colder than neighbors
+2024-07-26,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,90.6,max temp much colder than neighbors
+2024-07-27,43708,BENTON,RAWS,SC16,hot,91.0,8,82.9,max temp much warmer than neighbors
+2024-07-27,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-27,44728,RATTLESNAKE,RAWS,SC03,hot,76.0,7,67.7,max temp much warmer than neighbors
+2024-07-27,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,87.7,max temp much colder than neighbors
+2024-07-27,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,58.0,8,77.9,max temp much colder than neighbors
+2024-07-27,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,71.9,max temp much colder than neighbors
+2024-07-28,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-28,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,88.4,max temp much colder than neighbors
+2024-07-28,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,59.0,8,77.6,max temp much colder than neighbors
+2024-07-28,55522283,HOEPPEL,RAWS,SC08,cold,65.0,5,73.6,max temp much colder than neighbors
+2024-07-28,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,111.0,8,101.7,max temp much warmer than neighbors
+2024-07-29,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-29,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,93.6,max temp much colder than neighbors
+2024-07-29,45203,LOS PRIETOS,RAWS,SC09,hot,93.0,8,81.0,max temp much warmer than neighbors
+2024-07-29,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,59.0,8,77.6,max temp much colder than neighbors
+2024-07-29,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,78.9,max temp much colder than neighbors
+2024-07-29,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,84.8,max temp much colder than neighbors
+2024-07-30,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-30,44511,MOUNT TOM,RAWS,SC02,cold,69.0,8,77.3,max temp much colder than neighbors
+2024-07-30,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,97.9,max temp much colder than neighbors
+2024-07-30,45203,LOS PRIETOS,RAWS,SC09,hot,95.0,8,80.7,max temp much warmer than neighbors
+2024-07-30,ASOS-IPL,Imperial,ASOS,SC12,cold,95.0,4,110.4,max temp much colder than neighbors
+2024-07-30,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,55.4,8,85.5,max temp much colder than neighbors
+2024-07-30,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,71.0,8,84.4,max temp much colder than neighbors
+2024-07-30,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,71.0,8,89.0,max temp much colder than neighbors
+2024-07-31,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-07-31,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,100.7,max temp much colder than neighbors
+2024-07-31,45133,HEAPS PEAK,RAWS,SC10,cold,76.0,8,84.6,max temp much colder than neighbors
+2024-07-31,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,87.8,8,98.6,max temp much colder than neighbors
+2024-07-31,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,72.0,8,88.4,max temp much colder than neighbors
+2024-08-01,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-01,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,104.4,max temp much colder than neighbors
+2024-08-01,45203,LOS PRIETOS,RAWS,SC09,hot,100.0,8,86.5,max temp much warmer than neighbors
+2024-08-01,45221,MONTECITO #2,RAWS,SC08,cold,75.0,8,89.7,max temp much colder than neighbors
+2024-08-01,45426,WARM SPRINGS,RAWS,SC09,hot,98.0,8,87.6,max temp much warmer than neighbors
+2024-08-01,45731,CASE SPRINGS,RAWS,SC08,hot,90.0,8,76.9,max temp much warmer than neighbors
+2024-08-01,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,55.4,8,88.3,max temp much colder than neighbors
+2024-08-01,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,72.0,8,90.6,max temp much colder than neighbors
+2024-08-01,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,70.0,8,92.5,max temp much colder than neighbors
+2024-08-02,44112,EL PORTAL,RAWS,SC02,wet,1.23,8,0.27,far more rain than any neighbor
+2024-08-02,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,97.3,max temp much colder than neighbors
+2024-08-02,45221,MONTECITO #2,RAWS,SC08,cold,79.0,8,92.9,max temp much colder than neighbors
+2024-08-02,45426,WARM SPRINGS,RAWS,SC09,hot,100.0,8,88.4,max temp much warmer than neighbors
+2024-08-02,ASOS-DLO,Delano,ASOS,SC05,cold,90.0,8,101.4,max temp much colder than neighbors
+2024-08-02,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,75.0,8,89.4,max temp much colder than neighbors
+2024-08-02,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,70.0,6,91.3,max temp much colder than neighbors
+2024-08-02,ASOS-NZY,North Island Nas,ASOS,SC08,cold,80.0,8,89.4,max temp much colder than neighbors
+2024-08-02,ASOS-SAN,San Diego/Lindberg,ASOS,SC08,cold,81.0,8,89.4,max temp much colder than neighbors
+2024-08-02,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,76.0,8,93.9,max temp much colder than neighbors
+2024-08-03,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-03,44917,SAN SIMEON,RAWS,SC07,cold,68.0,8,104.8,max temp much colder than neighbors
+2024-08-03,45203,LOS PRIETOS,RAWS,SC09,hot,104.0,8,91.5,max temp much warmer than neighbors
+2024-08-03,45221,MONTECITO #2,RAWS,SC08,cold,79.0,8,94.9,max temp much colder than neighbors
+2024-08-03,45426,WARM SPRINGS,RAWS,SC09,hot,100.0,8,90.3,max temp much warmer than neighbors
+2024-08-03,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,75.0,8,95.9,max temp much colder than neighbors
+2024-08-03,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,76.0,8,98.0,max temp much colder than neighbors
+2024-08-04,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-04,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,105.1,max temp much colder than neighbors
+2024-08-04,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,85.8,max temp much colder than neighbors
+2024-08-04,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,75.0,8,94.9,max temp much colder than neighbors
+2024-08-05,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-05,44732,WOLVERTON,RAWS,SC03,hot,99.0,8,90.9,max temp much warmer than neighbors
+2024-08-05,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,102.6,max temp much colder than neighbors
+2024-08-05,45426,WARM SPRINGS,RAWS,SC09,hot,103.0,8,94.3,max temp much warmer than neighbors
+2024-08-05,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,84.6,max temp much colder than neighbors
+2024-08-05,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,74.0,8,95.1,max temp much colder than neighbors
+2024-08-05,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,79.0,8,102.0,max temp much colder than neighbors
+2024-08-06,43612,WWOLF,RAWS,SC02,cold,75.0,8,83.2,max temp much colder than neighbors
+2024-08-06,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-06,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,111.3,max temp much colder than neighbors
+2024-08-06,45203,LOS PRIETOS,RAWS,SC09,hot,107.0,8,90.7,max temp much warmer than neighbors
+2024-08-06,ASOS-POC,La Verne/Brackett,ASOS,SC08,cold,86.0,8,98.5,max temp much colder than neighbors
+2024-08-06,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,78.0,8,95.1,max temp much colder than neighbors
+2024-08-06,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,63.0,8,83.9,max temp much colder than neighbors
+2024-08-07,43612,WWOLF,RAWS,SC02,cold,75.0,8,83.2,max temp much colder than neighbors
+2024-08-07,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-07,45203,LOS PRIETOS,RAWS,SC09,hot,103.0,8,82.7,max temp much warmer than neighbors
+2024-08-07,45221,MONTECITO #2,RAWS,SC08,cold,77.0,8,86.4,max temp much colder than neighbors
+2024-08-07,45303,OZENA,RAWS,SC09,hot,101.0,8,78.0,max temp much warmer than neighbors
+2024-08-07,ASOS-NKX,Miramar Nas,ASOS,SC08,hot,113.0,8,79.8,max temp much warmer than neighbors
+2024-08-07,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,75.0,8,87.4,max temp much colder than neighbors
+2024-08-08,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-08,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,103.1,max temp much colder than neighbors
+2024-08-08,45203,LOS PRIETOS,RAWS,SC09,hot,97.0,8,80.4,max temp much warmer than neighbors
+2024-08-08,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,111.0,8,102.2,max temp much warmer than neighbors
+2024-08-08,ASOS-IPL,Imperial,ASOS,SC12,cold,100.0,4,110.1,max temp much colder than neighbors
+2024-08-09,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-09,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,107.2,max temp much colder than neighbors
+2024-08-09,45203,LOS PRIETOS,RAWS,SC09,hot,99.0,8,84.9,max temp much warmer than neighbors
+2024-08-09,45221,MONTECITO #2,RAWS,SC08,cold,75.0,8,88.2,max temp much colder than neighbors
+2024-08-09,45426,WARM SPRINGS,RAWS,SC09,hot,103.0,8,91.8,max temp much warmer than neighbors
+2024-08-09,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,69.0,8,89.1,max temp much colder than neighbors
+2024-08-10,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-10,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,108.2,max temp much colder than neighbors
+2024-08-10,45203,LOS PRIETOS,RAWS,SC09,hot,100.0,8,85.5,max temp much warmer than neighbors
+2024-08-10,45221,MONTECITO #2,RAWS,SC08,cold,77.0,8,89.2,max temp much colder than neighbors
+2024-08-10,45616,ANZA,RAWS,SC11,wet,1.06,8,0.07,far more rain than any neighbor
+2024-08-10,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,90.1,max temp much colder than neighbors
+2024-08-11,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-11,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,101.1,max temp much colder than neighbors
+2024-08-11,45203,LOS PRIETOS,RAWS,SC09,hot,102.0,8,86.5,max temp much warmer than neighbors
+2024-08-11,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,85.8,max temp much colder than neighbors
+2024-08-11,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,77.0,8,90.6,max temp much colder than neighbors
+2024-08-12,43612,WWOLF,RAWS,SC02,cold,66.0,8,74.0,max temp much colder than neighbors
+2024-08-12,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-12,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,96.2,max temp much colder than neighbors
+2024-08-12,45203,LOS PRIETOS,RAWS,SC09,hot,96.0,8,85.7,max temp much warmer than neighbors
+2024-08-12,45221,MONTECITO #2,RAWS,SC08,cold,80.0,8,88.4,max temp much colder than neighbors
+2024-08-12,45426,WARM SPRINGS,RAWS,SC09,hot,93.0,8,82.3,max temp much warmer than neighbors
+2024-08-12,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,81.2,max temp much colder than neighbors
+2024-08-12,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,75.0,8,89.4,max temp much colder than neighbors
+2024-08-13,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-13,44917,SAN SIMEON,RAWS,SC07,cold,70.0,8,97.6,max temp much colder than neighbors
+2024-08-13,45221,MONTECITO #2,RAWS,SC08,cold,78.0,8,86.9,max temp much colder than neighbors
+2024-08-13,ASOS-NID,China Lake (Naf),ASOS,SC15,hot,105.0,8,96.3,max temp much warmer than neighbors
+2024-08-13,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,55.4,8,82.8,max temp much colder than neighbors
+2024-08-14,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-14,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,99.2,max temp much colder than neighbors
+2024-08-14,45203,LOS PRIETOS,RAWS,SC09,hot,95.0,8,84.8,max temp much warmer than neighbors
+2024-08-14,45221,MONTECITO #2,RAWS,SC08,cold,79.0,8,88.4,max temp much colder than neighbors
+2024-08-14,45426,WARM SPRINGS,RAWS,SC09,hot,93.0,8,81.8,max temp much warmer than neighbors
+2024-08-14,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,53.6,8,83.6,max temp much colder than neighbors
+2024-08-14,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,77.0,8,88.7,max temp much colder than neighbors
+2024-08-15,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-15,44917,SAN SIMEON,RAWS,SC07,cold,70.0,8,98.2,max temp much colder than neighbors
+2024-08-15,45203,LOS PRIETOS,RAWS,SC09,hot,98.0,8,87.2,max temp much warmer than neighbors
+2024-08-15,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,57.2,8,84.6,max temp much colder than neighbors
+2024-08-15,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,91.4,max temp much colder than neighbors
+2024-08-16,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-16,44917,SAN SIMEON,RAWS,SC07,cold,69.0,8,97.7,max temp much colder than neighbors
+2024-08-16,45203,LOS PRIETOS,RAWS,SC09,hot,98.0,8,85.0,max temp much warmer than neighbors
+2024-08-16,45221,MONTECITO #2,RAWS,SC08,cold,78.0,8,87.9,max temp much colder than neighbors
+2024-08-16,45230,CUYAMA VALLEY,RAWS,SC06,hot,99.0,8,90.9,max temp much warmer than neighbors
+2024-08-16,45426,WARM SPRINGS,RAWS,SC09,hot,95.0,8,84.8,max temp much warmer than neighbors
+2024-08-16,55522332,OP1 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,74.0,5,85.4,max temp much colder than neighbors
+2024-08-16,55522333,OP3 (SAN CLEMENTE ISLAND),RAWS,SC08,cold,75.0,5,84.7,max temp much colder than neighbors
+2024-08-16,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,55.4,8,84.6,max temp much colder than neighbors
+2024-08-16,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,77.0,8,88.9,max temp much colder than neighbors
+2024-08-17,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-17,44917,SAN SIMEON,RAWS,SC07,cold,69.0,8,91.4,max temp much colder than neighbors
+2024-08-17,45203,LOS PRIETOS,RAWS,SC09,hot,90.0,8,77.5,max temp much warmer than neighbors
+2024-08-17,45426,WARM SPRINGS,RAWS,SC09,hot,89.0,8,78.6,max temp much warmer than neighbors
+2024-08-17,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,62.6,8,79.8,max temp much colder than neighbors
+2024-08-17,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,109.0,8,99.2,max temp much warmer than neighbors
+2024-08-17,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,73.0,8,81.7,max temp much colder than neighbors
+2024-08-18,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-18,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,92.8,max temp much colder than neighbors
+2024-08-18,45021,GRAPEVINE PEAK,RAWS,SC09,cold,70.0,8,82.2,max temp much colder than neighbors
+2024-08-18,45203,LOS PRIETOS,RAWS,SC09,hot,93.0,8,82.9,max temp much warmer than neighbors
+2024-08-18,45221,MONTECITO #2,RAWS,SC08,cold,77.0,8,86.2,max temp much colder than neighbors
+2024-08-18,45452,MALIBU CANYON,RAWS,SC08,cold,83.0,8,92.0,max temp much colder than neighbors
+2024-08-18,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,68.0,8,82.9,max temp much colder than neighbors
+2024-08-18,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,59.0,8,83.0,max temp much colder than neighbors
+2024-08-18,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,77.0,8,86.8,max temp much colder than neighbors
+2024-08-19,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-19,44917,SAN SIMEON,RAWS,SC07,cold,69.0,8,96.6,max temp much colder than neighbors
+2024-08-19,45021,GRAPEVINE PEAK,RAWS,SC09,cold,76.0,8,88.5,max temp much colder than neighbors
+2024-08-19,45203,LOS PRIETOS,RAWS,SC09,hot,100.0,8,87.0,max temp much warmer than neighbors
+2024-08-19,45221,MONTECITO #2,RAWS,SC08,cold,79.0,8,90.7,max temp much colder than neighbors
+2024-08-19,45426,WARM SPRINGS,RAWS,SC09,hot,100.0,8,87.8,max temp much warmer than neighbors
+2024-08-19,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,70.0,8,85.4,max temp much colder than neighbors
+2024-08-19,ASOS-NZY,North Island Nas,ASOS,SC08,cold,79.0,8,88.7,max temp much colder than neighbors
+2024-08-19,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,57.2,8,85.4,max temp much colder than neighbors
+2024-08-19,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,76.0,8,91.6,max temp much colder than neighbors
+2024-08-20,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-20,44917,SAN SIMEON,RAWS,SC07,cold,74.0,8,99.7,max temp much colder than neighbors
+2024-08-20,45203,LOS PRIETOS,RAWS,SC09,hot,104.0,8,92.9,max temp much warmer than neighbors
+2024-08-20,45221,MONTECITO #2,RAWS,SC08,cold,85.0,8,96.2,max temp much colder than neighbors
+2024-08-20,45426,WARM SPRINGS,RAWS,SC09,hot,100.0,8,88.8,max temp much warmer than neighbors
+2024-08-20,ASOS-MER,Merced/Castle Af,ASOS,SC05,cold,80.6,8,95.0,max temp much colder than neighbors
+2024-08-20,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,77.0,6,95.3,max temp much colder than neighbors
+2024-08-20,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,62.6,8,90.6,max temp much colder than neighbors
+2024-08-20,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,81.0,8,97.1,max temp much colder than neighbors
+2024-08-21,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-21,44511,MOUNT TOM,RAWS,SC02,cold,64.0,8,72.4,max temp much colder than neighbors
+2024-08-21,44917,SAN SIMEON,RAWS,SC07,cold,70.0,8,95.8,max temp much colder than neighbors
+2024-08-21,45221,MONTECITO #2,RAWS,SC08,cold,82.0,8,91.7,max temp much colder than neighbors
+2024-08-21,45426,WARM SPRINGS,RAWS,SC09,hot,94.0,8,84.3,max temp much warmer than neighbors
+2024-08-21,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,57.2,8,84.2,max temp much colder than neighbors
+2024-08-22,44112,EL PORTAL,RAWS,SC02,rain_alone,1.23,8,0.0,rain no neighbor saw
+2024-08-22,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,85.7,max temp much colder than neighbors
+2024-08-22,45203,LOS PRIETOS,RAWS,SC09,hot,88.0,8,79.0,max temp much warmer than neighbors
+2024-08-22,45302,CHUCHUPATE,RAWS,SC09,hot,83.0,8,74.8,max temp much warmer than neighbors
+2024-08-22,45426,WARM SPRINGS,RAWS,SC09,hot,87.0,8,75.8,max temp much warmer than neighbors
+2024-08-22,55522323,MOUNTAIN SPRINGS GRADE,RAWS,SC11,hot,100.0,8,91.7,max temp much warmer than neighbors
+2024-08-22,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,60.8,8,75.3,max temp much colder than neighbors
 2026-11-08,45447,LEO CARRILLO,RAWS,SC08,cold,80.0,8,88.3,max temp much colder than neighbors
 2026-11-09,44917,SAN SIMEON,RAWS,SC07,cold,78.0,8,86.1,max temp much colder than neighbors
 2026-11-09,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,76.0,6,84.8,max temp much colder than neighbors
@@ -2834,3 +3644,6 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-16,45133,HEAPS PEAK,RAWS,SC10,cold,43.0,8,51.4,max temp much colder than neighbors
 2026-11-16,45203,LOS PRIETOS,RAWS,SC09,cold,58.0,8,66.4,max temp much colder than neighbors
 2026-11-16,ASOS-O26,Lone Pine,ASOS,SC16,hot,64.4,7,51.7,max temp much warmer than neighbors
+2026-11-18,43612,WWOLF,RAWS,SC02,missed,0.0,8,0.61,no rain while most neighbors got rain
+2026-11-18,44102,CRANE,RAWS,SC02,missed,0.0,8,0.61,no rain while most neighbors got rain
+2026-11-18,ASOS-BUR,Burbank/Glendale,ASOS,SC08,hot,130.0,8,66.6,max temp much warmer than neighbors
