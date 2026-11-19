@@ -482,27 +482,111 @@ month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,pre
 2024-11,AK16,30,6,1,5,6.43,4,9.91,69,38.2,45.0,-1.2,4,70.2,3.3,11.79,30,0,2.9,10.96,0,,yes
 2024-11,AK17,30,12,5,7,7.08,9,11.26,69,40.3,50.0,-0.5,6,74.3,0.7,4.89,30,0,0.5,8.44,1,Metlakatla Seaplane Base (1 hot day),yes
 2024-11,AK18,30,2,0,2,5.42,1,7.06,77,40.3,51.0,-0.8,2,58.3,,,0,,,,0,,yes
-2024-12,AK00,20,14,1,13,0.0,5,0.19,,5.0,25.0,5.0,11,76.2,0.9,0.97,20,0,0.0,0.0,0,,20 of 31 days
-2024-12,AK01E,20,7,5,2,0.0,7,0.29,,4.4,18.5,4.3,2,72.4,1.0,1.2,20,0,0.0,0.0,2,TOK RIVER VALLEY (runs hot); Northway (Asos) (1 cold day),20 of 31 days
-2024-12,AK01W,20,24,19,5,0.2,22,0.36,,16.3,39.5,7.2,5,66.3,0.9,1.11,20,0,0.0,0.0,17,"CHATANIKA (runs hot); CARIBOU PEAK (runs hot); FAIRBANKS (runs cold); ANGEL CREEK (3 cold days); GOODPASTURE (1 hot day, 1 cold day); SALCHA (runs cold); GOLD KING (runs hot); GEORGE CREEK RAWS (2 cold days); BOLIO (4 hot days); DONNELLY (3 hot days, 3 cold days); STUART CREEK (runs hot); BLAIR LAKES (runs hot); JARVIS CREEK (1 cold day); BRIGADIER (runs hot); LYNX (runs hot); Fairbanks Intl Arpt (Asos) (1 cold day); Nenana/Mun. (Asos) (2 hot days)",20 of 31 days
-2024-12,AK02,20,18,15,3,0.0,18,0.34,,3.7,22.5,3.7,3,68.3,0.9,1.04,20,0,0.0,0.0,6,BEAVER (WBQ) (runs cold); VUNZIK LAKE (runs hot); CHALKYITSIK (1 cold day); BIRCH CREEK (runs cold); LITTLE BLACK (runs hot); PREACHER CREEK (1 cold day),20 of 31 days
-2024-12,AK03N,20,7,3,4,0.0,5,0.71,,11.7,29.5,11.5,4,67.0,0.9,1.02,20,0,0.0,0.0,0,,20 of 31 days
-2024-12,AK03S,20,12,8,4,0.0,10,0.33,,12.7,27.5,7.3,4,71.7,0.9,1.03,20,0,0.0,0.0,2,WEIN LAKE (1 hot day); MCKINLEY RIVER (runs cold),20 of 31 days
-2024-12,AK04,20,17,7,10,0.03,14,0.48,,16.4,37.0,7.0,9,67.6,0.9,1.1,20,0,0.0,0.0,2,SALMON RIVER (runs hot); Noatak (4 cold days),20 of 31 days
-2024-12,AK05,20,10,6,4,0.12,10,0.54,,16.7,35.0,10.3,4,68.3,0.9,1.06,20,0,0.0,0.0,2,"TAG MTN (runs hot, 3 rain flags); Galena Airport (2 cold days)",20 of 31 days
-2024-12,AK06,20,18,5,13,0.04,12,0.59,,21.7,43.0,9.3,12,67.1,0.9,1.01,20,0,0.0,0.0,1,SHAKTOOLIK RIVER (runs hot),20 of 31 days
-2024-12,AK07,20,6,1,5,0.39,5,0.47,,21.0,44.0,9.0,5,75.5,1.0,1.16,20,0,0.0,0.0,2,Marshall (1 hot day); Russian Mission (1 cold day),20 of 31 days
-2024-12,AK08,20,21,1,20,0.19,13,0.73,,25.7,43.0,9.2,17,76.6,1.1,1.39,20,0,0.0,0.0,1,Nunapitchuk (2 cold days),20 of 31 days
-2024-12,AK09,20,11,5,6,0.07,7,0.77,,18.2,44.5,8.6,6,73.7,1.0,1.18,20,0,0.0,0.0,2,TELIDA (2 hot days); Mcgrath (Asos) (2 cold days),20 of 31 days
-2024-12,AK10,20,28,5,23,1.3,20,0.97,,36.8,44.6,8.0,22,79.4,1.0,1.17,20,0,0.0,0.0,0,,20 of 31 days
-2024-12,AK11,20,4,2,2,0.95,3,1.15,,27.8,38.0,6.7,1,79.7,2.2,3.69,20,0,0.0,0.0,1,WILLOW (runs cold),20 of 31 days
-2024-12,AK12,20,12,8,4,0.57,9,2.95,,16.3,36.0,3.8,3,75.9,1.0,1.31,20,0,0.0,0.0,1,"CHISTOCHINA (runs cold, reads dry)",20 of 31 days
-2024-12,AK13,20,16,8,8,0.48,10,0.61,,30.2,48.0,5.7,7,72.5,1.5,2.28,20,0,0.0,0.0,7,"RABBIT CREEK (runs hot); EAGLE RIVER (1 rain flag); LITTLE GRANITE CREEK (reads dry, 1 hot day); Palmer Municipal (Asos) (1 hot day); Ft. Richardson (1 hot day); Merrill Field (reads dry); Wasilla New Arpt (runs hot)",20 of 31 days
-2024-12,AK14,20,17,9,8,1.01,13,5.18,,36.7,47.0,6.6,8,76.2,1.2,1.62,20,0,0.0,0.0,7,"GRANITE (reads wet); HOMER (runs hot); Kenai Municipal (Asos) (reads dry); Homer Municipal (Asos) (1 hot day); Seldovia (Asos) (reads wet, 2 rain flags); Portage Glacier Center (Asos) (reads wet, 4 rain flags); Seward (Asos) (2 cold days)",20 of 31 days
-2024-12,AK15,20,7,3,4,4.48,7,4.82,,34.2,48.0,1.3,3,69.3,0.6,0.74,20,0,0.0,0.0,1,Gustavus (runs cold),20 of 31 days
-2024-12,AK16,20,6,1,5,6.15,5,6.79,,38.2,50.0,2.1,4,83.9,2.2,10.41,20,0,1.6,7.1,0,,20 of 31 days
-2024-12,AK17,20,12,5,7,9.06,9,7.25,,41.4,50.0,4.1,6,81.4,0.3,1.3,20,0,0.0,0.0,1,Metlakatla Seaplane Base (1 hot day),20 of 31 days
-2024-12,AK18,20,2,0,2,5.22,2,5.61,,41.7,45.0,4.0,2,78.9,,,0,,,,0,,20 of 31 days
+2024-12,AK00,31,14,1,13,0.0,5,0.26,8,-1.1,25.0,0.7,11,73.9,0.8,0.97,31,0,0.0,0.0,0,,yes
+2024-12,AK01E,31,7,5,2,0.0,7,0.44,0,4.3,18.5,5.7,2,72.9,0.9,1.2,31,0,0.0,0.0,2,"TOK RIVER VALLEY (runs hot, 1 cold day); Northway (Asos) (1 cold day)",yes
+2024-12,AK01W,31,24,19,5,0.21,22,0.55,120,13.9,39.5,6.1,5,67.5,0.9,1.11,31,0,0.0,0.0,20,"CHATANIKA (runs hot); CARIBOU PEAK (runs hot); FAIRBANKS (runs cold); ANGEL CREEK (3 cold days); GOODPASTURE (1 hot day, 1 cold day); SALCHA (runs cold); GOLD KING (runs hot); GEORGE CREEK RAWS (2 cold days); BOLIO (runs hot, 1 cold day); DONNELLY (4 hot days, 3 cold days); MANCHU (1 hot day); STUART CREEK (runs hot); BLAIR LAKES (runs hot); JARVIS CREEK (1 cold day); BRIGADIER (runs hot); LYNX (runs hot); Eielson Afb (1 cold day); Fairbanks Intl Arpt (Asos) (1 cold day); Wainwright Aaf (1 hot day); Nenana/Mun. (Asos) (3 hot days, 1 rain flag)",yes
+2024-12,AK02,31,18,15,3,0.0,18,0.48,42,2.2,22.5,3.7,3,68.6,0.9,1.04,31,0,0.0,0.0,6,"BEAVER (WBQ) (runs cold); VUNZIK LAKE (runs hot); CHALKYITSIK (1 cold day); BIRCH CREEK (runs cold); LITTLE BLACK (runs hot); PREACHER CREEK (1 hot day, 1 cold day)",yes
+2024-12,AK03N,31,7,3,4,0.0,5,1.03,40,8.1,29.5,8.0,4,67.1,0.9,1.02,31,0,0.0,0.0,0,,yes
+2024-12,AK03S,31,12,8,4,0.0,10,0.51,11,10.2,27.5,6.0,4,71.1,0.9,1.03,31,0,0.0,0.0,2,WEIN LAKE (2 hot days); MCKINLEY RIVER (3 cold days),yes
+2024-12,AK04,31,17,7,10,0.03,14,0.72,6,11.0,37.0,2.6,9,64.0,0.9,1.1,31,0,0.0,0.0,4,SELAWIK (2 cold days); SALMON RIVER (runs hot); Selawik (1 cold day); Noatak (4 cold days),yes
+2024-12,AK05,31,10,6,4,0.18,10,0.83,30,13.2,35.0,7.8,3,67.4,0.9,1.06,31,0,0.0,0.0,3,"TAG MTN (runs hot, 3 rain flags); Galena Airport (runs cold); Huslia (1 cold day)",yes
+2024-12,AK06,31,18,5,13,0.05,13,0.83,8,17.6,43.0,6.6,12,65.9,0.9,1.01,31,0,0.0,0.0,2,SHAKTOOLIK RIVER (runs hot); Elim (1 hot day),yes
+2024-12,AK07,31,6,1,5,0.34,3,0.72,35,17.4,44.0,7.5,5,73.7,0.9,1.16,31,0,0.0,0.0,2,Marshall (1 hot day); Russian Mission (3 cold days),yes
+2024-12,AK08,31,21,1,20,0.22,13,1.06,20,23.0,43.0,8.0,16,75.4,1.0,1.39,31,0,0.0,0.0,2,Kalskag (runs hot); Nunapitchuk (3 cold days),yes
+2024-12,AK09,31,11,5,6,0.08,7,1.14,47,15.3,44.5,6.9,5,72.7,0.9,1.18,31,0,0.0,0.0,2,TELIDA (2 hot days); Mcgrath (Asos) (runs cold),yes
+2024-12,AK10,31,28,5,23,1.71,19,1.38,122,36.3,44.6,8.5,22,78.3,0.9,1.17,31,0,0.0,0.0,0,,yes
+2024-12,AK11,31,4,2,2,0.95,3,1.66,56,26.3,38.0,6.6,1,78.8,1.8,3.69,31,0,0.0,0.0,2,BENTALIT (1 cold day); WILLOW (runs cold),yes
+2024-12,AK12,31,12,8,4,0.64,9,4.38,48,15.1,36.0,3.8,4,76.7,1.0,1.31,31,0,0.0,0.0,1,"CHISTOCHINA (runs cold, reads dry)",yes
+2024-12,AK13,31,16,8,8,0.62,9,1.02,37,28.9,48.0,4.8,7,73.5,1.3,2.28,31,0,0.0,0.0,9,"RABBIT CREEK (runs hot); EAGLE RIVER (1 rain flag); CAMPBELL CREEK (2 cold days); JBER (2 cold days); LITTLE GRANITE CREEK (reads dry, 3 hot days); Palmer Municipal (Asos) (reads dry, 1 hot day); Ft. Richardson (1 hot day); Merrill Field (reads dry); Wasilla New Arpt (runs hot)",yes
+2024-12,AK14,31,17,9,8,1.76,13,8.22,69,36.2,47.0,6.7,8,75.7,1.1,1.62,31,0,0.0,0.0,7,"GRANITE (reads wet); HOMER (runs hot); Kenai Municipal (Asos) (reads dry); Homer Municipal (Asos) (1 hot day); Seldovia (Asos) (reads wet, 2 rain flags); Portage Glacier Center (Asos) (reads wet, 5 rain flags); Seward (Asos) (2 cold days)",yes
+2024-12,AK15,31,7,3,4,7.75,7,7.15,101,35.4,48.0,3.4,3,69.9,0.7,0.75,31,0,0.0,0.0,1,Gustavus (runs cold),yes
+2024-12,AK16,31,6,1,5,6.35,4,8.43,89,39.1,50.0,3.2,4,81.3,1.8,10.41,31,0,1.4,7.84,1,HOONAH (1 rain flag),yes
+2024-12,AK17,31,12,5,7,11.53,8,11.79,100,41.5,50.0,4.8,6,80.5,0.3,1.3,31,0,0.0,0.0,1,Metlakatla Seaplane Base (1 hot day),yes
+2024-12,AK18,31,2,0,2,7.37,2,8.81,84,41.0,45.0,3.7,2,80.6,,,0,,,,0,,yes
+2025-01,AK00,31,14,1,13,0.26,5,0.2,65,0.8,35.4,6.7,12,71.8,0.8,0.78,31,0,0.0,0.0,1,"Kuparuk Airport (1 hot day, 1 cold day)",yes
+2025-01,AK01E,31,7,5,2,0.64,2,,,11.8,44.0,13.2,1,64.3,0.8,0.79,31,0,0.0,0.0,5,"CATHEDRAL (runs cold, reads dry, 1 hot day); TOK RIVER VALLEY (runs hot, reads wet); TOK AKTAS (1 cold day); JATAHMUND LAKE (reads dry, 1 hot day); Northway (Asos) (runs cold, reads dry)",yes
+2025-01,AK01W,31,24,19,5,0.12,19,0.58,102,19.1,46.0,15.1,5,58.6,0.8,0.79,31,0,0.0,0.0,17,"CHATANIKA (runs hot, reads dry); CARIBOU PEAK (runs hot); ANGEL CREEK (reads wet, 2 cold days, 1 rain flag); GOODPASTURE (1 cold day); SALCHA (runs cold); GOLD KING (runs hot); GEORGE CREEK RAWS (2 cold days); BOLIO (3 hot days, 2 cold days); DONNELLY (2 hot days, 2 cold days); MANCHU (reads wet, 1 rain flag); SMALL ARMS RANGE (1 rain flag); OKLAHOMA (1 hot day); STUART CREEK (runs hot); BLAIR LAKES (runs hot); BRIGADIER (runs hot, 1 rain flag); LYNX (runs hot); Eielson Afb (1 hot day)",yes
+2025-01,AK02,31,18,15,3,0.03,17,0.44,114,6.9,36.0,13.3,3,69.9,0.8,0.79,31,0,0.0,0.0,5,"VUNZIK LAKE (runs hot, reads dry); CHALKYITSIK (1 rain flag); BIRCH CREEK (runs cold); LITTLE BLACK (runs hot); PREACHER CREEK (runs hot)",yes
+2025-01,AK03N,31,7,3,4,0.82,6,0.79,194,10.0,36.0,13.3,4,71.7,0.8,0.78,31,0,0.0,0.0,0,,yes
+2025-01,AK03S,31,12,8,4,0.99,10,0.6,88,14.8,39.5,12.9,4,68.9,0.8,0.78,31,0,0.0,0.0,2,"WEIN LAKE (2 hot days, 1 rain flag); LIVENGOOD (reads wet, 2 hot days, 1 cold day)",yes
+2025-01,AK04,31,17,7,10,0.32,13,0.59,52,11.9,35.0,7.1,9,69.7,0.8,0.79,31,0,0.0,0.0,7,"KAVET CREEK (2 hot days); SELAWIK (1 cold day); SALMON RIVER (runs hot, 1 cold day); Red Dog (2 hot days, 3 cold days); Kiana (1 cold day); Selawik (1 cold day); Noorvik (reads dry, 1 hot day)",yes
+2025-01,AK05,31,10,6,4,0.33,7,0.6,107,14.4,36.0,14.1,4,71.8,0.8,0.79,31,0,0.0,0.0,5,"TAG MTN (runs hot); Galena Airport (reads dry, 3 cold days); Huslia (2 cold days); Kaltag Airport (Asos) (1 cold day); Nulato (reads wet, 1 hot day)",yes
+2025-01,AK06,31,18,5,13,0.14,11,0.94,5,16.9,37.2,6.8,12,71.0,0.8,0.78,31,0,0.0,0.0,2,SHAKTOOLIK RIVER (runs hot); Elim (1 hot day),yes
+2025-01,AK07,31,6,1,5,1.29,5,0.92,137,19.0,42.0,13.6,5,76.2,0.8,0.88,31,0,0.0,0.0,3,Marshall (1 hot day); Holy Cross (1 cold day); Russian Mission (1 cold day),yes
+2025-01,AK08,31,21,1,20,1.38,14,0.77,177,21.9,39.6,9.8,18,78.1,0.8,0.9,31,0,0.0,0.0,3,"Kalskag (2 hot days); Kwethluk (1 cold day); Nunapitchuk (reads dry, 1 cold day)",yes
+2025-01,AK09,31,11,5,6,1.87,7,0.94,209,22.3,44.0,14.7,5,67.6,0.8,0.79,31,0,0.0,0.0,2,"TELIDA (2 hot days, 1 cold day); Mcgrath (Asos) (runs cold, 1 rain flag)",yes
+2025-01,AK10,31,28,5,23,3.26,22,0.9,307,34.5,44.0,9.0,22,74.1,2.3,8.4,31,0,2.8,12.04,1,Egegik(Awos) (reads wet),yes
+2025-01,AK11,31,4,2,2,5.95,3,1.24,510,26.9,42.0,5.9,1,70.8,0.8,0.97,31,0,0.0,0.0,2,BENTALIT (1 cold day); WILLOW (runs cold),yes
+2025-01,AK12,31,12,8,4,0.72,10,3.47,186,21.4,41.5,7.5,4,66.8,0.8,0.8,31,0,0.0,0.0,1,"CHISTOCHINA (runs cold, 2 hot days)",yes
+2025-01,AK13,31,16,8,8,2.72,11,0.62,327,31.2,46.0,10.0,8,59.8,0.8,0.95,31,0,0.0,0.0,11,"RABBIT CREEK (runs hot); GRAZELKA RANGE (runs cold); EAGLE RIVER (1 cold day); PT MAC (1 cold day); LITTLE GRANITE CREEK (1 hot day); Palmer Municipal (Asos) (1 hot day); Birchwood (reads dry); Elmendorf Afb (1 hot day); Ft. Richardson (4 hot days); Merrill Field (reads dry, 1 rain flag); Wasilla New Arpt (2 hot days)",yes
+2025-01,AK14,31,17,9,8,5.75,15,3.01,256,34.0,44.0,6.6,8,68.6,0.8,0.83,31,0,0.0,0.0,4,KENAI NWR (1 hot day); HOMER (runs hot); Seldovia (Asos) (1 cold day); Portage Glacier Center (Asos) (reads wet),yes
+2025-01,AK15,31,7,3,4,12.81,7,5.4,105,36.5,45.0,4.8,4,68.7,0.7,0.76,31,0,0.0,0.0,2,BERNERS BAY (1 hot day); Gustavus (1 cold day),yes
+2025-01,AK16,31,6,1,5,7.74,4,8.22,82,37.5,47.5,3.3,3,80.4,2.0,10.0,31,0,1.5,8.67,0,,yes
+2025-01,AK17,31,12,5,7,8.67,10,9.64,98,39.5,49.0,2.8,7,82.0,0.8,3.97,31,0,0.4,7.61,3,"HAIDA (1 hot day); Hydaburg Seaplane Base (1 rain flag); Petersburg (1 hot day, 1 cold day)",yes
+2025-01,AK18,31,2,0,2,6.41,2,8.11,79,39.6,45.3,3.6,2,73.3,,,0,,,,0,,yes
+2025-02,AK00,28,14,1,13,0.02,8,0.2,15,-2.2,29.0,0.8,12,71.4,0.8,0.76,28,0,0.0,0.0,0,,yes
+2025-02,AK01E,28,7,5,2,0.0,7,0.22,0,13.2,30.0,3.2,2,67.5,0.8,0.76,28,0,0.0,0.0,3,CATHEDRAL (runs hot); TOK RIVER VALLEY (runs hot); JATAHMUND LAKE (2 hot days),yes
+2025-02,AK01W,28,24,19,5,0.11,22,0.41,93,16.3,36.0,1.7,4,63.2,0.8,0.76,28,0,0.0,0.0,13,CHATANIKA (runs hot); CARIBOU PEAK (runs hot); GOODPASTURE (3 hot days); GOLD KING (runs hot); BOLIO (2 hot days); DONNELLY (2 hot days); OKLAHOMA (runs hot); STUART CREEK (runs hot); BLAIR LAKES (1 hot day); BRIGADIER (runs hot); LYNX (runs hot); Eielson Afb (1 hot day); Nenana/Mun. (Asos) (runs cold),yes
+2025-02,AK02,28,18,15,3,0.0,18,0.32,9,3.8,15.5,-0.5,3,61.0,0.8,0.76,28,0,0.0,0.0,3,VUNZIK LAKE (4 hot days); LITTLE BLACK (runs hot); PREACHER CREEK (4 hot days),yes
+2025-02,AK03N,28,7,3,4,0.0,5,0.95,6,7.9,16.5,1.6,4,66.3,0.8,0.76,28,0,0.0,0.0,0,,yes
+2025-02,AK03S,28,12,8,4,0.02,11,0.51,2,13.2,23.0,2.8,4,65.8,0.8,0.76,28,0,0.0,0.0,4,"WEIN LAKE (2 hot days); MCKINLEY RIVER (1 hot day, 3 cold days); LIVENGOOD (runs cold); Ruby (1 cold day)",yes
+2025-02,AK04,28,17,7,10,0.0,13,0.85,0,10.2,27.0,0.0,9,64.7,0.8,0.76,28,0,0.0,0.0,6,"KIANA (1 hot day); SELAWIK (1 hot day, 1 cold day); SALMON RIVER (4 hot days, 2 cold days); Red Dog (1 hot day); Noatak (2 cold days); Noorvik (1 hot day)",yes
+2025-02,AK05,28,10,6,4,0.01,10,1.02,23,12.6,23.5,0.9,4,66.4,0.8,0.76,28,0,0.0,0.0,2,TAG MTN (runs hot); Huslia (3 cold days),yes
+2025-02,AK06,28,18,5,13,0.01,13,0.97,2,16.3,35.0,2.1,11,69.7,0.8,0.76,28,0,0.0,0.0,2,Elim (2 hot days); Shaktoolik (runs cold),yes
+2025-02,AK07,28,6,1,5,0.16,3,1.29,14,17.8,32.0,3.9,5,75.0,0.8,0.77,28,0,0.0,0.0,0,,yes
+2025-02,AK08,28,21,1,20,0.11,13,0.88,12,24.6,38.95,6.0,17,75.7,0.8,0.77,28,0,0.0,0.0,1,Nunapitchuk (3 cold days),yes
+2025-02,AK09,28,11,5,6,0.02,8,0.87,15,18.7,30.0,1.9,6,65.9,0.8,0.76,28,0,0.0,0.0,2,TELIDA (1 hot day); Mcgrath (Asos) (2 cold days),yes
+2025-02,AK10,28,28,5,23,0.69,17,0.99,64,35.8,43.0,5.4,23,73.3,7.2,14.84,28,0,5.7,14.74,1,Egegik(Awos) (2 hot days),yes
+2025-02,AK11,28,4,2,2,0.07,3,1.24,6,27.9,40.5,0.6,2,60.6,0.8,0.78,28,0,0.0,0.0,0,,yes
+2025-02,AK12,28,12,8,4,0.33,10,3.3,28,21.9,41.0,1.7,4,63.5,0.8,0.76,28,0,0.0,0.0,0,,yes
+2025-02,AK13,28,16,8,8,0.01,12,0.7,2,29.4,39.5,0.9,8,64.7,0.8,0.78,28,0,0.0,0.0,3,RABBIT CREEK (runs hot); JBER (1 hot day); LITTLE GRANITE CREEK (2 hot days),yes
+2025-02,AK14,28,17,9,8,0.03,13,3.68,21,34.7,45.0,3.4,8,64.1,5.5,17.67,28,0,3.8,12.61,5,"GRANITE (reads wet); HOMER (runs hot); Homer Municipal (Asos) (reads dry); Portage Glacier Center (Asos) (reads wet, 1 rain flag); Seward (Asos) (1 cold day)",yes
+2025-02,AK15,28,7,3,4,3.55,7,3.5,65,34.7,43.0,-0.2,4,55.4,0.8,0.76,28,0,0.0,0.0,2,BERNERS BAY (1 hot day); Haines (2 cold days),yes
+2025-02,AK16,28,6,1,5,2.89,3,5.12,55,36.8,45.0,0.1,3,64.1,8.4,18.15,28,0,6.0,12.55,1,Juneau Intl Airport (Asos) (1 cold day),yes
+2025-02,AK17,28,12,5,7,4.31,9,7.6,74,37.8,47.5,-1.5,7,61.0,0.7,0.76,28,0,0.0,0.0,1,Hydaburg Seaplane Base (2 rain flags),yes
+2025-02,AK18,28,2,0,2,8.95,1,6.31,142,39.4,44.0,1.6,2,79.9,,,0,,,,0,,yes
+2025-03,AK00,31,14,1,13,0.02,7,0.17,6,0.4,24.9,-0.1,12,73.8,0.8,0.76,31,0,0.0,0.0,0,,yes
+2025-03,AK01E,31,7,5,2,0.0,7,0.17,0,31.4,44.0,5.7,2,47.3,0.8,0.76,31,0,0.0,0.0,1,TOK RIVER VALLEY (runs hot),yes
+2025-03,AK01W,31,24,19,5,0.2,21,0.36,64,32.8,43.0,5.3,3,40.9,0.8,0.76,31,0,0.0,0.0,9,"CHATANIKA (3 cold days); CARIBOU PEAK (1 hot day); ANGEL CREEK (2 cold days); SALCHA (1 hot day); GOLD KING (reads wet, 1 hot day); GEORGE CREEK RAWS (1 cold day); LYNX (runs hot); Ft.Greely/Allen Aaf (Asos) (runs cold); Nenana/Mun. (Asos) (runs cold)",yes
+2025-03,AK02,31,18,15,3,0.14,18,0.17,18,21.5,33.0,4.1,3,40.2,0.8,0.76,31,0,0.0,0.0,3,BEAVER (WBQ) (1 cold day); BIRCH CREEK (1 cold day); LITTLE BLACK (1 hot day),yes
+2025-03,AK03N,31,7,3,4,0.05,5,0.54,5,22.6,35.0,4.7,4,43.4,0.8,0.76,31,0,0.0,0.0,0,,yes
+2025-03,AK03S,31,12,8,4,0.32,10,0.41,2,26.6,39.0,5.5,4,46.4,0.8,0.76,31,0,0.0,0.0,3,"WEIN LAKE (1 hot day, 1 rain flag); LIVENGOOD (runs cold); Minchumina (reads dry)",yes
+2025-03,AK04,31,17,7,10,0.08,14,0.52,29,11.5,29.7,-2.1,8,63.6,0.8,0.76,31,0,0.0,0.0,6,"KAVET CREEK (runs hot); SELAWIK (runs cold); KELLY (2 hot days); SALMON RIVER (4 hot days, 3 cold days); Red Dog (1 hot day, 1 cold day); Selawik (runs cold)",yes
+2025-03,AK05,31,10,6,4,0.04,9,0.59,5,21.5,37.5,2.0,4,52.2,0.8,0.76,31,0,0.0,0.0,3,TAG MTN (runs hot); Huslia (1 cold day); Kaltag Airport (Asos) (2 cold days),yes
+2025-03,AK06,31,18,5,13,0.0,13,0.74,0,9.3,32.9,-4.3,12,68.2,0.8,0.76,31,0,0.0,0.0,3,SHAKTOOLIK RIVER (runs hot); Elim (1 hot day); Shaktoolik (runs cold),yes
+2025-03,AK07,31,6,1,5,0.42,3,1.45,24,26.6,39.0,4.8,5,58.2,0.8,0.76,31,0,0.0,0.0,1,Russian Mission (1 cold day),yes
+2025-03,AK08,31,21,1,20,0.12,14,0.74,15,20.1,37.0,-0.8,17,72.9,0.8,0.76,31,0,0.0,0.0,4,REINDEER RIVER (1 hot day); Saint Mary S (Awos) (2 cold days); Kwethluk (1 cold day); Nunapitchuk (1 cold day),yes
+2025-03,AK09,31,11,5,6,0.06,7,0.71,28,29.0,43.0,3.5,6,50.8,0.8,0.76,31,0,0.0,0.0,1,TELIDA (1 hot day),yes
+2025-03,AK10,31,28,5,23,1.1,17,0.8,136,34.5,45.0,2.1,22,62.2,9.7,16.42,31,0,5.2,15.64,2,Iliamna Arpt (Asos) (1 cold day); South Naknek (2 rain flags),yes
+2025-03,AK11,31,4,2,2,0.79,4,0.83,60,40.6,50.5,5.3,2,46.9,1.1,5.12,31,0,0.3,4.68,0,,yes
+2025-03,AK12,31,12,8,4,0.13,10,2.52,53,36.6,45.0,4.2,4,43.0,0.8,0.76,31,0,0.0,0.0,1,CHISTOCHINA (1 hot day),yes
+2025-03,AK13,31,16,8,8,0.55,10,0.56,73,41.3,50.5,7.0,8,48.7,4.4,11.73,31,0,1.9,9.78,7,"BIG LAKE (1 hot day); RABBIT CREEK (2 hot days); GRAZELKA RANGE (runs hot, reads dry); JBER (1 hot day); Elmendorf Afb (1 hot day); Ft. Richardson (1 cold day); Merrill Field (reads dry)",yes
+2025-03,AK14,31,17,9,8,0.42,12,1.02,47,42.9,50.0,6.3,8,52.8,21.3,28.06,31,24,11.9,17.33,5,"HOMER (reads dry); Kenai Municipal (Asos) (1 cold day); Seldovia (Asos) (reads wet); Portage Glacier Center (Asos) (reads wet, 3 cold days, 6 rain flags); Seward (Asos) (reads wet, 1 cold day)",yes
+2025-03,AK15,31,7,3,4,2.97,7,3.1,92,42.6,55.0,4.1,4,54.5,8.2,24.05,31,13,7.3,22.78,0,,yes
+2025-03,AK16,31,6,1,5,3.87,3,4.63,71,43.6,56.0,4.4,4,63.8,6.8,19.75,31,1,5.9,14.86,0,,yes
+2025-03,AK17,31,12,5,7,5.66,9,7.6,92,45.4,58.0,3.0,7,64.3,4.0,17.13,31,0,3.1,13.68,2,SHELTER COVE (1 hot day); HAIDA (runs hot),yes
+2025-03,AK18,31,2,0,2,5.27,1,4.82,109,41.0,52.0,2.0,2,68.4,,,0,,,,0,,yes
+2025-04,AK00,19,14,1,13,0.0,8,0.12,,11.7,21.0,-2.0,12,75.4,0.8,0.76,19,0,0.0,0.0,0,,19 of 30 days
+2025-04,AK01E,19,7,5,2,0.17,7,0.1,,45.7,58.0,3.3,2,37.6,0.8,0.76,19,0,0.0,0.0,0,,19 of 30 days
+2025-04,AK01W,19,24,19,5,0.67,20,0.16,,42.9,58.0,-0.4,5,45.7,0.8,0.76,19,0,0.0,0.0,7,"CARIBOU PEAK (1 hot day); FAIRBANKS (reads dry, 4 hot days); ANGEL CREEK (1 hot day); GOODPASTURE (1 hot day); GOLD KING (runs hot); GEORGE CREEK RAWS (3 hot days); OKLAHOMA (reads dry, 1 cold day)",19 of 30 days
+2025-04,AK02,19,18,15,3,0.49,14,0.11,,40.3,51.0,2.1,3,47.9,0.8,0.76,19,0,0.0,0.0,6,"BEAVER (WBQ) (1 hot day); VUNZIK LAKE (1 hot day); CHALKYITSIK (reads wet, 1 hot day); BIRCH CREEK (reads dry); LITTLE BLACK (reads wet); FT. YUKON (reads dry)",19 of 30 days
+2025-04,AK03N,19,7,3,4,0.48,6,0.31,,33.3,44.5,-2.0,4,54.6,0.8,0.76,19,0,0.0,0.0,0,,19 of 30 days
+2025-04,AK03S,19,12,8,4,0.57,12,0.18,,38.3,49.0,1.2,4,49.9,0.8,0.76,19,0,0.0,0.0,1,WEIN LAKE (1 hot day),19 of 30 days
+2025-04,AK04,19,17,7,10,0.07,14,0.36,,20.2,36.5,-5.9,7,62.7,0.8,0.76,19,0,0.0,0.0,5,KAVET CREEK (runs hot); SELAWIK (1 cold day); SALMON RIVER (1 hot day); Red Dog (runs cold); Noatak (runs hot),19 of 30 days
+2025-04,AK05,19,10,6,4,0.27,9,0.21,,30.2,43.5,-3.5,4,50.5,0.8,0.76,19,0,0.0,0.0,2,TAG MTN (runs hot); Huslia (1 cold day),19 of 30 days
+2025-04,AK06,19,18,5,13,0.02,14,0.47,,20.8,36.0,-4.5,13,67.5,0.8,0.76,19,0,0.0,0.0,1,Shaktoolik (2 cold days),19 of 30 days
+2025-04,AK07,19,6,1,5,0.46,4,1.05,,32.2,43.5,-1.7,5,58.1,0.8,0.76,19,0,0.0,0.0,0,,19 of 30 days
+2025-04,AK08,19,21,1,20,0.22,14,0.49,,28.5,38.0,-3.6,15,73.7,0.8,0.76,19,0,0.0,0.0,2,"Saint Mary S (Awos) (1 cold day); Nunapitchuk (reads dry, 2 cold days)",19 of 30 days
+2025-04,AK09,19,11,5,6,0.51,7,0.48,,37.5,47.0,-1.5,6,51.1,0.8,0.76,19,0,0.0,0.0,0,,19 of 30 days
+2025-04,AK10,19,28,5,23,0.71,16,0.64,,39.3,48.0,-1.3,23,61.3,10.0,17.35,19,0,9.6,16.15,0,,19 of 30 days
+2025-04,AK11,19,4,2,2,0.74,4,0.56,,44.4,55.0,-0.6,2,53.7,3.8,12.54,19,0,2.9,12.43,1,BENTALIT (1 rain flag),19 of 30 days
+2025-04,AK12,19,12,8,4,0.27,10,1.42,,43.8,52.0,-0.6,4,40.5,0.8,0.76,19,0,0.0,0.0,0,,19 of 30 days
+2025-04,AK13,19,16,8,8,0.59,11,0.23,,46.0,56.75,1.4,8,50.3,14.7,22.55,19,6,10.1,15.87,3,LITTLE GRANITE CREEK (1 hot day); Elmendorf Afb (2 hot days); Merrill Field (reads dry),19 of 30 days
+2025-04,AK14,19,17,9,8,1.47,11,0.78,,45.2,57.0,1.1,7,56.5,25.5,30.43,19,18,14.4,19.68,4,"GRANITE (reads wet); Kenai Municipal (Asos) (reads dry, 2 cold days); Seldovia (Asos) (reads wet); Portage Glacier Center (Asos) (runs cold, 8 rain flags)",19 of 30 days
+2025-04,AK15,19,7,3,4,4.33,6,1.78,,46.4,54.0,1.1,4,61.3,9.7,25.93,19,5,6.7,18.44,1,Gustavus (1 rain flag),19 of 30 days
+2025-04,AK16,19,6,1,5,4.48,4,2.72,,47.0,51.8,0.7,5,65.7,11.1,22.16,19,4,8.2,15.22,1,Angoon (1 rain flag),19 of 30 days
+2025-04,AK17,19,12,5,7,2.86,9,4.35,,49.3,55.0,1.8,7,58.0,9.3,14.31,19,0,8.2,13.87,2,HAIDA (runs hot); Petersburg (reads wet),19 of 30 days
+2025-04,AK18,19,2,0,2,4.64,1,3.92,,42.4,64.0,-1.3,2,63.4,,,0,,,,0,,19 of 30 days
 2026-11,AK00,11,14,1,13,0.0,9,0.15,,18.0,24.0,6.9,13,83.2,0.9,1.02,11,0,0.0,0.0,0,,11 of 30 days
 2026-11,AK01E,11,7,5,2,0.0,6,0.21,,21.8,26.0,12.3,2,87.4,3.0,4.21,11,0,0.0,0.0,0,,11 of 30 days
 2026-11,AK01W,11,24,19,5,0.01,21,0.28,,24.2,34.75,12.0,5,79.7,3.4,4.75,11,0,0.0,0.0,8,CARIBOU PEAK (runs hot); ANGEL CREEK (1 cold day); GEORGE CREEK RAWS (2 hot days); BOLIO (1 hot day); DONNELLY (1 hot day); STUART CREEK (1 hot day); BRIGADIER (runs hot); LYNX (runs hot),11 of 30 days

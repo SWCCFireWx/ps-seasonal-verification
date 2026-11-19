@@ -3063,6 +3063,653 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2024-12-20,242911,GIRD POINT,RAWS,NR06,hot,55.0,8,45.8,max temp much warmer than neighbors
 2024-12-20,245303,EKALAKA,RAWS,NR16,hot,39.0,3,25.6,max temp much warmer than neighbors
 2024-12-20,55522370,SOFT ROCK,RAWS,NR06,cold,45.0,8,56.9,max temp much colder than neighbors
+2024-12-21,100107,SADDLE PASS,RAWS,NR01,hot,37.0,8,27.9,max temp much warmer than neighbors
+2024-12-21,100425,MAGEE PEAK,RAWS,NR01,hot,46.0,8,30.5,max temp much warmer than neighbors
+2024-12-21,100717,EAGLE,RAWS,NR03,hot,63.0,8,32.3,max temp much warmer than neighbors
+2024-12-21,240227,SWANEY,RAWS,NR02,hot,40.0,8,27.8,max temp much warmer than neighbors
+2024-12-21,240705,FORT BELKNAP,RAWS,NR13,cold,45.0,6,55.6,max temp much colder than neighbors
+2024-12-21,241308,PARDEE,RAWS,NR04,hot,41.0,8,30.6,max temp much warmer than neighbors
+2024-12-21,242911,GIRD POINT,RAWS,NR06,hot,52.0,8,43.1,max temp much warmer than neighbors
+2024-12-21,243704,HORSE THIEF,RAWS,NR13,cold,53.0,4,62.7,max temp much colder than neighbors
+2024-12-21,244603,HEBGEN LAKE,RAWS,NR12,cold,33.0,8,42.1,max temp much colder than neighbors
+2024-12-21,244803,DERBY MOUNTAIN,RAWS,NR12,hot,59.0,8,50.3,max temp much warmer than neighbors
+2024-12-21,245105,WOLF MOUNTAIN,RAWS,NR14,hot,60.0,5,51.8,max temp much warmer than neighbors
+2024-12-21,321703,WATFORD CITY,RAWS,NR16,hot,44.0,4,33.1,max temp much warmer than neighbors
+2024-12-21,ASOS-9Y1,Killdeer,ASOS,NR16,cold,35.6,4,45.3,max temp much colder than neighbors
+2024-12-21,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,43.0,8,55.8,max temp much colder than neighbors
+2024-12-21,ASOS-D57,Glen Ullin,ASOS,NR16,hot,39.2,5,27.7,max temp much warmer than neighbors
+2024-12-22,100717,EAGLE,RAWS,NR03,hot,60.0,8,32.9,max temp much warmer than neighbors
+2024-12-23,100717,EAGLE,RAWS,NR03,hot,62.0,8,32.8,max temp much warmer than neighbors
+2024-12-23,101049,ROUNDTOP,RAWS,NR06,hot,50.0,8,36.7,max temp much warmer than neighbors
+2024-12-23,242501,POPLAR,RAWS,NR15,hot,37.0,3,28.3,max temp much warmer than neighbors
+2024-12-23,ASOS-00U,Big Horn County,ASOS,NR14,cold,42.8,5,53.6,max temp much colder than neighbors
+2024-12-24,100717,EAGLE,RAWS,NR03,hot,62.0,8,32.3,max temp much warmer than neighbors
+2024-12-24,240601,ROCKY BOY,RAWS,NR13,hot,52.0,4,41.8,max temp much warmer than neighbors
+2024-12-24,241907,HELENA,RAWS,NR11,cold,38.0,7,47.0,max temp much colder than neighbors
+2024-12-24,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,49.0,8,36.5,max temp much warmer than neighbors
+2024-12-24,245405,WISE RIVER,RAWS,NR09,cold,32.0,8,40.3,max temp much colder than neighbors
+2024-12-24,245416,HARKNESS,RAWS,NR09,hot,39.0,4,28.3,max temp much warmer than neighbors
+2024-12-24,ASOS-1KM,Kilo,ASOS,NR11,cold,35.8,6,49.9,max temp much colder than neighbors
+2024-12-24,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,80.0,8,45.9,max temp much warmer than neighbors
+2024-12-25,100717,EAGLE,RAWS,NR03,hot,58.0,8,28.4,max temp much warmer than neighbors
+2024-12-25,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,30.5,max temp much warmer than neighbors
+2024-12-25,240807,ZORTMAN BLM,RAWS,NR13,hot,50.0,6,41.9,max temp much warmer than neighbors
+2024-12-25,ASOS-1ON,Oscar,ASOS,NR17,cold,28.2,6,36.8,max temp much colder than neighbors
+2024-12-26,100717,EAGLE,RAWS,NR03,hot,61.0,8,29.4,max temp much warmer than neighbors
+2024-12-26,101014,SYRINGA,RAWS,NR03,hot,42.0,8,33.6,max temp much warmer than neighbors
+2024-12-26,101049,ROUNDTOP,RAWS,NR06,hot,48.0,8,32.6,max temp much warmer than neighbors
+2024-12-26,ASOS-1ON,Oscar,ASOS,NR17,cold,21.7,6,32.8,max temp much colder than neighbors
+2024-12-27,100717,EAGLE,RAWS,NR03,hot,57.0,8,29.9,max temp much warmer than neighbors
+2024-12-27,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,30.4,max temp much warmer than neighbors
+2024-12-27,ASOS-20U,Beach Beach,ASOS,NR16,cold,35.6,6,45.2,max temp much colder than neighbors
+2024-12-28,100717,EAGLE,RAWS,NR03,hot,60.0,8,30.4,max temp much warmer than neighbors
+2024-12-28,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,30.1,max temp much warmer than neighbors
+2024-12-29,100717,EAGLE,RAWS,NR03,hot,58.0,8,28.3,max temp much warmer than neighbors
+2024-12-29,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,31.1,max temp much warmer than neighbors
+2024-12-29,240601,ROCKY BOY,RAWS,NR13,hot,44.0,4,35.8,max temp much warmer than neighbors
+2024-12-29,245607,TIMBERCREST,RAWS,NR12,hot,45.0,8,35.6,max temp much warmer than neighbors
+2024-12-29,ASOS-1ON,Oscar,ASOS,NR17,cold,14.0,6,29.8,max temp much colder than neighbors
+2024-12-30,100717,EAGLE,RAWS,NR03,hot,55.0,8,27.0,max temp much warmer than neighbors
+2024-12-30,101049,ROUNDTOP,RAWS,NR06,hot,39.0,8,26.7,max temp much warmer than neighbors
+2024-12-31,100423,NUCKOLS,RAWS,NR03,hot,43.0,8,31.3,max temp much warmer than neighbors
+2024-12-31,100717,EAGLE,RAWS,NR03,hot,49.0,8,27.2,max temp much warmer than neighbors
+2024-12-31,101049,ROUNDTOP,RAWS,NR06,hot,42.0,8,24.8,max temp much warmer than neighbors
+2024-12-31,ASOS-CTB,Cut Bank (Awos),ASOS,NR10,cold,22.0,4,31.7,max temp much colder than neighbors
+2025-01-01,100717,EAGLE,RAWS,NR03,hot,47.0,8,22.4,max temp much warmer than neighbors
+2025-01-01,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,21.5,max temp much warmer than neighbors
+2025-01-01,240303,ST. MARY,RAWS,NR07,cold,14.0,8,24.6,max temp much colder than neighbors
+2025-01-01,245405,WISE RIVER,RAWS,NR09,cold,16.0,8,24.1,max temp much colder than neighbors
+2025-01-02,100717,EAGLE,RAWS,NR03,hot,47.0,8,27.3,max temp much warmer than neighbors
+2025-01-02,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,28.1,max temp much warmer than neighbors
+2025-01-02,240303,ST. MARY,RAWS,NR07,cold,12.0,8,28.4,max temp much colder than neighbors
+2025-01-02,244705,MAIN BOULDER,RAWS,NR12,hot,70.0,8,29.1,max temp much warmer than neighbors
+2025-01-02,245415,FRENCH CREEK,RAWS,NR09,hot,33.0,8,23.5,max temp much warmer than neighbors
+2025-01-02,ASOS-SDY,Sidney-Richland,ASOS,NR16,hot,16.0,4,7.3,max temp much warmer than neighbors
+2025-01-03,100717,EAGLE,RAWS,NR03,hot,47.0,8,27.4,max temp much warmer than neighbors
+2025-01-03,242208,JUDITH PEAK,RAWS,NR11,hot,19.0,3,3.3,max temp much warmer than neighbors
+2025-01-04,100717,EAGLE,RAWS,NR03,hot,47.0,8,28.8,max temp much warmer than neighbors
+2025-01-04,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,32.1,max temp much warmer than neighbors
+2025-01-04,242208,JUDITH PEAK,RAWS,NR11,hot,20.0,3,5.1,max temp much warmer than neighbors
+2025-01-04,244902,FISHTAIL,RAWS,NR14,cold,15.0,6,30.6,max temp much colder than neighbors
+2025-01-04,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,28.0,8,9.8,max temp much warmer than neighbors
+2025-01-05,100717,EAGLE,RAWS,NR03,hot,47.0,8,27.9,max temp much warmer than neighbors
+2025-01-05,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,28.9,max temp much warmer than neighbors
+2025-01-05,240601,ROCKY BOY,RAWS,NR13,hot,23.0,4,9.7,max temp much warmer than neighbors
+2025-01-05,245416,HARKNESS,RAWS,NR09,hot,35.0,4,24.5,max temp much warmer than neighbors
+2025-01-05,ASOS-00U,Big Horn County,ASOS,NR14,cold,17.6,5,30.7,max temp much colder than neighbors
+2025-01-05,ASOS-LWT,Lewistown Municipal,ASOS,NR11,cold,23.0,5,32.8,max temp much colder than neighbors
+2025-01-06,100107,SADDLE PASS,RAWS,NR01,hot,37.0,8,26.4,max temp much warmer than neighbors
+2025-01-06,100717,EAGLE,RAWS,NR03,hot,47.0,8,30.3,max temp much warmer than neighbors
+2025-01-06,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,28.1,max temp much warmer than neighbors
+2025-01-07,100717,EAGLE,RAWS,NR03,hot,47.0,8,30.1,max temp much warmer than neighbors
+2025-01-07,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,26.9,max temp much warmer than neighbors
+2025-01-07,240601,ROCKY BOY,RAWS,NR13,hot,35.0,4,26.3,max temp much warmer than neighbors
+2025-01-07,240807,ZORTMAN BLM,RAWS,NR13,hot,38.0,6,25.7,max temp much warmer than neighbors
+2025-01-07,241910,DEARBORN,RAWS,NR11,hot,42.0,6,31.1,max temp much warmer than neighbors
+2025-01-07,242207,LITTLE SNOWY,RAWS,NR11,hot,38.0,6,27.5,max temp much warmer than neighbors
+2025-01-07,242911,GIRD POINT,RAWS,NR06,hot,41.0,8,25.1,max temp much warmer than neighbors
+2025-01-07,244403,YANKEE FLAT,RAWS,NR08,hot,35.0,8,26.7,max temp much warmer than neighbors
+2025-01-07,244601,SHENANGO,RAWS,NR12,hot,44.0,7,31.8,max temp much warmer than neighbors
+2025-01-08,100717,EAGLE,RAWS,NR03,hot,47.0,8,25.0,max temp much warmer than neighbors
+2025-01-08,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,26.4,max temp much warmer than neighbors
+2025-01-08,244803,DERBY MOUNTAIN,RAWS,NR12,hot,38.0,8,27.3,max temp much warmer than neighbors
+2025-01-08,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,39.0,8,27.6,max temp much warmer than neighbors
+2025-01-08,245109,WILD HORSE,RAWS,NR14,cold,23.0,3,33.5,max temp much colder than neighbors
+2025-01-08,245416,HARKNESS,RAWS,NR09,hot,35.0,4,19.3,max temp much warmer than neighbors
+2025-01-09,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,30.6,max temp much warmer than neighbors
+2025-01-09,244705,MAIN BOULDER,RAWS,NR12,hot,41.0,8,32.2,max temp much warmer than neighbors
+2025-01-10,100717,EAGLE,RAWS,NR03,hot,47.0,8,25.8,max temp much warmer than neighbors
+2025-01-10,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,38.4,max temp much warmer than neighbors
+2025-01-10,240227,SWANEY,RAWS,NR02,hot,34.0,8,25.8,max temp much warmer than neighbors
+2025-01-10,240807,ZORTMAN BLM,RAWS,NR13,hot,47.0,6,38.0,max temp much warmer than neighbors
+2025-01-10,244606,YELLOW MULE,RAWS,NR12,hot,28.0,5,9.2,max temp much warmer than neighbors
+2025-01-10,245416,HARKNESS,RAWS,NR09,hot,41.0,4,12.8,max temp much warmer than neighbors
+2025-01-11,100717,EAGLE,RAWS,NR03,hot,47.0,8,25.3,max temp much warmer than neighbors
+2025-01-11,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,24.6,max temp much warmer than neighbors
+2025-01-11,ASOS-LWT,Lewistown Municipal,ASOS,NR11,rain_alone,0.51,4,0.03,rain no neighbor saw
+2025-01-12,100107,SADDLE PASS,RAWS,NR01,hot,36.0,8,24.1,max temp much warmer than neighbors
+2025-01-12,100717,EAGLE,RAWS,NR03,hot,47.0,8,26.7,max temp much warmer than neighbors
+2025-01-12,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,24.1,max temp much warmer than neighbors
+2025-01-13,100107,SADDLE PASS,RAWS,NR01,hot,33.0,8,22.4,max temp much warmer than neighbors
+2025-01-13,100717,EAGLE,RAWS,NR03,hot,47.0,8,25.4,max temp much warmer than neighbors
+2025-01-13,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,24.4,max temp much warmer than neighbors
+2025-01-13,ASOS-OLF,Wolf Point Intl,ASOS,NR15,hot,29.0,3,19.5,max temp much warmer than neighbors
+2025-01-14,100107,SADDLE PASS,RAWS,NR01,hot,32.0,8,23.3,max temp much warmer than neighbors
+2025-01-14,100423,NUCKOLS,RAWS,NR03,hot,45.0,8,33.2,max temp much warmer than neighbors
+2025-01-14,100423,NUCKOLS,RAWS,NR03,rain_alone,0.57,8,0.0,rain no neighbor saw
+2025-01-14,100717,EAGLE,RAWS,NR03,hot,47.0,8,28.8,max temp much warmer than neighbors
+2025-01-14,242207,LITTLE SNOWY,RAWS,NR11,hot,41.0,6,32.1,max temp much warmer than neighbors
+2025-01-14,242911,GIRD POINT,RAWS,NR06,hot,45.0,8,30.6,max temp much warmer than neighbors
+2025-01-14,242915,SAWMILL CREEK,RAWS,NR06,hot,44.0,8,28.2,max temp much warmer than neighbors
+2025-01-14,244606,YELLOW MULE,RAWS,NR12,hot,23.0,5,9.4,max temp much warmer than neighbors
+2025-01-14,245415,FRENCH CREEK,RAWS,NR09,hot,37.0,8,20.4,max temp much warmer than neighbors
+2025-01-14,ASOS-2C8,Cavalier,ASOS,NR17,cold,1.4,5,11.4,max temp much colder than neighbors
+2025-01-14,ASOS-96D,Walhalla,ASOS,NR17,hot,12.2,5,1.2,max temp much warmer than neighbors
+2025-01-15,100717,EAGLE,RAWS,NR03,hot,47.0,8,34.4,max temp much warmer than neighbors
+2025-01-15,241308,PARDEE,RAWS,NR04,hot,40.0,8,30.5,max temp much warmer than neighbors
+2025-01-15,242207,LITTLE SNOWY,RAWS,NR11,hot,50.0,6,40.5,max temp much warmer than neighbors
+2025-01-15,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,25.0,8,41.2,max temp much colder than neighbors
+2025-01-15,ASOS-HLN,Helena Regional,ASOS,NR11,cold,29.0,6,47.2,max temp much colder than neighbors
+2025-01-16,101045,RED RIVER,RAWS,NR06,hot,50.0,7,40.9,max temp much warmer than neighbors
+2025-01-16,241519,POINT 6,RAWS,NR04,cold,27.0,7,39.6,max temp much colder than neighbors
+2025-01-16,243402,PORPHYRY,RAWS,NR11,cold,29.0,3,37.8,max temp much colder than neighbors
+2025-01-16,244601,SHENANGO,RAWS,NR12,hot,53.0,7,40.5,max temp much warmer than neighbors
+2025-01-16,245201,FORT HOWES,RAWS,NR14,cold,46.0,3,57.3,max temp much colder than neighbors
+2025-01-16,245410,RED ROCK,RAWS,NR09,cold,27.0,8,35.8,max temp much colder than neighbors
+2025-01-16,480118,CABIN CREEK,RAWS,NR12,hot,43.0,8,31.1,max temp much warmer than neighbors
+2025-01-17,100717,EAGLE,RAWS,NR03,hot,47.0,8,24.3,max temp much warmer than neighbors
+2025-01-17,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,26.1,max temp much warmer than neighbors
+2025-01-17,244705,MAIN BOULDER,RAWS,NR12,hot,106.0,8,37.2,max temp much warmer than neighbors
+2025-01-17,245416,HARKNESS,RAWS,NR09,hot,29.0,4,20.0,max temp much warmer than neighbors
+2025-01-17,ASOS-2WX,Buffalo,ASOS,NR16,cold,13.0,3,33.5,max temp much colder than neighbors
+2025-01-18,100717,EAGLE,RAWS,NR03,hot,47.0,8,20.8,max temp much warmer than neighbors
+2025-01-18,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,14.3,max temp much warmer than neighbors
+2025-01-18,241909,GATES PARK,RAWS,NR07,cold,1.0,8,13.5,max temp much colder than neighbors
+2025-01-18,242904,STEVI,RAWS,NR06,hot,40.0,8,25.1,max temp much warmer than neighbors
+2025-01-18,242915,SAWMILL CREEK,RAWS,NR06,hot,26.0,8,17.7,max temp much warmer than neighbors
+2025-01-18,244705,MAIN BOULDER,RAWS,NR12,hot,30.0,8,11.0,max temp much warmer than neighbors
+2025-01-19,100717,EAGLE,RAWS,NR03,hot,47.0,8,20.8,max temp much warmer than neighbors
+2025-01-19,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,13.7,max temp much warmer than neighbors
+2025-01-19,244705,MAIN BOULDER,RAWS,NR12,hot,24.0,8,14.4,max temp much warmer than neighbors
+2025-01-19,ASOS-MLS,Miles City,ASOS,NR14,cold,-13.0,3,1.4,max temp much colder than neighbors
+2025-01-20,100423,NUCKOLS,RAWS,NR03,hot,29.0,8,20.7,max temp much warmer than neighbors
+2025-01-20,100717,EAGLE,RAWS,NR03,hot,47.0,8,15.9,max temp much warmer than neighbors
+2025-01-20,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,14.6,max temp much warmer than neighbors
+2025-01-20,240807,ZORTMAN BLM,RAWS,NR13,hot,20.0,6,0.9,max temp much warmer than neighbors
+2025-01-20,241907,HELENA,RAWS,NR11,cold,8.0,7,18.2,max temp much colder than neighbors
+2025-01-20,242208,JUDITH PEAK,RAWS,NR11,hot,10.0,3,1.5,max temp much warmer than neighbors
+2025-01-20,242403,SOUTH SAWMILL CREEK,RAWS,NR13,hot,10.0,4,1.9,max temp much warmer than neighbors
+2025-01-20,242915,SAWMILL CREEK,RAWS,NR06,hot,24.0,8,10.2,max temp much warmer than neighbors
+2025-01-20,244603,HEBGEN LAKE,RAWS,NR12,cold,-1.0,8,10.1,max temp much colder than neighbors
+2025-01-20,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,14.0,8,-0.5,max temp much warmer than neighbors
+2025-01-20,245107,BIGHORN MOUNTAIN,RAWS,NR14,hot,11.0,4,2.3,max temp much warmer than neighbors
+2025-01-20,245410,RED ROCK,RAWS,NR09,cold,-2.0,8,11.1,max temp much colder than neighbors
+2025-01-20,245416,HARKNESS,RAWS,NR09,hot,16.0,4,7.0,max temp much warmer than neighbors
+2025-01-20,ASOS-00U,Big Horn County,ASOS,NR14,cold,-0.4,5,11.5,max temp much colder than neighbors
+2025-01-20,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,2.0,8,15.3,max temp much colder than neighbors
+2025-01-21,100717,EAGLE,RAWS,NR03,hot,47.0,8,21.6,max temp much warmer than neighbors
+2025-01-21,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,26.4,max temp much warmer than neighbors
+2025-01-21,241518,STINKWATER CREEK,RAWS,NR08,hot,31.0,8,20.6,max temp much warmer than neighbors
+2025-01-21,244803,DERBY MOUNTAIN,RAWS,NR12,hot,35.0,8,26.8,max temp much warmer than neighbors
+2025-01-21,245416,HARKNESS,RAWS,NR09,hot,27.0,4,11.8,max temp much warmer than neighbors
+2025-01-22,100717,EAGLE,RAWS,NR03,hot,47.0,8,26.8,max temp much warmer than neighbors
+2025-01-22,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,25.8,max temp much warmer than neighbors
+2025-01-22,244705,MAIN BOULDER,RAWS,NR12,bad_temp,148.0,0,,impossible temperature
+2025-01-22,ASOS-GFK,Grand_Forks,ASOS,NR17,hot,27.0,4,17.4,max temp much warmer than neighbors
+2025-01-23,100423,NUCKOLS,RAWS,NR03,hot,41.0,8,28.6,max temp much warmer than neighbors
+2025-01-23,100717,EAGLE,RAWS,NR03,hot,47.0,8,27.3,max temp much warmer than neighbors
+2025-01-23,101031,POWELL,RAWS,NR06,hot,38.0,8,27.1,max temp much warmer than neighbors
+2025-01-23,241308,PARDEE,RAWS,NR04,hot,35.0,8,23.2,max temp much warmer than neighbors
+2025-01-23,244705,MAIN BOULDER,RAWS,NR12,bad_temp,141.0,0,,impossible temperature
+2025-01-23,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,34.0,8,23.9,max temp much warmer than neighbors
+2025-01-23,245416,HARKNESS,RAWS,NR09,hot,37.0,4,16.8,max temp much warmer than neighbors
+2025-01-23,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,21.0,8,31.8,max temp much colder than neighbors
+2025-01-23,ASOS-HRF,Hamilton,ASOS,NR06,cold,26.6,8,46.0,max temp much colder than neighbors
+2025-01-24,100717,EAGLE,RAWS,NR03,hot,47.0,8,23.3,max temp much warmer than neighbors
+2025-01-24,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,26.3,max temp much warmer than neighbors
+2025-01-24,241520,CLEARWATER,RAWS,NR08,hot,43.0,8,32.3,max temp much warmer than neighbors
+2025-01-24,241910,DEARBORN,RAWS,NR11,hot,40.0,6,30.1,max temp much warmer than neighbors
+2025-01-25,100423,NUCKOLS,RAWS,NR03,hot,38.0,8,28.2,max temp much warmer than neighbors
+2025-01-25,100708,KELLY,RAWS,NR03,cold,18.0,8,36.3,max temp much colder than neighbors
+2025-01-25,100717,EAGLE,RAWS,NR03,hot,47.0,8,26.3,max temp much warmer than neighbors
+2025-01-25,101045,RED RIVER,RAWS,NR06,hot,34.0,7,25.7,max temp much warmer than neighbors
+2025-01-25,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,22.4,max temp much warmer than neighbors
+2025-01-25,244705,MAIN BOULDER,RAWS,NR12,hot,84.0,8,22.4,max temp much warmer than neighbors
+2025-01-25,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,21.0,8,33.1,max temp much colder than neighbors
+2025-01-26,100421,FISH HOOK,RAWS,NR03,hot,37.0,8,28.5,max temp much warmer than neighbors
+2025-01-26,100708,KELLY,RAWS,NR03,cold,18.0,8,36.8,max temp much colder than neighbors
+2025-01-26,100717,EAGLE,RAWS,NR03,hot,47.0,8,25.9,max temp much warmer than neighbors
+2025-01-26,101049,ROUNDTOP,RAWS,NR06,hot,47.0,8,26.2,max temp much warmer than neighbors
+2025-01-26,242911,GIRD POINT,RAWS,NR06,hot,37.0,8,25.3,max temp much warmer than neighbors
+2025-01-26,244705,MAIN BOULDER,RAWS,NR12,bad_temp,149.0,0,,impossible temperature
+2025-01-26,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,31.0,8,17.5,max temp much warmer than neighbors
+2025-01-26,245410,RED ROCK,RAWS,NR09,cold,3.0,8,27.3,max temp much colder than neighbors
+2025-01-26,245415,FRENCH CREEK,RAWS,NR09,hot,29.0,8,9.4,max temp much warmer than neighbors
+2025-01-26,ASOS-HLN,Helena Regional,ASOS,NR11,cold,12.0,6,31.7,max temp much colder than neighbors
+2025-01-26,ASOS-HRF,Hamilton,ASOS,NR06,cold,21.2,8,36.2,max temp much colder than neighbors
+2025-01-26,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,10.0,8,26.8,max temp much colder than neighbors
+2025-01-27,100717,EAGLE,RAWS,NR03,hot,47.0,8,28.3,max temp much warmer than neighbors
+2025-01-27,101031,POWELL,RAWS,NR06,hot,40.0,8,26.4,max temp much warmer than neighbors
+2025-01-27,245415,FRENCH CREEK,RAWS,NR09,hot,36.0,8,19.3,max temp much warmer than neighbors
+2025-01-27,245416,HARKNESS,RAWS,NR09,hot,43.0,4,28.1,max temp much warmer than neighbors
+2025-01-27,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,21.0,8,39.9,max temp much colder than neighbors
+2025-01-27,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,18.0,8,39.7,max temp much colder than neighbors
+2025-01-28,100717,EAGLE,RAWS,NR03,hot,47.0,8,29.3,max temp much warmer than neighbors
+2025-01-28,245415,FRENCH CREEK,RAWS,NR09,hot,44.0,8,22.9,max temp much warmer than neighbors
+2025-01-28,480119,SODA BUTTE,RAWS,NR12,rain_alone,0.69,8,0.02,rain no neighbor saw
+2025-01-28,ASOS-HRF,Hamilton,ASOS,NR06,cold,24.8,8,41.9,max temp much colder than neighbors
+2025-01-28,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,23.0,8,41.6,max temp much colder than neighbors
+2025-01-28,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,20.0,8,45.1,max temp much colder than neighbors
+2025-01-29,240119,BC BALDY,RAWS,NR02,hot,41.0,8,28.4,max temp much warmer than neighbors
+2025-01-29,241520,CLEARWATER,RAWS,NR08,cold,35.0,8,47.3,max temp much colder than neighbors
+2025-01-29,245303,EKALAKA,RAWS,NR16,hot,49.0,3,37.6,max temp much warmer than neighbors
+2025-01-29,245415,FRENCH CREEK,RAWS,NR09,hot,55.0,8,27.4,max temp much warmer than neighbors
+2025-01-29,245416,HARKNESS,RAWS,NR09,hot,51.0,4,36.8,max temp much warmer than neighbors
+2025-01-29,480119,SODA BUTTE,RAWS,NR12,rain_alone,0.53,8,0.0,rain no neighbor saw
+2025-01-29,55522370,SOFT ROCK,RAWS,NR06,cold,32.0,8,56.3,max temp much colder than neighbors
+2025-01-29,ASOS-D55,Langdon,ASOS,NR17,cold,19.4,4,31.2,max temp much colder than neighbors
+2025-01-29,ASOS-HRF,Hamilton,ASOS,NR06,cold,28.4,8,54.3,max temp much colder than neighbors
+2025-01-29,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,29.0,8,48.8,max temp much colder than neighbors
+2025-01-30,100423,NUCKOLS,RAWS,NR03,hot,49.0,8,36.2,max temp much warmer than neighbors
+2025-01-30,240119,BC BALDY,RAWS,NR02,hot,45.0,8,29.0,max temp much warmer than neighbors
+2025-01-30,241519,POINT 6,RAWS,NR04,cold,31.0,7,42.3,max temp much colder than neighbors
+2025-01-30,241907,HELENA,RAWS,NR11,cold,36.0,7,52.2,max temp much colder than neighbors
+2025-01-30,245410,RED ROCK,RAWS,NR09,cold,16.0,8,34.7,max temp much colder than neighbors
+2025-01-30,245415,FRENCH CREEK,RAWS,NR09,hot,48.0,8,31.4,max temp much warmer than neighbors
+2025-01-30,320220,LOSTWOOD,RAWS,NR15,hot,39.0,5,30.9,max temp much warmer than neighbors
+2025-01-30,55522370,SOFT ROCK,RAWS,NR06,cold,46.0,8,54.8,max temp much colder than neighbors
+2025-01-30,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,29.0,8,46.5,max temp much colder than neighbors
+2025-01-30,ASOS-HLN,Helena Regional,ASOS,NR11,cold,28.0,6,52.2,max temp much colder than neighbors
+2025-01-30,ASOS-HRF,Hamilton,ASOS,NR06,cold,32.0,8,56.0,max temp much colder than neighbors
+2025-01-30,ASOS-P60,Yellowstone (Ramos),ASOS,NR12,cold,26.0,8,42.8,max temp much colder than neighbors
+2025-01-31,100714,DENT,RAWS,NR03,cold,36.0,8,45.0,max temp much colder than neighbors
+2025-01-31,100717,EAGLE,RAWS,NR03,hot,55.0,8,28.4,max temp much warmer than neighbors
+2025-01-31,101049,ROUNDTOP,RAWS,NR06,hot,54.0,8,34.9,max temp much warmer than neighbors
+2025-01-31,240226,BOORMAN,RAWS,NR02,hot,40.0,8,30.9,max temp much warmer than neighbors
+2025-01-31,241308,PARDEE,RAWS,NR04,hot,40.0,8,30.2,max temp much warmer than neighbors
+2025-01-31,241907,HELENA,RAWS,NR11,cold,34.0,7,46.1,max temp much colder than neighbors
+2025-01-31,243902,BADGER PEAK,RAWS,NR14,hot,54.0,5,41.7,max temp much warmer than neighbors
+2025-01-31,244102,KNOWLTON,RAWS,NR16,hot,44.0,5,33.6,max temp much warmer than neighbors
+2025-01-31,245105,WOLF MOUNTAIN,RAWS,NR14,hot,54.0,5,34.1,max temp much warmer than neighbors
+2025-01-31,245201,FORT HOWES,RAWS,NR14,cold,45.0,3,57.3,max temp much colder than neighbors
+2025-01-31,245416,HARKNESS,RAWS,NR09,hot,31.0,4,22.5,max temp much warmer than neighbors
+2025-01-31,ASOS-COE,Coeur D Alene(Awos),ASOS,NR01,missed,0.0,8,0.62,no rain while most neighbors got rain
+2025-01-31,ASOS-HLN,Helena Regional,ASOS,NR11,cold,33.0,6,45.3,max temp much colder than neighbors
+2025-02-01,100717,EAGLE,RAWS,NR03,hot,59.0,8,29.5,max temp much warmer than neighbors
+2025-02-01,101049,ROUNDTOP,RAWS,NR06,hot,57.0,8,32.4,max temp much warmer than neighbors
+2025-02-01,ASOS-1LN,Lima,ASOS,NR15,cold,24.6,7,33.0,max temp much colder than neighbors
+2025-02-01,ASOS-LWT,Lewistown Municipal,ASOS,NR11,cold,39.0,5,47.4,max temp much colder than neighbors
+2025-02-01,ASOS-PWD,Plentywood Sher-Wood,ASOS,NR15,cold,32.0,3,41.1,max temp much colder than neighbors
+2025-02-02,100717,EAGLE,RAWS,NR03,hot,49.0,8,25.0,max temp much warmer than neighbors
+2025-02-02,101049,ROUNDTOP,RAWS,NR06,hot,50.0,8,25.4,max temp much warmer than neighbors
+2025-02-02,240601,ROCKY BOY,RAWS,NR13,hot,14.0,4,4.1,max temp much warmer than neighbors
+2025-02-02,240705,FORT BELKNAP,RAWS,NR13,cold,6.0,6,16.0,max temp much colder than neighbors
+2025-02-03,100717,EAGLE,RAWS,NR03,hot,45.0,8,26.4,max temp much warmer than neighbors
+2025-02-03,101049,ROUNDTOP,RAWS,NR06,hot,48.0,8,23.1,max temp much warmer than neighbors
+2025-02-03,242208,JUDITH PEAK,RAWS,NR11,hot,-2.0,3,-11.1,max temp much warmer than neighbors
+2025-02-03,245109,WILD HORSE,RAWS,NR14,cold,18.0,3,28.3,max temp much colder than neighbors
+2025-02-03,245303,EKALAKA,RAWS,NR16,hot,8.0,3,-3.4,max temp much warmer than neighbors
+2025-02-04,101049,ROUNDTOP,RAWS,NR06,hot,42.0,8,12.7,max temp much warmer than neighbors
+2025-02-04,241519,POINT 6,RAWS,NR04,hot,24.0,7,-1.4,max temp much warmer than neighbors
+2025-02-04,242902,DEER MOUNTAIN,RAWS,NR06,hot,30.0,8,11.1,max temp much warmer than neighbors
+2025-02-04,242911,GIRD POINT,RAWS,NR06,hot,30.0,8,12.1,max temp much warmer than neighbors
+2025-02-04,244707,CRAZY,RAWS,NR11,hot,35.0,8,-4.4,max temp much warmer than neighbors
+2025-02-04,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,35.0,8,3.0,max temp much warmer than neighbors
+2025-02-04,245109,WILD HORSE,RAWS,NR14,cold,33.0,3,41.1,max temp much colder than neighbors
+2025-02-04,245409,BRENNER,RAWS,NR09,cold,24.0,8,40.7,max temp much colder than neighbors
+2025-02-05,100717,EAGLE,RAWS,NR03,hot,43.0,8,20.2,max temp much warmer than neighbors
+2025-02-05,101049,ROUNDTOP,RAWS,NR06,hot,43.0,8,21.6,max temp much warmer than neighbors
+2025-02-05,240807,ZORTMAN BLM,RAWS,NR13,hot,18.0,6,-3.5,max temp much warmer than neighbors
+2025-02-05,243902,BADGER PEAK,RAWS,NR14,hot,15.0,5,4.0,max temp much warmer than neighbors
+2025-02-05,244707,CRAZY,RAWS,NR11,hot,42.0,8,10.9,max temp much warmer than neighbors
+2025-02-05,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,38.0,8,6.4,max temp much warmer than neighbors
+2025-02-05,245201,FORT HOWES,RAWS,NR14,cold,7.0,3,18.3,max temp much colder than neighbors
+2025-02-05,ASOS-CTB,Cut Bank (Awos),ASOS,NR10,cold,-7.0,4,19.2,max temp much colder than neighbors
+2025-02-06,100717,EAGLE,RAWS,NR03,hot,48.0,8,28.3,max temp much warmer than neighbors
+2025-02-06,101049,ROUNDTOP,RAWS,NR06,hot,46.0,8,25.2,max temp much warmer than neighbors
+2025-02-06,240110,EUREKA,RAWS,NR02,cold,15.0,8,27.7,max temp much colder than neighbors
+2025-02-06,242911,GIRD POINT,RAWS,NR06,hot,33.0,8,22.7,max temp much warmer than neighbors
+2025-02-06,243302,GINGER,RAWS,NR11,cold,14.0,8,29.2,max temp much colder than neighbors
+2025-02-06,244102,KNOWLTON,RAWS,NR16,hot,24.0,5,10.7,max temp much warmer than neighbors
+2025-02-07,100717,EAGLE,RAWS,NR03,hot,47.0,8,21.3,max temp much warmer than neighbors
+2025-02-07,101049,ROUNDTOP,RAWS,NR06,hot,43.0,8,17.3,max temp much warmer than neighbors
+2025-02-07,240110,EUREKA,RAWS,NR02,cold,20.0,8,30.1,max temp much colder than neighbors
+2025-02-07,242915,SAWMILL CREEK,RAWS,NR06,hot,26.0,8,16.3,max temp much warmer than neighbors
+2025-02-07,245303,EKALAKA,RAWS,NR16,hot,16.0,3,5.4,max temp much warmer than neighbors
+2025-02-08,100717,EAGLE,RAWS,NR03,hot,48.0,8,21.4,max temp much warmer than neighbors
+2025-02-08,101049,ROUNDTOP,RAWS,NR06,hot,46.0,8,20.1,max temp much warmer than neighbors
+2025-02-08,242207,LITTLE SNOWY,RAWS,NR11,hot,28.0,6,18.3,max temp much warmer than neighbors
+2025-02-08,320220,LOSTWOOD,RAWS,NR15,hot,20.0,4,9.2,max temp much warmer than neighbors
+2025-02-08,ASOS-00U,Big Horn County,ASOS,NR14,cold,5.0,5,19.6,max temp much colder than neighbors
+2025-02-08,ASOS-79S,Fort Benton,ASOS,NR11,cold,19.2,3,27.2,max temp much colder than neighbors
+2025-02-08,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,11.0,7,24.8,max temp much colder than neighbors
+2025-02-08,ASOS-HLN,Helena Regional,ASOS,NR11,cold,16.0,6,26.7,max temp much colder than neighbors
+2025-02-08,ASOS-MLS,Miles City,ASOS,NR14,cold,4.0,3,12.4,max temp much colder than neighbors
+2025-02-08,ASOS-RVF,Twin Bridges,ASOS,NR09,cold,15.8,8,25.6,max temp much colder than neighbors
+2025-02-09,100717,EAGLE,RAWS,NR03,hot,46.0,8,23.8,max temp much warmer than neighbors
+2025-02-09,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,22.2,max temp much warmer than neighbors
+2025-02-09,240705,FORT BELKNAP,RAWS,NR13,cold,11.0,6,20.7,max temp much colder than neighbors
+2025-02-09,ASOS-GFK,Grand_Forks,ASOS,NR17,hot,20.0,3,12.0,max temp much warmer than neighbors
+2025-02-09,ASOS-RDR,Grand_Forks_Afb,ASOS,NR17,hot,19.4,3,10.4,max temp much warmer than neighbors
+2025-02-10,100717,EAGLE,RAWS,NR03,hot,42.0,8,18.8,max temp much warmer than neighbors
+2025-02-10,101049,ROUNDTOP,RAWS,NR06,hot,41.0,8,19.1,max temp much warmer than neighbors
+2025-02-10,242915,SAWMILL CREEK,RAWS,NR06,hot,23.0,8,13.1,max temp much warmer than neighbors
+2025-02-10,243402,PORPHYRY,RAWS,NR11,hot,5.0,3,-3.1,max temp much warmer than neighbors
+2025-02-10,244601,SHENANGO,RAWS,NR12,hot,16.0,7,4.8,max temp much warmer than neighbors
+2025-02-10,ASOS-6S0,Big Timber,ASOS,NR11,cold,5.0,6,15.6,max temp much colder than neighbors
+2025-02-10,ASOS-LVM,Livingston/Mission,ASOS,NR11,cold,7.0,8,15.5,max temp much colder than neighbors
+2025-02-11,100717,EAGLE,RAWS,NR03,hot,37.0,8,12.7,max temp much warmer than neighbors
+2025-02-11,240226,BOORMAN,RAWS,NR02,hot,21.0,8,12.6,max temp much warmer than neighbors
+2025-02-11,241308,PARDEE,RAWS,NR04,hot,21.0,8,9.8,max temp much warmer than neighbors
+2025-02-11,242911,GIRD POINT,RAWS,NR06,hot,22.0,8,9.0,max temp much warmer than neighbors
+2025-02-11,243402,PORPHYRY,RAWS,NR11,hot,9.0,3,0.9,max temp much warmer than neighbors
+2025-02-11,243403,WHITE SULPHUR SPRING,RAWS,NR11,cold,-1.0,5,12.0,max temp much colder than neighbors
+2025-02-11,245416,HARKNESS,RAWS,NR09,hot,17.0,4,4.5,max temp much warmer than neighbors
+2025-02-11,ASOS-00U,Big Horn County,ASOS,NR14,cold,-5.8,5,11.7,max temp much colder than neighbors
+2025-02-11,ASOS-CTB,Cut Bank (Awos),ASOS,NR10,cold,8.0,4,17.5,max temp much colder than neighbors
+2025-02-11,ASOS-MLS,Miles City,ASOS,NR14,cold,-9.0,3,2.9,max temp much colder than neighbors
+2025-02-11,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,57.0,8,26.3,max temp much warmer than neighbors
+2025-02-12,100708,KELLY,RAWS,NR03,cold,16.0,8,26.8,max temp much colder than neighbors
+2025-02-12,100717,EAGLE,RAWS,NR03,hot,36.0,8,16.0,max temp much warmer than neighbors
+2025-02-12,101049,ROUNDTOP,RAWS,NR06,hot,31.0,8,12.7,max temp much warmer than neighbors
+2025-02-12,240112,TROY,RAWS,NR02,hot,34.0,8,25.9,max temp much warmer than neighbors
+2025-02-12,240226,BOORMAN,RAWS,NR02,hot,21.0,8,12.6,max temp much warmer than neighbors
+2025-02-12,242915,SAWMILL CREEK,RAWS,NR06,hot,20.0,8,8.0,max temp much warmer than neighbors
+2025-02-12,245409,BRENNER,RAWS,NR09,hot,18.0,8,8.2,max temp much warmer than neighbors
+2025-02-12,245416,HARKNESS,RAWS,NR09,hot,15.0,4,5.0,max temp much warmer than neighbors
+2025-02-12,320220,LOSTWOOD,RAWS,NR15,hot,3.0,4,-7.7,max temp much warmer than neighbors
+2025-02-12,ASOS-00U,Big Horn County,ASOS,NR14,cold,-4.0,5,10.6,max temp much colder than neighbors
+2025-02-12,ASOS-GIC,Grangeville,ASOS,NR05,cold,12.2,8,22.1,max temp much colder than neighbors
+2025-02-12,ASOS-HLN,Helena Regional,ASOS,NR11,cold,-2.0,6,15.2,max temp much colder than neighbors
+2025-02-12,ASOS-LWS,Lewiston,ASOS,NR05,cold,17.0,8,28.4,max temp much colder than neighbors
+2025-02-12,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,hot,97.0,8,22.1,max temp much warmer than neighbors
+2025-02-12,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,57.0,8,28.4,max temp much warmer than neighbors
+2025-02-13,100717,EAGLE,RAWS,NR03,hot,42.0,8,16.8,max temp much warmer than neighbors
+2025-02-13,101049,ROUNDTOP,RAWS,NR06,hot,41.0,8,14.9,max temp much warmer than neighbors
+2025-02-13,240601,ROCKY BOY,RAWS,NR13,hot,23.0,4,11.1,max temp much warmer than neighbors
+2025-02-13,242911,GIRD POINT,RAWS,NR06,hot,26.0,8,15.4,max temp much warmer than neighbors
+2025-02-13,243002,PHILIPSBURG,RAWS,NR08,cold,7.0,8,21.7,max temp much colder than neighbors
+2025-02-13,243403,WHITE SULPHUR SPRING,RAWS,NR11,cold,20.0,5,29.3,max temp much colder than neighbors
+2025-02-13,245405,WISE RIVER,RAWS,NR09,cold,2.0,8,18.8,max temp much colder than neighbors
+2025-02-13,245416,HARKNESS,RAWS,NR09,hot,19.0,4,10.8,max temp much warmer than neighbors
+2025-02-13,245417,STEELE CREEK,RAWS,NR09,cold,1.0,8,17.1,max temp much colder than neighbors
+2025-02-13,ASOS-00U,Big Horn County,ASOS,NR14,cold,5.0,5,22.6,max temp much colder than neighbors
+2025-02-13,ASOS-HRF,Hamilton,ASOS,NR06,cold,12.2,8,26.6,max temp much colder than neighbors
+2025-02-13,ASOS-MLS,Miles City,ASOS,NR14,cold,13.0,3,23.4,max temp much colder than neighbors
+2025-02-14,100717,EAGLE,RAWS,NR03,hot,49.0,8,23.7,max temp much warmer than neighbors
+2025-02-14,101049,ROUNDTOP,RAWS,NR06,hot,49.0,8,29.4,max temp much warmer than neighbors
+2025-02-14,240601,ROCKY BOY,RAWS,NR13,hot,14.0,4,5.7,max temp much warmer than neighbors
+2025-02-14,242207,LITTLE SNOWY,RAWS,NR11,hot,21.0,6,11.2,max temp much warmer than neighbors
+2025-02-14,242208,JUDITH PEAK,RAWS,NR11,hot,18.0,3,8.1,max temp much warmer than neighbors
+2025-02-14,245105,WOLF MOUNTAIN,RAWS,NR14,hot,27.0,5,17.0,max temp much warmer than neighbors
+2025-02-14,245410,RED ROCK,RAWS,NR09,hot,41.0,8,30.9,max temp much warmer than neighbors
+2025-02-14,55522370,SOFT ROCK,RAWS,NR06,cold,26.0,8,38.5,max temp much colder than neighbors
+2025-02-14,ASOS-HRF,Hamilton,ASOS,NR06,cold,23.0,8,40.6,max temp much colder than neighbors
+2025-02-15,100717,EAGLE,RAWS,NR03,hot,47.0,8,26.3,max temp much warmer than neighbors
+2025-02-15,101049,ROUNDTOP,RAWS,NR06,hot,44.0,8,26.3,max temp much warmer than neighbors
+2025-02-15,240307,BROWNING,RAWS,NR10,cold,6.0,6,21.2,max temp much colder than neighbors
+2025-02-15,240601,ROCKY BOY,RAWS,NR13,hot,6.0,4,-4.6,max temp much warmer than neighbors
+2025-02-15,240705,FORT BELKNAP,RAWS,NR13,cold,-1.0,6,10.2,max temp much colder than neighbors
+2025-02-15,242208,JUDITH PEAK,RAWS,NR11,hot,7.0,3,-3.9,max temp much warmer than neighbors
+2025-02-15,244301,CANNONBALL CREEK,RAWS,NR16,hot,15.0,7,2.2,max temp much warmer than neighbors
+2025-02-15,244601,SHENANGO,RAWS,NR12,hot,41.0,7,28.8,max temp much warmer than neighbors
+2025-02-15,320101,CROSBY,RAWS,NR15,hot,14.0,3,-0.1,max temp much warmer than neighbors
+2025-02-15,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,15.0,8,28.3,max temp much colder than neighbors
+2025-02-16,100717,EAGLE,RAWS,NR03,hot,53.0,8,26.9,max temp much warmer than neighbors
+2025-02-16,101049,ROUNDTOP,RAWS,NR06,hot,52.0,8,30.1,max temp much warmer than neighbors
+2025-02-16,240601,ROCKY BOY,RAWS,NR13,hot,8.0,4,-2.7,max temp much warmer than neighbors
+2025-02-16,242208,JUDITH PEAK,RAWS,NR11,hot,13.0,3,-4.9,max temp much warmer than neighbors
+2025-02-16,245201,FORT HOWES,RAWS,NR14,cold,9.0,3,18.0,max temp much colder than neighbors
+2025-02-16,ASOS-CTB,Cut Bank (Awos),ASOS,NR10,cold,0.0,4,11.5,max temp much colder than neighbors
+2025-02-17,100717,EAGLE,RAWS,NR03,hot,57.0,8,30.2,max temp much warmer than neighbors
+2025-02-17,101049,ROUNDTOP,RAWS,NR06,hot,55.0,8,33.1,max temp much warmer than neighbors
+2025-02-17,243402,PORPHYRY,RAWS,NR11,hot,18.0,3,2.2,max temp much warmer than neighbors
+2025-02-17,320101,CROSBY,RAWS,NR15,hot,-3.0,3,-18.1,max temp much warmer than neighbors
+2025-02-17,ASOS-DLN,Dillon Airport,ASOS,NR09,cold,16.0,8,39.3,max temp much colder than neighbors
+2025-02-17,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,69.0,8,43.8,max temp much warmer than neighbors
+2025-02-18,100107,SADDLE PASS,RAWS,NR01,cold,27.0,8,35.3,max temp much colder than neighbors
+2025-02-18,100717,EAGLE,RAWS,NR03,hot,58.0,8,32.8,max temp much warmer than neighbors
+2025-02-18,101049,ROUNDTOP,RAWS,NR06,hot,54.0,8,26.9,max temp much warmer than neighbors
+2025-02-18,240601,ROCKY BOY,RAWS,NR13,hot,-2.0,4,-12.1,max temp much warmer than neighbors
+2025-02-18,241520,CLEARWATER,RAWS,NR08,cold,22.0,8,32.2,max temp much colder than neighbors
+2025-02-18,243402,PORPHYRY,RAWS,NR11,hot,21.0,3,0.9,max temp much warmer than neighbors
+2025-02-18,320101,CROSBY,RAWS,NR15,hot,-1.0,3,-14.5,max temp much warmer than neighbors
+2025-02-18,320220,LOSTWOOD,RAWS,NR15,hot,-1.0,4,-11.3,max temp much warmer than neighbors
+2025-02-18,ASOS-DLN,Dillon Airport,ASOS,NR09,cold,12.0,8,36.2,max temp much colder than neighbors
+2025-02-18,ASOS-GIC,Grangeville,ASOS,NR05,cold,32.0,8,40.3,max temp much colder than neighbors
+2025-02-19,100717,EAGLE,RAWS,NR03,hot,57.0,8,28.4,max temp much warmer than neighbors
+2025-02-19,101049,ROUNDTOP,RAWS,NR06,hot,55.0,8,29.2,max temp much warmer than neighbors
+2025-02-19,240307,BROWNING,RAWS,NR10,cold,-2.0,6,34.1,max temp much colder than neighbors
+2025-02-19,240807,ZORTMAN BLM,RAWS,NR13,hot,13.0,6,1.1,max temp much warmer than neighbors
+2025-02-19,241909,GATES PARK,RAWS,NR07,cold,25.0,8,35.5,max temp much colder than neighbors
+2025-02-19,243303,ELKHORN,RAWS,NR11,hot,34.0,8,11.3,max temp much warmer than neighbors
+2025-02-19,243403,WHITE SULPHUR SPRING,RAWS,NR11,cold,10.0,5,32.3,max temp much colder than neighbors
+2025-02-19,244902,FISHTAIL,RAWS,NR14,cold,10.0,6,32.6,max temp much colder than neighbors
+2025-02-19,245416,HARKNESS,RAWS,NR09,hot,29.0,4,21.0,max temp much warmer than neighbors
+2025-02-19,ASOS-HRF,Hamilton,ASOS,NR06,cold,28.4,8,41.1,max temp much colder than neighbors
+2025-02-20,100717,EAGLE,RAWS,NR03,hot,57.0,8,32.6,max temp much warmer than neighbors
+2025-02-20,101049,ROUNDTOP,RAWS,NR06,hot,54.0,8,33.6,max temp much warmer than neighbors
+2025-02-20,240601,ROCKY BOY,RAWS,NR13,hot,37.0,4,26.2,max temp much warmer than neighbors
+2025-02-20,241910,DEARBORN,RAWS,NR11,hot,49.0,6,39.4,max temp much warmer than neighbors
+2025-02-20,243902,BADGER PEAK,RAWS,NR14,hot,38.0,5,24.0,max temp much warmer than neighbors
+2025-02-20,244705,MAIN BOULDER,RAWS,NR12,hot,91.0,8,37.8,max temp much warmer than neighbors
+2025-02-20,245108,LITTLE BIGHORN,RAWS,NR14,cold,30.0,4,40.4,max temp much colder than neighbors
+2025-02-20,245201,FORT HOWES,RAWS,NR14,cold,25.0,3,41.0,max temp much colder than neighbors
+2025-02-20,245415,FRENCH CREEK,RAWS,NR09,hot,37.0,8,28.3,max temp much warmer than neighbors
+2025-02-20,ASOS-79S,Fort Benton,ASOS,NR11,cold,29.7,3,40.2,max temp much colder than neighbors
+2025-02-21,100717,EAGLE,RAWS,NR03,hot,63.0,8,37.8,max temp much warmer than neighbors
+2025-02-21,101049,ROUNDTOP,RAWS,NR06,hot,62.0,8,39.7,max temp much warmer than neighbors
+2025-02-21,242911,GIRD POINT,RAWS,NR06,hot,46.0,8,37.8,max temp much warmer than neighbors
+2025-02-22,100717,EAGLE,RAWS,NR03,hot,65.0,8,34.8,max temp much warmer than neighbors
+2025-02-22,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,40.1,max temp much warmer than neighbors
+2025-02-22,244705,MAIN BOULDER,RAWS,NR12,hot,95.0,8,41.2,max temp much warmer than neighbors
+2025-02-22,ASOS-1ON,Oscar,ASOS,NR17,cold,25.0,6,33.3,max temp much colder than neighbors
+2025-02-23,100717,EAGLE,RAWS,NR03,hot,63.0,8,34.3,max temp much warmer than neighbors
+2025-02-23,101049,ROUNDTOP,RAWS,NR06,hot,63.0,8,40.8,max temp much warmer than neighbors
+2025-02-23,240903,KING COULEE,RAWS,NR13,hot,53.0,3,44.7,max temp much warmer than neighbors
+2025-02-23,242207,LITTLE SNOWY,RAWS,NR11,hot,59.0,6,48.8,max temp much warmer than neighbors
+2025-02-23,244601,SHENANGO,RAWS,NR12,hot,54.0,7,40.9,max temp much warmer than neighbors
+2025-02-23,245303,EKALAKA,RAWS,NR16,hot,52.0,3,41.2,max temp much warmer than neighbors
+2025-02-23,ASOS-P69,Elk City (Ramos),ASOS,NR06,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-02-24,101049,ROUNDTOP,RAWS,NR06,hot,66.0,8,45.4,max temp much warmer than neighbors
+2025-02-24,241519,POINT 6,RAWS,NR04,cold,28.0,7,39.8,max temp much colder than neighbors
+2025-02-24,244705,MAIN BOULDER,RAWS,NR12,bad_temp,147.0,0,,impossible temperature
+2025-02-24,ASOS-00U,Big Horn County,ASOS,NR14,cold,44.6,5,53.6,max temp much colder than neighbors
+2025-02-25,100717,EAGLE,RAWS,NR03,hot,60.0,8,30.8,max temp much warmer than neighbors
+2025-02-25,101049,ROUNDTOP,RAWS,NR06,hot,59.0,8,32.4,max temp much warmer than neighbors
+2025-02-25,244601,SHENANGO,RAWS,NR12,hot,50.0,7,41.8,max temp much warmer than neighbors
+2025-02-25,244705,MAIN BOULDER,RAWS,NR12,hot,126.0,8,45.5,max temp much warmer than neighbors
+2025-02-26,100424,LINES CREEK,RAWS,NR03,cold,31.0,8,41.4,max temp much colder than neighbors
+2025-02-26,100717,EAGLE,RAWS,NR03,hot,65.0,8,40.0,max temp much warmer than neighbors
+2025-02-26,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,40.1,max temp much warmer than neighbors
+2025-02-26,241519,POINT 6,RAWS,NR04,cold,27.0,7,36.4,max temp much colder than neighbors
+2025-02-26,244601,SHENANGO,RAWS,NR12,hot,53.0,7,43.8,max temp much warmer than neighbors
+2025-02-26,244705,MAIN BOULDER,RAWS,NR12,hot,88.0,8,45.1,max temp much warmer than neighbors
+2025-02-26,ASOS-46D,Carrington,ASOS,NR18,cold,32.0,6,41.9,max temp much colder than neighbors
+2025-02-27,100424,LINES CREEK,RAWS,NR03,cold,36.0,8,49.4,max temp much colder than neighbors
+2025-02-27,100717,EAGLE,RAWS,NR03,hot,67.0,8,49.1,max temp much warmer than neighbors
+2025-02-27,101049,ROUNDTOP,RAWS,NR06,hot,68.0,8,51.7,max temp much warmer than neighbors
+2025-02-27,241519,POINT 6,RAWS,NR04,cold,29.0,7,47.6,max temp much colder than neighbors
+2025-02-27,244601,SHENANGO,RAWS,NR12,hot,65.0,7,48.1,max temp much warmer than neighbors
+2025-02-27,245415,FRENCH CREEK,RAWS,NR09,hot,54.0,8,45.5,max temp much warmer than neighbors
+2025-02-27,ASOS-7S0,Ronanairport,ASOS,NR04,cold,48.2,8,60.2,max temp much colder than neighbors
+2025-02-27,ASOS-9D7,Cando,ASOS,NR17,cold,30.2,7,43.9,max temp much colder than neighbors
+2025-02-27,ASOS-P69,Elk City (Ramos),ASOS,NR06,cold,49.0,8,58.5,max temp much colder than neighbors
+2025-02-28,101049,ROUNDTOP,RAWS,NR06,hot,69.0,8,54.4,max temp much warmer than neighbors
+2025-02-28,244705,MAIN BOULDER,RAWS,NR12,hot,76.0,8,53.6,max temp much warmer than neighbors
+2025-02-28,245410,RED ROCK,RAWS,NR09,cold,34.0,8,47.4,max temp much colder than neighbors
+2025-02-28,ASOS-7S0,Ronanairport,ASOS,NR04,cold,53.6,8,62.8,max temp much colder than neighbors
+2025-02-28,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,44.0,8,57.6,max temp much colder than neighbors
+2025-03-01,101049,ROUNDTOP,RAWS,NR06,hot,72.0,8,57.1,max temp much warmer than neighbors
+2025-03-01,241519,POINT 6,RAWS,NR04,cold,43.0,7,52.1,max temp much colder than neighbors
+2025-03-01,245410,RED ROCK,RAWS,NR09,cold,35.0,8,52.3,max temp much colder than neighbors
+2025-03-01,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,53.0,8,67.9,max temp much colder than neighbors
+2025-03-01,ASOS-P69,Elk City (Ramos),ASOS,NR06,cold,53.0,8,62.8,max temp much colder than neighbors
+2025-03-02,101045,RED RIVER,RAWS,NR06,hot,61.0,7,48.8,max temp much warmer than neighbors
+2025-03-02,101049,ROUNDTOP,RAWS,NR06,hot,66.0,8,52.1,max temp much warmer than neighbors
+2025-03-02,241513,BLUE MTN,RAWS,NR04,cold,51.0,8,63.0,max temp much colder than neighbors
+2025-03-02,242911,GIRD POINT,RAWS,NR06,hot,62.0,8,51.5,max temp much warmer than neighbors
+2025-03-02,243403,WHITE SULPHUR SPRING,RAWS,NR11,cold,52.0,5,61.8,max temp much colder than neighbors
+2025-03-02,245410,RED ROCK,RAWS,NR09,cold,35.0,8,52.9,max temp much colder than neighbors
+2025-03-02,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,43.0,8,62.0,max temp much colder than neighbors
+2025-03-02,ASOS-HLN,Helena Regional,ASOS,NR11,cold,54.0,6,64.6,max temp much colder than neighbors
+2025-03-02,ASOS-MSO,Missoula/Bell Field,ASOS,NR04,cold,50.0,8,63.8,max temp much colder than neighbors
+2025-03-03,100717,EAGLE,RAWS,NR03,hot,64.0,8,33.6,max temp much warmer than neighbors
+2025-03-03,101049,ROUNDTOP,RAWS,NR06,hot,62.0,8,34.1,max temp much warmer than neighbors
+2025-03-03,243303,ELKHORN,RAWS,NR11,hot,42.0,8,32.0,max temp much warmer than neighbors
+2025-03-04,100717,EAGLE,RAWS,NR03,hot,63.0,8,35.4,max temp much warmer than neighbors
+2025-03-04,101049,ROUNDTOP,RAWS,NR06,hot,61.0,8,40.4,max temp much warmer than neighbors
+2025-03-04,243402,PORPHYRY,RAWS,NR11,hot,43.0,3,25.2,max temp much warmer than neighbors
+2025-03-05,100424,LINES CREEK,RAWS,NR03,cold,30.0,8,41.4,max temp much colder than neighbors
+2025-03-05,100717,EAGLE,RAWS,NR03,hot,63.0,8,42.4,max temp much warmer than neighbors
+2025-03-05,101049,ROUNDTOP,RAWS,NR06,hot,61.0,8,41.4,max temp much warmer than neighbors
+2025-03-05,480101,BECHLER,RAWS,NR12,rain_alone,0.52,8,0.02,rain no neighbor saw
+2025-03-06,100717,EAGLE,RAWS,NR03,hot,63.0,8,41.7,max temp much warmer than neighbors
+2025-03-06,101049,ROUNDTOP,RAWS,NR06,hot,60.0,8,36.9,max temp much warmer than neighbors
+2025-03-06,241519,POINT 6,RAWS,NR04,cold,25.0,7,33.4,max temp much colder than neighbors
+2025-03-07,100424,LINES CREEK,RAWS,NR03,cold,31.0,8,41.0,max temp much colder than neighbors
+2025-03-07,100717,EAGLE,RAWS,NR03,hot,63.0,8,42.9,max temp much warmer than neighbors
+2025-03-07,101049,ROUNDTOP,RAWS,NR06,hot,60.0,8,39.9,max temp much warmer than neighbors
+2025-03-07,241519,POINT 6,RAWS,NR04,cold,25.0,7,35.8,max temp much colder than neighbors
+2025-03-07,245416,HARKNESS,RAWS,NR09,hot,42.0,4,31.8,max temp much warmer than neighbors
+2025-03-08,100107,SADDLE PASS,RAWS,NR01,cold,33.0,8,41.3,max temp much colder than neighbors
+2025-03-08,100424,LINES CREEK,RAWS,NR03,cold,36.0,8,47.4,max temp much colder than neighbors
+2025-03-08,100717,EAGLE,RAWS,NR03,hot,66.0,8,47.8,max temp much warmer than neighbors
+2025-03-08,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,48.4,max temp much warmer than neighbors
+2025-03-08,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,42.0,8,55.4,max temp much colder than neighbors
+2025-03-08,ASOS-LWT,Lewistown Municipal,ASOS,NR11,cold,45.0,5,53.4,max temp much colder than neighbors
+2025-03-09,100107,SADDLE PASS,RAWS,NR01,cold,35.0,8,44.2,max temp much colder than neighbors
+2025-03-09,100717,EAGLE,RAWS,NR03,hot,68.0,8,48.1,max temp much warmer than neighbors
+2025-03-09,101049,ROUNDTOP,RAWS,NR06,hot,68.0,8,50.4,max temp much warmer than neighbors
+2025-03-09,241519,POINT 6,RAWS,NR04,cold,36.0,7,45.8,max temp much colder than neighbors
+2025-03-09,244601,SHENANGO,RAWS,NR12,hot,66.0,7,50.8,max temp much warmer than neighbors
+2025-03-09,ASOS-LWT,Lewistown Municipal,ASOS,NR11,cold,45.0,5,59.8,max temp much colder than neighbors
+2025-03-10,100107,SADDLE PASS,RAWS,NR01,cold,32.0,8,41.6,max temp much colder than neighbors
+2025-03-10,100717,EAGLE,RAWS,NR03,hot,61.0,8,36.6,max temp much warmer than neighbors
+2025-03-10,101049,ROUNDTOP,RAWS,NR06,hot,63.0,8,39.1,max temp much warmer than neighbors
+2025-03-10,ASOS-2WX,Buffalo,ASOS,NR16,cold,53.0,3,62.3,max temp much colder than neighbors
+2025-03-10,ASOS-LWT,Lewistown Municipal,ASOS,NR11,cold,43.0,5,52.6,max temp much colder than neighbors
+2025-03-10,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,112.0,8,50.7,max temp much warmer than neighbors
+2025-03-11,100717,EAGLE,RAWS,NR03,hot,63.0,8,37.7,max temp much warmer than neighbors
+2025-03-11,101049,ROUNDTOP,RAWS,NR06,hot,63.0,8,42.8,max temp much warmer than neighbors
+2025-03-11,242208,JUDITH PEAK,RAWS,NR11,cold,34.0,3,42.9,max temp much colder than neighbors
+2025-03-12,100717,EAGLE,RAWS,NR03,hot,64.0,8,35.0,max temp much warmer than neighbors
+2025-03-12,101049,ROUNDTOP,RAWS,NR06,hot,64.0,8,44.3,max temp much warmer than neighbors
+2025-03-12,241519,POINT 6,RAWS,NR04,cold,28.0,7,38.8,max temp much colder than neighbors
+2025-03-12,244601,SHENANGO,RAWS,NR12,hot,61.0,7,50.8,max temp much warmer than neighbors
+2025-03-13,100717,EAGLE,RAWS,NR03,hot,62.0,8,36.8,max temp much warmer than neighbors
+2025-03-13,101049,ROUNDTOP,RAWS,NR06,hot,60.0,8,39.3,max temp much warmer than neighbors
+2025-03-13,245105,WOLF MOUNTAIN,RAWS,NR14,cold,53.0,5,61.1,max temp much colder than neighbors
+2025-03-14,100717,EAGLE,RAWS,NR03,hot,57.0,8,34.2,max temp much warmer than neighbors
+2025-03-14,101049,ROUNDTOP,RAWS,NR06,hot,55.0,8,32.4,max temp much warmer than neighbors
+2025-03-15,100717,EAGLE,RAWS,NR03,hot,59.0,8,31.6,max temp much warmer than neighbors
+2025-03-15,101049,ROUNDTOP,RAWS,NR06,hot,57.0,8,32.4,max temp much warmer than neighbors
+2025-03-16,100717,EAGLE,RAWS,NR03,hot,59.0,8,30.8,max temp much warmer than neighbors
+2025-03-16,101049,ROUNDTOP,RAWS,NR06,hot,59.0,8,36.0,max temp much warmer than neighbors
+2025-03-17,100107,SADDLE PASS,RAWS,NR01,cold,27.0,8,35.0,max temp much colder than neighbors
+2025-03-17,100717,EAGLE,RAWS,NR03,hot,58.0,8,32.8,max temp much warmer than neighbors
+2025-03-17,101049,ROUNDTOP,RAWS,NR06,hot,59.0,8,34.4,max temp much warmer than neighbors
+2025-03-18,100717,EAGLE,RAWS,NR03,hot,58.0,8,32.9,max temp much warmer than neighbors
+2025-03-18,101049,ROUNDTOP,RAWS,NR06,hot,53.0,8,30.5,max temp much warmer than neighbors
+2025-03-18,241519,POINT 6,RAWS,NR04,cold,17.0,7,26.6,max temp much colder than neighbors
+2025-03-19,100107,SADDLE PASS,RAWS,NR01,cold,28.0,8,37.4,max temp much colder than neighbors
+2025-03-19,100717,EAGLE,RAWS,NR03,hot,62.0,8,39.1,max temp much warmer than neighbors
+2025-03-19,101049,ROUNDTOP,RAWS,NR06,hot,61.0,8,39.7,max temp much warmer than neighbors
+2025-03-19,241519,POINT 6,RAWS,NR04,cold,27.0,7,35.1,max temp much colder than neighbors
+2025-03-19,242902,DEER MOUNTAIN,RAWS,NR06,cold,27.0,8,36.5,max temp much colder than neighbors
+2025-03-20,100107,SADDLE PASS,RAWS,NR01,cold,28.0,8,38.4,max temp much colder than neighbors
+2025-03-20,100717,EAGLE,RAWS,NR03,hot,60.0,8,32.8,max temp much warmer than neighbors
+2025-03-20,101049,ROUNDTOP,RAWS,NR06,hot,58.0,8,34.4,max temp much warmer than neighbors
+2025-03-20,241519,POINT 6,RAWS,NR04,cold,20.0,7,31.4,max temp much colder than neighbors
+2025-03-21,100717,EAGLE,RAWS,NR03,hot,63.0,8,38.3,max temp much warmer than neighbors
+2025-03-21,101049,ROUNDTOP,RAWS,NR06,hot,62.0,8,42.8,max temp much warmer than neighbors
+2025-03-22,100717,EAGLE,RAWS,NR03,hot,60.0,8,34.8,max temp much warmer than neighbors
+2025-03-22,101049,ROUNDTOP,RAWS,NR06,hot,57.0,8,32.9,max temp much warmer than neighbors
+2025-03-23,100717,EAGLE,RAWS,NR03,hot,65.0,8,35.1,max temp much warmer than neighbors
+2025-03-23,100717,EAGLE,RAWS,NR03,missed,0.0,8,0.55,no rain while most neighbors got rain
+2025-03-23,101049,ROUNDTOP,RAWS,NR06,hot,64.0,8,39.4,max temp much warmer than neighbors
+2025-03-24,100708,KELLY,RAWS,NR03,cold,44.0,8,56.1,max temp much colder than neighbors
+2025-03-24,100717,EAGLE,RAWS,NR03,hot,68.0,8,46.1,max temp much warmer than neighbors
+2025-03-24,101049,ROUNDTOP,RAWS,NR06,hot,67.0,8,46.5,max temp much warmer than neighbors
+2025-03-24,241909,GATES PARK,RAWS,NR07,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-03-25,101049,ROUNDTOP,RAWS,NR06,hot,72.0,8,59.1,max temp much warmer than neighbors
+2025-03-26,100708,KELLY,RAWS,NR03,cold,58.0,8,77.1,max temp much colder than neighbors
+2025-03-26,241405,PISTOL CREEK,RAWS,NR04,rain_alone,1.58,8,0.01,rain no neighbor saw
+2025-03-26,999994,OBRIEN RIDGE,RAWS,NR08,rain_alone,0.85,8,0.0,rain no neighbor saw
+2025-03-27,240705,FORT BELKNAP,RAWS,NR13,cold,61.0,6,70.0,max temp much colder than neighbors
+2025-03-27,241405,PISTOL CREEK,RAWS,NR04,wet,1.73,8,0.09,far more rain than any neighbor
+2025-03-27,241519,POINT 6,RAWS,NR04,cold,46.0,7,55.8,max temp much colder than neighbors
+2025-03-28,100717,EAGLE,RAWS,NR03,hot,64.0,8,42.7,max temp much warmer than neighbors
+2025-03-28,101049,ROUNDTOP,RAWS,NR06,hot,64.0,8,46.3,max temp much warmer than neighbors
+2025-03-28,240705,FORT BELKNAP,RAWS,NR13,cold,40.0,6,48.1,max temp much colder than neighbors
+2025-03-28,245109,WILD HORSE,RAWS,NR14,hot,55.0,3,45.1,max temp much warmer than neighbors
+2025-03-28,ASOS-08D,Stanley,ASOS,NR15,hot,39.2,5,30.5,max temp much warmer than neighbors
+2025-03-28,ASOS-D60,Tioga,ASOS,NR15,hot,41.0,7,30.9,max temp much warmer than neighbors
+2025-03-28,ASOS-PO1,Poplar,ASOS,NR15,hot,50.0,3,38.5,max temp much warmer than neighbors
+2025-03-29,100717,EAGLE,RAWS,NR03,hot,62.0,8,39.3,max temp much warmer than neighbors
+2025-03-29,101049,ROUNDTOP,RAWS,NR06,hot,58.0,8,36.2,max temp much warmer than neighbors
+2025-03-29,480115,QUADRANT,RAWS,NR12,hot,48.0,8,39.1,max temp much warmer than neighbors
+2025-03-30,100424,LINES CREEK,RAWS,NR03,cold,40.0,8,48.4,max temp much colder than neighbors
+2025-03-30,100717,EAGLE,RAWS,NR03,hot,66.0,8,46.9,max temp much warmer than neighbors
+2025-03-30,101049,ROUNDTOP,RAWS,NR06,hot,64.0,8,40.6,max temp much warmer than neighbors
+2025-03-31,100717,EAGLE,RAWS,NR03,hot,64.0,8,39.7,max temp much warmer than neighbors
+2025-03-31,101049,ROUNDTOP,RAWS,NR06,hot,63.0,8,41.1,max temp much warmer than neighbors
+2025-03-31,241519,POINT 6,RAWS,NR04,cold,27.0,7,36.8,max temp much colder than neighbors
+2025-03-31,ASOS-LVM,Livingston/Mission,ASOS,NR11,cold,35.0,8,45.2,max temp much colder than neighbors
+2025-04-01,100717,EAGLE,RAWS,NR03,hot,60.0,8,34.4,max temp much warmer than neighbors
+2025-04-01,101049,ROUNDTOP,RAWS,NR06,hot,57.0,8,31.8,max temp much warmer than neighbors
+2025-04-01,243403,WHITE SULPHUR SPRING,RAWS,NR11,hot,44.0,5,33.9,max temp much warmer than neighbors
+2025-04-02,100107,SADDLE PASS,RAWS,NR01,cold,34.0,8,42.9,max temp much colder than neighbors
+2025-04-02,100425,MAGEE PEAK,RAWS,NR01,cold,33.0,8,41.4,max temp much colder than neighbors
+2025-04-02,100717,EAGLE,RAWS,NR03,hot,61.0,8,36.2,max temp much warmer than neighbors
+2025-04-02,101049,ROUNDTOP,RAWS,NR06,hot,57.0,8,36.4,max temp much warmer than neighbors
+2025-04-02,240210,POLEBRIDGE,RAWS,NR07,hot,52.0,8,43.5,max temp much warmer than neighbors
+2025-04-02,242911,GIRD POINT,RAWS,NR06,hot,44.0,8,34.9,max temp much warmer than neighbors
+2025-04-02,ASOS-P69,Elk City (Ramos),ASOS,NR06,hot,60.0,8,47.8,max temp much warmer than neighbors
+2025-04-03,100717,EAGLE,RAWS,NR03,hot,61.0,8,36.2,max temp much warmer than neighbors
+2025-04-03,101049,ROUNDTOP,RAWS,NR06,hot,57.0,8,39.4,max temp much warmer than neighbors
+2025-04-04,100424,LINES CREEK,RAWS,NR03,cold,31.0,8,45.5,max temp much colder than neighbors
+2025-04-04,100717,EAGLE,RAWS,NR03,hot,64.0,8,44.5,max temp much warmer than neighbors
+2025-04-04,101049,ROUNDTOP,RAWS,NR06,hot,62.0,8,38.4,max temp much warmer than neighbors
+2025-04-04,241512,PONY CREEK,RAWS,NR07,hot,48.0,8,39.7,max temp much warmer than neighbors
+2025-04-04,243402,PORPHYRY,RAWS,NR11,hot,40.0,3,24.9,max temp much warmer than neighbors
+2025-04-05,100424,LINES CREEK,RAWS,NR03,cold,34.0,8,53.4,max temp much colder than neighbors
+2025-04-05,100717,EAGLE,RAWS,NR03,hot,68.0,8,53.3,max temp much warmer than neighbors
+2025-04-05,101049,ROUNDTOP,RAWS,NR06,hot,67.0,8,49.8,max temp much warmer than neighbors
+2025-04-05,241519,POINT 6,RAWS,NR04,cold,31.0,7,45.1,max temp much colder than neighbors
+2025-04-06,100424,LINES CREEK,RAWS,NR03,cold,42.0,8,61.9,max temp much colder than neighbors
+2025-04-06,101049,ROUNDTOP,RAWS,NR06,hot,71.0,8,58.4,max temp much warmer than neighbors
+2025-04-06,241519,POINT 6,RAWS,NR04,cold,44.0,7,53.6,max temp much colder than neighbors
+2025-04-07,101049,ROUNDTOP,RAWS,NR06,hot,67.0,8,55.1,max temp much warmer than neighbors
+2025-04-07,241405,PISTOL CREEK,RAWS,NR04,rain_alone,0.62,8,0.0,rain no neighbor saw
+2025-04-08,100107,SADDLE PASS,RAWS,NR01,cold,33.0,8,41.2,max temp much colder than neighbors
+2025-04-08,100424,LINES CREEK,RAWS,NR03,cold,31.0,8,46.5,max temp much colder than neighbors
+2025-04-08,100717,EAGLE,RAWS,NR03,hot,66.0,8,44.9,max temp much warmer than neighbors
+2025-04-08,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,44.9,max temp much warmer than neighbors
+2025-04-08,241519,POINT 6,RAWS,NR04,cold,27.0,7,40.4,max temp much colder than neighbors
+2025-04-09,100107,SADDLE PASS,RAWS,NR01,cold,33.0,8,45.4,max temp much colder than neighbors
+2025-04-09,100424,LINES CREEK,RAWS,NR03,cold,32.0,8,48.5,max temp much colder than neighbors
+2025-04-09,100717,EAGLE,RAWS,NR03,hot,66.0,8,47.6,max temp much warmer than neighbors
+2025-04-09,101049,ROUNDTOP,RAWS,NR06,hot,66.0,8,45.1,max temp much warmer than neighbors
+2025-04-09,241519,POINT 6,RAWS,NR04,cold,28.0,7,40.1,max temp much colder than neighbors
+2025-04-10,100424,LINES CREEK,RAWS,NR03,cold,49.0,8,65.0,max temp much colder than neighbors
+2025-04-10,101049,ROUNDTOP,RAWS,NR06,hot,72.0,8,63.6,max temp much warmer than neighbors
+2025-04-10,ASOS-P69,Elk City (Ramos),ASOS,NR06,cold,72.0,8,80.5,max temp much colder than neighbors
+2025-04-11,100107,SADDLE PASS,RAWS,NR01,cold,43.0,8,51.9,max temp much colder than neighbors
+2025-04-11,100424,LINES CREEK,RAWS,NR03,cold,35.0,8,49.9,max temp much colder than neighbors
+2025-04-11,100717,EAGLE,RAWS,NR03,hot,67.0,8,47.3,max temp much warmer than neighbors
+2025-04-11,101049,ROUNDTOP,RAWS,NR06,hot,66.0,8,52.0,max temp much warmer than neighbors
+2025-04-11,ASOS-46D,Carrington,ASOS,NR18,cold,37.4,6,68.2,max temp much colder than neighbors
+2025-04-12,100717,EAGLE,RAWS,NR03,hot,64.0,8,37.8,max temp much warmer than neighbors
+2025-04-12,101049,ROUNDTOP,RAWS,NR06,hot,60.0,8,38.3,max temp much warmer than neighbors
+2025-04-13,100424,LINES CREEK,RAWS,NR03,cold,32.0,8,46.4,max temp much colder than neighbors
+2025-04-13,100717,EAGLE,RAWS,NR03,hot,66.0,8,45.6,max temp much warmer than neighbors
+2025-04-13,101049,ROUNDTOP,RAWS,NR06,hot,64.0,8,41.7,max temp much warmer than neighbors
+2025-04-13,241519,POINT 6,RAWS,NR04,cold,25.0,7,37.8,max temp much colder than neighbors
+2025-04-14,100424,LINES CREEK,RAWS,NR03,cold,44.0,8,59.9,max temp much colder than neighbors
+2025-04-14,100717,EAGLE,RAWS,NR03,hot,70.0,8,58.8,max temp much warmer than neighbors
+2025-04-14,101049,ROUNDTOP,RAWS,NR06,hot,69.0,8,54.9,max temp much warmer than neighbors
+2025-04-14,ASOS-9S2,Scobey,ASOS,NR15,cold,44.6,4,53.8,max temp much colder than neighbors
+2025-04-15,100424,LINES CREEK,RAWS,NR03,cold,49.0,8,63.0,max temp much colder than neighbors
+2025-04-15,100717,EAGLE,RAWS,NR03,hot,73.0,8,62.8,max temp much warmer than neighbors
+2025-04-15,101049,ROUNDTOP,RAWS,NR06,hot,72.0,8,60.1,max temp much warmer than neighbors
+2025-04-15,241519,POINT 6,RAWS,NR04,cold,46.0,7,56.1,max temp much colder than neighbors
+2025-04-16,100424,LINES CREEK,RAWS,NR03,cold,38.0,8,51.4,max temp much colder than neighbors
+2025-04-16,100717,EAGLE,RAWS,NR03,hot,69.0,8,52.9,max temp much warmer than neighbors
+2025-04-16,101049,ROUNDTOP,RAWS,NR06,hot,66.0,8,52.3,max temp much warmer than neighbors
+2025-04-16,241519,POINT 6,RAWS,NR04,cold,35.0,7,48.4,max temp much colder than neighbors
+2025-04-16,ASOS-LWT,Lewistown Municipal,ASOS,NR11,cold,45.0,5,56.2,max temp much colder than neighbors
+2025-04-17,100424,LINES CREEK,RAWS,NR03,cold,32.0,8,47.9,max temp much colder than neighbors
+2025-04-17,100717,EAGLE,RAWS,NR03,hot,65.0,8,44.1,max temp much warmer than neighbors
+2025-04-17,101049,ROUNDTOP,RAWS,NR06,hot,59.0,8,34.9,max temp much warmer than neighbors
+2025-04-18,100424,LINES CREEK,RAWS,NR03,cold,37.0,8,52.4,max temp much colder than neighbors
+2025-04-18,100717,EAGLE,RAWS,NR03,hot,70.0,8,51.7,max temp much warmer than neighbors
+2025-04-18,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,44.7,max temp much warmer than neighbors
+2025-04-19,100424,LINES CREEK,RAWS,NR03,cold,34.0,8,45.9,max temp much colder than neighbors
+2025-04-19,100717,EAGLE,RAWS,NR03,hot,67.0,8,46.2,max temp much warmer than neighbors
+2025-04-19,101049,ROUNDTOP,RAWS,NR06,hot,65.0,8,48.4,max temp much warmer than neighbors
+2025-04-19,241519,POINT 6,RAWS,NR04,cold,30.0,7,42.4,max temp much colder than neighbors
+2025-04-19,ASOS-SZT,Sandpoint,ASOS,NR01,cold,46.4,8,56.4,max temp much colder than neighbors
 2026-11-08,100714,DENT,RAWS,NR03,cold,52.0,8,61.5,max temp much colder than neighbors
 2026-11-08,ASOS-00U,Big Horn County,ASOS,NR14,cold,59.0,6,68.3,max temp much colder than neighbors
 2026-11-11,100425,MAGEE PEAK,RAWS,NR01,hot,54.0,8,43.1,max temp much warmer than neighbors

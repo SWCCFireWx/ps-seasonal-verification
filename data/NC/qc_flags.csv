@@ -3229,6 +3229,426 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2024-12-20,43913,LOS GATOS,RAWS,NC03B,hot,68.0,8,53.3,max temp much warmer than neighbors
 2024-12-20,43914,POVERTY,RAWS,NC03B,hot,73.0,8,50.0,max temp much warmer than neighbors
 2024-12-20,ASOS-O05,Chester,ASOS,NC07,cold,37.4,8,57.4,max temp much colder than neighbors
+2024-12-21,40246,DUTCH-INDY,RAWS,NC04,cold,46.0,8,58.2,max temp much colder than neighbors
+2024-12-21,40247,BOLAM,RAWS,NC06,hot,57.0,8,49.0,max temp much warmer than neighbors
+2024-12-21,ASOS-O86,Trinity Center,ASOS,NC04,cold,42.8,8,50.9,max temp much colder than neighbors
+2024-12-22,40231,SOMES BAR,RAWS,NC04,cold,48.0,8,56.7,max temp much colder than neighbors
+2024-12-22,40247,BOLAM,RAWS,NC06,hot,57.0,8,46.2,max temp much warmer than neighbors
+2024-12-22,ASOS-O05,Chester,ASOS,NC07,cold,39.2,8,49.0,max temp much colder than neighbors
+2024-12-23,40247,BOLAM,RAWS,NC06,hot,58.0,8,47.2,max temp much warmer than neighbors
+2024-12-23,ASOS-CIC,Chico Municipal,ASOS,NC05,hot,73.4,8,60.0,max temp much warmer than neighbors
+2024-12-24,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,missed,0.0,8,0.8,no rain while most neighbors got rain
+2024-12-25,40225,SLATER BUTTE,RAWS,NC04,missed,0.0,8,0.65,no rain while most neighbors got rain
+2024-12-25,40247,BOLAM,RAWS,NC06,hot,50.0,8,37.3,max temp much warmer than neighbors
+2024-12-26,40247,BOLAM,RAWS,NC06,hot,50.0,8,38.5,max temp much warmer than neighbors
+2024-12-26,42614,ROBBS,RAWS,NC07,hot,44.0,8,35.6,max temp much warmer than neighbors
+2024-12-27,40245,CALLAHAN #2,RAWS,NC04,hot,56.0,8,46.8,max temp much warmer than neighbors
+2024-12-27,42614,ROBBS,RAWS,NC07,hot,50.0,8,39.6,max temp much warmer than neighbors
+2024-12-28,40247,BOLAM,RAWS,NC06,hot,57.0,8,47.7,max temp much warmer than neighbors
+2024-12-28,42614,ROBBS,RAWS,NC07,hot,52.0,8,41.1,max temp much warmer than neighbors
+2024-12-28,42614,ROBBS,RAWS,NC07,missed,0.0,8,0.54,no rain while most neighbors got rain
+2024-12-29,40247,BOLAM,RAWS,NC06,hot,56.0,8,46.5,max temp much warmer than neighbors
+2024-12-29,42310,BIG ROCK,RAWS,NC03A,hot,61.0,8,52.8,max temp much warmer than neighbors
+2024-12-29,42614,ROBBS,RAWS,NC07,hot,49.0,8,37.1,max temp much warmer than neighbors
+2024-12-29,ASOS-PAO,Palo Alto Airport,ASOS,NC03A,cold,50.0,8,62.2,max temp much colder than neighbors
+2024-12-31,40313,BEAR FLAT,RAWS,NC06,hot,40.0,8,31.6,max temp much warmer than neighbors
+2025-01-01,40245,CALLAHAN #2,RAWS,NC04,hot,45.0,8,36.3,max temp much warmer than neighbors
+2025-01-01,42313,NOVATO FIRE - ROBINHOOD,RAWS,NC02,bad_rain,29.2,0,,impossible rain total
+2025-01-01,43916,CORDOZA RIDGE,RAWS,NC03B,hot,69.0,8,53.9,max temp much warmer than neighbors
+2025-01-02,42312,MIDDLE PEAK,RAWS,NC03A,hot,63.0,8,52.6,max temp much warmer than neighbors
+2025-01-02,43404,ROSE PEAK,RAWS,NC03B,hot,68.0,8,50.4,max temp much warmer than neighbors
+2025-01-02,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,45.0,8,55.3,max temp much colder than neighbors
+2025-01-03,41304,SADDLEBACK,RAWS,NC07,missed,0.0,8,0.72,no rain while most neighbors got rain
+2025-01-03,41901,DUNCAN,RAWS,NC07,missed,0.0,8,0.84,no rain while most neighbors got rain
+2025-01-03,ASOS-CIC,Chico Municipal,ASOS,NC05,hot,71.6,8,57.5,max temp much warmer than neighbors
+2025-01-04,40245,CALLAHAN #2,RAWS,NC04,hot,48.0,8,38.7,max temp much warmer than neighbors
+2025-01-05,40915,PIERCE,RAWS,NC07,hot,51.0,8,41.9,max temp much warmer than neighbors
+2025-01-05,ASOS-CIC,Chico Municipal,ASOS,NC05,cold,48.2,8,61.9,max temp much colder than neighbors
+2025-01-06,40910,QUINCY RD,RAWS,NC07,cold,43.0,8,53.4,max temp much colder than neighbors
+2025-01-06,40918,HUMBUG SUMMIT,RAWS,NC07,cold,33.0,8,43.7,max temp much colder than neighbors
+2025-01-07,40233,INDIAN WELL,RAWS,NC06,hot,54.0,8,41.9,max temp much warmer than neighbors
+2025-01-07,40421,EEL RIVER CAMP,RAWS,NC01,cold,56.0,8,65.2,max temp much colder than neighbors
+2025-01-07,40518,BACKBONE,RAWS,NC04,hot,48.0,8,38.7,max temp much warmer than neighbors
+2025-01-07,40918,HUMBUG SUMMIT,RAWS,NC07,cold,30.0,8,38.9,max temp much colder than neighbors
+2025-01-08,40240,JUANITA LAKE,RAWS,NC06,hot,49.0,8,40.7,max temp much warmer than neighbors
+2025-01-08,40314,COLD SPRINGS,RAWS,NC06,hot,56.0,8,40.5,max temp much warmer than neighbors
+2025-01-08,40518,BACKBONE,RAWS,NC04,hot,62.0,8,46.0,max temp much warmer than neighbors
+2025-01-08,41310,STAMPEDE,RAWS,NC08,hot,48.0,8,39.4,max temp much warmer than neighbors
+2025-01-09,40918,HUMBUG SUMMIT,RAWS,NC07,cold,34.0,8,45.3,max temp much colder than neighbors
+2025-01-09,55522239,COAST DAIRIES,RAWS,NC03A,cold,61.0,8,69.3,max temp much colder than neighbors
+2025-01-09,55522244,COOSKIE MOUNTAIN,RAWS,NC01,hot,72.0,5,55.4,max temp much warmer than neighbors
+2025-01-10,41017,MCGUIRES,RAWS,NC02,cold,58.0,8,69.7,max temp much colder than neighbors
+2025-01-10,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,43.0,8,59.0,max temp much colder than neighbors
+2025-01-11,40918,HUMBUG SUMMIT,RAWS,NC07,cold,28.0,8,39.0,max temp much colder than neighbors
+2025-01-11,42614,ROBBS,RAWS,NC07,hot,58.0,8,43.6,max temp much warmer than neighbors
+2025-01-11,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,53.0,8,40.0,max temp much warmer than neighbors
+2025-01-12,40517,SCORPION,RAWS,NC04,hot,58.0,8,49.9,max temp much warmer than neighbors
+2025-01-12,55522369,SMITH RIVER,RAWS,NC01,rain_alone,1.32,8,0.01,rain no neighbor saw
+2025-01-12,ASOS-CIC,Chico Municipal,ASOS,NC05,cold,46.4,8,63.4,max temp much colder than neighbors
+2025-01-13,43916,CORDOZA RIDGE,RAWS,NC03B,hot,64.0,8,55.4,max temp much warmer than neighbors
+2025-01-13,ASOS-SQL,San Carlos Airport,ASOS,NC03A,cold,48.2,8,61.1,max temp much colder than neighbors
+2025-01-14,40314,COLD SPRINGS,RAWS,NC06,hot,57.0,8,43.3,max temp much warmer than neighbors
+2025-01-14,40421,EEL RIVER CAMP,RAWS,NC01,cold,59.0,8,73.7,max temp much colder than neighbors
+2025-01-14,40918,HUMBUG SUMMIT,RAWS,NC07,cold,34.0,8,46.7,max temp much colder than neighbors
+2025-01-14,41406,SODA CREEK,RAWS,NC02,cold,57.0,8,68.4,max temp much colder than neighbors
+2025-01-14,55522244,COOSKIE MOUNTAIN,RAWS,NC01,hot,67.0,5,50.4,max temp much warmer than neighbors
+2025-01-15,41017,MCGUIRES,RAWS,NC02,cold,63.0,8,71.7,max temp much colder than neighbors
+2025-01-15,ASOS-RDD,Redding Municipal,ASOS,NC05,cold,62.0,8,70.4,max temp much colder than neighbors
+2025-01-16,40102,GASQUET 2,RAWS,NC04,cold,51.0,8,60.9,max temp much colder than neighbors
+2025-01-16,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,52.0,8,62.3,max temp much colder than neighbors
+2025-01-16,ASOS-CEC,Crescent City,ASOS,NC01,cold,49.0,8,62.0,max temp much colder than neighbors
+2025-01-17,40423,ALDER POINT,RAWS,NC04,cold,51.0,8,62.1,max temp much colder than neighbors
+2025-01-17,40918,HUMBUG SUMMIT,RAWS,NC07,cold,34.0,8,43.9,max temp much colder than neighbors
+2025-01-17,41017,MCGUIRES,RAWS,NC02,cold,56.0,8,64.1,max temp much colder than neighbors
+2025-01-18,40423,ALDER POINT,RAWS,NC04,cold,51.0,8,63.5,max temp much colder than neighbors
+2025-01-18,41017,MCGUIRES,RAWS,NC02,cold,53.0,8,64.7,max temp much colder than neighbors
+2025-01-18,ASOS-PAO,Palo Alto Airport,ASOS,NC03A,cold,53.6,8,62.5,max temp much colder than neighbors
+2025-01-19,40423,ALDER POINT,RAWS,NC04,cold,51.0,8,62.5,max temp much colder than neighbors
+2025-01-19,41017,MCGUIRES,RAWS,NC02,cold,49.0,8,63.8,max temp much colder than neighbors
+2025-01-19,42312,MIDDLE PEAK,RAWS,NC03A,hot,55.0,8,45.7,max temp much warmer than neighbors
+2025-01-19,43809,BEN LOMOND,RAWS,NC03B,hot,56.0,8,45.5,max temp much warmer than neighbors
+2025-01-19,ASOS-CIC,Chico Municipal,ASOS,NC05,cold,42.8,8,60.6,max temp much colder than neighbors
+2025-01-20,40421,EEL RIVER CAMP,RAWS,NC01,cold,59.0,8,69.0,max temp much colder than neighbors
+2025-01-20,40423,ALDER POINT,RAWS,NC04,cold,54.0,8,65.9,max temp much colder than neighbors
+2025-01-20,43916,CORDOZA RIDGE,RAWS,NC03B,hot,65.0,8,57.0,max temp much warmer than neighbors
+2025-01-21,40102,GASQUET 2,RAWS,NC04,cold,47.0,8,60.3,max temp much colder than neighbors
+2025-01-21,40408,HOOPA,RAWS,NC04,cold,53.0,8,65.3,max temp much colder than neighbors
+2025-01-21,40423,ALDER POINT,RAWS,NC04,cold,55.0,8,64.1,max temp much colder than neighbors
+2025-01-21,41901,DUNCAN,RAWS,NC07,hot,55.0,8,46.9,max temp much warmer than neighbors
+2025-01-21,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,38.0,8,56.9,max temp much colder than neighbors
+2025-01-22,40105,SHIP MTN,RAWS,NC04,hot,62.0,8,51.4,max temp much warmer than neighbors
+2025-01-22,40408,HOOPA,RAWS,NC04,cold,54.0,8,66.3,max temp much colder than neighbors
+2025-01-22,40918,HUMBUG SUMMIT,RAWS,NC07,cold,35.0,8,47.3,max temp much colder than neighbors
+2025-01-22,42108,ATLAS PEAK,RAWS,NC02,hot,66.0,8,56.9,max temp much warmer than neighbors
+2025-01-22,43916,CORDOZA RIDGE,RAWS,NC03B,hot,72.0,8,60.5,max temp much warmer than neighbors
+2025-01-23,40315,SURPRISE VALLEY,RAWS,NC08,cold,45.0,8,55.9,max temp much colder than neighbors
+2025-01-23,43916,CORDOZA RIDGE,RAWS,NC03B,hot,75.0,8,63.9,max temp much warmer than neighbors
+2025-01-23,55522244,COOSKIE MOUNTAIN,RAWS,NC01,hot,70.0,5,56.4,max temp much warmer than neighbors
+2025-01-23,ASOS-O54,Weaverville,ASOS,NC04,cold,30.2,8,65.9,max temp much colder than neighbors
+2025-01-24,41017,MCGUIRES,RAWS,NC02,cold,58.0,8,67.7,max temp much colder than neighbors
+2025-01-24,42312,MIDDLE PEAK,RAWS,NC03A,hot,65.0,8,55.1,max temp much warmer than neighbors
+2025-01-24,43011,MALLORY RIDGE,RAWS,NC03B,hot,64.0,8,55.0,max temp much warmer than neighbors
+2025-01-25,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,55.0,8,32.7,max temp much warmer than neighbors
+2025-01-26,ASOS-CIC,Chico Municipal,ASOS,NC05,cold,39.2,8,60.2,max temp much colder than neighbors
+2025-01-27,40408,HOOPA,RAWS,NC04,cold,55.0,8,64.7,max temp much colder than neighbors
+2025-01-27,40918,HUMBUG SUMMIT,RAWS,NC07,cold,28.0,8,39.0,max temp much colder than neighbors
+2025-01-27,ASOS-CIC,Chico Municipal,ASOS,NC05,hot,73.4,8,65.0,max temp much warmer than neighbors
+2025-01-28,40102,GASQUET 2,RAWS,NC04,cold,53.0,8,61.9,max temp much colder than neighbors
+2025-01-28,40314,COLD SPRINGS,RAWS,NC06,hot,50.0,8,41.3,max temp much warmer than neighbors
+2025-01-28,40423,ALDER POINT,RAWS,NC04,cold,57.0,8,66.0,max temp much colder than neighbors
+2025-01-28,40918,HUMBUG SUMMIT,RAWS,NC07,cold,34.0,8,45.2,max temp much colder than neighbors
+2025-01-28,41017,MCGUIRES,RAWS,NC02,cold,58.0,8,67.1,max temp much colder than neighbors
+2025-01-28,41806,WHITE CLOUD,RAWS,NC07,rain_alone,0.8,8,0.0,rain no neighbor saw
+2025-01-28,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,51.0,8,64.2,max temp much colder than neighbors
+2025-01-28,ASOS-CEC,Crescent City,ASOS,NC01,cold,51.0,8,62.5,max temp much colder than neighbors
+2025-01-28,ASOS-O54,Weaverville,ASOS,NC04,cold,42.8,8,60.6,max temp much colder than neighbors
+2025-01-29,40423,ALDER POINT,RAWS,NC04,cold,55.0,8,66.0,max temp much colder than neighbors
+2025-01-29,41017,MCGUIRES,RAWS,NC02,cold,52.0,8,65.9,max temp much colder than neighbors
+2025-01-29,41310,STAMPEDE,RAWS,NC08,hot,53.0,8,43.9,max temp much warmer than neighbors
+2025-01-29,ASOS-OAK,Oakland,ASOS,NC03A,hot,68.0,8,55.1,max temp much warmer than neighbors
+2025-01-30,40423,ALDER POINT,RAWS,NC04,cold,52.0,8,63.9,max temp much colder than neighbors
+2025-01-30,42010,HAWKEYE,RAWS,NC02,cold,37.0,8,53.4,max temp much colder than neighbors
+2025-01-30,ASOS-OAK,Oakland,ASOS,NC03A,hot,63.0,8,54.2,max temp much warmer than neighbors
+2025-01-30,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,cold,52.0,8,60.1,max temp much colder than neighbors
+2025-01-31,40247,BOLAM,RAWS,NC06,hot,53.0,8,37.8,max temp much warmer than neighbors
+2025-01-31,42614,ROBBS,RAWS,NC07,hot,45.0,8,36.1,max temp much warmer than neighbors
+2025-01-31,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,58.0,8,43.5,max temp much warmer than neighbors
+2025-02-01,42614,ROBBS,RAWS,NC07,hot,54.0,8,39.7,max temp much warmer than neighbors
+2025-02-02,40237,COLLINS BALDY,RAWS,NC04,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-02-02,40920,SWAIN MOUNTAIN,RAWS,NC07,hot,51.0,8,41.1,max temp much warmer than neighbors
+2025-02-02,41909,HOMEWOOD,RAWS,NC07,missed,0.0,8,0.83,no rain while most neighbors got rain
+2025-02-02,42614,ROBBS,RAWS,NC07,hot,54.0,8,38.5,max temp much warmer than neighbors
+2025-02-02,43308,SPRING VALLEY,RAWS,NC03A,wet,1.41,8,0.19,far more rain than any neighbor
+2025-02-02,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-02-03,260113,BUFFALO CREEK,RAWS,NC08,hot,60.0,8,51.6,max temp much warmer than neighbors
+2025-02-03,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.85,no rain while most neighbors got rain
+2025-02-03,40920,SWAIN MOUNTAIN,RAWS,NC07,hot,49.0,8,40.4,max temp much warmer than neighbors
+2025-02-03,42614,ROBBS,RAWS,NC07,hot,54.0,8,38.6,max temp much warmer than neighbors
+2025-02-03,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,missed,0.0,8,0.64,no rain while most neighbors got rain
+2025-02-04,42614,ROBBS,RAWS,NC07,hot,52.0,8,38.6,max temp much warmer than neighbors
+2025-02-05,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.7,no rain while most neighbors got rain
+2025-02-05,42614,ROBBS,RAWS,NC07,hot,47.0,8,37.5,max temp much warmer than neighbors
+2025-02-05,ASOS-DVO,Novato,ASOS,NC02,rain_alone,0.62,8,0.01,rain no neighbor saw
+2025-02-05,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,wet,1.63,8,0.18,far more rain than any neighbor
+2025-02-06,42614,ROBBS,RAWS,NC07,hot,49.0,8,37.5,max temp much warmer than neighbors
+2025-02-06,ASOS-MYV,Marysville/Yuba County,ASOS,NC05,cold,48.0,8,56.7,max temp much colder than neighbors
+2025-02-06,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,missed,0.0,8,0.73,no rain while most neighbors got rain
+2025-02-07,40233,INDIAN WELL,RAWS,NC06,hot,47.0,8,34.2,max temp much warmer than neighbors
+2025-02-07,42614,ROBBS,RAWS,NC07,hot,46.0,8,35.6,max temp much warmer than neighbors
+2025-02-07,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,wet,1.18,8,0.24,far more rain than any neighbor
+2025-02-08,ASOS-AAT,Alturas (Was O00),ASOS,NC06,cold,28.0,8,37.1,max temp much colder than neighbors
+2025-02-08,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,cold,27.0,8,44.3,max temp much colder than neighbors
+2025-02-09,40105,SHIP MTN,RAWS,NC04,hot,47.0,8,35.3,max temp much warmer than neighbors
+2025-02-09,40228,WEED AIRPORT,RAWS,NC06,cold,28.0,8,40.9,max temp much colder than neighbors
+2025-02-09,40242,BRAZIE RANCH,RAWS,NC06,cold,25.0,8,42.1,max temp much colder than neighbors
+2025-02-09,42614,ROBBS,RAWS,NC07,hot,51.0,8,41.1,max temp much warmer than neighbors
+2025-02-09,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,cold,24.0,8,41.7,max temp much colder than neighbors
+2025-02-10,40242,BRAZIE RANCH,RAWS,NC06,cold,26.0,8,40.9,max temp much colder than neighbors
+2025-02-10,40918,HUMBUG SUMMIT,RAWS,NC07,cold,28.0,8,39.7,max temp much colder than neighbors
+2025-02-10,41214,JARBO GAP,RAWS,NC07,hot,58.0,8,48.6,max temp much warmer than neighbors
+2025-02-10,43916,CORDOZA RIDGE,RAWS,NC03B,cold,43.0,8,51.3,max temp much colder than neighbors
+2025-02-10,ASOS-MHS,Mount Shasta City,ASOS,NC04,cold,30.0,8,39.9,max temp much colder than neighbors
+2025-02-10,ASOS-O54,Weaverville,ASOS,NC04,cold,33.8,8,50.6,max temp much colder than neighbors
+2025-02-10,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,cold,23.0,8,41.2,max temp much colder than neighbors
+2025-02-11,40228,WEED AIRPORT,RAWS,NC06,cold,25.0,8,38.0,max temp much colder than neighbors
+2025-02-11,40242,BRAZIE RANCH,RAWS,NC06,cold,24.0,8,38.4,max temp much colder than neighbors
+2025-02-11,40918,HUMBUG SUMMIT,RAWS,NC07,cold,25.0,8,34.1,max temp much colder than neighbors
+2025-02-11,40920,SWAIN MOUNTAIN,RAWS,NC07,cold,23.0,8,35.5,max temp much colder than neighbors
+2025-02-11,41214,JARBO GAP,RAWS,NC07,hot,54.0,8,43.6,max temp much warmer than neighbors
+2025-02-11,ASOS-AAT,Alturas (Was O00),ASOS,NC06,cold,23.0,8,32.5,max temp much colder than neighbors
+2025-02-11,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,cold,19.0,8,39.3,max temp much colder than neighbors
+2025-02-12,40203,BLUE RIDGE (KNF),RAWS,NC04,hot,39.0,8,30.5,max temp much warmer than neighbors
+2025-02-12,40242,BRAZIE RANCH,RAWS,NC06,cold,26.0,8,38.1,max temp much colder than neighbors
+2025-02-12,40310,LOWER KLAMATH - FTS,RAWS,NC06,cold,18.0,8,33.2,max temp much colder than neighbors
+2025-02-12,40630,SOLDIER MTN,RAWS,NC06,cold,35.0,8,43.1,max temp much colder than neighbors
+2025-02-12,40918,HUMBUG SUMMIT,RAWS,NC07,cold,26.0,8,36.2,max temp much colder than neighbors
+2025-02-12,41214,JARBO GAP,RAWS,NC07,hot,59.0,8,46.5,max temp much warmer than neighbors
+2025-02-12,41310,STAMPEDE,RAWS,NC08,hot,45.0,8,34.9,max temp much warmer than neighbors
+2025-02-12,ASOS-O05,Chester,ASOS,NC07,cold,33.8,8,43.8,max temp much colder than neighbors
+2025-02-12,ASOS-SIY,Montague/Siskiyou,ASOS,NC06,cold,26.0,8,37.9,max temp much colder than neighbors
+2025-02-13,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,1.1,no rain while most neighbors got rain
+2025-02-13,40240,JUANITA LAKE,RAWS,NC06,hot,44.0,8,35.9,max temp much warmer than neighbors
+2025-02-13,40245,CALLAHAN #2,RAWS,NC04,hot,48.0,8,36.3,max temp much warmer than neighbors
+2025-02-13,40247,BOLAM,RAWS,NC06,hot,52.0,8,35.5,max temp much warmer than neighbors
+2025-02-13,40518,BACKBONE,RAWS,NC04,missed,0.0,8,1.43,no rain while most neighbors got rain
+2025-02-13,41311,RICE CANYON,RAWS,NC08,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-02-13,41810,TAHOE DONNER,RAWS,NC08,missed,0.0,8,0.82,no rain while most neighbors got rain
+2025-02-13,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,45.0,8,36.0,max temp much warmer than neighbors
+2025-02-14,42614,ROBBS,RAWS,NC07,hot,42.0,8,31.6,max temp much warmer than neighbors
+2025-02-14,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,wet,2.85,8,0.71,far more rain than any neighbor
+2025-02-14,ASOS-TVL,South Lake Tahoe,ASOS,NC07,cold,32.0,8,40.3,max temp much colder than neighbors
+2025-02-15,40243,VAN BREMMER,RAWS,NC06,hot,52.0,8,43.2,max temp much warmer than neighbors
+2025-02-15,40915,PIERCE,RAWS,NC07,hot,53.0,8,41.9,max temp much warmer than neighbors
+2025-02-15,41304,SADDLEBACK,RAWS,NC07,cold,36.0,8,44.6,max temp much colder than neighbors
+2025-02-15,41901,DUNCAN,RAWS,NC07,cold,34.0,8,43.1,max temp much colder than neighbors
+2025-02-15,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,38.0,8,47.2,max temp much colder than neighbors
+2025-02-15,ASOS-TVL,South Lake Tahoe,ASOS,NC07,cold,40.0,8,50.7,max temp much colder than neighbors
+2025-02-16,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-02-16,40239,QUARTZ HILL,RAWS,NC04,hot,49.0,8,40.8,max temp much warmer than neighbors
+2025-02-16,40245,CALLAHAN #2,RAWS,NC04,hot,52.0,8,39.9,max temp much warmer than neighbors
+2025-02-16,40247,BOLAM,RAWS,NC06,hot,50.0,8,38.2,max temp much warmer than neighbors
+2025-02-16,55522334,ORESTIMBA CREEK,RAWS,NC03B,hot,70.0,8,61.1,max temp much warmer than neighbors
+2025-02-17,42614,ROBBS,RAWS,NC07,hot,52.0,8,41.1,max temp much warmer than neighbors
+2025-02-18,ASOS-O05,Chester,ASOS,NC07,cold,41.0,8,53.4,max temp much colder than neighbors
+2025-02-18,ASOS-TVL,South Lake Tahoe,ASOS,NC07,cold,44.0,8,52.8,max temp much colder than neighbors
+2025-02-19,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.7,no rain while most neighbors got rain
+2025-02-20,40723,LADDER BUTTE,RAWS,NC07,cold,41.0,8,50.6,max temp much colder than neighbors
+2025-02-20,42012,OAK RIDGE,RAWS,NC02,hot,73.0,8,64.2,max temp much warmer than neighbors
+2025-02-20,42614,ROBBS,RAWS,NC07,hot,60.0,8,50.1,max temp much warmer than neighbors
+2025-02-20,55522369,SMITH RIVER,RAWS,NC01,rain_alone,0.93,8,0.01,rain no neighbor saw
+2025-02-21,40105,SHIP MTN,RAWS,NC04,hot,61.0,8,50.9,max temp much warmer than neighbors
+2025-02-21,40203,BLUE RIDGE (KNF),RAWS,NC04,hot,61.0,8,48.4,max temp much warmer than neighbors
+2025-02-21,40310,LOWER KLAMATH - FTS,RAWS,NC06,cold,40.0,8,52.2,max temp much colder than neighbors
+2025-02-21,41304,SADDLEBACK,RAWS,NC07,hot,59.0,8,50.5,max temp much warmer than neighbors
+2025-02-21,ASOS-AUN,Aurburn Municipal Airport,ASOS,NC05,hot,134.6,8,65.6,max temp much warmer than neighbors
+2025-02-21,ASOS-O05,Chester,ASOS,NC07,cold,48.2,8,57.0,max temp much colder than neighbors
+2025-02-22,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-02-22,40245,CALLAHAN #2,RAWS,NC04,hot,62.0,8,53.8,max temp much warmer than neighbors
+2025-02-22,41017,MCGUIRES,RAWS,NC02,cold,62.0,8,71.4,max temp much colder than neighbors
+2025-02-22,ASOS-O05,Chester,ASOS,NC07,cold,50.0,8,59.4,max temp much colder than neighbors
+2025-02-22,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,50.0,8,59.3,max temp much colder than neighbors
+2025-02-23,40245,CALLAHAN #2,RAWS,NC04,hot,59.0,8,49.1,max temp much warmer than neighbors
+2025-02-23,41503,STONYFORD,RAWS,NC02,hot,72.0,8,63.5,max temp much warmer than neighbors
+2025-02-23,42614,ROBBS,RAWS,NC07,hot,65.0,8,52.7,max temp much warmer than neighbors
+2025-02-24,40240,JUANITA LAKE,RAWS,NC06,hot,56.0,8,46.3,max temp much warmer than neighbors
+2025-02-24,40247,BOLAM,RAWS,NC06,hot,61.0,8,48.5,max temp much warmer than neighbors
+2025-02-25,40614,SUGARLOAF (SHF),RAWS,NC04,hot,67.0,8,57.8,max temp much warmer than neighbors
+2025-02-25,40723,LADDER BUTTE,RAWS,NC07,cold,47.0,8,55.5,max temp much colder than neighbors
+2025-02-25,41901,DUNCAN,RAWS,NC07,hot,63.0,8,53.0,max temp much warmer than neighbors
+2025-02-25,42614,ROBBS,RAWS,NC07,hot,65.0,8,57.0,max temp much warmer than neighbors
+2025-02-25,ASOS-O05,Chester,ASOS,NC07,cold,51.8,8,59.8,max temp much colder than neighbors
+2025-02-26,41901,DUNCAN,RAWS,NC07,hot,67.0,8,57.6,max temp much warmer than neighbors
+2025-02-27,40310,LOWER KLAMATH - FTS,RAWS,NC06,cold,55.0,8,65.9,max temp much colder than neighbors
+2025-02-27,40423,ALDER POINT,RAWS,NC04,cold,71.0,8,80.5,max temp much colder than neighbors
+2025-02-27,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,59.0,8,75.6,max temp much colder than neighbors
+2025-02-27,ASOS-CEC,Crescent City,ASOS,NC01,cold,56.0,8,74.5,max temp much colder than neighbors
+2025-02-28,40310,LOWER KLAMATH - FTS,RAWS,NC06,cold,58.0,8,66.1,max temp much colder than neighbors
+2025-02-28,40423,ALDER POINT,RAWS,NC04,cold,73.0,8,82.1,max temp much colder than neighbors
+2025-02-28,40614,SUGARLOAF (SHF),RAWS,NC04,hot,84.0,8,75.5,max temp much warmer than neighbors
+2025-02-28,42108,ATLAS PEAK,RAWS,NC02,hot,77.0,8,68.1,max temp much warmer than neighbors
+2025-02-28,42614,ROBBS,RAWS,NC07,hot,70.0,8,61.0,max temp much warmer than neighbors
+2025-02-28,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,55.0,8,80.2,max temp much colder than neighbors
+2025-02-28,ASOS-CEC,Crescent City,ASOS,NC01,cold,55.0,8,79.0,max temp much colder than neighbors
+2025-02-28,ASOS-FOT,Fortuna,ASOS,NC01,cold,60.8,8,81.3,max temp much colder than neighbors
+2025-03-01,40918,HUMBUG SUMMIT,RAWS,NC07,cold,48.0,8,56.9,max temp much colder than neighbors
+2025-03-01,41017,MCGUIRES,RAWS,NC02,cold,57.0,8,68.9,max temp much colder than neighbors
+2025-03-01,41214,JARBO GAP,RAWS,NC07,hot,79.0,8,64.6,max temp much warmer than neighbors
+2025-03-01,41901,DUNCAN,RAWS,NC07,hot,65.0,8,57.0,max temp much warmer than neighbors
+2025-03-01,ASOS-FOT,Fortuna,ASOS,NC01,cold,55.4,8,65.7,max temp much colder than neighbors
+2025-03-02,41304,SADDLEBACK,RAWS,NC07,missed,0.0,8,0.72,no rain while most neighbors got rain
+2025-03-02,42614,ROBBS,RAWS,NC07,hot,41.0,8,32.1,max temp much warmer than neighbors
+2025-03-02,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,64.0,8,40.1,max temp much warmer than neighbors
+2025-03-03,41018,MENDOCINO PASS,RAWS,NC02,cold,35.0,8,44.0,max temp much colder than neighbors
+2025-03-05,ASOS-RBL,Red Bluff Municipal,ASOS,NC05,cold,49.0,8,58.3,max temp much colder than neighbors
+2025-03-05,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,48.0,8,37.8,max temp much warmer than neighbors
+2025-03-06,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,48.0,8,35.3,max temp much warmer than neighbors
+2025-03-07,40918,HUMBUG SUMMIT,RAWS,NC07,cold,28.0,8,42.5,max temp much colder than neighbors
+2025-03-07,ASOS-HAF,Half Moon Bay,ASOS,NC03A,cold,55.4,8,64.3,max temp much colder than neighbors
+2025-03-08,40428,WESTSIDE,RAWS,NC01,cold,55.0,8,67.7,max temp much colder than neighbors
+2025-03-08,40614,SUGARLOAF (SHF),RAWS,NC04,hot,70.0,8,61.4,max temp much warmer than neighbors
+2025-03-08,41901,DUNCAN,RAWS,NC07,hot,65.0,8,46.4,max temp much warmer than neighbors
+2025-03-08,ASOS-FOT,Fortuna,ASOS,NC01,cold,55.4,8,69.2,max temp much colder than neighbors
+2025-03-09,40918,HUMBUG SUMMIT,RAWS,NC07,cold,38.0,8,47.7,max temp much colder than neighbors
+2025-03-09,41214,JARBO GAP,RAWS,NC07,hot,68.0,8,59.9,max temp much warmer than neighbors
+2025-03-09,ASOS-RHV,San Jose/Reid/Hillv,ASOS,NC03A,cold,55.4,8,66.4,max temp much colder than neighbors
+2025-03-10,40614,SUGARLOAF (SHF),RAWS,NC04,hot,71.0,8,61.8,max temp much warmer than neighbors
+2025-03-10,40918,HUMBUG SUMMIT,RAWS,NC07,cold,41.0,8,49.7,max temp much colder than neighbors
+2025-03-10,41017,MCGUIRES,RAWS,NC02,cold,62.0,8,70.7,max temp much colder than neighbors
+2025-03-11,40918,HUMBUG SUMMIT,RAWS,NC07,cold,36.0,8,49.2,max temp much colder than neighbors
+2025-03-11,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,54.0,8,64.4,max temp much colder than neighbors
+2025-03-12,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,1.22,no rain while most neighbors got rain
+2025-03-12,41304,SADDLEBACK,RAWS,NC07,missed,0.0,8,1.01,no rain while most neighbors got rain
+2025-03-12,ASOS-RBL,Red Bluff Municipal,ASOS,NC05,missed,0.0,8,0.78,no rain while most neighbors got rain
+2025-03-13,40240,JUANITA LAKE,RAWS,NC06,hot,43.0,8,34.5,max temp much warmer than neighbors
+2025-03-13,40904,CHESTER,RAWS,NC07,hot,44.0,8,35.5,max temp much warmer than neighbors
+2025-03-13,40921,DENTEN CREEK,RAWS,NC07,hot,50.0,8,37.0,max temp much warmer than neighbors
+2025-03-14,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.83,no rain while most neighbors got rain
+2025-03-14,40245,CALLAHAN #2,RAWS,NC04,hot,45.0,8,34.4,max temp much warmer than neighbors
+2025-03-14,40904,CHESTER,RAWS,NC07,hot,43.0,8,34.6,max temp much warmer than neighbors
+2025-03-14,ASOS-RBL,Red Bluff Municipal,ASOS,NC05,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-03-15,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.94,no rain while most neighbors got rain
+2025-03-15,42614,ROBBS,RAWS,NC07,missed,0.0,8,0.55,no rain while most neighbors got rain
+2025-03-15,55522244,COOSKIE MOUNTAIN,RAWS,NC01,wet,1.33,5,0.32,far more rain than any neighbor
+2025-03-16,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,2.69,no rain while most neighbors got rain
+2025-03-16,40247,BOLAM,RAWS,NC06,hot,57.0,8,39.1,max temp much warmer than neighbors
+2025-03-16,40501,BIG BAR,RAWS,NC04,hot,59.0,8,50.0,max temp much warmer than neighbors
+2025-03-16,41503,STONYFORD,RAWS,NC02,hot,62.0,8,52.0,max temp much warmer than neighbors
+2025-03-16,43809,BEN LOMOND,RAWS,NC03B,cold,45.0,8,53.5,max temp much colder than neighbors
+2025-03-16,ASOS-RBL,Red Bluff Municipal,ASOS,NC05,missed,0.0,8,0.78,no rain while most neighbors got rain
+2025-03-16,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,40.0,8,49.5,max temp much colder than neighbors
+2025-03-17,40105,SHIP MTN,RAWS,NC04,missed,0.0,8,0.52,no rain while most neighbors got rain
+2025-03-17,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,46.0,8,37.4,max temp much warmer than neighbors
+2025-03-18,40918,HUMBUG SUMMIT,RAWS,NC07,cold,29.0,8,38.5,max temp much colder than neighbors
+2025-03-18,42614,ROBBS,RAWS,NC07,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-03-18,ASOS-BLU,Blue Canyon - Nyack,ASOS,NC07,missed,0.0,8,0.57,no rain while most neighbors got rain
+2025-03-18,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,35.0,8,44.1,max temp much colder than neighbors
+2025-03-18,ASOS-TVL,South Lake Tahoe,ASOS,NC07,cold,37.0,8,45.4,max temp much colder than neighbors
+2025-03-19,40247,BOLAM,RAWS,NC06,hot,54.0,8,42.5,max temp much warmer than neighbors
+2025-03-19,40918,HUMBUG SUMMIT,RAWS,NC07,cold,31.0,8,39.4,max temp much colder than neighbors
+2025-03-23,40918,HUMBUG SUMMIT,RAWS,NC07,cold,46.0,8,61.1,max temp much colder than neighbors
+2025-03-23,41017,MCGUIRES,RAWS,NC02,cold,69.0,8,79.2,max temp much colder than neighbors
+2025-03-23,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,54.0,8,73.2,max temp much colder than neighbors
+2025-03-23,ASOS-CEC,Crescent City,ASOS,NC01,cold,56.0,8,73.1,max temp much colder than neighbors
+2025-03-23,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,50.0,8,62.8,max temp much colder than neighbors
+2025-03-24,40105,SHIP MTN,RAWS,NC04,rain_alone,0.71,8,0.03,rain no neighbor saw
+2025-03-24,40614,SUGARLOAF (SHF),RAWS,NC04,hot,87.0,8,77.9,max temp much warmer than neighbors
+2025-03-24,40918,HUMBUG SUMMIT,RAWS,NC07,cold,51.0,8,65.7,max temp much colder than neighbors
+2025-03-24,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,64.0,8,82.0,max temp much colder than neighbors
+2025-03-24,ASOS-CEC,Crescent City,ASOS,NC01,cold,60.0,8,81.6,max temp much colder than neighbors
+2025-03-24,ASOS-FOT,Fortuna,ASOS,NC01,cold,66.2,8,84.7,max temp much colder than neighbors
+2025-03-25,40105,SHIP MTN,RAWS,NC04,rain_alone,0.82,8,0.04,rain no neighbor saw
+2025-03-25,40614,SUGARLOAF (SHF),RAWS,NC04,hot,86.0,8,77.9,max temp much warmer than neighbors
+2025-03-25,40918,HUMBUG SUMMIT,RAWS,NC07,cold,56.0,8,64.8,max temp much colder than neighbors
+2025-03-25,55522369,SMITH RIVER,RAWS,NC01,cold,70.0,8,85.2,max temp much colder than neighbors
+2025-03-25,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,60.0,8,85.2,max temp much colder than neighbors
+2025-03-25,ASOS-CEC,Crescent City,ASOS,NC01,cold,59.0,8,85.1,max temp much colder than neighbors
+2025-03-25,ASOS-FOT,Fortuna,ASOS,NC01,cold,68.0,8,85.2,max temp much colder than neighbors
+2025-03-25,ASOS-HAF,Half Moon Bay,ASOS,NC03A,cold,69.8,8,83.7,max temp much colder than neighbors
+2025-03-26,41001,BOONVILLE,RAWS,NC02,cold,58.0,8,69.7,max temp much colder than neighbors
+2025-03-26,41503,STONYFORD,RAWS,NC02,hot,77.0,8,68.0,max temp much warmer than neighbors
+2025-03-26,42310,BIG ROCK,RAWS,NC03A,hot,66.0,8,54.8,max temp much warmer than neighbors
+2025-03-26,42312,MIDDLE PEAK,RAWS,NC03A,hot,68.0,8,53.1,max temp much warmer than neighbors
+2025-03-26,43404,ROSE PEAK,RAWS,NC03B,hot,66.0,8,58.0,max temp much warmer than neighbors
+2025-03-26,55522244,COOSKIE MOUNTAIN,RAWS,NC01,wet,1.16,5,0.18,far more rain than any neighbor
+2025-03-26,ASOS-DWA,Yolo County,ASOS,NC05,rain_alone,0.57,8,0.03,rain no neighbor saw
+2025-03-26,ASOS-MHR,Mather Field,ASOS,NC05,hot,82.0,8,69.6,max temp much warmer than neighbors
+2025-03-26,ASOS-NUQ,Moffett Nas/Mtn Vie,ASOS,NC03A,hot,75.0,8,65.2,max temp much warmer than neighbors
+2025-03-26,ASOS-SUU,Travis Afb/Fairfld,ASOS,NC05,hot,83.0,8,64.7,max temp much warmer than neighbors
+2025-03-26,ASOS-UKI,Ukiah,ASOS,NC02,cold,59.0,8,70.4,max temp much colder than neighbors
+2025-03-27,40408,HOOPA,RAWS,NC04,hot,63.0,8,53.7,max temp much warmer than neighbors
+2025-03-27,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,69.0,8,50.7,max temp much warmer than neighbors
+2025-03-28,42614,ROBBS,RAWS,NC07,hot,45.0,8,35.6,max temp much warmer than neighbors
+2025-03-29,41214,JARBO GAP,RAWS,NC07,hot,64.0,8,55.4,max temp much warmer than neighbors
+2025-03-30,42614,ROBBS,RAWS,NC07,hot,47.0,8,38.1,max temp much warmer than neighbors
+2025-03-30,43809,BEN LOMOND,RAWS,NC03B,cold,48.0,8,58.4,max temp much colder than neighbors
+2025-03-30,43913,LOS GATOS,RAWS,NC03B,cold,52.0,8,61.1,max temp much colder than neighbors
+2025-03-31,40614,SUGARLOAF (SHF),RAWS,NC04,hot,57.0,8,43.6,max temp much warmer than neighbors
+2025-03-31,40731,BLACKS MOUNTAIN,RAWS,NC07,hot,42.0,8,33.4,max temp much warmer than neighbors
+2025-03-31,41304,SADDLEBACK,RAWS,NC07,missed,0.0,8,0.65,no rain while most neighbors got rain
+2025-03-31,41901,DUNCAN,RAWS,NC07,missed,0.0,8,0.81,no rain while most neighbors got rain
+2025-03-31,42614,ROBBS,RAWS,NC07,hot,42.0,8,33.6,max temp much warmer than neighbors
+2025-03-31,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,45.0,8,35.2,max temp much warmer than neighbors
+2025-04-01,40404,BRUSH MOUNTAIN,RAWS,NC04,hot,47.0,8,37.3,max temp much warmer than neighbors
+2025-04-01,41018,MENDOCINO PASS,RAWS,NC02,missed,0.0,8,0.74,no rain while most neighbors got rain
+2025-04-01,43916,CORDOZA RIDGE,RAWS,NC03B,cold,41.0,8,49.5,max temp much colder than neighbors
+2025-04-01,ASOS-MHS,Mount Shasta City,ASOS,NC04,cold,34.0,8,42.5,max temp much colder than neighbors
+2025-04-02,40429,KNEELAND,RAWS,NC04,cold,41.0,8,49.5,max temp much colder than neighbors
+2025-04-02,41402,HIGH GLADE LOOKOUT,RAWS,NC02,rain_alone,0.53,8,0.01,rain no neighbor saw
+2025-04-02,42614,ROBBS,RAWS,NC07,missed,0.0,8,0.97,no rain while most neighbors got rain
+2025-04-02,43916,CORDOZA RIDGE,RAWS,NC03B,cold,47.0,8,55.3,max temp much colder than neighbors
+2025-04-02,ASOS-BLU,Blue Canyon - Nyack,ASOS,NC07,missed,0.0,8,0.79,no rain while most neighbors got rain
+2025-04-03,40425,SCHOOLHOUSE,RAWS,NC01,cold,50.0,8,58.1,max temp much colder than neighbors
+2025-04-03,40428,WESTSIDE,RAWS,NC01,cold,53.0,8,62.9,max temp much colder than neighbors
+2025-04-03,40429,KNEELAND,RAWS,NC04,cold,47.0,8,57.3,max temp much colder than neighbors
+2025-04-03,43916,CORDOZA RIDGE,RAWS,NC03B,cold,48.0,8,56.1,max temp much colder than neighbors
+2025-04-03,ASOS-FOT,Fortuna,ASOS,NC01,cold,53.6,8,64.6,max temp much colder than neighbors
+2025-04-03,ASOS-HAF,Half Moon Bay,ASOS,NC03A,cold,55.4,8,63.5,max temp much colder than neighbors
+2025-04-03,ASOS-TVL,South Lake Tahoe,ASOS,NC07,cold,38.0,8,47.3,max temp much colder than neighbors
+2025-04-04,40105,SHIP MTN,RAWS,NC04,hot,66.0,8,55.1,max temp much warmer than neighbors
+2025-04-04,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,59.0,8,73.6,max temp much colder than neighbors
+2025-04-04,ASOS-CEC,Crescent City,ASOS,NC01,cold,59.0,8,73.0,max temp much colder than neighbors
+2025-04-04,ASOS-FOT,Fortuna,ASOS,NC01,cold,62.6,8,74.4,max temp much colder than neighbors
+2025-04-04,ASOS-HAF,Half Moon Bay,ASOS,NC03A,cold,62.6,8,71.5,max temp much colder than neighbors
+2025-04-04,ASOS-MHR,Mather Field,ASOS,NC05,rain_alone,2.0,8,0.0,rain no neighbor saw
+2025-04-05,ASOS-FOT,Fortuna,ASOS,NC01,cold,66.2,8,76.7,max temp much colder than neighbors
+2025-04-05,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,46.0,8,59.8,max temp much colder than neighbors
+2025-04-06,41901,DUNCAN,RAWS,NC07,hot,65.0,8,56.1,max temp much warmer than neighbors
+2025-04-08,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,48.0,8,60.7,max temp much colder than neighbors
+2025-04-09,41017,MCGUIRES,RAWS,NC02,cold,72.0,8,80.2,max temp much colder than neighbors
+2025-04-09,ASOS-FOT,Fortuna,ASOS,NC01,cold,60.8,8,76.7,max temp much colder than neighbors
+2025-04-09,ASOS-HAF,Half Moon Bay,ASOS,NC03A,cold,62.6,8,76.3,max temp much colder than neighbors
+2025-04-10,41017,MCGUIRES,RAWS,NC02,cold,69.0,8,77.7,max temp much colder than neighbors
+2025-04-10,41214,JARBO GAP,RAWS,NC07,hot,81.0,8,72.7,max temp much warmer than neighbors
+2025-04-10,ASOS-O69,Petaluma,ASOS,NC02,cold,64.4,8,72.4,max temp much colder than neighbors
+2025-04-11,40614,SUGARLOAF (SHF),RAWS,NC04,hot,78.0,8,68.5,max temp much warmer than neighbors
+2025-04-11,41214,JARBO GAP,RAWS,NC07,hot,81.0,8,71.4,max temp much warmer than neighbors
+2025-04-11,ASOS-WVI,Watsonville,ASOS,NC03A,cold,68.0,8,76.4,max temp much colder than neighbors
+2025-04-12,40425,SCHOOLHOUSE,RAWS,NC01,cold,53.0,8,62.4,max temp much colder than neighbors
+2025-04-12,40428,WESTSIDE,RAWS,NC01,cold,53.0,8,67.1,max temp much colder than neighbors
+2025-04-12,40614,SUGARLOAF (SHF),RAWS,NC04,hot,76.0,8,67.9,max temp much warmer than neighbors
+2025-04-12,41017,MCGUIRES,RAWS,NC02,cold,63.0,8,73.7,max temp much colder than neighbors
+2025-04-12,ASOS-CEC,Crescent City,ASOS,NC01,cold,55.0,8,66.9,max temp much colder than neighbors
+2025-04-13,40105,SHIP MTN,RAWS,NC04,rain_alone,1.19,8,0.02,rain no neighbor saw
+2025-04-13,40614,SUGARLOAF (SHF),RAWS,NC04,hot,82.0,8,73.1,max temp much warmer than neighbors
+2025-04-13,ASOS-CEC,Crescent City,ASOS,NC01,cold,60.0,8,80.6,max temp much colder than neighbors
+2025-04-13,ASOS-FOT,Fortuna,ASOS,NC01,cold,62.6,8,83.2,max temp much colder than neighbors
+2025-04-13,ASOS-HAF,Half Moon Bay,ASOS,NC03A,cold,64.4,8,77.4,max temp much colder than neighbors
+2025-04-13,ASOS-RHV,San Jose/Reid/Hillv,ASOS,NC03A,cold,71.6,8,80.8,max temp much colder than neighbors
+2025-04-14,40105,SHIP MTN,RAWS,NC04,rain_alone,1.36,8,0.01,rain no neighbor saw
+2025-04-14,40614,SUGARLOAF (SHF),RAWS,NC04,hot,90.0,8,79.3,max temp much warmer than neighbors
+2025-04-14,40918,HUMBUG SUMMIT,RAWS,NC07,cold,57.0,8,65.9,max temp much colder than neighbors
+2025-04-14,41017,MCGUIRES,RAWS,NC02,cold,79.0,8,87.7,max temp much colder than neighbors
+2025-04-14,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,60.0,8,85.0,max temp much colder than neighbors
+2025-04-14,ASOS-APC,Napa County,ASOS,NC02,cold,71.0,8,83.1,max temp much colder than neighbors
+2025-04-14,ASOS-CEC,Crescent City,ASOS,NC01,cold,61.0,8,84.1,max temp much colder than neighbors
+2025-04-14,ASOS-FOT,Fortuna,ASOS,NC01,cold,64.4,8,87.2,max temp much colder than neighbors
+2025-04-14,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,cold,60.0,8,68.8,max temp much colder than neighbors
+2025-04-15,40428,WESTSIDE,RAWS,NC01,cold,64.0,8,81.0,max temp much colder than neighbors
+2025-04-15,40614,SUGARLOAF (SHF),RAWS,NC04,hot,92.0,8,81.2,max temp much warmer than neighbors
+2025-04-15,42313,NOVATO FIRE - ROBINHOOD,RAWS,NC02,hot,70.0,8,60.7,max temp much warmer than neighbors
+2025-04-15,ASOS-FOT,Fortuna,ASOS,NC01,cold,57.2,8,81.2,max temp much colder than neighbors
+2025-04-15,ASOS-MCC,Sacramento Mcclellan,ASOS,NC05,hot,86.0,8,75.0,max temp much warmer than neighbors
+2025-04-15,ASOS-MHR,Mather Field,ASOS,NC05,hot,82.0,8,73.9,max temp much warmer than neighbors
+2025-04-15,ASOS-SUU,Travis Afb/Fairfld,ASOS,NC05,hot,76.0,8,63.2,max temp much warmer than neighbors
+2025-04-16,40425,SCHOOLHOUSE,RAWS,NC01,cold,60.0,8,71.6,max temp much colder than neighbors
+2025-04-16,40428,WESTSIDE,RAWS,NC01,cold,59.0,8,76.4,max temp much colder than neighbors
+2025-04-16,40632,ARBUCKLE BASIN,RAWS,NC05,cold,69.0,8,80.1,max temp much colder than neighbors
+2025-04-16,41901,DUNCAN,RAWS,NC07,hot,73.0,8,57.6,max temp much warmer than neighbors
+2025-04-16,42313,NOVATO FIRE - ROBINHOOD,RAWS,NC02,hot,67.0,8,57.9,max temp much warmer than neighbors
+2025-04-17,40425,SCHOOLHOUSE,RAWS,NC01,cold,62.0,8,71.4,max temp much colder than neighbors
+2025-04-17,40428,WESTSIDE,RAWS,NC01,cold,57.0,8,76.1,max temp much colder than neighbors
+2025-04-17,40614,SUGARLOAF (SHF),RAWS,NC04,hot,80.0,8,70.9,max temp much warmer than neighbors
+2025-04-17,41901,DUNCAN,RAWS,NC07,hot,59.0,8,50.6,max temp much warmer than neighbors
+2025-04-17,ASOS-TRK,Truckee-Tahoe,ASOS,NC08,hot,69.0,8,56.3,max temp much warmer than neighbors
+2025-04-18,40614,SUGARLOAF (SHF),RAWS,NC04,hot,83.0,8,71.7,max temp much warmer than neighbors
+2025-04-18,41017,MCGUIRES,RAWS,NC02,cold,69.0,8,80.2,max temp much colder than neighbors
+2025-04-18,ASOS-ACV,Arcata/Eureka Arpt,ASOS,NC01,cold,55.0,8,80.0,max temp much colder than neighbors
+2025-04-18,ASOS-CEC,Crescent City,ASOS,NC01,cold,60.0,8,80.8,max temp much colder than neighbors
+2025-04-18,ASOS-FOT,Fortuna,ASOS,NC01,cold,60.8,8,81.2,max temp much colder than neighbors
+2025-04-19,40428,WESTSIDE,RAWS,NC01,cold,59.0,8,75.0,max temp much colder than neighbors
+2025-04-19,41901,DUNCAN,RAWS,NC07,hot,64.0,8,55.5,max temp much warmer than neighbors
+2025-04-19,ASOS-FOT,Fortuna,ASOS,NC01,cold,55.4,8,78.7,max temp much colder than neighbors
+2025-04-19,ASOS-STS,Santa Rosa,ASOS,NC02,cold,60.0,8,71.3,max temp much colder than neighbors
 2026-11-08,40105,SHIP MTN,RAWS,NC04,hot,88.0,8,49.7,max temp much warmer than neighbors
 2026-11-09,40105,SHIP MTN,RAWS,NC04,hot,87.0,8,45.9,max temp much warmer than neighbors
 2026-11-09,40245,CALLAHAN #2,RAWS,NC04,hot,62.0,8,53.1,max temp much warmer than neighbors
