@@ -284,33 +284,93 @@ month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,pre
 2024-07,SW12,31,12,11,1,2.45,12,3.62,62,84.7,91.0,-3.4,1,27.5,37.9,47.1,31,0,28.1,35.36,6,SMOKEY BEAR (2 rain flags); DUNKEN (1 rain flag); MAYHILL (1 rain flag); COSMIC (1 rain flag); THE BOWL (1 cold day); DOG CANYON (1 rain flag),yes
 2024-07,SW13,31,8,2,6,1.92,5,2.81,78,91.8,101.0,-1.0,6,24.9,39.7,51.8,31,1,34.0,41.78,0,,yes
 2024-07,SW14N,31,8,4,4,1.06,8,1.75,34,94.8,104.0,-0.4,4,23.4,45.4,53.22,31,0,36.4,43.9,1,Roswell/Industrial (1 rain flag),yes
-2024-08,SW01,22,7,6,1,4.18,7,1.46,,80.6,90.0,1.0,1,33.0,36.2,55.77,22,3,20.8,30.46,2,FRAZIER WELLS (2 rain flags); WARM SPRINGS CANYON (1 rain flag),22 of 31 days
-2024-08,SW02,22,19,13,6,0.68,12,1.19,,95.3,101.0,0.6,6,22.7,53.2,60.92,22,0,36.0,39.86,3,MOSS BASIN (reads wet); CROWN KING (reads wet); SMITH PEAK (reads dry),22 of 31 days
-2024-08,SW03,22,12,7,5,0.06,8,0.11,,108.1,114.5,1.0,5,20.3,58.8,65.52,22,0,38.0,46.27,1,Wellton (1 cold day),22 of 31 days
-2024-08,SW04,22,10,6,4,1.64,9,1.42,,88.5,94.0,1.2,3,23.3,40.8,54.05,22,1,27.4,33.69,2,Farmington Regional (reads dry); Winslow (Aut) (runs hot),22 of 31 days
-2024-08,SW05,22,15,10,5,2.19,12,2.16,,85.0,90.0,1.9,5,29.7,31.4,40.19,22,0,22.0,25.52,3,MORMON LAKE (1 rain flag); SHADOW RIM (1 rain flag); Show Low Municipal (1 rain flag),22 of 31 days
-2024-08,SW06N,22,22,10,12,0.67,9,0.68,,104.2,111.2,0.7,12,22.4,46.2,52.05,22,0,30.9,36.32,5,"VERDE (reads dry, 1 rain flag); PAYSON (reads dry); TONTO BASIN (7 rain flags); CASA GRANDE (reads wet); Scottsdale Muni (reads dry)",22 of 31 days
-2024-08,SW06S,22,29,17,12,1.88,20,2.26,,93.5,99.0,2.0,11,28.1,36.5,42.98,22,0,23.4,27.93,9,"HORSE CAMP CANYON (2 rain flags); COLUMBINE (1 rain flag); GUTHRIE (reads dry); SAGUARO (reads dry); SASABE (1 rain flag); SCOUT CAMP (1 rain flag); Nogales Intl Airport (2 cold days, 1 rain flag); Tucson/Ryan Fld (1 cold day); Safford Municipal (reads dry)",22 of 31 days
-2024-08,SW07,22,18,16,2,2.0,12,,,85.3,90.5,3.0,2,23.1,39.5,45.97,22,0,25.9,33.15,7,COYOTE (1 rain flag); DEADMAN PEAK (1 cold day); BLACK MESA (reads dry); CUBA (reads dry); TOWER (reads dry); LAGUNA (reads dry); Grants-Milan Muni (1 cold day),22 of 31 days
-2024-08,SW08,22,19,16,3,1.58,17,2.14,,84.3,89.0,3.3,2,25.7,35.5,41.98,22,0,23.7,29.8,0,,22 of 31 days
-2024-08,SW09,22,16,6,10,0.26,9,1.39,,97.4,100.8,5.1,10,16.7,52.1,60.44,22,0,35.7,41.46,3,SANDIA LAKES (runs hot); BOSQUE (reads dry); Albuquerque Intl (reads dry),22 of 31 days
-2024-08,SW10,22,9,5,4,2.58,8,1.77,,81.9,87.0,3.3,4,26.8,34.2,43.77,22,0,22.2,26.52,0,,22 of 31 days
-2024-08,SW11,22,6,4,2,0.52,5,1.84,,89.5,93.5,4.8,2,19.8,47.4,57.64,22,1,32.3,40.09,1,SANDIA LAB (1 rain flag),22 of 31 days
-2024-08,SW12,22,12,11,1,0.27,10,2.0,,88.3,91.5,3.0,1,21.7,49.3,56.5,22,2,32.7,36.54,3,DUNKEN (reads dry); MESCAL (1 rain flag); COSMIC (reads wet),22 of 31 days
-2024-08,SW13,22,8,2,6,1.65,5,2.4,,95.7,102.7,3.6,6,20.8,44.4,54.44,22,4,37.7,48.32,2,Melrose Gunary Ran (1 rain flag); Cannon Afb/Clovis (1 rain flag),22 of 31 days
-2024-08,SW14N,22,8,4,4,0.06,8,1.2,,99.2,103.5,4.9,4,17.3,58.0,65.34,22,13,42.3,55.88,0,,22 of 31 days
+2024-08,SW01,31,7,6,1,4.2,7,2.06,167,79.5,90.0,0.2,1,30.5,35.3,55.77,31,3,21.0,30.46,2,FRAZIER WELLS (2 rain flags); WARM SPRINGS CANYON (1 rain flag),yes
+2024-08,SW02,31,19,13,6,0.93,11,2.46,48,94.4,101.0,0.2,6,20.1,54.1,60.92,31,0,37.0,42.35,4,MOSS BASIN (reads wet); CROWN KING (reads wet); SMITH PEAK (reads dry); Kingman (reads dry),yes
+2024-08,SW03,31,12,7,5,0.06,8,0.2,5,108.0,114.5,1.1,5,17.7,61.0,70.32,31,5,38.6,46.27,1,Wellton (1 cold day),yes
+2024-08,SW04,31,10,6,4,2.26,9,1.85,108,86.6,94.0,0.3,3,23.1,39.0,54.05,31,1,26.7,33.69,2,Farmington Regional (reads dry); Winslow (Aut) (runs hot),yes
+2024-08,SW05,31,15,10,5,2.51,12,2.96,62,83.6,90.0,1.0,5,28.5,31.1,40.19,31,0,22.0,25.52,3,MORMON LAKE (1 rain flag); SHADOW RIM (1 rain flag); Show Low Municipal (1 rain flag),yes
+2024-08,SW06N,31,22,10,12,0.71,9,0.96,36,103.8,111.2,0.5,12,20.6,45.3,52.05,31,0,30.9,36.32,7,"VERDE (reads dry, 1 rain flag); PAYSON (reads dry); TONTO BASIN (10 rain flags); CASA GRANDE (reads wet); Deer Valley/Phoenix (1 cold day); Goodyear Municipal (1 hot day); Scottsdale Muni (reads dry)",yes
+2024-08,SW06S,31,29,17,12,2.25,20,3.03,54,92.6,99.0,1.5,11,27.4,36.2,42.98,31,0,23.6,28.03,9,"HORSE CAMP CANYON (2 rain flags); COLUMBINE (1 rain flag); SAGUARO (reads dry); SASABE (1 rain flag); RINCON (1 rain flag); SCOUT CAMP (1 rain flag); Nogales Intl Airport (2 cold days, 1 rain flag); Tucson/Ryan Fld (1 cold day); Safford Municipal (reads dry)",yes
+2024-08,SW07,31,18,16,2,2.08,15,,,83.3,90.5,1.2,2,24.6,36.8,45.97,31,0,24.8,33.15,5,COYOTE (1 rain flag); DEADMAN PEAK (1 cold day); CUBA (reads dry); GRANTS (1 rain flag); Grants-Milan Muni (1 cold day),yes
+2024-08,SW08,31,19,16,3,2.44,17,2.93,44,82.5,89.0,1.7,2,27.5,33.9,41.98,31,0,23.0,29.8,0,,yes
+2024-08,SW09,31,16,6,10,0.92,10,1.86,38,95.2,100.8,3.4,10,19.2,48.9,60.44,31,0,34.2,41.46,2,SANDIA LAKES (runs hot); Albuquerque Intl (reads dry),yes
+2024-08,SW10,31,9,5,4,3.76,8,2.32,108,79.9,87.0,2.4,4,28.6,33.7,44.42,31,1,21.7,27.9,1,Angel Fire (1 cold day),yes
+2024-08,SW11,31,6,4,2,1.31,5,2.33,118,86.9,93.5,3.0,2,23.1,44.6,57.64,31,1,31.0,41.76,2,OAK FLATS (1 rain flag); SANDIA LAB (1 rain flag),yes
+2024-08,SW12,31,12,11,1,1.86,11,2.7,27,86.3,91.5,0.3,1,25.2,47.8,58.79,31,5,32.0,44.34,4,DUNKEN (1 rain flag); MAYHILL (1 rain flag); MESCAL (1 rain flag); PX WELL (reads dry),yes
+2024-08,SW13,31,8,2,6,2.22,5,3.08,72,94.1,102.7,3.0,6,23.0,43.8,55.16,31,7,36.8,48.58,3,MELROSE RANGE (1 rain flag); Melrose Gunary Ran (1 rain flag); Cannon Afb/Clovis (1 rain flag),yes
+2024-08,SW14N,31,8,4,4,0.42,7,1.67,30,97.3,104.0,3.8,4,20.2,56.8,67.42,31,17,41.6,55.88,1,"BATDRAW (reads dry, 1 rain flag)",yes
+2024-09,SW01,30,7,6,1,0.15,7,1.37,2,76.8,84.0,3.4,1,19.1,44.3,48.86,30,5,25.3,29.95,0,,yes
+2024-09,SW02,30,19,13,6,0.14,15,1.11,16,91.6,102.0,2.6,6,13.3,61.5,65.79,30,17,40.4,47.51,1,HUMBUG CREEK (1 rain flag),yes
+2024-09,SW03,30,12,7,5,0.0,8,0.68,0,104.7,114.5,2.8,4,12.6,63.6,71.82,30,14,38.9,48.67,2,Buckeye (1 cold day); Wellton (runs cold),yes
+2024-09,SW04,30,10,6,4,0.33,9,1.27,16,82.3,88.5,3.1,4,17.2,46.2,54.51,30,1,29.6,39.95,2,Farmington Regional (reads dry); Winslow (Aut) (1 hot day),yes
+2024-09,SW05,30,15,10,5,0.29,11,1.64,17,80.4,88.0,3.5,5,18.8,40.3,47.67,30,0,27.1,35.24,2,OAK CREEK (1 rain flag); PROMONTORY (reads wet),yes
+2024-09,SW06N,30,22,10,12,0.25,13,0.66,3,101.5,111.2,2.9,12,13.9,55.1,63.0,30,7,35.2,43.01,2,TONTO BASIN (25 rain flags); Deer Valley/Phoenix (2 cold days),yes
+2024-09,SW06S,30,29,17,12,0.68,17,1.67,22,90.8,98.0,3.7,11,18.5,45.8,56.9,30,0,30.7,38.23,7,GUTHRIE (reads dry); SAGUARO (reads dry); HOPKINS (1 hot day); Douglas Bisbee Intl (1 cold day); Nogales Intl Airport (reads dry); Safford Municipal (reads dry); Tucson Intl Airport (reads dry),yes
+2024-09,SW07,30,18,16,2,1.11,16,,,78.4,85.5,0.7,2,20.6,37.6,46.28,30,0,26.2,33.67,0,,yes
+2024-09,SW08,30,19,16,3,0.7,16,2.0,0,79.9,86.5,2.1,2,20.7,37.0,46.47,30,0,24.8,30.98,1,PELONA MOUNTAIN (reads dry),yes
+2024-09,SW09,30,16,6,10,0.06,8,1.28,3,88.9,95.0,2.7,10,17.6,46.1,57.41,30,0,31.9,43.3,3,SANDIA LAKES (reads dry); SEVILLETA (reads dry); Alamogordo-White (reads dry),yes
+2024-09,SW10,30,9,5,4,1.52,8,1.79,50,73.8,80.0,2.0,4,27.6,30.4,39.8,30,0,21.0,27.14,0,,yes
+2024-09,SW11,30,6,4,2,0.68,5,1.83,23,81.5,88.0,2.7,2,20.1,41.5,50.73,30,0,30.5,39.41,1,SANDIA LAB (2 rain flags),yes
+2024-09,SW12,30,12,11,1,1.14,9,2.33,52,79.4,88.0,-1.8,1,29.1,33.8,46.53,30,0,25.7,33.06,3,"MCGREGGOR RANGE (reads dry); MAYHILL (reads wet); PX WELL (runs hot, reads dry)",yes
+2024-09,SW13,30,8,2,6,1.2,5,1.75,69,85.9,97.0,1.7,5,25.3,33.9,47.58,30,0,29.8,43.71,1,Melrose Gunary Ran (1 cold day),yes
+2024-09,SW14N,30,8,4,4,0.85,8,2.17,53,87.8,98.3,1.6,4,27.4,36.0,49.73,30,0,30.4,42.8,0,,yes
+2024-10,SW01,31,7,6,1,1.23,7,1.34,49,68.3,84.0,5.6,1,21.2,42.8,55.02,31,17,22.3,31.58,0,,yes
+2024-10,SW02,31,19,13,6,0.07,15,0.78,55,83.6,100.4,5.4,6,13.3,62.0,71.43,31,17,38.5,45.06,0,,yes
+2024-10,SW03,31,12,7,5,0.0,8,0.13,0,96.3,112.0,5.2,4,12.0,58.5,69.03,31,3,34.6,43.75,1,Wellton (runs cold),yes
+2024-10,SW04,31,10,6,4,1.13,9,0.92,123,73.0,86.0,6.3,4,18.5,47.3,58.8,31,13,28.4,36.61,3,"WASHINGTON PASS (1 rain flag); Farmington Regional (1 hot day, 1 rain flag); Winslow (Aut) (reads dry)",yes
+2024-10,SW05,31,15,10,5,0.92,11,1.44,136,73.5,86.0,5.7,5,16.6,45.8,53.78,31,16,28.6,36.05,2,MORMON LAKE (reads wet); Show Low Municipal (1 hot day),yes
+2024-10,SW06N,31,22,10,12,0.12,13,0.56,0,93.0,108.0,4.8,12,11.9,59.5,68.17,31,17,34.7,47.0,5,VERDE (reads dry); TONTO BASIN (27 rain flags); Deer Valley/Phoenix (4 cold days); Goodyear Municipal (1 hot day); Payson (1 cold day),yes
+2024-10,SW06S,31,29,17,12,0.0,22,0.67,0,86.6,95.35,7.1,11,11.2,60.5,64.65,31,18,36.9,42.26,1,HOPKINS (1 hot day),yes
+2024-10,SW07,31,18,16,2,1.3,15,,,70.1,81.5,3.4,2,19.8,43.3,53.11,31,3,28.7,34.56,1,"DULCE #2 (reads dry, 1 rain flag)",yes
+2024-10,SW08,31,19,16,3,0.42,17,0.99,12,73.8,83.5,5.3,3,15.4,48.9,54.11,31,3,30.4,35.74,0,,yes
+2024-10,SW09,31,16,6,10,0.41,11,0.82,32,82.2,90.0,6.2,10,15.1,53.2,62.06,31,0,35.0,49.84,0,,yes
+2024-10,SW10,31,10,5,5,4.05,8,1.22,346,67.1,79.0,5.4,5,23.7,37.4,48.28,31,8,24.0,30.31,2,BARTLEY (2 hot days); Angel Fire (1 cold day),yes
+2024-10,SW11,31,6,4,2,0.8,5,1.29,144,74.0,83.5,6.3,2,18.4,48.0,57.39,31,6,32.9,45.81,1,SANDIA LAB (4 rain flags),yes
+2024-10,SW12,31,12,11,1,0.42,12,1.13,38,75.9,83.0,2.3,1,18.6,45.2,54.92,31,1,32.6,45.57,3,COSMIC (1 hot day); PINERY (1 rain flag); PX WELL (1 hot day),yes
+2024-10,SW13,31,8,2,6,2.23,5,1.31,170,79.2,92.15,5.2,6,22.9,39.1,53.05,31,6,32.3,49.08,0,,yes
+2024-10,SW14N,31,8,4,4,0.03,7,0.89,3,84.1,94.5,7.0,4,19.6,47.5,60.23,31,5,37.3,52.58,1,Roswell/Industrial (reads wet),yes
+2024-11,SW01,30,7,6,1,0.76,2,,,47.9,62.0,-2.5,1,25.9,30.5,38.41,30,0,18.6,29.62,5,"TUSAYAN (reads dry); BRIGHT ANGEL (reads wet); WARM SPRINGS CANYON (reads wet); LINDBERGH HILL (reads wet, 1 hot day); Grand Canyon Park (reads dry)",yes
+2024-11,SW02,30,19,13,6,0.04,15,0.66,5,62.4,72.0,-3.4,6,17.6,50.9,55.47,30,0,32.6,37.86,0,,yes
+2024-11,SW03,30,12,7,5,0.0,8,0.23,0,74.7,81.15,-2.8,5,16.0,52.4,56.76,30,0,32.3,42.65,1,Wellton (1 cold day),yes
+2024-11,SW04,30,10,6,4,0.53,10,0.68,71,51.9,64.5,-3.1,3,27.5,30.6,40.73,30,0,19.2,32.44,3,WASHINGTON PASS (1 hot day); Winslow (Aut) (runs cold); Window Rock (Was P34) (2 hot days),yes
+2024-11,SW05,30,15,10,5,0.37,12,1.37,59,54.4,69.0,-2.9,5,25.1,34.6,42.59,30,0,21.7,31.98,1,"Taylor (2 cold days, 2 rain flags)",yes
+2024-11,SW06N,30,22,10,12,0.15,12,0.79,7,72.1,80.6,-3.2,12,17.9,43.5,49.53,30,0,26.1,31.87,3,GLOBE (reads dry); TONTO BASIN (28 rain flags); Williams Afb/Chandl (1 hot day),yes
+2024-11,SW06S,30,29,17,12,0.54,21,0.59,70,68.0,77.0,-1.4,11,18.4,47.2,59.22,30,0,29.2,39.35,4,COLUMBINE (1 rain flag); GUTHRIE (1 cold day); HOPKINS (2 hot days); Douglas Bisbee Intl (reads dry),yes
+2024-11,SW07,30,18,16,2,0.93,16,,,49.7,63.5,-4.3,2,30.3,27.6,41.0,30,0,16.1,30.41,4,JEMEZ (1 hot day); MALPAIS LAVA FLOW (1 hot day); LAGUNA (1 hot day); Grants-Milan Muni (1 cold day),yes
+2024-11,SW08,30,19,16,3,0.72,17,0.85,67,55.6,68.5,-2.5,3,22.7,36.0,48.41,30,0,21.1,33.02,1,BURRO MOUNTAIN (2 hot days),yes
+2024-11,SW09,30,17,6,11,1.18,11,0.51,163,62.4,74.0,-1.7,11,23.6,36.7,50.46,30,0,25.7,38.45,1,Albuquerque/Double Eagle Ii Apt (1 cold day),yes
+2024-11,SW10,30,10,5,5,0.84,8,0.51,149,47.4,60.5,-3.8,5,30.7,22.6,38.83,30,0,12.8,30.88,6,CIMARRON (runs hot); BARTLEY (runs hot); PECOS (2 hot days); Las Vegas Municipal (4 cold days); Raton/Crews Fld (1 cold day); Santa Fe Co. Muni (1 cold day),yes
+2024-11,SW11,30,6,4,2,1.54,5,0.65,146,52.5,68.0,-2.6,2,32.4,28.8,45.38,30,0,19.3,34.81,3,"OAK FLATS (1 hot day); SANDIA LAB (2 hot days, 5 rain flags); Clines Corners (1 cold day, 1 rain flag)",yes
+2024-11,SW12,30,12,11,1,1.43,12,1.1,135,60.5,72.5,-2.4,1,23.9,37.6,45.8,30,0,29.5,41.73,6,"SMOKEY BEAR (1 hot day); MAYHILL (1 hot day); COSMIC (1 hot day); THE BOWL (1 hot day, 1 cold day); DOG CANYON (1 hot day); Ruidoso Regional (1 cold day)",yes
+2024-11,SW13,30,8,2,6,1.76,5,0.55,320,60.4,74.0,-2.2,6,34.2,22.6,35.31,30,0,21.4,38.37,2,MELROSE RANGE (1 rain flag); Melrose Gunary Ran (1 rain flag),yes
+2024-11,SW14N,30,8,4,4,1.25,8,0.53,159,66.4,79.5,1.3,4,26.6,31.4,40.92,30,0,29.0,44.19,0,,yes
+2024-12,SW01,20,7,6,1,0.0,7,0.5,,51.5,60.5,8.3,1,16.7,36.0,42.25,20,0,21.9,25.27,1,TUSAYAN (2 cold days),20 of 31 days
+2024-12,SW02,20,19,13,6,0.0,15,0.52,,64.6,72.0,6.4,6,13.6,52.7,56.76,20,0,33.0,38.22,0,,20 of 31 days
+2024-12,SW03,20,12,7,5,0.0,8,0.27,,74.4,80.0,6.3,5,14.1,54.2,56.34,20,0,32.9,41.71,2,Wellton (3 cold days); Yuma Mcas (1 hot day),20 of 31 days
+2024-12,SW04,20,10,6,4,0.0,10,0.41,,52.0,58.0,6.9,3,18.6,37.5,43.75,20,0,23.7,28.12,4,WASHINGTON PASS (1 hot day); Farmington Regional (2 cold days); Gallup Muni/Clarke (1 cold day); Winslow (Aut) (runs cold),20 of 31 days
+2024-12,SW05,20,15,10,5,0.0,12,1.03,,55.7,63.5,7.1,5,17.8,42.0,47.16,20,0,24.7,30.41,4,FLAGSTAFF (1 cold day); HAPPY JACK (1 cold day); Flagstaff - Pulliam (1 cold day); Taylor (1 cold day),20 of 31 days
+2024-12,SW06N,20,22,10,12,0.0,14,0.52,,72.2,80.6,6.8,12,16.0,46.9,51.21,20,0,26.7,31.12,3,TONTO BASIN (19 rain flags); Glendale (1 hot day); Goodyear Municipal (1 hot day),20 of 31 days
+2024-12,SW06S,20,29,17,12,0.0,22,0.6,,67.6,74.35,7.8,12,14.5,46.7,51.5,20,0,29.7,35.96,5,BLACK HILLS (1 cold day); SAGUARO (1 hot day); HOPKINS (runs hot); HEADQUARTERS (1 cold day); Douglas Bisbee Intl (1 hot day),20 of 31 days
+2024-12,SW07,20,18,16,2,0.0,16,,,50.7,59.0,4.7,2,19.1,38.1,43.39,20,0,23.9,30.8,1,Grants-Milan Muni (1 cold day),20 of 31 days
+2024-12,SW08,20,19,16,3,0.0,18,0.7,,55.8,63.0,5.0,3,17.3,41.6,46.66,20,0,24.8,31.84,2,BURRO MOUNTAIN (3 hot days); Springerville (1 hot day),20 of 31 days
+2024-12,SW09,20,17,6,11,0.0,11,0.43,,59.0,65.0,4.4,10,22.0,39.0,43.31,20,0,25.2,36.31,2,Las Cruces Intl (runs hot); Lordsburg (1 cold day),20 of 31 days
+2024-12,SW10,20,10,5,5,0.02,8,0.3,,48.7,57.0,6.9,5,19.6,34.4,39.68,20,0,22.6,28.92,3,CIMARRON (runs hot); BARTLEY (runs hot); PECOS (2 hot days),20 of 31 days
+2024-12,SW11,20,6,4,2,0.0,5,0.44,,52.3,57.5,7.5,2,22.7,37.7,42.71,20,0,26.5,33.89,2,"OAK FLATS (2 hot days); SANDIA LAB (1 hot day, 2 rain flags)",20 of 31 days
+2024-12,SW12,20,12,11,1,0.0,12,0.56,,56.5,65.7,3.0,1,24.4,36.1,42.48,20,0,27.9,41.05,5,SMOKEY BEAR (2 hot days); DUNKEN (1 hot day); MAYHILL (1 hot day); COSMIC (1 hot day); THE BOWL (1 hot day),20 of 31 days
+2024-12,SW13,20,8,2,6,0.0,5,0.32,,57.4,68.5,4.0,6,25.9,32.1,37.2,20,0,27.2,35.55,1,Melrose Gunary Ran (1 hot day),20 of 31 days
+2024-12,SW14N,20,8,4,4,0.0,8,0.34,,60.4,72.0,2.4,4,27.6,33.6,40.2,20,0,29.1,41.12,2,Carlsbad/Cavern Cty (1 cold day); Roswell/Industrial (1 cold day),20 of 31 days
 2026-11,SW01,11,7,6,1,1.26,5,,,52.0,60.0,1.1,1,37.7,18.5,23.61,11,0,12.8,17.07,3,"FRAZIER WELLS (reads dry); LINDBERGH HILL (1 hot day); Grand Canyon Park (reads dry, 1 rain flag)",11 of 30 days
-2026-11,SW02,11,19,13,6,0.83,15,0.22,,66.5,73.0,-0.4,6,35.1,26.5,32.16,11,0,20.0,24.46,0,,11 of 30 days
+2026-11,SW02,11,19,13,6,0.83,15,0.22,,66.4,73.0,-0.5,6,35.1,26.5,32.16,11,0,20.0,24.46,0,,11 of 30 days
 2026-11,SW03,11,12,7,5,0.07,8,0.07,,80.1,85.0,0.8,5,29.5,26.9,30.9,11,0,20.0,22.35,0,,11 of 30 days
-2026-11,SW04,11,10,6,4,0.45,8,0.26,,57.4,63.0,1.0,4,39.8,20.5,24.38,11,0,15.2,17.98,2,"Farmington Regional (reads dry); Winslow (Aut) (reads dry, 2 hot days)",11 of 30 days
+2026-11,SW04,11,10,6,4,0.45,8,0.26,,57.4,63.0,0.9,4,39.8,20.5,24.38,11,0,15.2,17.98,2,"Farmington Regional (reads dry); Winslow (Aut) (reads dry, 2 hot days)",11 of 30 days
 2026-11,SW05,11,15,10,5,1.25,11,0.53,,56.6,63.0,-0.7,5,42.2,17.3,21.66,11,0,13.6,17.31,0,,11 of 30 days
 2026-11,SW06N,11,22,10,12,0.39,13,0.28,,75.5,82.2,-1.1,12,36.3,20.2,24.76,11,0,15.9,18.89,1,VERDE (reads dry),11 of 30 days
-2026-11,SW06S,11,29,17,12,0.23,18,0.19,,68.4,73.4,-1.3,11,36.6,21.4,25.71,11,0,18.6,21.11,3,HORSE CAMP CANYON (reads dry); BLACK HILLS (reads dry); GUTHRIE (reads dry),11 of 30 days
+2026-11,SW06S,11,29,17,12,0.23,18,0.19,,68.4,73.4,-1.4,11,36.6,21.4,25.71,11,0,18.6,21.11,3,HORSE CAMP CANYON (reads dry); BLACK HILLS (reads dry); GUTHRIE (reads dry),11 of 30 days
 2026-11,SW07,11,19,16,3,0.53,16,,,55.9,62.0,-0.6,3,40.2,21.9,26.29,11,0,15.6,18.9,0,,11 of 30 days
-2026-11,SW08,11,19,16,3,0.53,18,0.23,,57.7,64.0,-0.8,3,38.2,21.4,24.93,11,0,16.2,18.46,0,,11 of 30 days
-2026-11,SW09,11,17,6,11,0.31,11,0.16,,63.1,68.0,-1.9,11,39.9,20.6,23.7,11,0,16.7,21.16,0,,11 of 30 days
+2026-11,SW08,11,19,16,3,0.53,18,0.24,,57.7,64.0,-0.9,3,38.2,21.4,24.93,11,0,16.2,18.46,0,,11 of 30 days
+2026-11,SW09,11,17,6,11,0.31,11,0.17,,63.1,68.0,-1.9,11,39.9,20.6,23.7,11,0,16.7,21.16,0,,11 of 30 days
 2026-11,SW10,11,10,5,5,0.46,7,0.2,,54.3,62.0,3.7,5,36.0,23.8,30.67,11,0,16.1,22.67,3,TRUCHAS (1 rain flag); BARTLEY (runs hot); Las Vegas Municipal (reads dry),11 of 30 days
 2026-11,SW11,11,6,4,2,0.62,4,,,57.4,63.5,3.1,2,41.7,20.9,25.56,11,0,16.6,21.95,1,SANDIA LAB (2 rain flags),11 of 30 days
-2026-11,SW12,11,12,11,1,0.51,12,0.31,,58.8,64.5,-3.7,1,45.7,20.8,24.5,11,0,17.1,20.21,2,SMOKEY BEAR (1 hot day); MAYHILL (1 hot day),11 of 30 days
+2026-11,SW12,11,12,11,1,0.51,12,0.34,,58.8,64.5,-3.6,1,45.7,20.8,24.5,11,0,17.1,20.21,2,SMOKEY BEAR (1 hot day); MAYHILL (1 hot day),11 of 30 days
 2026-11,SW13,11,8,2,6,0.12,4,0.17,,60.4,70.0,-1.9,5,44.1,18.6,23.63,11,0,17.1,23.56,0,,11 of 30 days
 2026-11,SW14N,11,8,4,4,0.38,8,0.19,,62.4,72.0,-3.6,4,56.0,15.3,20.08,11,0,15.0,19.79,0,,11 of 30 days
