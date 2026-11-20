@@ -12661,6 +12661,1647 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-08-17,ASOS-NCA,New_River_Mcas,ASOS,SA34,cold,75.0,8,92.2,max temp much colder than neighbors
 2025-08-17,ASOS-SHV,Shreveport Regional,ASOS,SA19,rain_alone,0.5,5,0.04,rain no neighbor saw
 2025-08-17,ASOS-TJNR,Naval Station Roosevelt Roads,ASOS,SA52A,missed,0.0,3,0.78,no rain while most neighbors got rain
+2025-08-18,12801,SCHOOLHOUSE,RAWS,SA38,wet,1.02,8,0.22,far more rain than any neighbor
+2025-08-18,227701,BOGUE CHITTO,RAWS,SA22A,cold,79.0,8,96.4,max temp much colder than neighbors
+2025-08-18,31102,COMPTON,RAWS,SA17B,rain_alone,0.54,8,0.0,rain no neighbor saw
+2025-08-18,346303,KIAMICHI,RAWS,SA17A,cold,72.0,5,94.2,max temp much colder than neighbors
+2025-08-18,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-18,417201,FORT DAVIS,RAWS,SA08,rain_alone,0.7,3,0.02,rain no neighbor saw
+2025-08-18,55522208,BAINBRIDGE,RAWS,SA42,hot,94.0,8,85.7,max temp much warmer than neighbors
+2025-08-18,55522240,COCHRAN,RAWS,SA41,hot,94.0,8,85.2,max temp much warmer than neighbors
+2025-08-18,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,71.0,8,87.8,max temp much colder than neighbors
+2025-08-18,82203,ST. MARKS (WEST),RAWS,SA47,rain_alone,0.69,6,0.0,rain no neighbor saw
+2025-08-18,90802,TALLULAH,RAWS,SA31B,wet,1.0,8,0.21,far more rain than any neighbor
+2025-08-18,96301,METTER,RAWS,SA42,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-08-18,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-18,ASOS-AHN,Athens Municipal,ASOS,SA41,rain_alone,0.81,6,0.0,rain no neighbor saw
+2025-08-18,ASOS-CPF,Wendell H Ford,ASOS,SA27,cold,78.8,8,89.9,max temp much colder than neighbors
+2025-08-18,ASOS-F17,Center,ASOS,SA12,cold,91.4,8,99.7,max temp much colder than neighbors
+2025-08-18,ASOS-GUY,Guymon,ASOS,SA01,cold,88.0,6,98.6,max temp much colder than neighbors
+2025-08-18,ASOS-HZR,New Roads,ASOS,SA19,cold,86.5,4,96.1,max temp much colder than neighbors
+2025-08-18,ASOS-MEB,Laurinburg-Maxton_Arpt_(Asos),ASOS,SA32,cold,76.0,8,92.7,max temp much colder than neighbors
+2025-08-18,ASOS-NGU,Norfolk Nas/Chamber,ASOS,SA30,missed,0.0,8,1.0,no rain while most neighbors got rain
+2025-08-18,ASOS-ORK,North Little Rock,ASOS,SA18,cold,87.8,8,101.3,max temp much colder than neighbors
+2025-08-18,ASOS-RFI,Henderson,ASOS,SA07,hot,106.7,8,97.9,max temp much warmer than neighbors
+2025-08-18,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-18,ASOS-WAL,Wallops Island Stn,ASOS,SA30,wet,1.28,6,0.17,far more rain than any neighbor
+2025-08-19,227701,BOGUE CHITTO,RAWS,SA22A,cold,77.0,8,94.7,max temp much colder than neighbors
+2025-08-19,316102,GUION FARM,RAWS,SA31A,wet,2.25,8,0.4,far more rain than any neighbor
+2025-08-19,346303,KIAMICHI,RAWS,SA17A,cold,78.0,5,95.4,max temp much colder than neighbors
+2025-08-19,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-19,418503,MATAGORDA ISLAND,RAWS,SA15,wet,1.28,7,0.24,far more rain than any neighbor
+2025-08-19,55522208,BAINBRIDGE,RAWS,SA42,hot,94.0,8,85.0,max temp much warmer than neighbors
+2025-08-19,55522240,COCHRAN,RAWS,SA41,hot,95.0,8,84.2,max temp much warmer than neighbors
+2025-08-19,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,81.5,max temp much colder than neighbors
+2025-08-19,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-19,ASOS-5T9,Maverick County,ASOS,SA14,rain_alone,0.85,3,0.05,rain no neighbor saw
+2025-08-19,ASOS-ALI,Alice Intl Airport,ASOS,SA14,cold,77.0,8,96.6,max temp much colder than neighbors
+2025-08-19,ASOS-BKN,Blackwell,ASOS,SA03,hot,107.6,6,99.4,max temp much warmer than neighbors
+2025-08-19,ASOS-BVO,Bartlesville/Philli,ASOS,SA03,wet,1.05,4,0.07,far more rain than any neighbor
+2025-08-19,ASOS-CPF,Wendell H Ford,ASOS,SA27,cold,-18.4,8,93.5,max temp much colder than neighbors
+2025-08-19,ASOS-EVB,New Smyrna Beach Muni,ASOS,SA49,hot,98.6,8,90.4,max temp much warmer than neighbors
+2025-08-19,ASOS-F44,Athens,ASOS,SA07,cold,90.0,8,99.1,max temp much colder than neighbors
+2025-08-19,ASOS-F95,Blountstown,ASOS,SA47,cold,82.4,8,93.2,max temp much colder than neighbors
+2025-08-19,ASOS-HZR,New Roads,ASOS,SA19,cold,85.6,4,93.9,max temp much colder than neighbors
+2025-08-19,ASOS-JKA,Gulf Shores,ASOS,SA21C,cold,80.6,8,92.8,max temp much colder than neighbors
+2025-08-19,ASOS-RYY,Marietta,ASOS,SA40,cold,80.0,8,89.0,max temp much colder than neighbors
+2025-08-19,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-20,227701,BOGUE CHITTO,RAWS,SA22A,cold,86.0,8,95.2,max temp much colder than neighbors
+2025-08-20,346303,KIAMICHI,RAWS,SA17A,cold,77.0,5,90.0,max temp much colder than neighbors
+2025-08-20,55522208,BAINBRIDGE,RAWS,SA42,hot,95.0,8,85.5,max temp much warmer than neighbors
+2025-08-20,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,68.0,8,82.9,max temp much colder than neighbors
+2025-08-20,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-08-20,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-08-20,ASOS-DHN,Dothan Municipal,ASOS,SA39,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-08-20,ASOS-F17,Center,ASOS,SA12,cold,82.4,8,94.5,max temp much colder than neighbors
+2025-08-20,ASOS-K70,Key Largo - Ocean Reef,ASOS,SA50,wet,1.31,7,0.08,far more rain than any neighbor
+2025-08-20,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,77.0,8,89.3,max temp much colder than neighbors
+2025-08-20,ASOS-PGD,Punta Gorda,ASOS,SA50,rain_alone,0.58,4,0.0,rain no neighbor saw
+2025-08-20,ASOS-RAS,Port Aransas/Mustang Beach Arpt,ASOS,SA15,cold,80.0,8,96.6,max temp much colder than neighbors
+2025-08-20,ASOS-RFI,Henderson,ASOS,SA07,hot,100.0,8,90.0,max temp much warmer than neighbors
+2025-08-21,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,93.2,max temp much colder than neighbors
+2025-08-21,346303,KIAMICHI,RAWS,SA17A,cold,77.0,5,87.2,max temp much colder than neighbors
+2025-08-21,55522208,BAINBRIDGE,RAWS,SA42,hot,94.0,8,85.5,max temp much warmer than neighbors
+2025-08-21,55522240,COCHRAN,RAWS,SA41,hot,93.0,8,84.3,max temp much warmer than neighbors
+2025-08-21,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,68.0,8,85.6,max temp much colder than neighbors
+2025-08-21,81302,EDDY TOWER,RAWS,SA48,missed,0.0,8,1.0,no rain while most neighbors got rain
+2025-08-21,ASOS-ASD,Slidell,ASOS,SA21A,wet,2.54,8,0.37,far more rain than any neighbor
+2025-08-21,ASOS-CZL,Calhoun,ASOS,SA40,wet,1.12,8,0.25,far more rain than any neighbor
+2025-08-21,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,missed,0.0,8,0.52,no rain while most neighbors got rain
+2025-08-21,ASOS-ROA,Roanoke Muni,ASOS,SA28B,wet,4.27,7,0.57,far more rain than any neighbor
+2025-08-22,12801,SCHOOLHOUSE,RAWS,SA38,wet,1.78,8,0.24,far more rain than any neighbor
+2025-08-22,16302,SRS,RAWS,SA39,cold,82.0,8,90.1,max temp much colder than neighbors
+2025-08-22,227701,BOGUE CHITTO,RAWS,SA22A,cold,75.0,8,91.1,max temp much colder than neighbors
+2025-08-22,346303,KIAMICHI,RAWS,SA17A,cold,76.0,5,88.2,max temp much colder than neighbors
+2025-08-22,55522208,BAINBRIDGE,RAWS,SA42,hot,92.0,8,83.1,max temp much warmer than neighbors
+2025-08-22,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,78.3,max temp much warmer than neighbors
+2025-08-22,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,63.0,8,76.9,max temp much colder than neighbors
+2025-08-22,86704,CHEKIKA,RAWS,SA50,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-08-22,91301,CHATTOOGA,RAWS,SA31B,wet,1.31,8,0.11,far more rain than any neighbor
+2025-08-22,ASOS-AUO,Auburn-Opelika Apt,ASOS,SA39,cold,75.0,8,85.5,max temp much colder than neighbors
+2025-08-22,ASOS-LNP,Wise/Lonesome Pine,ASOS,SA28A,cold,75.2,8,83.6,max temp much colder than neighbors
+2025-08-22,ASOS-MBO,Madison,ASOS,SA22A,cold,73.4,5,92.0,max temp much colder than neighbors
+2025-08-22,ASOS-MGM,Montgomery/Dannelly,ASOS,SA39,missed,0.0,7,0.63,no rain while most neighbors got rain
+2025-08-22,ASOS-RFI,Henderson,ASOS,SA07,hot,100.8,8,92.7,max temp much warmer than neighbors
+2025-08-22,ASOS-RYW,Lago Vista,ASOS,SA11,cold,81.7,8,93.5,max temp much colder than neighbors
+2025-08-22,ASOS-TTS,Nasa Shuttle Fclty,ASOS,SA49,cold,80.8,8,89.8,max temp much colder than neighbors
+2025-08-22,ASOS-VLD,Valdosta Regional,ASOS,SA42,wet,2.14,6,0.46,far more rain than any neighbor
+2025-08-23,14801,GUNTER,RAWS,SA39,rain_alone,3.29,6,0.02,rain no neighbor saw
+2025-08-23,227701,BOGUE CHITTO,RAWS,SA22A,cold,76.0,8,93.1,max temp much colder than neighbors
+2025-08-23,346303,KIAMICHI,RAWS,SA17A,cold,76.0,5,90.0,max temp much colder than neighbors
+2025-08-23,55522208,BAINBRIDGE,RAWS,SA42,hot,90.0,8,81.3,max temp much warmer than neighbors
+2025-08-23,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,63.0,8,77.3,max temp much colder than neighbors
+2025-08-23,ASOS-AXH,Houston Sw,ASOS,SA13,rain_alone,0.51,8,0.03,rain no neighbor saw
+2025-08-23,ASOS-HKA,Blytheville,ASOS,SA18,cold,68.0,8,89.7,max temp much colder than neighbors
+2025-08-23,ASOS-JZI,Charleston Exec,ASOS,SA37,wet,6.64,8,1.27,far more rain than any neighbor
+2025-08-23,ASOS-MKY,Marco Island,ASOS,SA50,missed,0.0,8,1.19,no rain while most neighbors got rain
+2025-08-23,ASOS-NQI,Kingsville Nas,ASOS,SA15,wet,1.16,5,0.17,far more rain than any neighbor
+2025-08-23,ASOS-PBF,Pine Bluff/Grider,ASOS,SA18,cold,70.0,7,93.2,max temp much colder than neighbors
+2025-08-23,ASOS-RFI,Henderson,ASOS,SA07,hot,101.5,8,93.2,max temp much warmer than neighbors
+2025-08-23,ASOS-VLD,Valdosta Regional,ASOS,SA42,wet,5.47,7,0.87,far more rain than any neighbor
+2025-08-24,227701,BOGUE CHITTO,RAWS,SA22A,cold,79.0,8,95.5,max temp much colder than neighbors
+2025-08-24,319604,CEDAR ISLAND,RAWS,SA34,wet,6.57,8,1.19,far more rain than any neighbor
+2025-08-24,346303,KIAMICHI,RAWS,SA17A,cold,76.0,5,88.5,max temp much colder than neighbors
+2025-08-24,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-24,55522208,BAINBRIDGE,RAWS,SA42,hot,89.0,8,79.9,max temp much warmer than neighbors
+2025-08-24,55522240,COCHRAN,RAWS,SA41,hot,88.0,8,78.3,max temp much warmer than neighbors
+2025-08-24,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,83.6,max temp much colder than neighbors
+2025-08-24,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-08-24,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-24,ASOS-0J4,Florala,ASOS,SA39,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-08-24,ASOS-CRG,Jacksonville/Craig,ASOS,SA48,wet,1.86,8,0.42,far more rain than any neighbor
+2025-08-24,ASOS-CSM,Clinton-Sherman,ASOS,SA02,wet,1.29,7,0.17,far more rain than any neighbor
+2025-08-24,ASOS-DJT,West Palm Beach,ASOS,SA50,wet,1.37,5,0.27,far more rain than any neighbor
+2025-08-24,ASOS-EZM,Eastman,ASOS,SA42,cold,77.0,8,87.2,max temp much colder than neighbors
+2025-08-24,ASOS-FVX,Farmville,ASOS,SA29,rain_alone,1.48,5,0.05,rain no neighbor saw
+2025-08-24,ASOS-MBO,Madison,ASOS,SA22A,cold,75.2,5,94.0,max temp much colder than neighbors
+2025-08-24,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-25,227701,BOGUE CHITTO,RAWS,SA22A,cold,82.0,8,94.8,max temp much colder than neighbors
+2025-08-25,346303,KIAMICHI,RAWS,SA17A,cold,62.0,5,72.2,max temp much colder than neighbors
+2025-08-25,418901,CAPROCK,RAWS,SA01,cold,76.0,3,86.5,max temp much colder than neighbors
+2025-08-25,55522240,COCHRAN,RAWS,SA41,hot,92.0,8,82.4,max temp much warmer than neighbors
+2025-08-25,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,80.7,max temp much colder than neighbors
+2025-08-25,96301,METTER,RAWS,SA42,missed,0.0,7,2.0,no rain while most neighbors got rain
+2025-08-25,ASOS-ATA,Atlanta,ASOS,SA07,cold,84.7,7,95.4,max temp much colder than neighbors
+2025-08-25,ASOS-CPF,Wendell H Ford,ASOS,SA27,cold,59.0,8,76.2,max temp much colder than neighbors
+2025-08-25,ASOS-EZM,Eastman,ASOS,SA42,cold,77.0,8,91.0,max temp much colder than neighbors
+2025-08-25,ASOS-GAG,Gage/Shattuck,ASOS,SA02,wet,3.1,3,0.23,far more rain than any neighbor
+2025-08-25,ASOS-GNV,Gainesville Rgnl,ASOS,SA48,rain_alone,0.61,5,0.01,rain no neighbor saw
+2025-08-25,ASOS-INK,Wink/Winkler Co.,ASOS,SA09,cold,88.0,4,96.5,max temp much colder than neighbors
+2025-08-25,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.89,no rain while most neighbors got rain
+2025-08-25,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,78.0,8,88.7,max temp much colder than neighbors
+2025-08-25,ASOS-NQI,Kingsville Nas,ASOS,SA15,rain_alone,0.66,5,0.04,rain no neighbor saw
+2025-08-25,ASOS-RFI,Henderson,ASOS,SA07,hot,103.5,8,95.1,max temp much warmer than neighbors
+2025-08-26,346303,KIAMICHI,RAWS,SA17A,cold,53.0,5,65.3,max temp much colder than neighbors
+2025-08-26,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-08-26,55522208,BAINBRIDGE,RAWS,SA42,hot,89.0,8,79.8,max temp much warmer than neighbors
+2025-08-26,55522240,COCHRAN,RAWS,SA41,hot,85.0,8,76.8,max temp much warmer than neighbors
+2025-08-26,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,62.0,8,77.1,max temp much colder than neighbors
+2025-08-26,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-08-26,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-26,ASOS-1M5,Portland,ASOS,SA25,cold,51.8,8,78.8,max temp much colder than neighbors
+2025-08-26,ASOS-CEU,Clemson/Oconee County,ASOS,SA31C,cold,68.0,8,81.1,max temp much colder than neighbors
+2025-08-26,ASOS-EKQ,Monticello,ASOS,SA27,cold,64.0,8,77.2,max temp much colder than neighbors
+2025-08-26,ASOS-ELA,Eagle Lake,ASOS,SA11,rain_alone,1.38,6,0.0,rain no neighbor saw
+2025-08-26,ASOS-EZM,Eastman,ASOS,SA42,cold,77.0,8,85.7,max temp much colder than neighbors
+2025-08-26,ASOS-HBV,Hebbronville,ASOS,SA16,cold,78.3,5,96.7,max temp much colder than neighbors
+2025-08-26,ASOS-OBE,Okeechobee,ASOS,SA50,cold,77.0,8,90.5,max temp much colder than neighbors
+2025-08-26,ASOS-OPF,Miami/Opa Locka,ASOS,SA50,rain_alone,0.81,8,0.04,rain no neighbor saw
+2025-08-26,ASOS-RNV,Cleveland,ASOS,SA22A,cold,74.0,3,82.1,max temp much colder than neighbors
+2025-08-26,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-08-26,ASOS-SPS,Wichita Falls/Shep,ASOS,SA05,missed,0.0,5,0.54,no rain while most neighbors got rain
+2025-08-27,227701,BOGUE CHITTO,RAWS,SA22A,cold,79.0,8,89.7,max temp much colder than neighbors
+2025-08-27,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-27,55522208,BAINBRIDGE,RAWS,SA42,hot,89.0,8,78.9,max temp much warmer than neighbors
+2025-08-27,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,77.5,max temp much warmer than neighbors
+2025-08-27,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,61.0,8,76.4,max temp much colder than neighbors
+2025-08-27,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-08-27,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-27,ASOS-1M5,Portland,ASOS,SA25,cold,51.8,8,79.6,max temp much colder than neighbors
+2025-08-27,ASOS-81R,San Saba,ASOS,SA10,rain_alone,0.69,7,0.05,rain no neighbor saw
+2025-08-27,ASOS-LGC,La_Grange,ASOS,SA41,cold,64.4,8,82.7,max temp much colder than neighbors
+2025-08-27,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-28,227701,BOGUE CHITTO,RAWS,SA22A,cold,82.0,8,92.6,max temp much colder than neighbors
+2025-08-28,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-08-28,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,77.2,max temp much warmer than neighbors
+2025-08-28,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,62.0,8,77.5,max temp much colder than neighbors
+2025-08-28,96201,MCRAE,RAWS,SA42,rain_alone,0.94,6,0.02,rain no neighbor saw
+2025-08-28,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-08-28,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-28,ASOS-RNV,Cleveland,ASOS,SA22A,missed,0.0,4,0.75,no rain while most neighbors got rain
+2025-08-28,ASOS-RYW,Lago Vista,ASOS,SA11,cold,89.4,8,98.9,max temp much colder than neighbors
+2025-08-28,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-08-29,165103,LACASSINE,RAWS,SA20,rain_alone,0.86,3,0.02,rain no neighbor saw
+2025-08-29,227701,BOGUE CHITTO,RAWS,SA22A,cold,71.0,8,80.4,max temp much colder than neighbors
+2025-08-29,346303,KIAMICHI,RAWS,SA17A,cold,63.0,5,73.8,max temp much colder than neighbors
+2025-08-29,417905,SOUTH AUSTIN RAWS,RAWS,SA11,rain_alone,0.58,8,0.02,rain no neighbor saw
+2025-08-29,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,72.7,max temp much warmer than neighbors
+2025-08-29,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,81.3,max temp much colder than neighbors
+2025-08-29,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.83,no rain while most neighbors got rain
+2025-08-29,ASOS-AMA,Amarillo - Rick Husband Intl,ASOS,SA01,wet,1.02,5,0.23,far more rain than any neighbor
+2025-08-29,ASOS-CLL,College Station,ASOS,SA12,wet,1.06,6,0.08,far more rain than any neighbor
+2025-08-29,ASOS-CRG,Jacksonville/Craig,ASOS,SA48,missed,0.0,8,0.65,no rain while most neighbors got rain
+2025-08-29,ASOS-CUB,Columbia Owens Downtown Airport,ASOS,SA35,cold,70.0,8,88.4,max temp much colder than neighbors
+2025-08-29,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.83,no rain while most neighbors got rain
+2025-08-29,ASOS-MBO,Madison,ASOS,SA22A,cold,66.2,5,75.0,max temp much colder than neighbors
+2025-08-29,ASOS-NQX,Key West Nas,ASOS,SA50,wet,1.83,3,0.09,far more rain than any neighbor
+2025-08-29,ASOS-PKV,Port_Lavaca,ASOS,SA15,hot,100.6,5,92.0,max temp much warmer than neighbors
+2025-08-29,ASOS-VKS,Vicksburg,ASOS,SA22A,missed,0.0,5,1.14,no rain while most neighbors got rain
+2025-08-30,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,85.7,max temp much colder than neighbors
+2025-08-30,346303,KIAMICHI,RAWS,SA17A,cold,68.0,5,77.9,max temp much colder than neighbors
+2025-08-30,55522240,COCHRAN,RAWS,SA41,hot,79.0,8,69.7,max temp much warmer than neighbors
+2025-08-30,55522292,INDIAN LAKE SF,RAWS,SA48,wet,3.24,8,0.45,far more rain than any neighbor
+2025-08-30,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,63.0,8,79.4,max temp much colder than neighbors
+2025-08-30,ASOS-1M5,Portland,ASOS,SA25,cold,68.0,8,85.4,max temp much colder than neighbors
+2025-08-30,ASOS-ADS,Dallas/Addison Arpt,ASOS,SA06,missed,0.0,8,1.02,no rain while most neighbors got rain
+2025-08-30,ASOS-CGC,Crystal River,ASOS,SA49,cold,73.4,8,88.6,max temp much colder than neighbors
+2025-08-30,ASOS-GKY,Arlington (Was F54),ASOS,SA06,missed,0.0,8,0.65,no rain while most neighbors got rain
+2025-08-30,ASOS-GYI,Sherman/Denison,ASOS,SA06,missed,0.0,6,0.64,no rain while most neighbors got rain
+2025-08-30,ASOS-HHF,Canadian,ASOS,SA01,wet,1.25,5,0.12,far more rain than any neighbor
+2025-08-30,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,66.0,8,84.4,max temp much colder than neighbors
+2025-08-30,ASOS-OBE,Okeechobee,ASOS,SA50,cold,75.2,8,93.0,max temp much colder than neighbors
+2025-08-30,ASOS-PKV,Port_Lavaca,ASOS,SA15,hot,102.0,5,93.0,max temp much warmer than neighbors
+2025-08-31,227701,BOGUE CHITTO,RAWS,SA22A,cold,81.0,8,90.2,max temp much colder than neighbors
+2025-08-31,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-31,416099,ANAHUAC,RAWS,SA13,wet,3.85,7,0.74,far more rain than any neighbor
+2025-08-31,55522208,BAINBRIDGE,RAWS,SA42,hot,88.0,8,79.8,max temp much warmer than neighbors
+2025-08-31,55522240,COCHRAN,RAWS,SA41,hot,86.0,8,77.0,max temp much warmer than neighbors
+2025-08-31,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,61.0,8,76.5,max temp much colder than neighbors
+2025-08-31,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-08-31,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-08-31,ASOS-1M5,Portland,ASOS,SA25,cold,73.4,8,85.1,max temp much colder than neighbors
+2025-08-31,ASOS-2J5,Millen,ASOS,SA42,cold,72.0,8,85.8,max temp much colder than neighbors
+2025-08-31,ASOS-5R8,De Quincy,ASOS,SA19,rain_alone,0.5,8,0.01,rain no neighbor saw
+2025-08-31,ASOS-ADH,Ada_Municipal_Airport,ASOS,SA03,wet,2.45,3,0.56,far more rain than any neighbor
+2025-08-31,ASOS-DCU,Decatur/Pryor Field,ASOS,SA38,cold,76.0,8,88.4,max temp much colder than neighbors
+2025-08-31,ASOS-EZM,Eastman,ASOS,SA42,cold,75.2,8,85.5,max temp much colder than neighbors
+2025-08-31,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-08-31,ASOS-GOP,Gatesville,ASOS,SA11,missed,0.0,8,0.7,no rain while most neighbors got rain
+2025-08-31,ASOS-HDO,Hondo Municipal,ASOS,SA14,missed,0.0,8,0.55,no rain while most neighbors got rain
+2025-08-31,ASOS-HLR,Ft Hood Aaf/Killeen,ASOS,SA11,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-08-31,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-08-31,ASOS-LGC,La_Grange,ASOS,SA41,cold,68.0,8,85.8,max temp much colder than neighbors
+2025-08-31,ASOS-MBO,Madison,ASOS,SA22A,cold,77.0,5,89.0,max temp much colder than neighbors
+2025-08-31,ASOS-MKY,Marco Island,ASOS,SA50,missed,0.0,8,0.65,no rain while most neighbors got rain
+2025-08-31,ASOS-PSN,Palestine,ASOS,SA12,missed,0.0,8,1.04,no rain while most neighbors got rain
+2025-08-31,ASOS-RFI,Henderson,ASOS,SA07,hot,94.5,8,86.1,max temp much warmer than neighbors
+2025-08-31,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-01,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,89.3,max temp much colder than neighbors
+2025-09-01,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-01,409502,OCOEE,RAWS,SA25B,rain_alone,0.84,8,0.05,rain no neighbor saw
+2025-09-01,418001,KICKAPOO CAVERNS SP,RAWS,SA14,rain_alone,0.68,3,0.02,rain no neighbor saw
+2025-09-01,55522240,COCHRAN,RAWS,SA41,hot,82.0,8,73.9,max temp much warmer than neighbors
+2025-09-01,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,61.0,8,76.6,max temp much colder than neighbors
+2025-09-01,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-01,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-01,ASOS-1M4,Haleyville,ASOS,SA38,wet,2.71,5,0.47,far more rain than any neighbor
+2025-09-01,ASOS-BKN,Blackwell,ASOS,SA03,hot,91.4,4,81.7,max temp much warmer than neighbors
+2025-09-01,ASOS-BKS,Falfurrias/Brooks County Airport,ASOS,SA16,cold,79.0,7,98.1,max temp much colder than neighbors
+2025-09-01,ASOS-LAL,Lakeland Regional,ASOS,SA49,rain_alone,1.67,7,0.05,rain no neighbor saw
+2025-09-01,ASOS-RFI,Henderson,ASOS,SA07,hot,96.0,8,87.8,max temp much warmer than neighbors
+2025-09-01,ASOS-RWV,Caldwell,ASOS,SA11,cold,77.0,8,90.8,max temp much colder than neighbors
+2025-09-01,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-02,346303,KIAMICHI,RAWS,SA17A,cold,67.0,5,77.9,max temp much colder than neighbors
+2025-09-02,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-02,55522208,BAINBRIDGE,RAWS,SA42,hot,88.0,8,79.5,max temp much warmer than neighbors
+2025-09-02,55522240,COCHRAN,RAWS,SA41,hot,85.0,8,75.2,max temp much warmer than neighbors
+2025-09-02,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,62.0,8,77.3,max temp much colder than neighbors
+2025-09-02,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-02,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-02,ASOS-2DP,Dare County Gunnery Range,ASOS,SA34,cold,62.6,8,79.0,max temp much colder than neighbors
+2025-09-02,ASOS-42A,Melbourne,ASOS,SA17B,cold,78.8,7,87.7,max temp much colder than neighbors
+2025-09-02,ASOS-BAD,Barksdale Afb,ASOS,SA19,cold,77.7,8,91.9,max temp much colder than neighbors
+2025-09-02,ASOS-BIX,Keesler Afb/Biloxi,ASOS,SA21B,cold,80.0,8,88.6,max temp much colder than neighbors
+2025-09-02,ASOS-BKT,Blackstone,ASOS,SA29,cold,58.0,8,78.2,max temp much colder than neighbors
+2025-09-02,ASOS-CEW,Crestview/Bob Sikes,ASOS,SA47,cold,78.0,8,86.3,max temp much colder than neighbors
+2025-09-02,ASOS-DAA,Fort Belvoir/Daviso,ASOS,SA30,cold,59.0,8,78.2,max temp much colder than neighbors
+2025-09-02,ASOS-EGI,Duke Fld/Eglin,ASOS,SA47,cold,69.0,8,86.3,max temp much colder than neighbors
+2025-09-02,ASOS-END,Vance Afb/Enid,ASOS,SA03,cold,67.0,5,78.9,max temp much colder than neighbors
+2025-09-02,ASOS-FAF,Fort Eustis/Felker,ASOS,SA30,cold,64.0,8,77.4,max temp much colder than neighbors
+2025-09-02,ASOS-FBG,Fort_Bragg/Simmons,ASOS,SA33,cold,65.7,8,79.3,max temp much colder than neighbors
+2025-09-02,ASOS-FTK,Fort Knox/Godman,ASOS,SA26,cold,73.4,8,84.8,max temp much colder than neighbors
+2025-09-02,ASOS-GSB,Seymour-Johnson_Afb,ASOS,SA33,cold,69.3,8,80.6,max temp much colder than neighbors
+2025-09-02,ASOS-HEY,Fort Rucker,ASOS,SA39,cold,70.0,8,84.8,max temp much colder than neighbors
+2025-09-02,ASOS-HFF,Mackall_Aaf,ASOS,SA32,cold,60.0,8,81.1,max temp much colder than neighbors
+2025-09-02,ASOS-HOP,Fort Campbell (Aaf),ASOS,SA26,cold,75.2,8,84.6,max temp much colder than neighbors
+2025-09-02,ASOS-HRT,Hurlburt Field (Af),ASOS,SA47,cold,73.4,8,85.6,max temp much colder than neighbors
+2025-09-02,ASOS-HST,Homestead Afb,ASOS,SA50,cold,83.0,8,93.0,max temp much colder than neighbors
+2025-09-02,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,cold,68.4,8,86.5,max temp much colder than neighbors
+2025-09-02,ASOS-LOR,Lowe Ahp/Ft. Rucker,ASOS,SA39,cold,68.4,8,85.9,max temp much colder than neighbors
+2025-09-02,ASOS-LSF,Fort Benning,ASOS,SA41,cold,67.0,8,86.7,max temp much colder than neighbors
+2025-09-02,ASOS-MGE,Dobbins Afb/Mariett,ASOS,SA40,cold,71.0,8,81.5,max temp much colder than neighbors
+2025-09-02,ASOS-MMT,Mcentire Ang Base,ASOS,SA35,cold,69.4,8,83.1,max temp much colder than neighbors
+2025-09-02,ASOS-MXF,Maxwell Afb/Montgom,ASOS,SA39,cold,70.7,8,83.2,max temp much colder than neighbors
+2025-09-02,ASOS-PAM,Tyndall Afb,ASOS,SA47,cold,77.0,6,89.4,max temp much colder than neighbors
+2025-09-02,ASOS-POB,Pope_Afb,ASOS,SA33,cold,63.5,8,79.4,max temp much colder than neighbors
+2025-09-02,ASOS-POE,Fort Polk (Army),ASOS,SA19,cold,79.3,8,92.5,max temp much colder than neighbors
+2025-09-02,ASOS-RYW,Lago Vista,ASOS,SA11,cold,81.5,8,93.6,max temp much colder than neighbors
+2025-09-02,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-02,ASOS-SSC,Shaw Afb/Sumter,ASOS,SA36,cold,65.5,8,83.1,max temp much colder than neighbors
+2025-09-02,ASOS-SVN,Hunter (Aaf),ASOS,SA46,cold,74.3,8,85.4,max temp much colder than neighbors
+2025-09-02,ASOS-SXS,Shell Ahp,ASOS,SA39,cold,71.6,8,85.4,max temp much colder than neighbors
+2025-09-02,ASOS-TCL,Tuscaloosa Muni,ASOS,SA39,rain_alone,0.74,4,0.0,rain no neighbor saw
+2025-09-02,ASOS-TDR,Panama City Beach - Drone Runway,ASOS,SA47,cold,77.7,6,89.5,max temp much colder than neighbors
+2025-09-02,ASOS-TIK,Tinker Afb,ASOS,SA03,cold,68.0,8,81.0,max temp much colder than neighbors
+2025-09-02,ASOS-VAD,Moody Afb/Valdosta,ASOS,SA42,cold,71.4,8,86.5,max temp much colder than neighbors
+2025-09-02,ASOS-VPS,Eglin Afb/Valparais,ASOS,SA47,cold,74.5,8,86.7,max temp much colder than neighbors
+2025-09-02,ASOS-WRB,Warner Robins Afb,ASOS,SA41,cold,71.0,8,84.8,max temp much colder than neighbors
+2025-09-02,ASOS-XNO,North Air Force,ASOS,SA36,cold,69.6,8,82.9,max temp much colder than neighbors
+2025-09-03,346303,KIAMICHI,RAWS,SA17A,cold,71.0,5,81.0,max temp much colder than neighbors
+2025-09-03,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-03,55522208,BAINBRIDGE,RAWS,SA42,hot,91.0,8,81.7,max temp much warmer than neighbors
+2025-09-03,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,77.8,max temp much warmer than neighbors
+2025-09-03,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,62.0,8,77.1,max temp much colder than neighbors
+2025-09-03,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-03,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-03,ASOS-1M5,Portland,ASOS,SA25,cold,71.6,8,85.4,max temp much colder than neighbors
+2025-09-03,ASOS-42A,Melbourne,ASOS,SA17B,cold,64.4,7,90.4,max temp much colder than neighbors
+2025-09-03,ASOS-ARG,Walnut Ridge (Awos),ASOS,SA18,wet,1.0,6,0.08,far more rain than any neighbor
+2025-09-03,ASOS-CLW,Clearwater Air Park,ASOS,SA49,rain_alone,0.68,6,0.0,rain no neighbor saw
+2025-09-03,ASOS-EZM,Eastman,ASOS,SA42,cold,77.0,8,86.1,max temp much colder than neighbors
+2025-09-03,ASOS-IMM,Immokalee Auxiliary,ASOS,SA50,cold,80.6,8,88.9,max temp much colder than neighbors
+2025-09-03,ASOS-LFT,Lafayette,ASOS,SA19,wet,1.09,4,0.21,far more rain than any neighbor
+2025-09-03,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-04,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-04,55522208,BAINBRIDGE,RAWS,SA42,hot,94.0,8,83.6,max temp much warmer than neighbors
+2025-09-04,55522240,COCHRAN,RAWS,SA41,hot,89.0,8,80.5,max temp much warmer than neighbors
+2025-09-04,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,78.9,max temp much colder than neighbors
+2025-09-04,86702,CACHE,RAWS,SA50,rain_alone,0.56,8,0.01,rain no neighbor saw
+2025-09-04,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-04,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-04,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,6,0.52,no rain while most neighbors got rain
+2025-09-04,ASOS-2A0,Dayton,ASOS,SA25,cold,69.8,8,85.5,max temp much colder than neighbors
+2025-09-04,ASOS-2J5,Millen,ASOS,SA42,cold,65.0,8,90.1,max temp much colder than neighbors
+2025-09-04,ASOS-EKQ,Monticello,ASOS,SA27,missed,0.0,8,0.7,no rain while most neighbors got rain
+2025-09-04,ASOS-EZM,Eastman,ASOS,SA42,cold,80.6,8,89.6,max temp much colder than neighbors
+2025-09-04,ASOS-IMM,Immokalee Auxiliary,ASOS,SA50,cold,75.2,8,85.9,max temp much colder than neighbors
+2025-09-04,ASOS-LAL,Lakeland Regional,ASOS,SA49,hot,98.6,8,90.1,max temp much warmer than neighbors
+2025-09-04,ASOS-PKV,Port_Lavaca,ASOS,SA15,hot,101.3,5,93.0,max temp much warmer than neighbors
+2025-09-04,ASOS-RWV,Caldwell,ASOS,SA11,cold,68.0,8,100.0,max temp much colder than neighbors
+2025-09-04,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-05,31502,HORSESHOE BEND,RAWS,SA17B,hot,86.0,6,77.4,max temp much warmer than neighbors
+2025-09-05,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-05,55522208,BAINBRIDGE,RAWS,SA42,hot,96.0,8,86.9,max temp much warmer than neighbors
+2025-09-05,55522240,COCHRAN,RAWS,SA41,hot,93.0,8,83.6,max temp much warmer than neighbors
+2025-09-05,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,70.0,8,85.6,max temp much colder than neighbors
+2025-09-05,96301,METTER,RAWS,SA42,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-05,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-05,ASOS-1M5,Portland,ASOS,SA25,cold,69.8,8,90.8,max temp much colder than neighbors
+2025-09-05,ASOS-AHN,Athens Municipal,ASOS,SA41,cold,79.0,8,88.7,max temp much colder than neighbors
+2025-09-05,ASOS-CLW,Clearwater Air Park,ASOS,SA49,wet,1.0,7,0.24,far more rain than any neighbor
+2025-09-05,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-09-05,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,cold,78.0,8,97.2,max temp much colder than neighbors
+2025-09-05,ASOS-MBO,Madison,ASOS,SA22A,cold,82.4,5,91.0,max temp much colder than neighbors
+2025-09-05,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,80.0,8,88.5,max temp much colder than neighbors
+2025-09-05,ASOS-RFI,Henderson,ASOS,SA07,hot,100.0,8,91.8,max temp much warmer than neighbors
+2025-09-05,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-05,ASOS-T89,Castroville,ASOS,SA14,cold,87.8,8,98.9,max temp much colder than neighbors
+2025-09-06,154801,BIG SANDY,RAWS,SA27,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-09-06,220202,WINBORN,RAWS,SA23,missed,0.0,6,0.64,no rain while most neighbors got rain
+2025-09-06,222101,YALLABUSHA,RAWS,SA23,wet,1.13,4,0.08,far more rain than any neighbor
+2025-09-06,346303,KIAMICHI,RAWS,SA17A,cold,60.0,5,70.2,max temp much colder than neighbors
+2025-09-06,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-06,410501,TEXARKANA,RAWS,SA07,cold,71.0,4,79.1,max temp much colder than neighbors
+2025-09-06,419901,MCFADDIN,RAWS,SA13,rain_alone,0.85,4,0.04,rain no neighbor saw
+2025-09-06,55522208,BAINBRIDGE,RAWS,SA42,hot,96.0,8,86.2,max temp much warmer than neighbors
+2025-09-06,55522240,COCHRAN,RAWS,SA41,hot,90.0,8,81.9,max temp much warmer than neighbors
+2025-09-06,55522296,JOHN CRAFT,RAWS,SA11,wet,1.07,8,0.12,far more rain than any neighbor
+2025-09-06,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,70.0,8,85.0,max temp much colder than neighbors
+2025-09-06,96301,METTER,RAWS,SA42,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-06,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-06,ASOS-15M,Iuka,ASOS,SA23,missed,0.0,7,1.06,no rain while most neighbors got rain
+2025-09-06,ASOS-4M9,Corning,ASOS,SA18,cold,66.2,7,77.0,max temp much colder than neighbors
+2025-09-06,ASOS-5C1,San Antonio,ASOS,SA14,wet,1.24,8,0.21,far more rain than any neighbor
+2025-09-06,ASOS-CRE,North Myrtle Beach,ASOS,SA37,cold,84.0,8,92.8,max temp much colder than neighbors
+2025-09-06,ASOS-GNV,Gainesville Rgnl,ASOS,SA48,missed,0.0,7,0.74,no rain while most neighbors got rain
+2025-09-06,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,82.0,8,90.5,max temp much colder than neighbors
+2025-09-06,ASOS-MTH,Marathon,ASOS,SA50,missed,0.0,3,1.71,no rain while most neighbors got rain
+2025-09-06,ASOS-RWV,Caldwell,ASOS,SA11,cold,77.0,8,87.9,max temp much colder than neighbors
+2025-09-06,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-06,ASOS-TUP,Tupelo,ASOS,SA23,cold,63.0,8,75.3,max temp much colder than neighbors
+2025-09-06,ASOS-W78,South Boston,ASOS,SA29,cold,70.5,8,90.4,max temp much colder than neighbors
+2025-09-07,319004,NEW BERN,RAWS,SA34,missed,0.0,8,0.6,no rain while most neighbors got rain
+2025-09-07,55522208,BAINBRIDGE,RAWS,SA42,hot,93.0,8,84.1,max temp much warmer than neighbors
+2025-09-07,55522240,COCHRAN,RAWS,SA41,hot,89.0,8,80.2,max temp much warmer than neighbors
+2025-09-07,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,58.0,8,70.8,max temp much colder than neighbors
+2025-09-07,86501,NATIONAL KEY DEER NWR,RAWS,SA50,rain_alone,0.52,3,0.0,rain no neighbor saw
+2025-09-07,96301,METTER,RAWS,SA42,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-07,ASOS-1M5,Portland,ASOS,SA25,cold,64.4,8,77.2,max temp much colder than neighbors
+2025-09-07,ASOS-5T9,Maverick County,ASOS,SA14,wet,2.38,3,0.56,far more rain than any neighbor
+2025-09-07,ASOS-EZM,Eastman,ASOS,SA42,cold,78.8,8,89.5,max temp much colder than neighbors
+2025-09-07,ASOS-FSI,Fort Sill,ASOS,SA02,cold,68.7,8,84.3,max temp much colder than neighbors
+2025-09-07,ASOS-FYM,Fayetteville,ASOS,SA25,cold,59.0,8,76.0,max temp much colder than neighbors
+2025-09-07,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-09-07,ASOS-LRD,Laredo Intl Airport,ASOS,SA14,wet,1.52,3,0.28,far more rain than any neighbor
+2025-09-07,ASOS-MBO,Madison,ASOS,SA22A,cold,68.0,5,83.0,max temp much colder than neighbors
+2025-09-07,ASOS-T89,Castroville,ASOS,SA14,hot,93.2,8,78.5,max temp much warmer than neighbors
+2025-09-08,418603,LAGUNA ATASCOSA,RAWS,SA15,wet,2.75,3,0.28,far more rain than any neighbor
+2025-09-08,55522240,COCHRAN,RAWS,SA41,hot,82.0,8,73.2,max temp much warmer than neighbors
+2025-09-08,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,59.0,8,72.6,max temp much colder than neighbors
+2025-09-08,96301,METTER,RAWS,SA42,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-08,ASOS-1A6,Middlesboro-Bell,ASOS,SA27,cold,52.0,8,76.9,max temp much colder than neighbors
+2025-09-08,ASOS-1M5,Portland,ASOS,SA25,cold,50.0,8,78.8,max temp much colder than neighbors
+2025-09-08,ASOS-BKB,Fullerton - Fort Polk,ASOS,SA19,cold,66.0,8,84.2,max temp much colder than neighbors
+2025-09-08,ASOS-CWF,Lake Charles - Chennault Intl,ASOS,SA19,cold,73.0,8,86.0,max temp much colder than neighbors
+2025-09-08,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,1.31,no rain while most neighbors got rain
+2025-09-08,ASOS-GKT,Sevierville,ASOS,SA25B,cold,64.4,8,78.8,max temp much colder than neighbors
+2025-09-08,ASOS-HWO,Hollywood/N. Perry,ASOS,SA50,missed,0.0,8,0.95,no rain while most neighbors got rain
+2025-09-08,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-08,ASOS-OQT,Oak Ridge,ASOS,SA25,cold,67.0,8,78.2,max temp much colder than neighbors
+2025-09-08,ASOS-RYW,Lago Vista,ASOS,SA11,cold,75.6,8,87.2,max temp much colder than neighbors
+2025-09-08,ASOS-TMB,Miami/Kendall-Tamia,ASOS,SA50,missed,0.0,8,0.95,no rain while most neighbors got rain
+2025-09-09,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-09,55522208,BAINBRIDGE,RAWS,SA42,hot,89.0,8,79.4,max temp much warmer than neighbors
+2025-09-09,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,74.1,max temp much warmer than neighbors
+2025-09-09,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,59.0,8,73.3,max temp much colder than neighbors
+2025-09-09,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-09,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-09,ASOS-CSV,Crossville Memorial,ASOS,SA25,cold,60.0,8,77.0,max temp much colder than neighbors
+2025-09-09,ASOS-CWF,Lake Charles - Chennault Intl,ASOS,SA19,hot,97.0,8,88.5,max temp much warmer than neighbors
+2025-09-09,ASOS-MBO,Madison,ASOS,SA22A,cold,62.6,5,87.7,max temp much colder than neighbors
+2025-09-09,ASOS-MIA,Miami Intl Airport,ASOS,SA50,wet,2.63,8,0.5,far more rain than any neighbor
+2025-09-09,ASOS-RFI,Henderson,ASOS,SA07,hot,94.3,8,85.2,max temp much warmer than neighbors
+2025-09-09,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-10,346303,KIAMICHI,RAWS,SA17A,cold,73.0,5,82.8,max temp much colder than neighbors
+2025-09-10,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-10,55522208,BAINBRIDGE,RAWS,SA42,hot,90.0,8,79.9,max temp much warmer than neighbors
+2025-09-10,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,74.6,max temp much warmer than neighbors
+2025-09-10,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,79.5,max temp much colder than neighbors
+2025-09-10,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-10,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-10,ASOS-2IS,Clewiston,ASOS,SA50,wet,1.82,8,0.27,far more rain than any neighbor
+2025-09-10,ASOS-ANB,Anniston,ASOS,SA38,cold,75.0,8,85.8,max temp much colder than neighbors
+2025-09-10,ASOS-ASD,Slidell,ASOS,SA21A,cold,75.0,8,89.8,max temp much colder than neighbors
+2025-09-10,ASOS-BVX,Batesville (Awos),ASOS,SA18,cold,69.0,8,89.9,max temp much colder than neighbors
+2025-09-10,ASOS-FFC,Peachtree City,ASOS,SA40,cold,59.0,8,82.7,max temp much colder than neighbors
+2025-09-10,ASOS-GVL,Gainsville,ASOS,SA40,cold,62.0,8,84.3,max temp much colder than neighbors
+2025-09-10,ASOS-HBI,Asheboro_Muni_Arpt,ASOS,SA32,cold,63.3,8,80.8,max temp much colder than neighbors
+2025-09-10,ASOS-RFI,Henderson,ASOS,SA07,hot,98.6,8,90.1,max temp much warmer than neighbors
+2025-09-10,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-10,ASOS-TJSJ,San Juan,ASOS,SA52A,rain_alone,0.84,3,0.0,rain no neighbor saw
+2025-09-10,ASOS-TMB,Miami/Kendall-Tamia,ASOS,SA50,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-09-11,227701,BOGUE CHITTO,RAWS,SA22A,cold,83.0,8,91.5,max temp much colder than neighbors
+2025-09-11,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-11,55522208,BAINBRIDGE,RAWS,SA42,hot,91.0,8,81.7,max temp much warmer than neighbors
+2025-09-11,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,80.7,max temp much colder than neighbors
+2025-09-11,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-11,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-11,ASOS-0VG,Jonesville,ASOS,SA28A,rain_alone,0.53,6,0.0,rain no neighbor saw
+2025-09-11,ASOS-2J5,Millen,ASOS,SA42,cold,63.5,8,88.0,max temp much colder than neighbors
+2025-09-11,ASOS-42A,Melbourne,ASOS,SA17B,cold,86.0,6,95.5,max temp much colder than neighbors
+2025-09-11,ASOS-BEA,Beeville,ASOS,SA14,cold,73.4,8,94.6,max temp much colder than neighbors
+2025-09-11,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-09-11,ASOS-RFI,Henderson,ASOS,SA07,hot,101.7,8,92.6,max temp much warmer than neighbors
+2025-09-11,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-12,383701,SAVRAW,RAWS,SA36,rain_alone,0.72,7,0.0,rain no neighbor saw
+2025-09-12,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-12,55522208,BAINBRIDGE,RAWS,SA42,hot,92.0,8,83.2,max temp much warmer than neighbors
+2025-09-12,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,81.4,max temp much colder than neighbors
+2025-09-12,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-12,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-12,ASOS-EZM,Eastman,ASOS,SA42,cold,78.8,8,87.3,max temp much colder than neighbors
+2025-09-12,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,0.81,no rain while most neighbors got rain
+2025-09-12,ASOS-HWO,Hollywood/N. Perry,ASOS,SA50,missed,0.0,8,0.89,no rain while most neighbors got rain
+2025-09-12,ASOS-JAU,Jacksboro,ASOS,SA25,cold,73.4,8,82.9,max temp much colder than neighbors
+2025-09-12,ASOS-LGC,La_Grange,ASOS,SA41,cold,73.4,8,87.1,max temp much colder than neighbors
+2025-09-12,ASOS-RFI,Henderson,ASOS,SA07,hot,101.5,8,92.8,max temp much warmer than neighbors
+2025-09-12,ASOS-RWV,Caldwell,ASOS,SA11,cold,71.6,8,94.2,max temp much colder than neighbors
+2025-09-12,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-12,ASOS-TMB,Miami/Kendall-Tamia,ASOS,SA50,missed,0.0,8,0.8,no rain while most neighbors got rain
+2025-09-13,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-13,55522208,BAINBRIDGE,RAWS,SA42,hot,90.0,8,81.6,max temp much warmer than neighbors
+2025-09-13,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,80.4,max temp much colder than neighbors
+2025-09-13,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-13,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-13,ASOS-2J5,Millen,ASOS,SA42,cold,64.8,8,86.1,max temp much colder than neighbors
+2025-09-13,ASOS-ASD,Slidell,ASOS,SA21A,rain_alone,0.94,6,0.05,rain no neighbor saw
+2025-09-13,ASOS-DAB,Daytona Beach Rgnl,ASOS,SA49,wet,1.2,8,0.1,far more rain than any neighbor
+2025-09-13,ASOS-IPJ,Lincolnton,ASOS,SA32,cold,71.0,8,81.7,max temp much colder than neighbors
+2025-09-13,ASOS-MBO,Madison,ASOS,SA22A,cold,69.8,5,92.9,max temp much colder than neighbors
+2025-09-13,ASOS-MTH,Marathon,ASOS,SA50,wet,1.22,3,0.24,far more rain than any neighbor
+2025-09-13,ASOS-NQI,Kingsville Nas,ASOS,SA15,cold,75.0,8,94.5,max temp much colder than neighbors
+2025-09-13,ASOS-PRX,Paris/Cox Field,ASOS,SA07,rain_alone,0.81,5,0.0,rain no neighbor saw
+2025-09-13,ASOS-RFI,Henderson,ASOS,SA07,hot,101.7,8,92.6,max temp much warmer than neighbors
+2025-09-13,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-14,346303,KIAMICHI,RAWS,SA17A,cold,75.0,5,86.2,max temp much colder than neighbors
+2025-09-14,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-14,55522208,BAINBRIDGE,RAWS,SA42,hot,90.0,8,81.7,max temp much warmer than neighbors
+2025-09-14,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,78.1,max temp much warmer than neighbors
+2025-09-14,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,67.0,8,83.4,max temp much colder than neighbors
+2025-09-14,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-14,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-14,ASOS-1A9,Prattville,ASOS,SA39,cold,81.0,7,89.8,max temp much colder than neighbors
+2025-09-14,ASOS-CWC,Kickapoo,ASOS,SA05,cold,77.0,4,93.0,max temp much colder than neighbors
+2025-09-14,ASOS-CWF,Lake Charles - Chennault Intl,ASOS,SA19,hot,100.0,8,91.3,max temp much warmer than neighbors
+2025-09-14,ASOS-EZM,Eastman,ASOS,SA42,cold,77.0,8,86.2,max temp much colder than neighbors
+2025-09-14,ASOS-FSI,Fort Sill,ASOS,SA02,cold,79.3,8,91.5,max temp much colder than neighbors
+2025-09-14,ASOS-MBO,Madison,ASOS,SA22A,cold,64.4,5,92.9,max temp much colder than neighbors
+2025-09-14,ASOS-RFI,Henderson,ASOS,SA07,hot,101.0,8,92.1,max temp much warmer than neighbors
+2025-09-14,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-15,346303,KIAMICHI,RAWS,SA17A,cold,77.0,5,86.4,max temp much colder than neighbors
+2025-09-15,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-15,55522208,BAINBRIDGE,RAWS,SA42,hot,91.0,8,81.8,max temp much warmer than neighbors
+2025-09-15,55522240,COCHRAN,RAWS,SA41,hot,86.0,8,77.6,max temp much warmer than neighbors
+2025-09-15,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,81.0,max temp much colder than neighbors
+2025-09-15,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-15,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-15,ASOS-AWM,West Memphis Muni,ASOS,SA18,cold,77.0,8,94.5,max temp much colder than neighbors
+2025-09-15,ASOS-BKN,Blackwell,ASOS,SA03,hot,98.6,6,90.4,max temp much warmer than neighbors
+2025-09-15,ASOS-CGC,Crystal River,ASOS,SA49,cold,62.6,7,88.2,max temp much colder than neighbors
+2025-09-15,ASOS-EHR,Henderson City,ASOS,SA26,cold,75.0,8,93.4,max temp much colder than neighbors
+2025-09-15,ASOS-PVG,Norfolk/Hampton Roads,ASOS,SA30,bad_rain,30.17,0,,impossible rain total
+2025-09-15,ASOS-RFI,Henderson,ASOS,SA07,hot,101.3,8,92.6,max temp much warmer than neighbors
+2025-09-15,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-16,225101,BIENVILLE,RAWS,SA22A,rain_alone,0.81,6,0.02,rain no neighbor saw
+2025-09-16,227701,BOGUE CHITTO,RAWS,SA22A,cold,82.0,8,90.9,max temp much colder than neighbors
+2025-09-16,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-16,55522208,BAINBRIDGE,RAWS,SA42,hot,92.0,8,83.2,max temp much warmer than neighbors
+2025-09-16,55522240,COCHRAN,RAWS,SA41,hot,88.0,8,78.9,max temp much warmer than neighbors
+2025-09-16,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,59.0,8,76.0,max temp much colder than neighbors
+2025-09-16,85801,BRIGHTON,RAWS,SA50,missed,0.0,5,0.66,no rain while most neighbors got rain
+2025-09-16,86401,OASIS,RAWS,SA50,wet,1.28,8,0.16,far more rain than any neighbor
+2025-09-16,96301,METTER,RAWS,SA42,missed,0.0,6,1.91,no rain while most neighbors got rain
+2025-09-16,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-16,ASOS-1M5,Portland,ASOS,SA25,cold,71.6,8,89.4,max temp much colder than neighbors
+2025-09-16,ASOS-EZM,Eastman,ASOS,SA42,cold,77.0,8,87.6,max temp much colder than neighbors
+2025-09-16,ASOS-FSM,Fort Smith Muni,ASOS,SA17B,rain_alone,1.26,3,0.0,rain no neighbor saw
+2025-09-16,ASOS-HBR,Hobart Municipal,ASOS,SA02,rain_alone,0.51,5,0.0,rain no neighbor saw
+2025-09-16,ASOS-MBO,Madison,ASOS,SA22A,cold,80.6,5,90.0,max temp much colder than neighbors
+2025-09-16,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-16,ASOS-ZPH,Zephyrville,ASOS,SA49,cold,74.0,8,90.8,max temp much colder than neighbors
+2025-09-17,346303,KIAMICHI,RAWS,SA17A,cold,80.0,5,88.2,max temp much colder than neighbors
+2025-09-17,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-17,55522208,BAINBRIDGE,RAWS,SA42,hot,95.0,8,85.1,max temp much warmer than neighbors
+2025-09-17,55522240,COCHRAN,RAWS,SA41,hot,91.0,8,81.4,max temp much warmer than neighbors
+2025-09-17,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,80.8,max temp much colder than neighbors
+2025-09-17,91101,DAWSONVILLE,RAWS,SA40,rain_alone,0.5,8,0.04,rain no neighbor saw
+2025-09-17,96301,METTER,RAWS,SA42,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-17,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-17,ASOS-1M5,Portland,ASOS,SA25,cold,71.6,8,89.1,max temp much colder than neighbors
+2025-09-17,ASOS-1R7,Brookhaven,ASOS,SA22A,rain_alone,0.5,5,0.0,rain no neighbor saw
+2025-09-17,ASOS-AHN,Athens Municipal,ASOS,SA41,cold,77.0,8,85.2,max temp much colder than neighbors
+2025-09-17,ASOS-APY,Zapata,ASOS,SA16,cold,81.7,3,92.2,max temp much colder than neighbors
+2025-09-17,ASOS-CRX,Corinth,ASOS,SA23,rain_alone,0.52,6,0.0,rain no neighbor saw
+2025-09-17,ASOS-RFI,Henderson,ASOS,SA07,hot,102.7,8,93.8,max temp much warmer than neighbors
+2025-09-17,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-17,ASOS-VDF,Vandenberg Airport/Tampa,ASOS,SA49,cold,73.4,8,87.5,max temp much colder than neighbors
+2025-09-18,346303,KIAMICHI,RAWS,SA17A,cold,77.0,5,86.4,max temp much colder than neighbors
+2025-09-18,55522208,BAINBRIDGE,RAWS,SA42,hot,98.0,8,86.9,max temp much warmer than neighbors
+2025-09-18,55522240,COCHRAN,RAWS,SA41,hot,91.0,8,82.5,max temp much warmer than neighbors
+2025-09-18,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,68.0,8,84.7,max temp much colder than neighbors
+2025-09-18,96301,METTER,RAWS,SA42,missed,0.0,8,1.74,no rain while most neighbors got rain
+2025-09-18,ASOS-ARW,Beaufort,ASOS,SA37,cold,75.2,8,89.0,max temp much colder than neighbors
+2025-09-18,ASOS-FMY,Fort Myers/Page Fld,ASOS,SA50,wet,1.38,7,0.06,far more rain than any neighbor
+2025-09-18,ASOS-RFI,Henderson,ASOS,SA07,hot,101.7,8,93.1,max temp much warmer than neighbors
+2025-09-19,313902,CHEROKEE,RAWS,SA31A,cold,71.0,8,80.8,max temp much colder than neighbors
+2025-09-19,408302,SHILOH NMP,RAWS,SA24,rain_alone,0.51,3,0.0,rain no neighbor saw
+2025-09-19,411901,CADDO LAKE,RAWS,SA07,rain_alone,0.69,7,0.01,rain no neighbor saw
+2025-09-19,418603,LAGUNA ATASCOSA,RAWS,SA15,missed,0.0,3,0.63,no rain while most neighbors got rain
+2025-09-19,55522208,BAINBRIDGE,RAWS,SA42,hot,97.0,8,88.4,max temp much warmer than neighbors
+2025-09-19,55522240,COCHRAN,RAWS,SA41,hot,93.0,8,83.5,max temp much warmer than neighbors
+2025-09-19,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,73.0,8,87.6,max temp much colder than neighbors
+2025-09-19,ASOS-1A9,Prattville,ASOS,SA39,cold,84.0,7,94.9,max temp much colder than neighbors
+2025-09-19,ASOS-ELP,El Paso Intl Arpt,ASOS,SA08,wet,1.95,4,0.23,far more rain than any neighbor
+2025-09-19,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.8,no rain while most neighbors got rain
+2025-09-19,ASOS-MBO,Madison,ASOS,SA22A,cold,69.8,5,92.9,max temp much colder than neighbors
+2025-09-19,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,73.0,8,83.5,max temp much colder than neighbors
+2025-09-19,ASOS-RFI,Henderson,ASOS,SA07,hot,100.4,8,89.0,max temp much warmer than neighbors
+2025-09-19,ASOS-RNV,Cleveland,ASOS,SA22A,cold,77.0,3,91.0,max temp much colder than neighbors
+2025-09-19,ASOS-RYW,Lago Vista,ASOS,SA11,cold,83.5,8,93.3,max temp much colder than neighbors
+2025-09-20,227701,BOGUE CHITTO,RAWS,SA22A,cold,84.0,8,93.7,max temp much colder than neighbors
+2025-09-20,346303,KIAMICHI,RAWS,SA17A,cold,74.0,5,84.4,max temp much colder than neighbors
+2025-09-20,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-20,441801,LIME KILN,RAWS,SA28B,wet,1.13,5,0.17,far more rain than any neighbor
+2025-09-20,55522208,BAINBRIDGE,RAWS,SA42,hot,98.0,8,88.8,max temp much warmer than neighbors
+2025-09-20,55522240,COCHRAN,RAWS,SA41,hot,92.0,8,83.0,max temp much warmer than neighbors
+2025-09-20,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,71.0,8,86.3,max temp much colder than neighbors
+2025-09-20,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-20,ASOS-1A9,Prattville,ASOS,SA39,cold,81.0,7,94.8,max temp much colder than neighbors
+2025-09-20,ASOS-ASG,Springdale Muni,ASOS,SA17B,hot,82.4,8,72.2,max temp much warmer than neighbors
+2025-09-20,ASOS-DTS,Destin - Fort Walton Beach,ASOS,SA47,cold,87.0,8,95.8,max temp much colder than neighbors
+2025-09-20,ASOS-EFD,Houston/Ellington,ASOS,SA13,cold,80.6,8,90.7,max temp much colder than neighbors
+2025-09-20,ASOS-FLL,Fort Lauderdale - Hollywood,ASOS,SA50,wet,1.98,8,0.3,far more rain than any neighbor
+2025-09-20,ASOS-FSI,Fort Sill,ASOS,SA02,cold,81.0,8,95.2,max temp much colder than neighbors
+2025-09-20,ASOS-HNZ,Henderson-Oxford_Arpt,ASOS,SA32,cold,68.0,8,86.1,max temp much colder than neighbors
+2025-09-20,ASOS-LTS,Altus Afb,ASOS,SA02,missed,0.0,6,0.59,no rain while most neighbors got rain
+2025-09-20,ASOS-MKO,Muskogee/Davis Fld,ASOS,SA17A,missed,0.0,5,0.59,no rain while most neighbors got rain
+2025-09-20,ASOS-RFI,Henderson,ASOS,SA07,hot,99.0,8,90.9,max temp much warmer than neighbors
+2025-09-20,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-21,227701,BOGUE CHITTO,RAWS,SA22A,cold,82.0,8,92.5,max temp much colder than neighbors
+2025-09-21,316001,DAVIDSON RIVER,RAWS,SA31A,rain_alone,0.5,8,0.04,rain no neighbor saw
+2025-09-21,340901,OSAGE,RAWS,SA03,missed,0.0,3,0.61,no rain while most neighbors got rain
+2025-09-21,346303,KIAMICHI,RAWS,SA17A,cold,70.0,5,79.2,max temp much colder than neighbors
+2025-09-21,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-21,55522208,BAINBRIDGE,RAWS,SA42,hot,94.0,8,85.2,max temp much warmer than neighbors
+2025-09-21,55522240,COCHRAN,RAWS,SA41,hot,90.0,8,80.2,max temp much warmer than neighbors
+2025-09-21,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,81.0,max temp much colder than neighbors
+2025-09-21,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-21,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-21,ASOS-BKD,Breckenridge,ASOS,SA05,missed,0.0,6,0.68,no rain while most neighbors got rain
+2025-09-21,ASOS-BPK,Mountain Home/Baxter County,ASOS,SA17B,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-09-21,ASOS-BVX,Batesville (Awos),ASOS,SA18,cold,82.0,7,90.5,max temp much colder than neighbors
+2025-09-21,ASOS-FLP,Flippin (Awos),ASOS,SA17B,missed,0.0,8,0.72,no rain while most neighbors got rain
+2025-09-21,ASOS-FSI,Fort Sill,ASOS,SA02,cold,70.5,8,83.8,max temp much colder than neighbors
+2025-09-21,ASOS-HKA,Blytheville,ASOS,SA18,cold,78.8,8,92.2,max temp much colder than neighbors
+2025-09-21,ASOS-MMI,Athens,ASOS,SA25B,wet,2.06,8,0.45,far more rain than any neighbor
+2025-09-21,ASOS-MSL,Muscle Shoals Rgnl,ASOS,SA38,rain_alone,0.7,6,0.01,rain no neighbor saw
+2025-09-21,ASOS-RFI,Henderson,ASOS,SA07,hot,100.4,8,91.4,max temp much warmer than neighbors
+2025-09-21,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-21,ASOS-TMB,Miami/Kendall-Tamia,ASOS,SA50,missed,0.0,8,0.82,no rain while most neighbors got rain
+2025-09-22,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,91.0,max temp much colder than neighbors
+2025-09-22,346303,KIAMICHI,RAWS,SA17A,cold,71.0,5,81.4,max temp much colder than neighbors
+2025-09-22,55522208,BAINBRIDGE,RAWS,SA42,hot,94.0,8,85.7,max temp much warmer than neighbors
+2025-09-22,55522240,COCHRAN,RAWS,SA41,hot,89.0,8,80.2,max temp much warmer than neighbors
+2025-09-22,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,67.0,8,80.8,max temp much colder than neighbors
+2025-09-22,86404,RACCOON POINT RAWS,RAWS,SA50,missed,0.0,8,0.6,no rain while most neighbors got rain
+2025-09-22,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-22,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-22,ASOS-0F2,Bowie,ASOS,SA06,rain_alone,0.92,5,0.04,rain no neighbor saw
+2025-09-22,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,6,0.83,no rain while most neighbors got rain
+2025-09-22,ASOS-ADM,Ardmore Municipal,ASOS,SA03,hot,100.4,5,90.5,max temp much warmer than neighbors
+2025-09-22,ASOS-CRP,Corpus Christi Intl,ASOS,SA15,rain_alone,0.56,4,0.0,rain no neighbor saw
+2025-09-22,ASOS-JQF,Concord,ASOS,SA32,cold,64.4,8,84.5,max temp much colder than neighbors
+2025-09-22,ASOS-MBO,Madison,ASOS,SA22A,cold,69.8,5,91.4,max temp much colder than neighbors
+2025-09-22,ASOS-MEB,Laurinburg-Maxton_Arpt_(Asos),ASOS,SA32,cold,71.0,8,87.7,max temp much colder than neighbors
+2025-09-22,ASOS-PGD,Punta Gorda,ASOS,SA50,rain_alone,1.02,4,0.04,rain no neighbor saw
+2025-09-22,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-22,ASOS-TKI,Mc Kinney,ASOS,SA06,wet,1.81,8,0.23,far more rain than any neighbor
+2025-09-22,ASOS-UDG,Darlington County Jetport,ASOS,SA36,cold,72.0,8,87.8,max temp much colder than neighbors
+2025-09-23,165103,LACASSINE,RAWS,SA20,missed,0.0,5,0.59,no rain while most neighbors got rain
+2025-09-23,227701,BOGUE CHITTO,RAWS,SA22A,cold,79.0,8,92.4,max temp much colder than neighbors
+2025-09-23,346303,KIAMICHI,RAWS,SA17A,cold,76.0,5,85.2,max temp much colder than neighbors
+2025-09-23,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-23,419403,COMANCHE,RAWS,SA10,wet,1.54,8,0.38,far more rain than any neighbor
+2025-09-23,55522208,BAINBRIDGE,RAWS,SA42,hot,98.0,8,88.3,max temp much warmer than neighbors
+2025-09-23,55522240,COCHRAN,RAWS,SA41,hot,92.0,8,83.3,max temp much warmer than neighbors
+2025-09-23,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,69.0,8,84.2,max temp much colder than neighbors
+2025-09-23,84802,LAKE WALES,RAWS,SA50,missed,0.0,4,0.98,no rain while most neighbors got rain
+2025-09-23,86404,RACCOON POINT RAWS,RAWS,SA50,rain_alone,1.1,8,0.05,rain no neighbor saw
+2025-09-23,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-23,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-23,ASOS-1A9,Prattville,ASOS,SA39,cold,85.5,7,93.9,max temp much colder than neighbors
+2025-09-23,ASOS-BEA,Beeville,ASOS,SA14,cold,87.3,8,99.3,max temp much colder than neighbors
+2025-09-23,ASOS-BMT,Beaumont,ASOS,SA13,cold,75.6,8,89.5,max temp much colder than neighbors
+2025-09-23,ASOS-BPK,Mountain Home/Baxter County,ASOS,SA17B,missed,0.0,8,1.67,no rain while most neighbors got rain
+2025-09-23,ASOS-FLP,Flippin (Awos),ASOS,SA17B,missed,0.0,8,1.67,no rain while most neighbors got rain
+2025-09-23,ASOS-HZR,New Roads,ASOS,SA19,rain_alone,0.88,3,0.04,rain no neighbor saw
+2025-09-23,ASOS-LGC,La_Grange,ASOS,SA41,cold,19.4,8,90.7,max temp much colder than neighbors
+2025-09-23,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,76.0,8,87.0,max temp much colder than neighbors
+2025-09-23,ASOS-PKV,Port_Lavaca,ASOS,SA15,cold,83.0,5,92.0,max temp much colder than neighbors
+2025-09-23,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-23,ASOS-SGJ,St Augustine Airpt,ASOS,SA49,cold,81.0,8,90.8,max temp much colder than neighbors
+2025-09-23,ASOS-SWO,Stillwater Muni,ASOS,SA03,hot,90.0,6,79.7,max temp much warmer than neighbors
+2025-09-23,ASOS-TJSJ,San Juan,ASOS,SA52A,rain_alone,0.51,3,0.01,rain no neighbor saw
+2025-09-23,ASOS-UZA,Rock Hill (Was 29J),ASOS,SA35,cold,63.0,8,88.0,max temp much colder than neighbors
+2025-09-24,159501,ALPINE,RAWS,SA26,missed,0.0,7,0.68,no rain while most neighbors got rain
+2025-09-24,227701,BOGUE CHITTO,RAWS,SA22A,cold,76.0,8,91.0,max temp much colder than neighbors
+2025-09-24,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-24,419401,BUFFALO GAP,RAWS,SA05,missed,0.0,4,0.55,no rain while most neighbors got rain
+2025-09-24,55522208,BAINBRIDGE,RAWS,SA42,hot,97.0,8,87.3,max temp much warmer than neighbors
+2025-09-24,55522240,COCHRAN,RAWS,SA41,hot,96.0,8,86.6,max temp much warmer than neighbors
+2025-09-24,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,67.0,8,86.2,max temp much colder than neighbors
+2025-09-24,96301,METTER,RAWS,SA42,missed,0.0,6,1.92,no rain while most neighbors got rain
+2025-09-24,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-24,ASOS-15M,Iuka,ASOS,SA23,missed,0.0,6,0.93,no rain while most neighbors got rain
+2025-09-24,ASOS-1A9,Prattville,ASOS,SA39,cold,81.7,7,93.3,max temp much colder than neighbors
+2025-09-24,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,6,0.54,no rain while most neighbors got rain
+2025-09-24,ASOS-CEU,Clemson/Oconee County,ASOS,SA31C,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-09-24,ASOS-DCU,Decatur/Pryor Field,ASOS,SA38,missed,0.0,8,1.06,no rain while most neighbors got rain
+2025-09-24,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,cold,73.4,8,88.0,max temp much colder than neighbors
+2025-09-24,ASOS-JFX,Manchester,ASOS,SA38,cold,71.6,4,84.8,max temp much colder than neighbors
+2025-09-24,ASOS-K70,Key Largo - Ocean Reef,ASOS,SA50,rain_alone,0.64,7,0.03,rain no neighbor saw
+2025-09-24,ASOS-LFT,Lafayette,ASOS,SA19,wet,1.97,4,0.48,far more rain than any neighbor
+2025-09-24,ASOS-LRF,Little Rock Afb,ASOS,SA18,missed,0.0,6,0.62,no rain while most neighbors got rain
+2025-09-24,ASOS-RSW,Ft Myers/Sw Florida,ASOS,SA50,rain_alone,1.07,8,0.05,rain no neighbor saw
+2025-09-24,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-24,ASOS-SGJ,St Augustine Airpt,ASOS,SA49,cold,76.0,8,92.0,max temp much colder than neighbors
+2025-09-25,227701,BOGUE CHITTO,RAWS,SA22A,cold,69.0,8,84.2,max temp much colder than neighbors
+2025-09-25,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-25,55522208,BAINBRIDGE,RAWS,SA42,hot,93.0,8,83.7,max temp much warmer than neighbors
+2025-09-25,55522240,COCHRAN,RAWS,SA41,hot,89.0,8,79.6,max temp much warmer than neighbors
+2025-09-25,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,68.0,8,80.1,max temp much colder than neighbors
+2025-09-25,86702,CACHE,RAWS,SA50,missed,0.0,8,0.57,no rain while most neighbors got rain
+2025-09-25,96301,METTER,RAWS,SA42,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-25,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-25,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,6,0.7,no rain while most neighbors got rain
+2025-09-25,ASOS-ARG,Walnut Ridge (Awos),ASOS,SA18,wet,1.45,6,0.3,far more rain than any neighbor
+2025-09-25,ASOS-BIJ,Blakely,ASOS,SA41,cold,82.4,8,91.2,max temp much colder than neighbors
+2025-09-25,ASOS-F45,West Palm Beach,ASOS,SA50,rain_alone,1.25,5,0.02,rain no neighbor saw
+2025-09-25,ASOS-FCI,Chesterfield,ASOS,SA29,cold,73.0,8,86.2,max temp much colder than neighbors
+2025-09-25,ASOS-LRD,Laredo Intl Airport,ASOS,SA14,wet,2.7,3,0.18,far more rain than any neighbor
+2025-09-25,ASOS-PTN,Patterson Memorial,ASOS,SA20,wet,1.79,3,0.29,far more rain than any neighbor
+2025-09-25,ASOS-RYW,Lago Vista,ASOS,SA11,cold,76.0,8,88.2,max temp much colder than neighbors
+2025-09-25,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.85,no rain while most neighbors got rain
+2025-09-25,ASOS-SGJ,St Augustine Airpt,ASOS,SA49,cold,76.0,8,89.9,max temp much colder than neighbors
+2025-09-25,ASOS-VCT,Victoria Regional,ASOS,SA15,missed,0.0,3,1.66,no rain while most neighbors got rain
+2025-09-26,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,87.5,max temp much colder than neighbors
+2025-09-26,346303,KIAMICHI,RAWS,SA17A,cold,69.0,5,77.7,max temp much colder than neighbors
+2025-09-26,383001,HORRY,RAWS,SA37,missed,0.0,8,0.78,no rain while most neighbors got rain
+2025-09-26,384002,WITHERBEE,RAWS,SA36,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-09-26,55522208,BAINBRIDGE,RAWS,SA42,hot,84.0,8,74.4,max temp much warmer than neighbors
+2025-09-26,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,73.1,max temp much warmer than neighbors
+2025-09-26,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,69.0,8,81.5,max temp much colder than neighbors
+2025-09-26,ASOS-3F3,Mansfield,ASOS,SA19,cold,67.0,8,85.1,max temp much colder than neighbors
+2025-09-26,ASOS-AUO,Auburn-Opelika Apt,ASOS,SA39,rain_alone,1.0,8,0.02,rain no neighbor saw
+2025-09-26,ASOS-GVL,Gainsville,ASOS,SA40,wet,1.11,8,0.24,far more rain than any neighbor
+2025-09-26,ASOS-JWN,John C Tune,ASOS,SA25,cold,69.8,8,81.1,max temp much colder than neighbors
+2025-09-26,ASOS-LUA,Luray,ASOS,SA28B,hot,91.4,8,82.5,max temp much warmer than neighbors
+2025-09-26,ASOS-OLV,Olive Branch,ASOS,SA23,hot,96.8,8,81.9,max temp much warmer than neighbors
+2025-09-26,ASOS-PVG,Norfolk/Hampton Roads,ASOS,SA30,bad_rain,20.03,0,,impossible rain total
+2025-09-27,227701,BOGUE CHITTO,RAWS,SA22A,cold,77.0,8,88.7,max temp much colder than neighbors
+2025-09-27,346303,KIAMICHI,RAWS,SA17A,cold,66.0,5,79.5,max temp much colder than neighbors
+2025-09-27,382301,LONG CANE,RAWS,SA35,wet,3.69,8,0.92,far more rain than any neighbor
+2025-09-27,55522208,BAINBRIDGE,RAWS,SA42,hot,90.0,8,79.9,max temp much warmer than neighbors
+2025-09-27,55522240,COCHRAN,RAWS,SA41,hot,89.0,8,78.4,max temp much warmer than neighbors
+2025-09-27,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,62.0,8,79.8,max temp much colder than neighbors
+2025-09-27,86704,CHEKIKA,RAWS,SA50,rain_alone,1.09,8,0.05,rain no neighbor saw
+2025-09-27,ASOS-AUO,Auburn-Opelika Apt,ASOS,SA39,rain_alone,0.52,5,0.0,rain no neighbor saw
+2025-09-27,ASOS-GNV,Gainesville Rgnl,ASOS,SA48,wet,2.03,8,0.41,far more rain than any neighbor
+2025-09-27,ASOS-MBO,Madison,ASOS,SA22A,cold,66.2,5,85.0,max temp much colder than neighbors
+2025-09-27,ASOS-NTU,Oceana Nas/Soucek,ASOS,SA30,missed,0.0,8,1.79,no rain while most neighbors got rain
+2025-09-27,ASOS-XNX,Sumner,ASOS,SA25,cold,68.0,8,83.6,max temp much colder than neighbors
+2025-09-28,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,91.7,max temp much colder than neighbors
+2025-09-28,346303,KIAMICHI,RAWS,SA17A,cold,66.0,5,79.5,max temp much colder than neighbors
+2025-09-28,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-28,55522240,COCHRAN,RAWS,SA41,hot,90.0,8,80.1,max temp much warmer than neighbors
+2025-09-28,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,65.0,8,78.9,max temp much colder than neighbors
+2025-09-28,96301,METTER,RAWS,SA42,missed,0.0,6,1.93,no rain while most neighbors got rain
+2025-09-28,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-28,ASOS-CUB,Columbia Owens Downtown Airport,ASOS,SA35,cold,70.0,8,79.6,max temp much colder than neighbors
+2025-09-28,ASOS-FSI,Fort Sill,ASOS,SA02,cold,71.4,8,88.4,max temp much colder than neighbors
+2025-09-28,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-29,227701,BOGUE CHITTO,RAWS,SA22A,cold,79.0,8,91.5,max temp much colder than neighbors
+2025-09-29,346303,KIAMICHI,RAWS,SA17A,cold,66.0,5,79.2,max temp much colder than neighbors
+2025-09-29,55522208,BAINBRIDGE,RAWS,SA42,hot,88.0,8,78.5,max temp much warmer than neighbors
+2025-09-29,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,58.0,8,67.9,max temp much colder than neighbors
+2025-09-29,ASOS-1A9,Prattville,ASOS,SA39,cold,79.7,7,88.9,max temp much colder than neighbors
+2025-09-29,ASOS-LXY,Mexia Limestone,ASOS,SA11,cold,68.0,7,87.4,max temp much colder than neighbors
+2025-09-29,ASOS-M08,Bolivar,ASOS,SA24,cold,73.4,8,87.5,max temp much colder than neighbors
+2025-09-29,ASOS-RFI,Henderson,ASOS,SA07,hot,96.6,8,88.4,max temp much warmer than neighbors
+2025-09-30,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,90.0,max temp much colder than neighbors
+2025-09-30,346303,KIAMICHI,RAWS,SA17A,cold,64.0,5,78.2,max temp much colder than neighbors
+2025-09-30,55522240,COCHRAN,RAWS,SA41,hot,78.0,8,69.4,max temp much warmer than neighbors
+2025-09-30,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,58.0,8,74.3,max temp much colder than neighbors
+2025-09-30,96301,METTER,RAWS,SA42,missed,0.0,7,1.86,no rain while most neighbors got rain
+2025-09-30,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-09-30,ASOS-LGC,La_Grange,ASOS,SA41,cold,69.8,8,79.9,max temp much colder than neighbors
+2025-09-30,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-01,227701,BOGUE CHITTO,RAWS,SA22A,cold,77.0,8,89.6,max temp much colder than neighbors
+2025-10-01,346303,KIAMICHI,RAWS,SA17A,cold,65.0,5,81.0,max temp much colder than neighbors
+2025-10-01,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-01,55522208,BAINBRIDGE,RAWS,SA42,hot,89.0,8,79.4,max temp much warmer than neighbors
+2025-10-01,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,77.8,max temp much warmer than neighbors
+2025-10-01,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,75.7,max temp much colder than neighbors
+2025-10-01,96301,METTER,RAWS,SA42,missed,0.0,6,1.93,no rain while most neighbors got rain
+2025-10-01,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-01,ASOS-4F2,Carthage,ASOS,SA07,cold,78.8,8,89.9,max temp much colder than neighbors
+2025-10-01,ASOS-ALI,Alice Intl Airport,ASOS,SA14,cold,75.0,8,93.8,max temp much colder than neighbors
+2025-10-01,ASOS-BQP,Bastrop,ASOS,SA19,cold,71.8,3,89.8,max temp much colder than neighbors
+2025-10-01,ASOS-ORK,North Little Rock,ASOS,SA18,cold,75.2,8,88.7,max temp much colder than neighbors
+2025-10-01,ASOS-RYW,Lago Vista,ASOS,SA11,cold,82.6,8,94.7,max temp much colder than neighbors
+2025-10-01,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-01,ASOS-VBW,Bridgewater,ASOS,SA28B,cold,62.6,8,74.6,max temp much colder than neighbors
+2025-10-02,227701,BOGUE CHITTO,RAWS,SA22A,cold,75.0,8,87.2,max temp much colder than neighbors
+2025-10-02,346303,KIAMICHI,RAWS,SA17A,cold,69.0,5,83.1,max temp much colder than neighbors
+2025-10-02,55522208,BAINBRIDGE,RAWS,SA42,hot,86.0,8,76.9,max temp much warmer than neighbors
+2025-10-02,55522240,COCHRAN,RAWS,SA41,hot,80.0,8,71.0,max temp much warmer than neighbors
+2025-10-02,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,60.0,8,70.5,max temp much colder than neighbors
+2025-10-02,96301,METTER,RAWS,SA42,missed,0.0,6,1.93,no rain while most neighbors got rain
+2025-10-02,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-02,ASOS-42A,Melbourne,ASOS,SA17B,cold,64.4,7,88.2,max temp much colder than neighbors
+2025-10-02,ASOS-AEX,Alexandria Intl/England Afb,ASOS,SA19,wet,1.22,8,0.28,far more rain than any neighbor
+2025-10-02,ASOS-EKX,Elizabethtown,ASOS,SA26,cold,64.0,8,85.3,max temp much colder than neighbors
+2025-10-02,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,0.8,no rain while most neighbors got rain
+2025-10-02,ASOS-HWO,Hollywood/N. Perry,ASOS,SA50,missed,0.0,8,0.8,no rain while most neighbors got rain
+2025-10-02,ASOS-MEZ,Mena Intermountain Muni,ASOS,SA17B,rain_alone,1.42,6,0.0,rain no neighbor saw
+2025-10-02,ASOS-RFI,Henderson,ASOS,SA07,hot,98.8,8,90.7,max temp much warmer than neighbors
+2025-10-02,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-03,227701,BOGUE CHITTO,RAWS,SA22A,cold,73.0,8,84.2,max temp much colder than neighbors
+2025-10-03,346303,KIAMICHI,RAWS,SA17A,cold,67.0,5,81.3,max temp much colder than neighbors
+2025-10-03,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-03,55522208,BAINBRIDGE,RAWS,SA42,hot,87.0,8,76.8,max temp much warmer than neighbors
+2025-10-03,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,74.1,max temp much warmer than neighbors
+2025-10-03,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,61.0,8,71.1,max temp much colder than neighbors
+2025-10-03,96301,METTER,RAWS,SA42,missed,0.0,6,1.93,no rain while most neighbors got rain
+2025-10-03,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-03,ASOS-AWM,West Memphis Muni,ASOS,SA18,cold,66.0,8,85.0,max temp much colder than neighbors
+2025-10-03,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,hot,129.6,8,76.0,max temp much warmer than neighbors
+2025-10-03,ASOS-LGC,La_Grange,ASOS,SA41,cold,69.8,8,78.7,max temp much colder than neighbors
+2025-10-03,ASOS-LUA,Luray,ASOS,SA28B,hot,84.2,8,73.9,max temp much warmer than neighbors
+2025-10-03,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.7,no rain while most neighbors got rain
+2025-10-04,227701,BOGUE CHITTO,RAWS,SA22A,cold,70.0,8,82.0,max temp much colder than neighbors
+2025-10-04,346303,KIAMICHI,RAWS,SA17A,cold,63.0,5,78.2,max temp much colder than neighbors
+2025-10-04,55522208,BAINBRIDGE,RAWS,SA42,hot,87.0,8,77.9,max temp much warmer than neighbors
+2025-10-04,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,76.1,max temp much colder than neighbors
+2025-10-04,96301,METTER,RAWS,SA42,missed,0.0,7,1.86,no rain while most neighbors got rain
+2025-10-04,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,cold,4.5,8,79.5,max temp much colder than neighbors
+2025-10-04,ASOS-LUA,Luray,ASOS,SA28B,hot,87.8,8,79.6,max temp much warmer than neighbors
+2025-10-04,ASOS-RFI,Henderson,ASOS,SA07,hot,93.6,8,85.6,max temp much warmer than neighbors
+2025-10-04,ASOS-TJNR,Naval Station Roosevelt Roads,ASOS,SA52A,rain_alone,0.54,3,0.01,rain no neighbor saw
+2025-10-05,227701,BOGUE CHITTO,RAWS,SA22A,cold,70.0,8,80.0,max temp much colder than neighbors
+2025-10-05,346303,KIAMICHI,RAWS,SA17A,cold,64.0,5,80.2,max temp much colder than neighbors
+2025-10-05,55522208,BAINBRIDGE,RAWS,SA42,hot,84.0,8,76.0,max temp much warmer than neighbors
+2025-10-05,55522240,COCHRAN,RAWS,SA41,hot,79.0,8,70.7,max temp much warmer than neighbors
+2025-10-05,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,65.0,8,76.3,max temp much colder than neighbors
+2025-10-05,ASOS-BCR,Tri-County,ASOS,SA47,wet,2.0,8,0.45,far more rain than any neighbor
+2025-10-05,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,cold,-38.0,8,81.3,max temp much colder than neighbors
+2025-10-05,ASOS-GYH,Greenville,ASOS,SA31C,hot,84.2,8,74.2,max temp much warmer than neighbors
+2025-10-05,ASOS-LAL,Lakeland Regional,ASOS,SA49,missed,0.0,8,0.64,no rain while most neighbors got rain
+2025-10-05,ASOS-LUA,Luray,ASOS,SA28B,hot,89.6,8,80.6,max temp much warmer than neighbors
+2025-10-05,ASOS-MBO,Madison,ASOS,SA22A,cold,75.2,5,84.2,max temp much colder than neighbors
+2025-10-06,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,87.5,max temp much colder than neighbors
+2025-10-06,346303,KIAMICHI,RAWS,SA17A,cold,65.0,5,81.2,max temp much colder than neighbors
+2025-10-06,55522208,BAINBRIDGE,RAWS,SA42,hot,91.0,8,80.9,max temp much warmer than neighbors
+2025-10-06,55522240,COCHRAN,RAWS,SA41,hot,87.0,8,77.6,max temp much warmer than neighbors
+2025-10-06,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,67.0,8,79.4,max temp much colder than neighbors
+2025-10-06,ASOS-LUA,Luray,ASOS,SA28B,hot,91.4,8,83.1,max temp much warmer than neighbors
+2025-10-06,ASOS-MBO,Madison,ASOS,SA22A,cold,71.6,5,85.0,max temp much colder than neighbors
+2025-10-06,ASOS-RFI,Henderson,ASOS,SA07,hot,96.6,8,87.8,max temp much warmer than neighbors
+2025-10-07,159501,ALPINE,RAWS,SA26,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-10-07,162502,CATAHOULA,RAWS,SA19,rain_alone,0.92,8,0.0,rain no neighbor saw
+2025-10-07,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,89.6,max temp much colder than neighbors
+2025-10-07,346303,KIAMICHI,RAWS,SA17A,cold,64.0,5,81.0,max temp much colder than neighbors
+2025-10-07,55522208,BAINBRIDGE,RAWS,SA42,hot,91.0,8,80.9,max temp much warmer than neighbors
+2025-10-07,55522240,COCHRAN,RAWS,SA41,hot,86.0,8,76.2,max temp much warmer than neighbors
+2025-10-07,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,77.8,max temp much colder than neighbors
+2025-10-07,ASOS-0R4,Vidalia,ASOS,SA19,hot,99.3,4,90.9,max temp much warmer than neighbors
+2025-10-07,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,7,2.02,no rain while most neighbors got rain
+2025-10-07,ASOS-42A,Melbourne,ASOS,SA17B,cold,69.8,7,86.6,max temp much colder than neighbors
+2025-10-07,ASOS-BRO,Brownsville Intl,ASOS,SA15,wet,2.99,4,0.31,far more rain than any neighbor
+2025-10-07,ASOS-CEW,Crestview/Bob Sikes,ASOS,SA47,cold,78.0,8,88.6,max temp much colder than neighbors
+2025-10-07,ASOS-RYW,Lago Vista,ASOS,SA11,cold,81.7,8,92.6,max temp much colder than neighbors
+2025-10-08,227701,BOGUE CHITTO,RAWS,SA22A,cold,79.0,8,89.8,max temp much colder than neighbors
+2025-10-08,346303,KIAMICHI,RAWS,SA17A,cold,61.0,5,72.2,max temp much colder than neighbors
+2025-10-08,55522208,BAINBRIDGE,RAWS,SA42,hot,91.0,8,81.6,max temp much warmer than neighbors
+2025-10-08,55522240,COCHRAN,RAWS,SA41,hot,88.0,8,76.9,max temp much warmer than neighbors
+2025-10-08,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,79.6,max temp much colder than neighbors
+2025-10-08,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.9,no rain while most neighbors got rain
+2025-10-08,ASOS-AAF,Apalachicola Muni (Asos),ASOS,SA47,cold,84.0,6,92.6,max temp much colder than neighbors
+2025-10-08,ASOS-LZZ,Lampasas,ASOS,SA11,cold,75.2,8,89.2,max temp much colder than neighbors
+2025-10-08,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.9,no rain while most neighbors got rain
+2025-10-09,227701,BOGUE CHITTO,RAWS,SA22A,cold,77.0,8,89.0,max temp much colder than neighbors
+2025-10-09,346303,KIAMICHI,RAWS,SA17A,cold,60.0,5,74.1,max temp much colder than neighbors
+2025-10-09,512901,GUANICA,RAWS,SA52A,missed,0.0,3,0.5,no rain while most neighbors got rain
+2025-10-09,55522240,COCHRAN,RAWS,SA41,hot,77.0,8,67.6,max temp much warmer than neighbors
+2025-10-09,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,56.0,8,66.7,max temp much colder than neighbors
+2025-10-09,83501,CENTRAL,RAWS,SA49,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-10-09,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-09,ASOS-2J5,Millen,ASOS,SA42,cold,68.0,8,78.0,max temp much colder than neighbors
+2025-10-09,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,bad_temp,136.0,0,,impossible temperature
+2025-10-09,ASOS-GAO,Galliano,ASOS,SA21A,cold,79.7,5,87.8,max temp much colder than neighbors
+2025-10-09,ASOS-HQZ,Mesquite,ASOS,SA06,hot,96.8,8,87.6,max temp much warmer than neighbors
+2025-10-09,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-09,ASOS-MBO,Madison,ASOS,SA22A,cold,66.2,5,84.0,max temp much colder than neighbors
+2025-10-09,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,83.0,8,72.8,max temp much warmer than neighbors
+2025-10-09,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,rain_alone,0.91,7,0.0,rain no neighbor saw
+2025-10-09,ASOS-RMG,Rome/Russell(Ramos),ASOS,SA40,wet,1.82,8,0.1,far more rain than any neighbor
+2025-10-10,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,83.9,max temp much colder than neighbors
+2025-10-10,346303,KIAMICHI,RAWS,SA17A,cold,65.0,5,76.4,max temp much colder than neighbors
+2025-10-10,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,53.0,8,63.4,max temp much colder than neighbors
+2025-10-10,ASOS-APF,Naples Municipal,ASOS,SA50,wet,1.93,8,0.3,far more rain than any neighbor
+2025-10-10,ASOS-DYR,Dyersburg(Awos),ASOS,SA24,rain_alone,0.64,5,0.0,rain no neighbor saw
+2025-10-10,ASOS-FXE,Fort Lauderdale,ASOS,SA50,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-10-10,ASOS-MAF,Midland Intl,ASOS,SA09,cold,73.0,6,86.2,max temp much colder than neighbors
+2025-10-10,ASOS-MBO,Madison,ASOS,SA22A,cold,57.2,5,82.1,max temp much colder than neighbors
+2025-10-10,ASOS-SGJ,St Augustine Airpt,ASOS,SA49,wet,3.47,8,0.77,far more rain than any neighbor
+2025-10-11,227701,BOGUE CHITTO,RAWS,SA22A,cold,71.0,8,82.5,max temp much colder than neighbors
+2025-10-11,346303,KIAMICHI,RAWS,SA17A,cold,66.0,5,79.5,max temp much colder than neighbors
+2025-10-11,514801,MARICAO,RAWS,SA52A,cold,74.0,4,84.1,max temp much colder than neighbors
+2025-10-11,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,72.9,max temp much warmer than neighbors
+2025-10-11,55522240,COCHRAN,RAWS,SA41,hot,76.0,8,67.8,max temp much warmer than neighbors
+2025-10-11,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,54.0,8,66.1,max temp much colder than neighbors
+2025-10-11,ASOS-LUA,Luray,ASOS,SA28B,hot,78.8,8,70.1,max temp much warmer than neighbors
+2025-10-11,ASOS-MBO,Madison,ASOS,SA22A,cold,57.2,5,82.1,max temp much colder than neighbors
+2025-10-11,ASOS-TJSJ,San Juan,ASOS,SA52A,missed,0.0,3,1.05,no rain while most neighbors got rain
+2025-10-12,227701,BOGUE CHITTO,RAWS,SA22A,cold,71.0,8,82.8,max temp much colder than neighbors
+2025-10-12,346303,KIAMICHI,RAWS,SA17A,cold,65.0,5,81.3,max temp much colder than neighbors
+2025-10-12,55522208,BAINBRIDGE,RAWS,SA42,hot,79.0,8,70.9,max temp much warmer than neighbors
+2025-10-12,ASOS-JWY,Midlothian/Waxac,ASOS,SA06,cold,68.4,8,90.4,max temp much colder than neighbors
+2025-10-12,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,61.0,8,79.3,max temp much colder than neighbors
+2025-10-12,ASOS-MBO,Madison,ASOS,SA22A,cold,55.4,5,83.0,max temp much colder than neighbors
+2025-10-12,ASOS-RYW,Lago Vista,ASOS,SA11,cold,78.0,8,89.4,max temp much colder than neighbors
+2025-10-13,227701,BOGUE CHITTO,RAWS,SA22A,cold,75.0,8,85.6,max temp much colder than neighbors
+2025-10-13,346303,KIAMICHI,RAWS,SA17A,cold,66.0,5,81.2,max temp much colder than neighbors
+2025-10-13,55522208,BAINBRIDGE,RAWS,SA42,hot,87.0,8,77.9,max temp much warmer than neighbors
+2025-10-13,55522240,COCHRAN,RAWS,SA41,hot,84.0,8,74.0,max temp much warmer than neighbors
+2025-10-13,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,64.0,8,75.5,max temp much colder than neighbors
+2025-10-13,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-13,ASOS-ELP,El Paso Intl Arpt,ASOS,SA08,wet,1.25,3,0.15,far more rain than any neighbor
+2025-10-13,ASOS-FSI,Fort Sill,ASOS,SA02,cold,68.0,7,78.3,max temp much colder than neighbors
+2025-10-13,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-13,ASOS-MBO,Madison,ASOS,SA22A,cold,55.4,5,85.0,max temp much colder than neighbors
+2025-10-13,ASOS-RFI,Henderson,ASOS,SA07,hot,96.0,8,87.2,max temp much warmer than neighbors
+2025-10-14,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,85.8,max temp much colder than neighbors
+2025-10-14,346303,KIAMICHI,RAWS,SA17A,cold,65.0,5,81.0,max temp much colder than neighbors
+2025-10-14,380201,TABLE ROCK,RAWS,SA31C,hot,90.0,8,81.4,max temp much warmer than neighbors
+2025-10-14,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-14,55522208,BAINBRIDGE,RAWS,SA42,hot,88.0,8,79.8,max temp much warmer than neighbors
+2025-10-14,55522240,COCHRAN,RAWS,SA41,hot,86.0,8,77.0,max temp much warmer than neighbors
+2025-10-14,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,66.0,8,77.0,max temp much colder than neighbors
+2025-10-14,86001,LOXAHATCHEE,RAWS,SA50,bad_rain,15.4,0,,impossible rain total
+2025-10-14,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-14,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-14,ASOS-AMA,Amarillo - Rick Husband Intl,ASOS,SA01,hot,81.0,5,70.1,max temp much warmer than neighbors
+2025-10-14,ASOS-BIF,Fort Bliss,ASOS,SA08,rain_alone,0.53,3,0.01,rain no neighbor saw
+2025-10-14,ASOS-BQP,Bastrop,ASOS,SA19,cold,68.0,3,85.8,max temp much colder than neighbors
+2025-10-14,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,72.0,8,83.1,max temp much colder than neighbors
+2025-10-14,ASOS-M40,Aberdeen,ASOS,SA23,cold,75.2,7,83.5,max temp much colder than neighbors
+2025-10-14,ASOS-PVG,Norfolk/Hampton Roads,ASOS,SA30,bad_rain,60.0,0,,impossible rain total
+2025-10-14,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-15,227701,BOGUE CHITTO,RAWS,SA22A,cold,77.0,8,87.7,max temp much colder than neighbors
+2025-10-15,346303,KIAMICHI,RAWS,SA17A,cold,67.0,5,79.5,max temp much colder than neighbors
+2025-10-15,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-15,55522208,BAINBRIDGE,RAWS,SA42,hot,88.0,8,79.8,max temp much warmer than neighbors
+2025-10-15,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,74.1,max temp much warmer than neighbors
+2025-10-15,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,65.0,8,77.0,max temp much colder than neighbors
+2025-10-15,83501,CENTRAL,RAWS,SA49,rain_alone,2.77,8,0.0,rain no neighbor saw
+2025-10-15,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-15,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-15,ASOS-GUY,Guymon,ASOS,SA01,cold,70.0,5,82.5,max temp much colder than neighbors
+2025-10-15,ASOS-LOU,Louisville/Bowman,ASOS,SA26,cold,56.0,8,76.2,max temp much colder than neighbors
+2025-10-15,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,60.0,8,82.3,max temp much colder than neighbors
+2025-10-15,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-16,227701,BOGUE CHITTO,RAWS,SA22A,cold,78.0,8,89.3,max temp much colder than neighbors
+2025-10-16,346303,KIAMICHI,RAWS,SA17A,cold,62.0,5,79.5,max temp much colder than neighbors
+2025-10-16,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-16,55522208,BAINBRIDGE,RAWS,SA42,hot,90.0,8,81.2,max temp much warmer than neighbors
+2025-10-16,55522240,COCHRAN,RAWS,SA41,hot,84.0,8,74.8,max temp much warmer than neighbors
+2025-10-16,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,62.0,8,71.8,max temp much colder than neighbors
+2025-10-16,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-16,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-16,ASOS-3F3,Mansfield,ASOS,SA19,cold,68.0,8,88.9,max temp much colder than neighbors
+2025-10-16,ASOS-LOU,Louisville/Bowman,ASOS,SA26,cold,59.0,8,72.3,max temp much colder than neighbors
+2025-10-16,ASOS-MBO,Madison,ASOS,SA22A,cold,77.0,5,89.3,max temp much colder than neighbors
+2025-10-16,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-16,ASOS-SGJ,St Augustine Airpt,ASOS,SA49,cold,69.8,8,79.5,max temp much colder than neighbors
+2025-10-17,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,86.2,max temp much colder than neighbors
+2025-10-17,346303,KIAMICHI,RAWS,SA17A,cold,62.0,5,80.2,max temp much colder than neighbors
+2025-10-17,447502,STONY FORK,RAWS,SA28B,hot,77.0,8,68.6,max temp much warmer than neighbors
+2025-10-17,55522208,BAINBRIDGE,RAWS,SA42,hot,87.0,8,77.9,max temp much warmer than neighbors
+2025-10-17,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,73.8,max temp much warmer than neighbors
+2025-10-17,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,60.0,8,68.9,max temp much colder than neighbors
+2025-10-17,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-17,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-17,ASOS-LGC,La_Grange,ASOS,SA41,cold,73.4,8,81.9,max temp much colder than neighbors
+2025-10-17,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,68.0,8,79.8,max temp much colder than neighbors
+2025-10-17,ASOS-PYX,Perryton/Ochiltree County Apt,ASOS,SA01,cold,66.2,4,76.5,max temp much colder than neighbors
+2025-10-17,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-18,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,85.7,max temp much colder than neighbors
+2025-10-18,346303,KIAMICHI,RAWS,SA17A,cold,53.0,5,72.4,max temp much colder than neighbors
+2025-10-18,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-18,55522208,BAINBRIDGE,RAWS,SA42,hot,87.0,8,77.5,max temp much warmer than neighbors
+2025-10-18,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,75.0,max temp much warmer than neighbors
+2025-10-18,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,69.0,8,79.4,max temp much colder than neighbors
+2025-10-18,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-18,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-18,ASOS-BVX,Batesville (Awos),ASOS,SA18,missed,0.0,7,0.87,no rain while most neighbors got rain
+2025-10-18,ASOS-CBM,Columbus Afb,ASOS,SA22A,missed,0.0,7,0.97,no rain while most neighbors got rain
+2025-10-18,ASOS-CKV,Clarksville/Outlaw,ASOS,SA24,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-10-18,ASOS-FSI,Fort Sill,ASOS,SA02,cold,69.4,7,88.3,max temp much colder than neighbors
+2025-10-18,ASOS-LUA,Luray,ASOS,SA28B,hot,87.8,8,79.7,max temp much warmer than neighbors
+2025-10-18,ASOS-MBO,Madison,ASOS,SA22A,cold,68.0,5,87.0,max temp much colder than neighbors
+2025-10-18,ASOS-RNV,Cleveland,ASOS,SA22A,missed,0.0,4,1.41,no rain while most neighbors got rain
+2025-10-18,ASOS-RUE,Russellville Municipal Airport,ASOS,SA17B,missed,0.0,5,0.66,no rain while most neighbors got rain
+2025-10-18,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-19,156001,JACKSON CO AP,RAWS,SA27,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-10-19,159501,ALPINE,RAWS,SA26,missed,0.0,7,0.85,no rain while most neighbors got rain
+2025-10-19,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,86.2,max temp much colder than neighbors
+2025-10-19,346303,KIAMICHI,RAWS,SA17A,cold,47.0,5,63.5,max temp much colder than neighbors
+2025-10-19,55522208,BAINBRIDGE,RAWS,SA42,hot,77.0,8,68.9,max temp much warmer than neighbors
+2025-10-19,55522240,COCHRAN,RAWS,SA41,hot,76.0,8,66.6,max temp much warmer than neighbors
+2025-10-19,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,60.0,8,68.0,max temp much colder than neighbors
+2025-10-19,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-19,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,7,0.89,no rain while most neighbors got rain
+2025-10-19,ASOS-BFM,Mobile Downtown,ASOS,SA21C,missed,0.0,8,0.76,no rain while most neighbors got rain
+2025-10-19,ASOS-CBM,Columbus Afb,ASOS,SA22A,missed,0.0,7,0.58,no rain while most neighbors got rain
+2025-10-19,ASOS-EKQ,Monticello,ASOS,SA27,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-10-19,ASOS-EKY,Bessemer,ASOS,SA38,missed,0.0,8,0.6,no rain while most neighbors got rain
+2025-10-19,ASOS-FSI,Fort Sill,ASOS,SA02,cold,63.3,7,72.4,max temp much colder than neighbors
+2025-10-19,ASOS-JAU,Jacksboro,ASOS,SA25,cold,59.0,8,70.9,max temp much colder than neighbors
+2025-10-19,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-19,ASOS-LOR,Lowe Ahp/Ft. Rucker,ASOS,SA39,missed,0.0,8,0.95,no rain while most neighbors got rain
+2025-10-19,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,68.0,8,76.1,max temp much colder than neighbors
+2025-10-19,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,68.0,8,77.5,max temp much colder than neighbors
+2025-10-19,ASOS-MTH,Marathon,ASOS,SA50,wet,2.39,3,0.57,far more rain than any neighbor
+2025-10-19,ASOS-TCL,Tuscaloosa Muni,ASOS,SA39,missed,0.0,4,0.59,no rain while most neighbors got rain
+2025-10-20,227701,BOGUE CHITTO,RAWS,SA22A,cold,66.0,8,80.2,max temp much colder than neighbors
+2025-10-20,346303,KIAMICHI,RAWS,SA17A,cold,60.0,5,76.2,max temp much colder than neighbors
+2025-10-20,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-20,512901,GUANICA,RAWS,SA52A,wet,2.48,3,0.5,far more rain than any neighbor
+2025-10-20,55522208,BAINBRIDGE,RAWS,SA42,hot,80.0,8,69.0,max temp much warmer than neighbors
+2025-10-20,55522240,COCHRAN,RAWS,SA41,hot,76.0,8,65.7,max temp much warmer than neighbors
+2025-10-20,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,56.0,8,67.6,max temp much colder than neighbors
+2025-10-20,86403,OCHOPEE RAWS,RAWS,SA50,rain_alone,0.74,8,0.04,rain no neighbor saw
+2025-10-20,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-20,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-20,ASOS-EKQ,Monticello,ASOS,SA27,hot,82.4,8,68.3,max temp much warmer than neighbors
+2025-10-20,ASOS-JNX,Smithfield,ASOS,SA33,cold,59.0,8,70.4,max temp much colder than neighbors
+2025-10-20,ASOS-JVW,Raymond,ASOS,SA22A,cold,57.2,8,78.1,max temp much colder than neighbors
+2025-10-20,ASOS-MBO,Madison,ASOS,SA22A,cold,48.2,5,78.0,max temp much colder than neighbors
+2025-10-20,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-21,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,87.2,max temp much colder than neighbors
+2025-10-21,346303,KIAMICHI,RAWS,SA17A,cold,53.0,5,69.4,max temp much colder than neighbors
+2025-10-21,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-21,55522208,BAINBRIDGE,RAWS,SA42,hot,84.0,8,74.7,max temp much warmer than neighbors
+2025-10-21,55522240,COCHRAN,RAWS,SA41,hot,82.0,8,72.4,max temp much warmer than neighbors
+2025-10-21,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,63.0,8,74.9,max temp much colder than neighbors
+2025-10-21,86501,NATIONAL KEY DEER NWR,RAWS,SA50,rain_alone,1.1,3,0.02,rain no neighbor saw
+2025-10-21,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-21,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-21,ASOS-35A,Union,ASOS,SA35,cold,68.0,8,77.1,max temp much colder than neighbors
+2025-10-21,ASOS-CPC,Columbus_Cnty_Muni_Arpt,ASOS,SA34,cold,66.2,8,77.4,max temp much colder than neighbors
+2025-10-21,ASOS-DUX,Dumas,ASOS,SA01,cold,44.0,4,70.3,max temp much colder than neighbors
+2025-10-21,ASOS-GAD,Gadsden Muni (Awos),ASOS,SA38,cold,42.0,8,75.3,max temp much colder than neighbors
+2025-10-21,ASOS-MBO,Madison,ASOS,SA22A,cold,59.0,5,73.0,max temp much colder than neighbors
+2025-10-21,ASOS-RNV,Cleveland,ASOS,SA22A,missed,0.0,3,0.64,no rain while most neighbors got rain
+2025-10-21,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-22,227701,BOGUE CHITTO,RAWS,SA22A,cold,67.0,8,80.7,max temp much colder than neighbors
+2025-10-22,346303,KIAMICHI,RAWS,SA17A,cold,57.0,5,73.8,max temp much colder than neighbors
+2025-10-22,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-22,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,72.7,max temp much warmer than neighbors
+2025-10-22,55522240,COCHRAN,RAWS,SA41,hot,79.0,8,69.6,max temp much warmer than neighbors
+2025-10-22,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,56.0,8,68.5,max temp much colder than neighbors
+2025-10-22,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-22,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-22,ASOS-6P9,Ranger,ASOS,SA05,cold,71.6,8,82.6,max temp much colder than neighbors
+2025-10-22,ASOS-FLP,Flippin (Awos),ASOS,SA17B,cold,47.0,8,73.8,max temp much colder than neighbors
+2025-10-22,ASOS-GDJ,Granbury,ASOS,SA06,cold,52.7,8,81.8,max temp much colder than neighbors
+2025-10-22,ASOS-JVW,Raymond,ASOS,SA22A,cold,60.8,8,76.3,max temp much colder than neighbors
+2025-10-22,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-22,ASOS-T35,Cameron,ASOS,SA11,cold,61.7,8,84.8,max temp much colder than neighbors
+2025-10-23,346303,KIAMICHI,RAWS,SA17A,cold,60.0,5,75.6,max temp much colder than neighbors
+2025-10-23,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-23,55522208,BAINBRIDGE,RAWS,SA42,hot,81.0,8,72.7,max temp much warmer than neighbors
+2025-10-23,55522240,COCHRAN,RAWS,SA41,hot,80.0,8,69.3,max temp much warmer than neighbors
+2025-10-23,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,56.0,8,66.3,max temp much colder than neighbors
+2025-10-23,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-23,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-23,ASOS-FDR,Frederick,ASOS,SA02,rain_alone,0.5,5,0.04,rain no neighbor saw
+2025-10-23,ASOS-JAU,Jacksboro,ASOS,SA25,cold,55.4,8,68.0,max temp much colder than neighbors
+2025-10-23,ASOS-JVW,Raymond,ASOS,SA22A,cold,59.0,8,80.0,max temp much colder than neighbors
+2025-10-23,ASOS-LBX,Angleton/Lake Jacks,ASOS,SA13,wet,1.78,8,0.07,far more rain than any neighbor
+2025-10-23,ASOS-OPN,Thomaston,ASOS,SA41,cold,68.0,8,76.1,max temp much colder than neighbors
+2025-10-23,ASOS-RFI,Henderson,ASOS,SA07,hot,90.7,8,82.4,max temp much warmer than neighbors
+2025-10-23,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-24,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,84.2,max temp much colder than neighbors
+2025-10-24,346303,KIAMICHI,RAWS,SA17A,cold,47.0,5,57.9,max temp much colder than neighbors
+2025-10-24,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-24,417901,BIRD,RAWS,SA10,missed,0.0,8,0.89,no rain while most neighbors got rain
+2025-10-24,55522240,COCHRAN,RAWS,SA41,hot,81.0,8,71.5,max temp much warmer than neighbors
+2025-10-24,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,52.0,8,63.9,max temp much colder than neighbors
+2025-10-24,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-24,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-24,ASOS-ADS,Dallas/Addison Arpt,ASOS,SA06,missed,0.0,8,1.88,no rain while most neighbors got rain
+2025-10-24,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,hot,133.3,8,69.0,max temp much warmer than neighbors
+2025-10-24,ASOS-GAG,Gage/Shattuck,ASOS,SA02,wet,1.91,3,0.28,far more rain than any neighbor
+2025-10-24,ASOS-GZN,Cisco,ASOS,SA05,missed,0.0,8,0.64,no rain while most neighbors got rain
+2025-10-24,ASOS-JVW,Raymond,ASOS,SA22A,cold,59.0,8,80.7,max temp much colder than neighbors
+2025-10-24,ASOS-MEZ,Mena Intermountain Muni,ASOS,SA17B,missed,0.0,7,0.87,no rain while most neighbors got rain
+2025-10-24,ASOS-MKN,Comanche County/City Arpt,ASOS,SA10,missed,0.0,8,0.64,no rain while most neighbors got rain
+2025-10-24,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-24,ASOS-T70,Laughlin Afb,ASOS,SA14,missed,0.0,4,1.41,no rain while most neighbors got rain
+2025-10-24,ASOS-X60,Williston,ASOS,SA48,cold,58.0,8,82.6,max temp much colder than neighbors
+2025-10-24,ASOS-XBP,Bridgeport,ASOS,SA06,missed,0.0,8,2.95,no rain while most neighbors got rain
+2025-10-25,227701,BOGUE CHITTO,RAWS,SA22A,cold,64.0,8,78.2,max temp much colder than neighbors
+2025-10-25,346303,KIAMICHI,RAWS,SA17A,cold,43.0,5,54.0,max temp much colder than neighbors
+2025-10-25,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-25,418001,KICKAPOO CAVERNS SP,RAWS,SA14,wet,1.68,5,0.08,far more rain than any neighbor
+2025-10-25,418301,BRAZORIA NWR,RAWS,SA13,missed,0.0,8,0.73,no rain while most neighbors got rain
+2025-10-25,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,73.4,max temp much warmer than neighbors
+2025-10-25,55522240,COCHRAN,RAWS,SA41,hot,77.0,8,68.0,max temp much warmer than neighbors
+2025-10-25,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,47.0,8,59.6,max temp much colder than neighbors
+2025-10-25,96301,METTER,RAWS,SA42,missed,0.0,6,1.94,no rain while most neighbors got rain
+2025-10-25,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-25,ASOS-5R8,De Quincy,ASOS,SA19,cold,70.5,8,80.0,max temp much colder than neighbors
+2025-10-25,ASOS-ASL,Marshall,ASOS,SA07,missed,0.0,8,1.25,no rain while most neighbors got rain
+2025-10-25,ASOS-IER,Nattchitoches Regional Airport,ASOS,SA19,cold,68.0,8,79.1,max temp much colder than neighbors
+2025-10-25,ASOS-MEZ,Mena Intermountain Muni,ASOS,SA17B,missed,0.0,7,0.69,no rain while most neighbors got rain
+2025-10-25,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-26,157201,PEABODY,RAWS,SA27,hot,70.0,8,62.0,max temp much warmer than neighbors
+2025-10-26,227701,BOGUE CHITTO,RAWS,SA22A,cold,66.0,8,80.8,max temp much colder than neighbors
+2025-10-26,346303,KIAMICHI,RAWS,SA17A,cold,46.0,5,59.9,max temp much colder than neighbors
+2025-10-26,55522208,BAINBRIDGE,RAWS,SA42,hot,78.0,8,69.1,max temp much warmer than neighbors
+2025-10-26,55522240,COCHRAN,RAWS,SA41,hot,69.0,8,59.8,max temp much warmer than neighbors
+2025-10-26,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,47.0,8,58.7,max temp much colder than neighbors
+2025-10-26,96301,METTER,RAWS,SA42,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-26,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-26,ASOS-EKY,Bessemer,ASOS,SA38,missed,0.0,8,0.79,no rain while most neighbors got rain
+2025-10-26,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,cold,54.3,8,66.0,max temp much colder than neighbors
+2025-10-26,ASOS-HBG,Hattiesburg Muni,ASOS,SA22A,missed,0.0,8,1.34,no rain while most neighbors got rain
+2025-10-26,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-26,ASOS-MEZ,Mena Intermountain Muni,ASOS,SA17B,wet,1.39,7,0.1,far more rain than any neighbor
+2025-10-26,ASOS-PMP,Pompano Beach,ASOS,SA50,missed,0.0,8,0.57,no rain while most neighbors got rain
+2025-10-26,ASOS-RNV,Cleveland,ASOS,SA22A,missed,0.0,4,1.34,no rain while most neighbors got rain
+2025-10-26,ASOS-RYW,Lago Vista,ASOS,SA11,cold,69.6,8,83.0,max temp much colder than neighbors
+2025-10-27,227701,BOGUE CHITTO,RAWS,SA22A,cold,62.0,8,78.8,max temp much colder than neighbors
+2025-10-27,227701,BOGUE CHITTO,RAWS,SA22A,rain_alone,0.77,8,0.02,rain no neighbor saw
+2025-10-27,312001,RENDEZVOUS MTN.,RAWS,SA31A,missed,0.0,8,0.88,no rain while most neighbors got rain
+2025-10-27,313601,TAYLORSVILLE (LENOIR),RAWS,SA32,missed,0.0,8,0.91,no rain while most neighbors got rain
+2025-10-27,346303,KIAMICHI,RAWS,SA17A,cold,48.0,5,61.7,max temp much colder than neighbors
+2025-10-27,55522240,COCHRAN,RAWS,SA41,hot,58.0,8,49.5,max temp much warmer than neighbors
+2025-10-27,ASOS-5R8,De Quincy,ASOS,SA19,cold,71.2,8,82.7,max temp much colder than neighbors
+2025-10-27,ASOS-DJT,West Palm Beach,ASOS,SA50,wet,1.72,5,0.24,far more rain than any neighbor
+2025-10-27,ASOS-EKQ,Monticello,ASOS,SA27,missed,0.0,8,1.05,no rain while most neighbors got rain
+2025-10-27,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,hot,126.5,8,63.6,max temp much warmer than neighbors
+2025-10-27,ASOS-HYI,San Marcos (Awos),ASOS,SA11,cold,75.0,8,89.0,max temp much colder than neighbors
+2025-10-27,ASOS-SOA,Sonora Muni,ASOS,SA10,cold,77.0,3,89.2,max temp much colder than neighbors
+2025-10-27,ASOS-T82,Fredericksburg/Gillespie County,ASOS,SA10,cold,66.0,8,86.2,max temp much colder than neighbors
+2025-10-28,225502,COPIAH,RAWS,SA22A,wet,1.22,6,0.23,far more rain than any neighbor
+2025-10-28,227701,BOGUE CHITTO,RAWS,SA22A,cold,65.0,8,79.3,max temp much colder than neighbors
+2025-10-28,30101,TRIMBLE MTN,RAWS,SA17B,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-10-28,346303,KIAMICHI,RAWS,SA17A,cold,41.0,5,54.4,max temp much colder than neighbors
+2025-10-28,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,42.0,8,51.4,max temp much colder than neighbors
+2025-10-28,ASOS-BPK,Mountain Home/Baxter County,ASOS,SA17B,missed,0.0,8,0.8,no rain while most neighbors got rain
+2025-10-28,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,hot,135.0,8,59.5,max temp much warmer than neighbors
+2025-10-28,ASOS-LAL,Lakeland Regional,ASOS,SA49,hot,91.0,8,81.9,max temp much warmer than neighbors
+2025-10-28,ASOS-T82,Fredericksburg/Gillespie County,ASOS,SA10,cold,73.4,8,82.7,max temp much colder than neighbors
+2025-10-29,227701,BOGUE CHITTO,RAWS,SA22A,cold,55.0,8,68.2,max temp much colder than neighbors
+2025-10-29,346303,KIAMICHI,RAWS,SA17A,cold,30.0,5,47.1,max temp much colder than neighbors
+2025-10-29,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,41.0,8,49.7,max temp much colder than neighbors
+2025-10-29,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,7,1.08,no rain while most neighbors got rain
+2025-10-29,ASOS-CBM,Columbus Afb,ASOS,SA22A,missed,0.0,7,0.5,no rain while most neighbors got rain
+2025-10-29,ASOS-EKQ,Monticello,ASOS,SA27,missed,0.0,8,0.91,no rain while most neighbors got rain
+2025-10-29,ASOS-FFA,Kill_Devil_Hills,ASOS,SA34,cold,-13.7,8,65.8,max temp much colder than neighbors
+2025-10-29,ASOS-FTK,Fort Knox/Godman,ASOS,SA26,missed,0.0,8,1.06,no rain while most neighbors got rain
+2025-10-29,ASOS-HKA,Blytheville,ASOS,SA18,missed,0.0,5,1.03,no rain while most neighbors got rain
+2025-10-29,ASOS-LHW,Ft Stewart/Wright,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-29,ASOS-POE,Fort Polk (Army),ASOS,SA19,hot,72.0,8,63.7,max temp much warmer than neighbors
+2025-10-29,ASOS-UTS,Huntsville Municipal Airport,ASOS,SA12,cold,60.0,8,68.1,max temp much colder than neighbors
+2025-10-30,227701,BOGUE CHITTO,RAWS,SA22A,cold,50.0,8,65.9,max temp much colder than neighbors
+2025-10-30,346303,KIAMICHI,RAWS,SA17A,cold,41.0,5,56.3,max temp much colder than neighbors
+2025-10-30,55522208,BAINBRIDGE,RAWS,SA42,hot,60.0,8,51.4,max temp much warmer than neighbors
+2025-10-30,55522342,PILOT MOUNTAIN,RAWS,SA32,cold,50.0,8,60.6,max temp much colder than neighbors
+2025-10-30,96301,METTER,RAWS,SA42,missed,0.0,7,1.88,no rain while most neighbors got rain
+2025-10-30,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-30,ASOS-GYI,Sherman/Denison,ASOS,SA06,cold,56.0,7,65.8,max temp much colder than neighbors
+2025-10-30,ASOS-LBX,Angleton/Lake Jacks,ASOS,SA13,cold,57.0,8,71.0,max temp much colder than neighbors
+2025-10-30,ASOS-RYW,Lago Vista,ASOS,SA11,cold,59.0,8,70.5,max temp much colder than neighbors
+2025-10-30,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.71,no rain while most neighbors got rain
+2025-10-31,227701,BOGUE CHITTO,RAWS,SA22A,cold,54.0,8,69.0,max temp much colder than neighbors
+2025-10-31,346303,KIAMICHI,RAWS,SA17A,cold,48.0,5,62.2,max temp much colder than neighbors
+2025-10-31,384201,SAVANNAH NWR,RAWS,SA37,missed,0.0,8,1.44,no rain while most neighbors got rain
+2025-10-31,55522208,BAINBRIDGE,RAWS,SA42,hot,70.0,8,60.9,max temp much warmer than neighbors
+2025-10-31,55522240,COCHRAN,RAWS,SA41,hot,69.0,8,59.9,max temp much warmer than neighbors
+2025-10-31,96301,METTER,RAWS,SA42,missed,0.0,6,1.54,no rain while most neighbors got rain
+2025-10-31,96801,MIDWAY,RAWS,SA46,missed,0.0,8,1.44,no rain while most neighbors got rain
+2025-10-31,ASOS-7W6,Engelhard,ASOS,SA34,cold,55.8,8,66.5,max temp much colder than neighbors
+2025-10-31,ASOS-DPL,Kenansville/Duplin_County,ASOS,SA33,cold,57.2,8,65.2,max temp much colder than neighbors
+2025-10-31,ASOS-EHO,Shelby_Muni_Arpt,ASOS,SA32,cold,53.6,8,62.9,max temp much colder than neighbors
+2025-10-31,ASOS-EYF,Elizabethtown/Curtis_Brown_Field,ASOS,SA33,cold,57.0,8,67.1,max temp much colder than neighbors
+2025-10-31,ASOS-GYI,Sherman/Denison,ASOS,SA06,cold,60.6,7,70.7,max temp much colder than neighbors
+2025-10-31,ASOS-HRJ,Erwin/Harnett_County_Arpt,ASOS,SA33,cold,57.0,8,65.3,max temp much colder than neighbors
+2025-10-31,ASOS-IXA,Roanoke Rapids,ASOS,SA33,cold,53.6,8,64.6,max temp much colder than neighbors
+2025-10-31,ASOS-RFI,Henderson,ASOS,SA07,hot,78.4,8,69.8,max temp much warmer than neighbors
+2025-10-31,ASOS-RYW,Lago Vista,ASOS,SA11,cold,63.7,8,73.9,max temp much colder than neighbors
+2025-10-31,ASOS-SAV,Savannah - Hilton Head,ASOS,SA46,missed,0.0,8,1.44,no rain while most neighbors got rain
+2025-10-31,ASOS-T89,Castroville,ASOS,SA14,hot,84.2,8,76.2,max temp much warmer than neighbors
+2025-10-31,ASOS-TDF,Roxboro,ASOS,SA32,cold,53.6,8,62.9,max temp much colder than neighbors
+2025-10-31,ASOS-VUJ,Albemarle,ASOS,SA32,cold,56.0,8,64.1,max temp much colder than neighbors
+2025-11-01,227701,BOGUE CHITTO,RAWS,SA22A,cold,58.0,8,71.6,max temp much colder than neighbors
+2025-11-01,346303,KIAMICHI,RAWS,SA17A,cold,42.0,5,57.9,max temp much colder than neighbors
+2025-11-01,55522208,BAINBRIDGE,RAWS,SA42,hot,72.0,8,63.0,max temp much warmer than neighbors
+2025-11-01,55522240,COCHRAN,RAWS,SA41,hot,71.0,8,59.6,max temp much warmer than neighbors
+2025-11-01,ASOS-4O4,Idabel,ASOS,SA17A,cold,59.0,5,69.1,max temp much colder than neighbors
+2025-11-01,ASOS-AFP,Wadesboro,ASOS,SA32,cold,39.2,8,66.2,max temp much colder than neighbors
+2025-11-01,ASOS-FQD,Rutherfordton,ASOS,SA32,cold,37.4,8,65.0,max temp much colder than neighbors
+2025-11-01,ASOS-I93,Hardinsburg,ASOS,SA26,cold,44.6,8,57.1,max temp much colder than neighbors
+2025-11-01,ASOS-JVW,Raymond,ASOS,SA22A,hot,75.2,8,67.2,max temp much warmer than neighbors
+2025-11-01,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,51.0,8,62.9,max temp much colder than neighbors
+2025-11-01,ASOS-MBO,Madison,ASOS,SA22A,cold,42.8,5,67.7,max temp much colder than neighbors
+2025-11-01,ASOS-MKY,Marco Island,ASOS,SA50,cold,63.0,8,79.5,max temp much colder than neighbors
+2025-11-01,ASOS-RFI,Henderson,ASOS,SA07,hot,75.0,8,66.9,max temp much warmer than neighbors
+2025-11-01,ASOS-RYW,Lago Vista,ASOS,SA11,cold,55.4,8,67.5,max temp much colder than neighbors
+2025-11-02,227701,BOGUE CHITTO,RAWS,SA22A,cold,55.0,8,70.9,max temp much colder than neighbors
+2025-11-02,346303,KIAMICHI,RAWS,SA17A,cold,44.0,5,57.4,max temp much colder than neighbors
+2025-11-02,55522208,BAINBRIDGE,RAWS,SA42,hot,70.0,8,61.3,max temp much warmer than neighbors
+2025-11-02,55522240,COCHRAN,RAWS,SA41,hot,67.0,8,58.1,max temp much warmer than neighbors
+2025-11-02,ASOS-FLL,Fort Lauderdale - Hollywood,ASOS,SA50,cold,75.0,8,83.5,max temp much colder than neighbors
+2025-11-02,ASOS-FSI,Fort Sill,ASOS,SA02,cold,64.6,8,72.8,max temp much colder than neighbors
+2025-11-02,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,60.0,8,69.5,max temp much colder than neighbors
+2025-11-02,ASOS-RYW,Lago Vista,ASOS,SA11,cold,62.8,8,72.8,max temp much colder than neighbors
+2025-11-03,227701,BOGUE CHITTO,RAWS,SA22A,cold,55.0,8,70.3,max temp much colder than neighbors
+2025-11-03,346303,KIAMICHI,RAWS,SA17A,cold,53.0,5,70.2,max temp much colder than neighbors
+2025-11-03,55522208,BAINBRIDGE,RAWS,SA42,hot,71.0,8,61.9,max temp much warmer than neighbors
+2025-11-03,55522240,COCHRAN,RAWS,SA41,hot,69.0,8,59.9,max temp much warmer than neighbors
+2025-11-03,ASOS-EKY,Bessemer,ASOS,SA38,cold,46.0,8,63.2,max temp much colder than neighbors
+2025-11-03,ASOS-HEY,Fort Rucker,ASOS,SA39,cold,58.0,8,67.7,max temp much colder than neighbors
+2025-11-03,ASOS-HUM,Houma-Terrebonne,ASOS,SA21A,cold,53.0,6,69.0,max temp much colder than neighbors
+2025-11-03,ASOS-MBO,Madison,ASOS,SA22A,cold,39.2,5,68.0,max temp much colder than neighbors
+2025-11-03,ASOS-MWL,Mineral Wells Muni,ASOS,SA06,hot,91.0,8,80.3,max temp much warmer than neighbors
+2025-11-03,ASOS-RYW,Lago Vista,ASOS,SA11,cold,66.6,8,76.6,max temp much colder than neighbors
+2025-11-03,ASOS-TNB,Watauga_Cnty_Hosp_Helip,ASOS,SA31A,cold,47.5,8,57.2,max temp much colder than neighbors
+2025-11-04,11401,ONEONTA,RAWS,SA38,cold,52.0,8,71.2,max temp much colder than neighbors
+2025-11-04,227701,BOGUE CHITTO,RAWS,SA22A,cold,61.0,8,73.9,max temp much colder than neighbors
+2025-11-04,346303,KIAMICHI,RAWS,SA17A,cold,54.0,5,70.2,max temp much colder than neighbors
+2025-11-04,55522208,BAINBRIDGE,RAWS,SA42,hot,78.0,8,68.9,max temp much warmer than neighbors
+2025-11-04,55522240,COCHRAN,RAWS,SA41,hot,76.0,8,65.6,max temp much warmer than neighbors
+2025-11-04,ASOS-CPC,Columbus_Cnty_Muni_Arpt,ASOS,SA34,cold,57.2,8,70.5,max temp much colder than neighbors
+2025-11-04,ASOS-MBO,Madison,ASOS,SA22A,cold,41.0,5,75.0,max temp much colder than neighbors
+2025-11-04,ASOS-MWL,Mineral Wells Muni,ASOS,SA06,hot,95.0,8,80.1,max temp much warmer than neighbors
+2025-11-04,ASOS-RYW,Lago Vista,ASOS,SA11,cold,70.0,8,78.2,max temp much colder than neighbors
+2025-11-04,ASOS-SCR,Siler City,ASOS,SA32,cold,37.4,8,66.5,max temp much colder than neighbors
+2025-11-04,ASOS-UTS,Huntsville Municipal Airport,ASOS,SA12,cold,67.0,8,77.1,max temp much colder than neighbors
+2025-11-05,11401,ONEONTA,RAWS,SA38,cold,63.0,8,74.5,max temp much colder than neighbors
+2025-11-05,227701,BOGUE CHITTO,RAWS,SA22A,cold,70.0,8,78.6,max temp much colder than neighbors
+2025-11-05,346303,KIAMICHI,RAWS,SA17A,cold,59.0,5,72.0,max temp much colder than neighbors
+2025-11-05,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,72.2,max temp much warmer than neighbors
+2025-11-05,55522240,COCHRAN,RAWS,SA41,hot,81.0,8,70.5,max temp much warmer than neighbors
+2025-11-05,ASOS-DYR,Dyersburg(Awos),ASOS,SA24,rain_alone,1.33,4,0.0,rain no neighbor saw
+2025-11-05,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,61.0,8,70.5,max temp much colder than neighbors
+2025-11-05,ASOS-MWL,Mineral Wells Muni,ASOS,SA06,hot,96.0,8,85.3,max temp much warmer than neighbors
+2025-11-06,11401,ONEONTA,RAWS,SA38,cold,56.0,8,74.0,max temp much colder than neighbors
+2025-11-06,227701,BOGUE CHITTO,RAWS,SA22A,cold,70.0,8,80.6,max temp much colder than neighbors
+2025-11-06,346303,KIAMICHI,RAWS,SA17A,cold,56.0,5,72.2,max temp much colder than neighbors
+2025-11-06,380201,TABLE ROCK,RAWS,SA31C,hot,82.0,8,72.8,max temp much warmer than neighbors
+2025-11-06,55522208,BAINBRIDGE,RAWS,SA42,hot,83.0,8,72.9,max temp much warmer than neighbors
+2025-11-06,55522240,COCHRAN,RAWS,SA41,hot,82.0,8,71.0,max temp much warmer than neighbors
+2025-11-06,ASOS-6P9,Ranger,ASOS,SA05,cold,68.5,8,84.7,max temp much colder than neighbors
+2025-11-06,ASOS-RYW,Lago Vista,ASOS,SA11,cold,73.4,8,82.0,max temp much colder than neighbors
+2025-11-07,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,84.2,max temp much colder than neighbors
+2025-11-07,346303,KIAMICHI,RAWS,SA17A,cold,58.0,5,73.2,max temp much colder than neighbors
+2025-11-07,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,72.9,max temp much warmer than neighbors
+2025-11-07,55522240,COCHRAN,RAWS,SA41,hot,80.0,8,71.2,max temp much warmer than neighbors
+2025-11-07,ASOS-24A,Sylva,ASOS,SA31A,cold,59.4,8,69.0,max temp much colder than neighbors
+2025-11-07,ASOS-35A,Union,ASOS,SA35,cold,54.0,8,70.1,max temp much colder than neighbors
+2025-11-07,ASOS-48A,Cochran,ASOS,SA41,cold,65.7,8,79.8,max temp much colder than neighbors
+2025-11-07,ASOS-DWH,Houston/D.W. Hooks,ASOS,SA13,cold,67.0,8,86.1,max temp much colder than neighbors
+2025-11-07,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,60.0,8,69.0,max temp much colder than neighbors
+2025-11-07,ASOS-MWL,Mineral Wells Muni,ASOS,SA06,hot,94.0,8,80.4,max temp much warmer than neighbors
+2025-11-07,ASOS-SSI,Brunswick/Malcolm,ASOS,SA46,cold,73.0,6,81.5,max temp much colder than neighbors
+2025-11-08,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,82.9,max temp much colder than neighbors
+2025-11-08,346303,KIAMICHI,RAWS,SA17A,cold,57.0,5,72.4,max temp much colder than neighbors
+2025-11-08,55522208,BAINBRIDGE,RAWS,SA42,hot,85.0,8,75.9,max temp much warmer than neighbors
+2025-11-08,ASOS-AFP,Wadesboro,ASOS,SA32,cold,55.4,8,75.3,max temp much colder than neighbors
+2025-11-08,ASOS-CWC,Kickapoo,ASOS,SA05,cold,51.8,4,79.5,max temp much colder than neighbors
+2025-11-08,ASOS-DWH,Houston/D.W. Hooks,ASOS,SA13,cold,70.0,8,85.4,max temp much colder than neighbors
+2025-11-08,ASOS-EHO,Shelby_Muni_Arpt,ASOS,SA32,cold,57.2,8,72.9,max temp much colder than neighbors
+2025-11-08,ASOS-ETC,Tarboro,ASOS,SA33,cold,59.0,8,75.3,max temp much colder than neighbors
+2025-11-08,ASOS-FQD,Rutherfordton,ASOS,SA32,cold,51.8,8,71.1,max temp much colder than neighbors
+2025-11-08,ASOS-LGC,La_Grange,ASOS,SA41,cold,60.8,8,80.1,max temp much colder than neighbors
+2025-11-08,ASOS-MBO,Madison,ASOS,SA22A,cold,59.0,4,78.9,max temp much colder than neighbors
+2025-11-08,ASOS-SVH,Statesville,ASOS,SA32,cold,60.8,8,71.5,max temp much colder than neighbors
+2025-11-09,227701,BOGUE CHITTO,RAWS,SA22A,cold,61.0,8,71.8,max temp much colder than neighbors
+2025-11-09,346303,KIAMICHI,RAWS,SA17A,cold,34.0,5,48.4,max temp much colder than neighbors
+2025-11-09,55522208,BAINBRIDGE,RAWS,SA42,hot,83.0,8,73.9,max temp much warmer than neighbors
+2025-11-09,55522240,COCHRAN,RAWS,SA41,hot,79.0,8,70.8,max temp much warmer than neighbors
+2025-11-09,ASOS-48A,Cochran,ASOS,SA41,cold,66.2,8,79.4,max temp much colder than neighbors
+2025-11-09,ASOS-FSI,Fort Sill,ASOS,SA02,cold,45.3,8,56.1,max temp much colder than neighbors
+2025-11-09,ASOS-JVW,Raymond,ASOS,SA22A,cold,50.0,8,65.3,max temp much colder than neighbors
+2025-11-09,ASOS-JWN,John C Tune,ASOS,SA25,cold,46.4,8,57.7,max temp much colder than neighbors
+2025-11-09,ASOS-LGC,La_Grange,ASOS,SA41,cold,57.2,8,74.5,max temp much colder than neighbors
+2025-11-09,ASOS-LZU,Lawrenceville,ASOS,SA40,cold,63.0,8,73.0,max temp much colder than neighbors
+2025-11-09,ASOS-MQY,Smyrna,ASOS,SA25,cold,49.6,8,58.1,max temp much colder than neighbors
+2025-11-09,ASOS-MRH,Smith_Field/Beaufort_(Asos),ASOS,SA34,cold,73.0,7,81.0,max temp much colder than neighbors
+2025-11-09,ASOS-NJM,Bogue Field,ASOS,SA34,cold,72.0,8,80.7,max temp much colder than neighbors
+2025-11-09,ASOS-NQA,Memphis Nas,ASOS,SA24,cold,48.2,8,59.3,max temp much colder than neighbors
+2025-11-09,ASOS-RYW,Lago Vista,ASOS,SA11,cold,54.7,8,67.6,max temp much colder than neighbors
+2025-11-10,227701,BOGUE CHITTO,RAWS,SA22A,cold,42.0,8,53.5,max temp much colder than neighbors
+2025-11-10,346303,KIAMICHI,RAWS,SA17A,cold,26.0,5,41.7,max temp much colder than neighbors
+2025-11-10,446801,JAMES RIVER,RAWS,SA30,hot,69.0,8,56.9,max temp much warmer than neighbors
+2025-11-10,55522208,BAINBRIDGE,RAWS,SA42,hot,54.0,8,45.3,max temp much warmer than neighbors
+2025-11-10,55522240,COCHRAN,RAWS,SA41,hot,51.0,8,41.9,max temp much warmer than neighbors
+2025-11-10,ASOS-0F2,Bowie,ASOS,SA06,cold,34.7,6,55.0,max temp much colder than neighbors
+2025-11-10,ASOS-48A,Cochran,ASOS,SA41,cold,40.6,8,50.8,max temp much colder than neighbors
+2025-11-10,ASOS-AFP,Wadesboro,ASOS,SA32,cold,50.0,8,59.3,max temp much colder than neighbors
+2025-11-10,ASOS-BCR,Tri-County,ASOS,SA47,hot,62.0,8,52.6,max temp much warmer than neighbors
+2025-11-10,ASOS-EUF,Eufaula,ASOS,SA39,hot,59.0,8,49.2,max temp much warmer than neighbors
+2025-11-10,ASOS-EVB,New Smyrna Beach Muni,ASOS,SA49,cold,62.6,8,71.1,max temp much colder than neighbors
+2025-11-10,ASOS-HEY,Fort Rucker,ASOS,SA39,hot,62.0,8,50.5,max temp much warmer than neighbors
+2025-11-10,ASOS-HRT,Hurlburt Field (Af),ASOS,SA47,hot,64.0,8,52.7,max temp much warmer than neighbors
+2025-11-10,ASOS-INT,Winston-Salem/Smith_(Asos),ASOS,SA32,hot,57.0,8,47.4,max temp much warmer than neighbors
+2025-11-10,ASOS-LAL,Lakeland Regional,ASOS,SA49,hot,82.0,8,74.0,max temp much warmer than neighbors
+2025-11-10,ASOS-LOR,Lowe Ahp/Ft. Rucker,ASOS,SA39,hot,61.0,8,50.7,max temp much warmer than neighbors
+2025-11-10,ASOS-LSF,Fort Benning,ASOS,SA41,hot,59.0,8,47.3,max temp much warmer than neighbors
+2025-11-10,ASOS-M08,Bolivar,ASOS,SA24,cold,26.6,8,40.0,max temp much colder than neighbors
+2025-11-10,ASOS-OMN,Ormond Beach Muni,ASOS,SA49,cold,62.6,8,71.1,max temp much colder than neighbors
+2025-11-10,ASOS-PAM,Tyndall Afb,ASOS,SA47,hot,70.0,6,55.5,max temp much warmer than neighbors
+2025-11-10,ASOS-SVH,Statesville,ASOS,SA32,cold,36.5,8,46.3,max temp much colder than neighbors
+2025-11-10,ASOS-VAD,Moody Afb/Valdosta,ASOS,SA42,hot,66.0,8,57.4,max temp much warmer than neighbors
+2025-11-10,ASOS-WRB,Warner Robins Afb,ASOS,SA41,hot,65.0,8,50.3,max temp much warmer than neighbors
+2025-11-11,313402,BUSICK,RAWS,SA31A,hot,52.0,8,39.9,max temp much warmer than neighbors
+2025-11-11,346303,KIAMICHI,RAWS,SA17A,cold,45.0,5,63.0,max temp much colder than neighbors
+2025-11-11,446801,JAMES RIVER,RAWS,SA30,hot,69.0,8,47.0,max temp much warmer than neighbors
+2025-11-11,55522208,BAINBRIDGE,RAWS,SA42,hot,57.0,8,47.7,max temp much warmer than neighbors
+2025-11-11,55522240,COCHRAN,RAWS,SA41,hot,54.0,8,43.8,max temp much warmer than neighbors
+2025-11-11,ASOS-48A,Cochran,ASOS,SA41,cold,37.4,8,52.3,max temp much colder than neighbors
+2025-11-11,ASOS-FSI,Fort Sill,ASOS,SA02,cold,68.0,8,78.0,max temp much colder than neighbors
+2025-11-11,ASOS-JVW,Raymond,ASOS,SA22A,cold,48.2,8,60.4,max temp much colder than neighbors
+2025-11-11,ASOS-JYL,Sylvania,ASOS,SA42,cold,-14.0,8,50.9,max temp much colder than neighbors
+2025-11-11,ASOS-LGC,La_Grange,ASOS,SA41,cold,35.6,8,51.1,max temp much colder than neighbors
+2025-11-11,ASOS-MBO,Madison,ASOS,SA22A,cold,50.0,5,59.4,max temp much colder than neighbors
+2025-11-11,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,58.0,8,45.0,max temp much warmer than neighbors
+2025-11-11,ASOS-ORK,North Little Rock,ASOS,SA18,cold,32.0,8,62.1,max temp much colder than neighbors
+2025-11-11,ASOS-UOX,Oxford,ASOS,SA23,cold,48.2,6,57.7,max temp much colder than neighbors
+2025-11-12,346303,KIAMICHI,RAWS,SA17A,cold,56.0,5,68.4,max temp much colder than neighbors
+2025-11-12,446801,JAMES RIVER,RAWS,SA30,hot,82.0,8,62.6,max temp much warmer than neighbors
+2025-11-12,55522240,COCHRAN,RAWS,SA41,hot,71.0,8,62.2,max temp much warmer than neighbors
+2025-11-12,ASOS-48A,Cochran,ASOS,SA41,cold,51.6,8,70.7,max temp much colder than neighbors
+2025-11-12,ASOS-9A4,Courtland,ASOS,SA38,cold,57.2,8,68.1,max temp much colder than neighbors
+2025-11-12,ASOS-CQB,Chandler Muni Airport,ASOS,SA03,cold,55.4,8,77.2,max temp much colder than neighbors
+2025-11-12,ASOS-JVW,Raymond,ASOS,SA22A,cold,41.0,8,74.5,max temp much colder than neighbors
+2025-11-12,ASOS-LGC,La_Grange,ASOS,SA41,cold,51.8,8,67.6,max temp much colder than neighbors
+2025-11-12,ASOS-M08,Bolivar,ASOS,SA24,cold,60.8,8,69.6,max temp much colder than neighbors
+2025-11-12,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,45.0,8,61.4,max temp much colder than neighbors
+2025-11-13,11401,ONEONTA,RAWS,SA38,cold,59.0,8,70.6,max temp much colder than neighbors
+2025-11-13,346303,KIAMICHI,RAWS,SA17A,cold,56.0,5,72.4,max temp much colder than neighbors
+2025-11-13,380201,TABLE ROCK,RAWS,SA31C,hot,77.0,8,68.1,max temp much warmer than neighbors
+2025-11-13,446801,JAMES RIVER,RAWS,SA30,hot,84.0,8,62.5,max temp much warmer than neighbors
+2025-11-13,55522208,BAINBRIDGE,RAWS,SA42,hot,77.0,8,68.9,max temp much warmer than neighbors
+2025-11-13,55522240,COCHRAN,RAWS,SA41,hot,75.0,8,66.4,max temp much warmer than neighbors
+2025-11-13,ASOS-48A,Cochran,ASOS,SA41,cold,56.0,8,74.9,max temp much colder than neighbors
+2025-11-13,ASOS-JNX,Smithfield,ASOS,SA33,cold,55.4,8,66.7,max temp much colder than neighbors
+2025-11-13,ASOS-JVW,Raymond,ASOS,SA22A,cold,46.4,8,78.2,max temp much colder than neighbors
+2025-11-13,ASOS-M08,Bolivar,ASOS,SA24,cold,39.2,8,73.0,max temp much colder than neighbors
+2025-11-13,ASOS-MBO,Madison,ASOS,SA22A,cold,51.8,5,77.0,max temp much colder than neighbors
+2025-11-13,ASOS-MWL,Mineral Wells Muni,ASOS,SA06,hot,99.0,8,81.7,max temp much warmer than neighbors
+2025-11-14,11401,ONEONTA,RAWS,SA38,cold,61.0,8,73.2,max temp much colder than neighbors
+2025-11-14,346303,KIAMICHI,RAWS,SA17A,cold,55.0,5,73.4,max temp much colder than neighbors
+2025-11-14,446801,JAMES RIVER,RAWS,SA30,hot,81.0,8,61.5,max temp much warmer than neighbors
+2025-11-14,55522240,COCHRAN,RAWS,SA41,hot,78.0,8,67.0,max temp much warmer than neighbors
+2025-11-14,ASOS-48A,Cochran,ASOS,SA41,cold,62.6,8,75.4,max temp much colder than neighbors
+2025-11-14,ASOS-F95,Blountstown,ASOS,SA47,cold,48.2,8,77.8,max temp much colder than neighbors
+2025-11-14,ASOS-JVW,Raymond,ASOS,SA22A,cold,46.4,7,78.5,max temp much colder than neighbors
+2025-11-14,ASOS-UOX,Oxford,ASOS,SA23,cold,62.6,6,78.3,max temp much colder than neighbors
+2025-11-15,346303,KIAMICHI,RAWS,SA17A,cold,61.0,5,78.2,max temp much colder than neighbors
+2025-11-15,446801,JAMES RIVER,RAWS,SA30,hot,84.0,8,72.6,max temp much warmer than neighbors
+2025-11-15,55522208,BAINBRIDGE,RAWS,SA42,hot,79.0,8,70.7,max temp much warmer than neighbors
+2025-11-15,55522240,COCHRAN,RAWS,SA41,hot,79.0,8,69.9,max temp much warmer than neighbors
+2025-11-15,ASOS-48A,Cochran,ASOS,SA41,cold,64.4,8,79.0,max temp much colder than neighbors
+2025-11-15,ASOS-CWC,Kickapoo,ASOS,SA05,cold,66.2,4,92.3,max temp much colder than neighbors
+2025-11-15,ASOS-MBO,Madison,ASOS,SA22A,cold,53.6,4,79.4,max temp much colder than neighbors
+2025-11-15,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,58.0,8,72.5,max temp much colder than neighbors
+2025-11-15,ASOS-X60,Williston,ASOS,SA48,cold,62.4,8,79.6,max temp much colder than neighbors
+2025-11-16,346303,KIAMICHI,RAWS,SA17A,cold,59.0,5,71.2,max temp much colder than neighbors
+2025-11-16,446801,JAMES RIVER,RAWS,SA30,hot,81.0,8,71.1,max temp much warmer than neighbors
+2025-11-16,55522240,COCHRAN,RAWS,SA41,hot,79.0,8,70.3,max temp much warmer than neighbors
+2025-11-16,ASOS-48A,Cochran,ASOS,SA41,cold,70.5,8,79.2,max temp much colder than neighbors
+2025-11-16,ASOS-9A4,Courtland,ASOS,SA38,cold,64.4,8,74.4,max temp much colder than neighbors
+2025-11-16,ASOS-FSI,Fort Sill,ASOS,SA02,cold,72.7,8,81.2,max temp much colder than neighbors
+2025-11-16,ASOS-HUM,Houma-Terrebonne,ASOS,SA21A,cold,69.8,6,81.0,max temp much colder than neighbors
+2025-11-16,ASOS-MBO,Madison,ASOS,SA22A,cold,71.6,4,80.9,max temp much colder than neighbors
+2025-11-16,ASOS-RFI,Henderson,ASOS,SA07,hot,91.4,8,82.7,max temp much warmer than neighbors
+2025-11-16,ASOS-SUT,Southport/Brunswick,ASOS,SA34,cold,69.8,7,79.1,max temp much colder than neighbors
+2025-11-17,346303,KIAMICHI,RAWS,SA17A,cold,51.0,5,70.5,max temp much colder than neighbors
+2025-11-17,409201,PRENTICE COOPER SF,RAWS,SA25,bad_rain,43.38,0,,impossible rain total
+2025-11-17,446801,JAMES RIVER,RAWS,SA30,hot,78.0,8,56.5,max temp much warmer than neighbors
+2025-11-17,55522240,COCHRAN,RAWS,SA41,hot,74.0,8,63.7,max temp much warmer than neighbors
+2025-11-17,ASOS-MBO,Madison,ASOS,SA22A,cold,68.0,4,79.2,max temp much colder than neighbors
+2025-11-17,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,70.0,8,59.5,max temp much warmer than neighbors
+2025-11-17,ASOS-MRF,Marfa,ASOS,SA08,cold,48.0,4,76.7,max temp much colder than neighbors
+2025-11-17,ASOS-NRB,Mayport Ns,ASOS,SA48,cold,70.0,8,78.1,max temp much colder than neighbors
+2025-11-18,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,82.9,max temp much colder than neighbors
+2025-11-18,346303,KIAMICHI,RAWS,SA17A,cold,63.0,5,79.7,max temp much colder than neighbors
+2025-11-18,446801,JAMES RIVER,RAWS,SA30,hot,64.0,8,54.9,max temp much warmer than neighbors
+2025-11-18,55522208,BAINBRIDGE,RAWS,SA42,hot,82.0,8,72.2,max temp much warmer than neighbors
+2025-11-18,55522240,COCHRAN,RAWS,SA41,hot,78.0,8,68.3,max temp much warmer than neighbors
+2025-11-18,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,7,1.12,no rain while most neighbors got rain
+2025-11-18,ASOS-HHF,Canadian,ASOS,SA01,cold,53.0,6,75.3,max temp much colder than neighbors
+2025-11-18,ASOS-HXD,Hilton Head Island,ASOS,SA37,cold,68.0,8,76.0,max temp much colder than neighbors
+2025-11-18,ASOS-JYL,Sylvania,ASOS,SA42,cold,37.8,8,75.5,max temp much colder than neighbors
+2025-11-18,ASOS-MRF,Marfa,ASOS,SA08,cold,50.0,4,75.8,max temp much colder than neighbors
+2025-11-18,ASOS-VKS,Vicksburg,ASOS,SA22A,cold,73.4,5,82.0,max temp much colder than neighbors
+2025-11-19,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,82.1,max temp much colder than neighbors
+2025-11-19,346303,KIAMICHI,RAWS,SA17A,cold,60.0,5,72.3,max temp much colder than neighbors
+2025-11-19,419203,PAINT CREEK,RAWS,SA10,missed,0.0,3,0.64,no rain while most neighbors got rain
+2025-11-19,55522240,COCHRAN,RAWS,SA41,hot,86.0,8,75.1,max temp much warmer than neighbors
+2025-11-19,55522305,LAFAYETTE WORK CENTER,RAWS,SA25,bad_rain,43.69,0,,impossible rain total
+2025-11-19,ASOS-MBO,Madison,ASOS,SA22A,cold,68.0,4,81.4,max temp much colder than neighbors
+2025-11-19,ASOS-MRF,Marfa,ASOS,SA08,cold,61.0,4,71.7,max temp much colder than neighbors
+2025-11-19,ASOS-SWW,Sweetwater/Avenger Field Airport,ASOS,SA05,rain_alone,0.64,4,0.0,rain no neighbor saw
+2025-11-19,ASOS-TDR,Panama City Beach - Drone Runway,ASOS,SA47,cold,76.0,6,84.3,max temp much colder than neighbors
+2025-11-19,ASOS-TNB,Watauga_Cnty_Hosp_Helip,ASOS,SA31A,cold,57.2,8,67.1,max temp much colder than neighbors
+2025-11-20,157201,PEABODY,RAWS,SA27,bad_temp,-68.0,0,,impossible temperature
+2025-11-20,227701,BOGUE CHITTO,RAWS,SA22A,cold,71.0,8,81.0,max temp much colder than neighbors
+2025-11-20,30101,TRIMBLE MTN,RAWS,SA17B,missed,0.0,8,1.2,no rain while most neighbors got rain
+2025-11-20,346303,KIAMICHI,RAWS,SA17A,cold,51.0,5,63.0,max temp much colder than neighbors
+2025-11-20,36502,BLUFF CITY,RAWS,SA18,wet,1.48,4,0.07,far more rain than any neighbor
+2025-11-20,55522208,BAINBRIDGE,RAWS,SA42,hot,86.0,8,77.0,max temp much warmer than neighbors
+2025-11-20,55522240,COCHRAN,RAWS,SA41,hot,81.0,8,71.8,max temp much warmer than neighbors
+2025-11-20,ASOS-15M,Iuka,ASOS,SA23,missed,0.0,7,0.58,no rain while most neighbors got rain
+2025-11-20,ASOS-2DP,Dare County Gunnery Range,ASOS,SA34,hot,71.6,8,63.0,max temp much warmer than neighbors
+2025-11-20,ASOS-ADF,Arkadelphia,ASOS,SA18,missed,0.0,6,1.46,no rain while most neighbors got rain
+2025-11-20,ASOS-ADS,Dallas/Addison Arpt,ASOS,SA06,missed,0.0,8,2.19,no rain while most neighbors got rain
+2025-11-20,ASOS-BPK,Mountain Home/Baxter County,ASOS,SA17B,missed,0.0,8,0.79,no rain while most neighbors got rain
+2025-11-20,ASOS-GZN,Cisco,ASOS,SA05,missed,0.0,8,1.12,no rain while most neighbors got rain
+2025-11-20,ASOS-HXD,Hilton Head Island,ASOS,SA37,cold,71.6,8,81.1,max temp much colder than neighbors
+2025-11-20,ASOS-MKN,Comanche County/City Arpt,ASOS,SA10,missed,0.0,8,1.52,no rain while most neighbors got rain
+2025-11-20,ASOS-MRF,Marfa,ASOS,SA08,cold,41.0,4,66.2,max temp much colder than neighbors
+2025-11-20,ASOS-PIM,Pine Mountain,ASOS,SA41,cold,57.2,8,78.9,max temp much colder than neighbors
+2025-11-20,ASOS-RYW,Lago Vista,ASOS,SA11,cold,62.6,8,79.8,max temp much colder than neighbors
+2025-11-20,ASOS-TPL,Temple/Miller(Awos),ASOS,SA11,missed,0.0,8,1.06,no rain while most neighbors got rain
+2025-11-21,157201,PEABODY,RAWS,SA27,bad_temp,-66.0,0,,impossible temperature
+2025-11-21,227701,BOGUE CHITTO,RAWS,SA22A,cold,74.0,8,83.5,max temp much colder than neighbors
+2025-11-21,346303,KIAMICHI,RAWS,SA17A,cold,52.0,5,70.7,max temp much colder than neighbors
+2025-11-21,36502,BLUFF CITY,RAWS,SA18,rain_alone,1.6,4,0.03,rain no neighbor saw
+2025-11-21,55522208,BAINBRIDGE,RAWS,SA42,hot,80.0,8,71.4,max temp much warmer than neighbors
+2025-11-21,55522240,COCHRAN,RAWS,SA41,hot,81.0,8,71.0,max temp much warmer than neighbors
+2025-11-21,ASOS-F05,Vernon,ASOS,SA05,cold,55.4,5,66.0,max temp much colder than neighbors
+2025-11-21,ASOS-HBG,Hattiesburg Muni,ASOS,SA22A,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-11-21,ASOS-M25,Mayfield,ASOS,SA26,cold,56.0,8,68.2,max temp much colder than neighbors
+2025-11-21,ASOS-MBO,Madison,ASOS,SA22A,cold,66.2,4,76.7,max temp much colder than neighbors
+2025-11-21,ASOS-MRF,Marfa,ASOS,SA08,cold,37.0,4,66.7,max temp much colder than neighbors
+2025-11-21,ASOS-TPL,Temple/Miller(Awos),ASOS,SA11,missed,0.0,8,0.9,no rain while most neighbors got rain
+2025-11-22,157201,PEABODY,RAWS,SA27,bad_temp,-70.0,0,,impossible temperature
+2025-11-22,227701,BOGUE CHITTO,RAWS,SA22A,cold,72.0,8,81.8,max temp much colder than neighbors
+2025-11-22,346303,KIAMICHI,RAWS,SA17A,cold,38.0,5,53.4,max temp much colder than neighbors
+2025-11-22,55522208,BAINBRIDGE,RAWS,SA42,hot,87.0,8,76.6,max temp much warmer than neighbors
+2025-11-22,ASOS-2A0,Dayton,ASOS,SA25,cold,64.4,8,74.8,max temp much colder than neighbors
+2025-11-22,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,60.0,8,76.5,max temp much colder than neighbors
+2025-11-22,ASOS-MRF,Marfa,ASOS,SA08,cold,52.0,4,69.7,max temp much colder than neighbors
+2025-11-22,ASOS-MWK,Mount_Airy/Surry_County_Aprt,ASOS,SA32,cold,56.7,8,72.4,max temp much colder than neighbors
+2025-11-22,ASOS-SUT,Southport/Brunswick,ASOS,SA34,cold,71.6,6,81.0,max temp much colder than neighbors
+2025-11-23,227701,BOGUE CHITTO,RAWS,SA22A,cold,63.0,8,77.2,max temp much colder than neighbors
+2025-11-23,346303,KIAMICHI,RAWS,SA17A,cold,42.0,5,52.7,max temp much colder than neighbors
+2025-11-23,55522208,BAINBRIDGE,RAWS,SA42,hot,83.0,8,74.9,max temp much warmer than neighbors
+2025-11-23,55522240,COCHRAN,RAWS,SA41,hot,81.0,8,70.8,max temp much warmer than neighbors
+2025-11-23,ASOS-0R4,Vidalia,ASOS,SA19,hot,69.8,3,61.8,max temp much warmer than neighbors
+2025-11-23,ASOS-BPG,Big_Spring,ASOS,SA09,rain_alone,0.56,4,0.03,rain no neighbor saw
+2025-11-23,ASOS-MRF,Marfa,ASOS,SA08,cold,49.0,4,73.2,max temp much colder than neighbors
+2025-11-23,ASOS-RFI,Henderson,ASOS,SA07,hot,79.3,8,71.0,max temp much warmer than neighbors
+2025-11-23,ASOS-T89,Castroville,ASOS,SA14,hot,86.0,8,69.5,max temp much warmer than neighbors
+2025-11-24,227701,BOGUE CHITTO,RAWS,SA22A,cold,68.0,8,77.8,max temp much colder than neighbors
+2025-11-24,346303,KIAMICHI,RAWS,SA17A,cold,36.0,5,53.4,max temp much colder than neighbors
+2025-11-24,55522240,COCHRAN,RAWS,SA41,hot,78.0,8,69.8,max temp much warmer than neighbors
+2025-11-24,82203,ST. MARKS (WEST),RAWS,SA47,cold,71.0,8,80.4,max temp much colder than neighbors
+2025-11-24,ASOS-ADF,Arkadelphia,ASOS,SA18,missed,0.0,6,1.25,no rain while most neighbors got rain
+2025-11-24,ASOS-ADS,Dallas/Addison Arpt,ASOS,SA06,missed,0.0,8,1.22,no rain while most neighbors got rain
+2025-11-24,ASOS-BYL,Williamsburg,ASOS,SA27,cold,39.2,8,64.6,max temp much colder than neighbors
+2025-11-24,ASOS-GVL,Gainsville,ASOS,SA40,cold,64.0,8,73.6,max temp much colder than neighbors
+2025-11-24,ASOS-GZN,Cisco,ASOS,SA05,missed,0.0,8,0.83,no rain while most neighbors got rain
+2025-11-24,ASOS-JVW,Raymond,ASOS,SA22A,cold,46.4,8,76.5,max temp much colder than neighbors
+2025-11-24,ASOS-LUA,Luray,ASOS,SA28B,hot,69.8,8,60.6,max temp much warmer than neighbors
+2025-11-24,ASOS-MKN,Comanche County/City Arpt,ASOS,SA10,missed,0.0,8,0.98,no rain while most neighbors got rain
+2025-11-24,ASOS-MRF,Marfa,ASOS,SA08,cold,39.0,4,65.2,max temp much colder than neighbors
+2025-11-24,ASOS-RPH,Graham_Muni_Arpt,ASOS,SA05,missed,0.0,5,1.34,no rain while most neighbors got rain
+2025-11-24,ASOS-TDR,Panama City Beach - Drone Runway,ASOS,SA47,cold,-12.5,6,80.9,max temp much colder than neighbors
+2025-11-25,157201,PEABODY,RAWS,SA27,bad_temp,-65.0,0,,impossible temperature
+2025-11-25,227701,BOGUE CHITTO,RAWS,SA22A,cold,71.0,8,82.0,max temp much colder than neighbors
+2025-11-25,346303,KIAMICHI,RAWS,SA17A,cold,37.0,5,57.2,max temp much colder than neighbors
+2025-11-25,55522208,BAINBRIDGE,RAWS,SA42,hot,84.0,8,75.7,max temp much warmer than neighbors
+2025-11-25,55522240,COCHRAN,RAWS,SA41,hot,83.0,8,74.3,max temp much warmer than neighbors
+2025-11-25,ASOS-0V4,Brookneal,ASOS,SA29,cold,55.4,8,65.0,max temp much colder than neighbors
+2025-11-25,ASOS-CBM,Columbus Afb,ASOS,SA22A,missed,0.0,6,1.56,no rain while most neighbors got rain
+2025-11-25,ASOS-EKY,Bessemer,ASOS,SA38,missed,0.0,8,2.18,no rain while most neighbors got rain
+2025-11-25,ASOS-HXD,Hilton Head Island,ASOS,SA37,cold,69.8,8,79.0,max temp much colder than neighbors
+2025-11-25,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,60.0,8,72.5,max temp much colder than neighbors
+2025-11-25,ASOS-MRF,Marfa,ASOS,SA08,cold,42.0,4,69.7,max temp much colder than neighbors
+2025-11-25,ASOS-OSA,Mount Pleasant Airport,ASOS,SA07,rain_alone,1.82,5,0.0,rain no neighbor saw
+2025-11-25,ASOS-VPC,Cartersville Airport,ASOS,SA40,missed,0.0,8,0.72,no rain while most neighbors got rain
+2025-11-26,227701,BOGUE CHITTO,RAWS,SA22A,cold,60.0,8,70.4,max temp much colder than neighbors
+2025-11-26,346303,KIAMICHI,RAWS,SA17A,cold,32.0,5,47.3,max temp much colder than neighbors
+2025-11-26,55522240,COCHRAN,RAWS,SA41,hot,76.0,8,67.1,max temp much warmer than neighbors
+2025-11-26,ASOS-JVW,Raymond,ASOS,SA22A,cold,39.2,8,61.5,max temp much colder than neighbors
+2025-11-26,ASOS-M25,Mayfield,ASOS,SA26,rain_alone,0.58,7,0.02,rain no neighbor saw
+2025-11-26,ASOS-MRF,Marfa,ASOS,SA08,cold,36.0,4,62.7,max temp much colder than neighbors
+2025-11-26,ASOS-RYW,Lago Vista,ASOS,SA11,cold,55.0,8,64.1,max temp much colder than neighbors
+2025-11-27,227701,BOGUE CHITTO,RAWS,SA22A,cold,51.0,8,62.5,max temp much colder than neighbors
+2025-11-27,346303,KIAMICHI,RAWS,SA17A,cold,34.0,5,50.7,max temp much colder than neighbors
+2025-11-27,55522240,COCHRAN,RAWS,SA41,hot,60.0,8,51.2,max temp much warmer than neighbors
+2025-11-27,ASOS-BKT,Blackstone,ASOS,SA29,hot,61.0,8,52.4,max temp much warmer than neighbors
+2025-11-27,ASOS-CSM,Clinton-Sherman,ASOS,SA02,cold,37.0,8,55.9,max temp much colder than neighbors
+2025-11-27,ASOS-DAA,Fort Belvoir/Daviso,ASOS,SA30,hot,60.0,8,48.2,max temp much warmer than neighbors
+2025-11-27,ASOS-INT,Winston-Salem/Smith_(Asos),ASOS,SA32,hot,59.0,8,47.5,max temp much warmer than neighbors
+2025-11-27,ASOS-JVW,Raymond,ASOS,SA22A,cold,39.2,8,57.6,max temp much colder than neighbors
+2025-11-27,ASOS-MBO,Madison,ASOS,SA22A,cold,37.4,5,58.7,max temp much colder than neighbors
+2025-11-27,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,72.0,8,60.5,max temp much warmer than neighbors
+2025-11-27,ASOS-MRF,Marfa,ASOS,SA08,cold,39.0,4,68.2,max temp much colder than neighbors
+2025-11-27,ASOS-NYG,Quantico Mcaf,ASOS,SA30,hot,62.0,8,49.7,max temp much warmer than neighbors
+2025-11-27,ASOS-T89,Castroville,ASOS,SA14,hot,73.0,8,64.2,max temp much warmer than neighbors
+2025-11-28,227701,BOGUE CHITTO,RAWS,SA22A,cold,49.0,8,58.7,max temp much colder than neighbors
+2025-11-28,346303,KIAMICHI,RAWS,SA17A,cold,34.0,5,54.2,max temp much colder than neighbors
+2025-11-28,55522208,BAINBRIDGE,RAWS,SA42,hot,58.0,8,49.9,max temp much warmer than neighbors
+2025-11-28,55522240,COCHRAN,RAWS,SA41,hot,55.0,8,46.6,max temp much warmer than neighbors
+2025-11-28,ASOS-15M,Iuka,ASOS,SA23,cold,29.0,8,49.2,max temp much colder than neighbors
+2025-11-28,ASOS-JVW,Raymond,ASOS,SA22A,cold,37.4,8,56.9,max temp much colder than neighbors
+2025-11-28,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,53.0,8,44.6,max temp much warmer than neighbors
+2025-11-28,ASOS-MRF,Marfa,ASOS,SA08,cold,43.0,4,66.8,max temp much colder than neighbors
+2025-11-28,ASOS-T89,Castroville,ASOS,SA14,hot,77.0,8,67.0,max temp much warmer than neighbors
+2025-11-28,ASOS-TJSJ,San Juan,ASOS,SA52A,wet,1.57,4,0.08,far more rain than any neighbor
+2025-11-29,346303,KIAMICHI,RAWS,SA17A,cold,27.0,5,45.0,max temp much colder than neighbors
+2025-11-29,55522208,BAINBRIDGE,RAWS,SA42,hot,68.0,8,59.4,max temp much warmer than neighbors
+2025-11-29,55522240,COCHRAN,RAWS,SA41,hot,59.0,8,50.6,max temp much warmer than neighbors
+2025-11-29,ASOS-ADF,Arkadelphia,ASOS,SA18,missed,0.0,6,0.5,no rain while most neighbors got rain
+2025-11-29,ASOS-FTK,Fort Knox/Godman,ASOS,SA26,cold,31.6,8,43.8,max temp much colder than neighbors
+2025-11-29,ASOS-JVW,Raymond,ASOS,SA22A,cold,48.2,8,57.5,max temp much colder than neighbors
+2025-11-29,ASOS-MBO,Madison,ASOS,SA22A,cold,42.8,5,56.4,max temp much colder than neighbors
+2025-11-29,ASOS-MRF,Marfa,ASOS,SA08,cold,46.0,4,72.2,max temp much colder than neighbors
+2025-11-29,ASOS-MTH,Marathon,ASOS,SA50,rain_alone,0.53,3,0.02,rain no neighbor saw
+2025-11-30,227701,BOGUE CHITTO,RAWS,SA22A,cold,55.0,8,64.9,max temp much colder than neighbors
+2025-11-30,316102,GUION FARM,RAWS,SA31A,hot,50.0,8,39.0,max temp much warmer than neighbors
+2025-11-30,346303,KIAMICHI,RAWS,SA17A,cold,13.0,5,34.5,max temp much colder than neighbors
+2025-11-30,417202,WOLF DEN DMP,RAWS,SA08,hot,50.0,3,37.1,max temp much warmer than neighbors
+2025-11-30,55522208,BAINBRIDGE,RAWS,SA42,hot,76.0,8,67.8,max temp much warmer than neighbors
+2025-11-30,90402,COHUTTA,RAWS,SA40,hot,53.0,8,43.1,max temp much warmer than neighbors
+2025-11-30,ASOS-BIF,Fort Bliss,ASOS,SA08,hot,63.0,4,52.6,max temp much warmer than neighbors
+2025-11-30,ASOS-CBM,Columbus Afb,ASOS,SA22A,missed,0.0,6,0.52,no rain while most neighbors got rain
+2025-11-30,ASOS-JVW,Raymond,ASOS,SA22A,cold,42.8,8,57.5,max temp much colder than neighbors
+2025-11-30,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,48.0,8,68.0,max temp much colder than neighbors
+2025-11-30,ASOS-MRF,Marfa,ASOS,SA08,cold,37.0,4,47.7,max temp much colder than neighbors
+2025-12-01,157201,PEABODY,RAWS,SA27,bad_temp,-69.0,0,,impossible temperature
+2025-12-01,346303,KIAMICHI,RAWS,SA17A,cold,12.0,5,30.9,max temp much colder than neighbors
+2025-12-01,55522208,BAINBRIDGE,RAWS,SA42,hot,64.0,8,54.0,max temp much warmer than neighbors
+2025-12-01,55522240,COCHRAN,RAWS,SA41,hot,56.0,8,46.6,max temp much warmer than neighbors
+2025-12-01,ASOS-2M8,Millington,ASOS,SA24,missed,0.0,7,0.51,no rain while most neighbors got rain
+2025-12-01,ASOS-FBG,Fort_Bragg/Simmons,ASOS,SA33,hot,58.0,8,49.3,max temp much warmer than neighbors
+2025-12-01,ASOS-GSB,Seymour-Johnson_Afb,ASOS,SA33,hot,62.0,8,52.0,max temp much warmer than neighbors
+2025-12-01,ASOS-LUA,Luray,ASOS,SA28B,hot,50.0,8,41.6,max temp much warmer than neighbors
+2025-12-01,ASOS-NBG,New Orleans Nas,ASOS,SA21A,wet,2.89,5,0.6,far more rain than any neighbor
+2025-12-01,ASOS-NFE,Fentress,ASOS,SA30,hot,61.0,8,48.1,max temp much warmer than neighbors
+2025-12-01,ASOS-T89,Castroville,ASOS,SA14,hot,68.0,8,50.9,max temp much warmer than neighbors
+2025-12-02,157201,PEABODY,RAWS,SA27,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-12-02,159801,YELLOW CREEK,RAWS,SA27,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-12-02,313402,BUSICK,RAWS,SA31A,hot,55.0,8,42.4,max temp much warmer than neighbors
+2025-12-02,316102,GUION FARM,RAWS,SA31A,hot,50.0,8,41.7,max temp much warmer than neighbors
+2025-12-02,346303,KIAMICHI,RAWS,SA17A,cold,25.0,5,39.9,max temp much colder than neighbors
+2025-12-02,407502,TELLICO,RAWS,SA25B,hot,52.0,8,42.3,max temp much warmer than neighbors
+2025-12-02,55522240,COCHRAN,RAWS,SA41,hot,56.0,8,47.7,max temp much warmer than neighbors
+2025-12-02,90402,COHUTTA,RAWS,SA40,hot,52.0,8,42.2,max temp much warmer than neighbors
+2025-12-02,ASOS-DED,Deland,ASOS,SA49,cold,75.4,8,84.4,max temp much colder than neighbors
+2025-12-02,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,cold,36.0,8,55.5,max temp much colder than neighbors
+2025-12-02,ASOS-MRF,Marfa,ASOS,SA08,cold,35.0,4,65.7,max temp much colder than neighbors
+2025-12-02,ASOS-RWI,Rocky_Mount-Wilson_(Asos),ASOS,SA33,missed,0.0,8,1.44,no rain while most neighbors got rain
+2025-12-02,ASOS-RYW,Lago Vista,ASOS,SA11,cold,45.0,8,56.3,max temp much colder than neighbors
+2025-12-02,ASOS-T89,Castroville,ASOS,SA14,hot,68.0,8,57.0,max temp much warmer than neighbors
+2025-12-02,ASOS-TRL,Terrell,ASOS,SA07,cold,40.0,8,49.8,max temp much colder than neighbors
+2025-12-03,31102,COMPTON,RAWS,SA17B,hot,51.0,8,42.4,max temp much warmer than neighbors
+2025-12-03,346303,KIAMICHI,RAWS,SA17A,cold,28.0,5,43.2,max temp much colder than neighbors
+2025-12-03,55522240,COCHRAN,RAWS,SA41,hot,53.0,8,42.1,max temp much warmer than neighbors
+2025-12-03,ASOS-9A4,Courtland,ASOS,SA38,cold,32.0,8,42.1,max temp much colder than neighbors
+2025-12-03,ASOS-APY,Zapata,ASOS,SA16,hot,73.2,3,62.8,max temp much warmer than neighbors
+2025-12-03,ASOS-MBO,Madison,ASOS,SA22A,cold,32.0,5,51.5,max temp much colder than neighbors
+2025-12-03,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,64.0,8,48.5,max temp much warmer than neighbors
+2025-12-03,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,rain_alone,0.86,7,0.0,rain no neighbor saw
+2025-12-03,ASOS-MRC,Columbia,ASOS,SA25,cold,28.4,8,39.8,max temp much colder than neighbors
+2025-12-03,ASOS-MRF,Marfa,ASOS,SA08,cold,48.0,4,70.7,max temp much colder than neighbors
+2025-12-03,ASOS-SEM,Selma,ASOS,SA39,cold,37.4,5,49.2,max temp much colder than neighbors
+2025-12-03,ASOS-T89,Castroville,ASOS,SA14,hot,79.0,8,58.9,max temp much warmer than neighbors
+2025-12-04,315803,HIGHLANDS,RAWS,SA31A,hot,45.0,8,36.1,max temp much warmer than neighbors
+2025-12-04,346303,KIAMICHI,RAWS,SA17A,cold,17.0,5,36.2,max temp much colder than neighbors
+2025-12-04,55522240,COCHRAN,RAWS,SA41,hot,47.0,8,38.9,max temp much warmer than neighbors
+2025-12-04,55522309,LOCUST GAP,RAWS,SA31A,hot,44.0,8,35.6,max temp much warmer than neighbors
+2025-12-04,ASOS-DTS,Destin - Fort Walton Beach,ASOS,SA47,hot,65.0,8,54.6,max temp much warmer than neighbors
+2025-12-04,ASOS-MRF,Marfa,ASOS,SA08,cold,43.0,4,55.7,max temp much colder than neighbors
+2025-12-04,ASOS-RNV,Cleveland,ASOS,SA22A,cold,39.7,3,49.6,max temp much colder than neighbors
+2025-12-04,ASOS-T89,Castroville,ASOS,SA14,hot,70.0,8,57.4,max temp much warmer than neighbors
+2025-12-05,346303,KIAMICHI,RAWS,SA17A,cold,18.0,5,41.7,max temp much colder than neighbors
+2025-12-05,55522240,COCHRAN,RAWS,SA41,hot,51.0,8,41.8,max temp much warmer than neighbors
+2025-12-05,ASOS-BIX,Keesler Afb/Biloxi,ASOS,SA21B,hot,59.0,8,51.0,max temp much warmer than neighbors
+2025-12-05,ASOS-BQK,Brunswick/Glynco,ASOS,SA46,hot,70.0,7,56.1,max temp much warmer than neighbors
+2025-12-05,ASOS-DTS,Destin - Fort Walton Beach,ASOS,SA47,hot,70.0,8,56.5,max temp much warmer than neighbors
+2025-12-05,ASOS-HDC,Hammond Muni Airport,ASOS,SA21A,wet,1.08,8,0.26,far more rain than any neighbor
+2025-12-05,ASOS-HUM,Houma-Terrebonne,ASOS,SA21A,hot,60.0,6,51.5,max temp much warmer than neighbors
+2025-12-05,ASOS-MKY,Marco Island,ASOS,SA50,cold,68.0,8,85.5,max temp much colder than neighbors
+2025-12-05,ASOS-MRF,Marfa,ASOS,SA08,cold,35.0,4,60.7,max temp much colder than neighbors
+2025-12-05,ASOS-NBG,New Orleans Nas,ASOS,SA21A,hot,63.0,7,52.1,max temp much warmer than neighbors
+2025-12-06,346303,KIAMICHI,RAWS,SA17A,cold,28.0,5,49.1,max temp much colder than neighbors
+2025-12-06,419402,POSSUM KINGDOM,RAWS,SA06,cold,59.0,7,72.7,max temp much colder than neighbors
+2025-12-06,55522208,BAINBRIDGE,RAWS,SA42,hot,54.0,8,45.7,max temp much warmer than neighbors
+2025-12-06,55522240,COCHRAN,RAWS,SA41,hot,51.0,8,42.0,max temp much warmer than neighbors
+2025-12-06,ASOS-CHO,Charlottesville,ASOS,SA29,cold,34.0,8,45.3,max temp much colder than neighbors
+2025-12-06,ASOS-CTY,Cross City,ASOS,SA48,hot,68.0,6,58.6,max temp much warmer than neighbors
+2025-12-06,ASOS-F05,Vernon,ASOS,SA05,hot,64.4,5,51.9,max temp much warmer than neighbors
+2025-12-06,ASOS-JWG,Watonga,ASOS,SA02,hot,52.0,7,42.1,max temp much warmer than neighbors
+2025-12-06,ASOS-MKY,Marco Island,ASOS,SA50,cold,76.0,8,85.5,max temp much colder than neighbors
+2025-12-06,ASOS-MRF,Marfa,ASOS,SA08,cold,40.0,4,65.7,max temp much colder than neighbors
+2025-12-06,ASOS-RUE,Russellville Municipal Airport,ASOS,SA17B,cold,34.0,7,52.7,max temp much colder than neighbors
+2025-12-07,346303,KIAMICHI,RAWS,SA17A,cold,30.0,5,41.9,max temp much colder than neighbors
+2025-12-07,380201,TABLE ROCK,RAWS,SA31C,hot,50.0,8,41.3,max temp much warmer than neighbors
+2025-12-07,418603,LAGUNA ATASCOSA,RAWS,SA15,cold,78.0,4,86.6,max temp much colder than neighbors
+2025-12-07,55522240,COCHRAN,RAWS,SA41,hot,47.0,8,38.5,max temp much warmer than neighbors
+2025-12-07,83703,LAKE WOODRUFF,RAWS,SA49,missed,0.0,8,0.97,no rain while most neighbors got rain
+2025-12-07,ASOS-CPF,Wendell H Ford,ASOS,SA27,cold,30.2,8,53.2,max temp much colder than neighbors
+2025-12-07,ASOS-MCB,Mccomb/Lewis Field,ASOS,SA22A,cold,49.0,7,69.0,max temp much colder than neighbors
+2025-12-07,ASOS-MRF,Marfa,ASOS,SA08,cold,30.0,4,59.8,max temp much colder than neighbors
+2025-12-08,157201,PEABODY,RAWS,SA27,bad_temp,-66.0,0,,impossible temperature
+2025-12-08,346303,KIAMICHI,RAWS,SA17A,cold,28.0,5,38.1,max temp much colder than neighbors
+2025-12-08,441906,SAWMILL RIDGE,RAWS,SA28B,hot,38.0,8,29.5,max temp much warmer than neighbors
+2025-12-08,ASOS-HHW,Hugo,ASOS,SA17A,cold,42.8,7,52.3,max temp much colder than neighbors
+2025-12-08,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,cold,40.0,8,57.1,max temp much colder than neighbors
+2025-12-08,ASOS-K24,Jamestown,ASOS,SA27,cold,30.2,8,42.0,max temp much colder than neighbors
+2025-12-08,ASOS-LAL,Lakeland Regional,ASOS,SA49,wet,1.5,8,0.25,far more rain than any neighbor
+2025-12-08,ASOS-MKY,Marco Island,ASOS,SA50,missed,0.0,8,0.5,no rain while most neighbors got rain
+2025-12-08,ASOS-MRF,Marfa,ASOS,SA08,cold,29.0,4,64.8,max temp much colder than neighbors
+2025-12-08,ASOS-RYW,Lago Vista,ASOS,SA11,cold,48.0,8,60.5,max temp much colder than neighbors
+2025-12-09,346303,KIAMICHI,RAWS,SA17A,cold,33.0,5,54.3,max temp much colder than neighbors
+2025-12-09,55522240,COCHRAN,RAWS,SA41,hot,49.0,8,38.6,max temp much warmer than neighbors
+2025-12-09,ASOS-HQZ,Mesquite,ASOS,SA06,rain_alone,0.54,8,0.0,rain no neighbor saw
+2025-12-09,ASOS-HVS,Hartsville,ASOS,SA36,hot,60.8,8,42.4,max temp much warmer than neighbors
+2025-12-09,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,cold,37.0,8,68.0,max temp much colder than neighbors
+2025-12-09,ASOS-K24,Jamestown,ASOS,SA27,cold,33.8,8,47.2,max temp much colder than neighbors
+2025-12-09,ASOS-MRF,Marfa,ASOS,SA08,cold,35.0,4,69.2,max temp much colder than neighbors
+2025-12-09,ASOS-PBF,Pine Bluff/Grider,ASOS,SA18,hot,52.0,7,41.2,max temp much warmer than neighbors
+2025-12-09,ASOS-RFI,Henderson,ASOS,SA07,cold,41.7,8,59.7,max temp much colder than neighbors
+2025-12-10,346303,KIAMICHI,RAWS,SA17A,cold,36.0,5,53.4,max temp much colder than neighbors
+2025-12-10,446801,JAMES RIVER,RAWS,SA30,cold,40.0,8,48.1,max temp much colder than neighbors
+2025-12-10,55522208,BAINBRIDGE,RAWS,SA42,hot,66.0,8,57.6,max temp much warmer than neighbors
+2025-12-10,ASOS-CPF,Wendell H Ford,ASOS,SA27,cold,39.2,8,48.4,max temp much colder than neighbors
+2025-12-10,ASOS-HVS,Hartsville,ASOS,SA36,hot,71.6,8,56.5,max temp much warmer than neighbors
+2025-12-10,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,42.0,8,52.5,max temp much colder than neighbors
+2025-12-10,ASOS-MRF,Marfa,ASOS,SA08,cold,34.0,4,60.2,max temp much colder than neighbors
+2025-12-10,ASOS-PVE,Levington - Parson Beech River,ASOS,SA24,cold,42.8,8,58.8,max temp much colder than neighbors
+2025-12-11,11401,ONEONTA,RAWS,SA38,cold,39.0,8,51.5,max temp much colder than neighbors
+2025-12-11,346303,KIAMICHI,RAWS,SA17A,cold,38.0,5,57.9,max temp much colder than neighbors
+2025-12-11,55522208,BAINBRIDGE,RAWS,SA42,hot,62.0,8,53.4,max temp much warmer than neighbors
+2025-12-11,55522240,COCHRAN,RAWS,SA41,hot,57.0,8,47.9,max temp much warmer than neighbors
+2025-12-11,ASOS-MBO,Madison,ASOS,SA22A,cold,33.8,5,59.7,max temp much colder than neighbors
+2025-12-11,ASOS-MRF,Marfa,ASOS,SA08,cold,36.0,4,71.7,max temp much colder than neighbors
+2025-12-12,11401,ONEONTA,RAWS,SA38,cold,39.0,8,63.2,max temp much colder than neighbors
+2025-12-12,346303,KIAMICHI,RAWS,SA17A,cold,47.0,5,62.2,max temp much colder than neighbors
+2025-12-12,55522240,COCHRAN,RAWS,SA41,hot,66.0,8,57.6,max temp much warmer than neighbors
+2025-12-12,ASOS-MRF,Marfa,ASOS,SA08,cold,38.0,4,73.7,max temp much colder than neighbors
+2025-12-12,ASOS-NFJ,Choctaw,ASOS,SA47,cold,53.0,8,68.7,max temp much colder than neighbors
+2025-12-12,ASOS-SHP,Sheppard Afb,ASOS,SA05,cold,44.6,7,65.5,max temp much colder than neighbors
+2025-12-13,157201,PEABODY,RAWS,SA27,cold,-34.0,8,41.1,max temp much colder than neighbors
+2025-12-13,223301,DELTA RD,RAWS,SA22A,cold,61.0,5,72.0,max temp much colder than neighbors
+2025-12-13,346303,KIAMICHI,RAWS,SA17A,cold,35.0,5,45.3,max temp much colder than neighbors
+2025-12-13,55522208,BAINBRIDGE,RAWS,SA42,hot,78.0,8,67.5,max temp much warmer than neighbors
+2025-12-13,55522240,COCHRAN,RAWS,SA41,hot,73.0,8,63.6,max temp much warmer than neighbors
+2025-12-13,ASOS-0R4,Vidalia,ASOS,SA19,wet,1.04,3,0.23,far more rain than any neighbor
+2025-12-13,ASOS-1M5,Portland,ASOS,SA25,cold,32.0,8,51.8,max temp much colder than neighbors
+2025-12-13,ASOS-CHK,Chickasha Muni Airport,ASOS,SA03,cold,33.0,8,47.0,max temp much colder than neighbors
+2025-12-13,ASOS-FAF,Fort Eustis/Felker,ASOS,SA30,cold,48.2,8,56.3,max temp much colder than neighbors
+2025-12-13,ASOS-FIN,Bunnell,ASOS,SA49,cold,57.7,8,76.1,max temp much colder than neighbors
+2025-12-13,ASOS-MBO,Madison,ASOS,SA22A,cold,50.0,5,70.0,max temp much colder than neighbors
+2025-12-13,ASOS-MEB,Laurinburg-Maxton_Arpt_(Asos),ASOS,SA32,cold,35.0,8,61.8,max temp much colder than neighbors
+2025-12-13,ASOS-MKV,Marksville,ASOS,SA19,cold,64.0,7,79.5,max temp much colder than neighbors
+2025-12-13,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,cold,42.0,8,63.2,max temp much colder than neighbors
+2025-12-13,ASOS-MRF,Marfa,ASOS,SA08,cold,36.0,4,76.7,max temp much colder than neighbors
+2025-12-13,ASOS-RNV,Cleveland,ASOS,SA22A,cold,56.0,3,66.6,max temp much colder than neighbors
+2025-12-13,ASOS-TRL,Terrell,ASOS,SA07,hot,68.0,8,58.9,max temp much warmer than neighbors
+2025-12-14,11401,ONEONTA,RAWS,SA38,cold,45.0,8,57.9,max temp much colder than neighbors
+2025-12-14,225301,LAUDERDALE,RAWS,SA22A,bad_rain,44.5,0,,impossible rain total
+2025-12-14,346303,KIAMICHI,RAWS,SA17A,cold,13.0,5,30.6,max temp much colder than neighbors
+2025-12-14,55522240,COCHRAN,RAWS,SA41,hot,61.0,8,53.0,max temp much warmer than neighbors
+2025-12-14,ASOS-5C1,San Antonio,ASOS,SA14,cold,54.0,8,62.4,max temp much colder than neighbors
+2025-12-14,ASOS-CBM,Columbus Afb,ASOS,SA22A,hot,62.0,8,48.8,max temp much warmer than neighbors
+2025-12-14,ASOS-CNW,Waco,ASOS,SA11,cold,39.2,8,58.5,max temp much colder than neighbors
+2025-12-14,ASOS-DYS,Dyess Afb/Abilene,ASOS,SA05,hot,60.0,5,42.6,max temp much warmer than neighbors
+2025-12-14,ASOS-FTK,Fort Knox/Godman,ASOS,SA26,hot,32.0,8,18.3,max temp much warmer than neighbors
+2025-12-14,ASOS-HLX,Hillsville,ASOS,SA28B,hot,44.6,8,36.6,max temp much warmer than neighbors
+2025-12-14,ASOS-HOP,Fort Campbell (Aaf),ASOS,SA26,hot,38.0,8,22.7,max temp much warmer than neighbors
+2025-12-14,ASOS-MQY,Smyrna,ASOS,SA25,hot,43.0,8,31.2,max temp much warmer than neighbors
+2025-12-14,ASOS-NFJ,Choctaw,ASOS,SA47,cold,54.0,8,62.7,max temp much colder than neighbors
+2025-12-14,ASOS-NMT,Mcmullen,ASOS,SA14,cold,56.0,4,67.1,max temp much colder than neighbors
+2025-12-14,ASOS-NQA,Memphis Nas,ASOS,SA24,hot,41.0,8,28.4,max temp much warmer than neighbors
+2025-12-14,ASOS-RYW,Lago Vista,ASOS,SA11,cold,37.0,8,61.7,max temp much colder than neighbors
+2025-12-14,ASOS-X60,Williston,ASOS,SA48,cold,55.6,8,77.7,max temp much colder than neighbors
+2025-12-15,346303,KIAMICHI,RAWS,SA17A,cold,29.0,5,43.7,max temp much colder than neighbors
+2025-12-15,417404,ELEPHANT MTN WMA RAWS,RAWS,SA08,cold,59.0,3,67.0,max temp much colder than neighbors
+2025-12-15,55522208,BAINBRIDGE,RAWS,SA42,hot,50.0,8,42.0,max temp much warmer than neighbors
+2025-12-15,55522240,COCHRAN,RAWS,SA41,hot,45.0,8,36.5,max temp much warmer than neighbors
+2025-12-15,ASOS-1R7,Brookhaven,ASOS,SA22A,rain_alone,0.51,5,0.0,rain no neighbor saw
+2025-12-15,ASOS-42A,Melbourne,ASOS,SA17B,cold,14.0,7,46.6,max temp much colder than neighbors
+2025-12-15,ASOS-BKN,Blackwell,ASOS,SA03,cold,28.4,6,48.6,max temp much colder than neighbors
+2025-12-15,ASOS-HVS,Hartsville,ASOS,SA36,hot,59.0,8,37.7,max temp much warmer than neighbors
+2025-12-15,ASOS-ILE,Killeen Muni (Awos),ASOS,SA11,cold,34.0,8,54.0,max temp much colder than neighbors
+2025-12-15,ASOS-JAU,Jacksboro,ASOS,SA25,cold,14.0,8,35.5,max temp much colder than neighbors
+2025-12-15,ASOS-LBX,Angleton/Lake Jacks,ASOS,SA13,cold,46.0,8,55.4,max temp much colder than neighbors
+2025-12-15,ASOS-MBO,Madison,ASOS,SA22A,cold,33.8,5,46.1,max temp much colder than neighbors
+2025-12-15,ASOS-MNE,Minden,ASOS,SA19,rain_alone,0.85,5,0.0,rain no neighbor saw
+2025-12-15,ASOS-MQI,Manteo/Dare_Co_Rgnl,ASOS,SA34,hot,53.0,8,32.7,max temp much warmer than neighbors
+2025-12-15,ASOS-MRF,Marfa,ASOS,SA08,cold,43.0,4,65.7,max temp much colder than neighbors
+2025-12-15,ASOS-RFI,Henderson,ASOS,SA07,hot,60.3,8,51.9,max temp much warmer than neighbors
+2025-12-15,ASOS-RNV,Cleveland,ASOS,SA22A,rain_alone,0.56,3,0.0,rain no neighbor saw
 2026-11-08,159801,YELLOW CREEK,RAWS,SA27,cold,55.0,8,63.7,max temp much colder than neighbors
 2026-11-08,417905,SOUTH AUSTIN RAWS,RAWS,SA11,missed,0.0,8,0.66,no rain while most neighbors got rain
 2026-11-08,55522208,BAINBRIDGE,RAWS,SA42,hot,78.0,8,68.3,max temp much warmer than neighbors
@@ -12752,3 +14393,12 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-18,ASOS-MRF,Marfa,ASOS,SA08,cold,50.0,4,72.3,max temp much colder than neighbors
 2026-11-18,ASOS-TMB,Miami/Kendall-Tamia,ASOS,SA50,missed,0.0,8,1.64,no rain while most neighbors got rain
 2026-11-18,ASOS-X59,Valkaria,ASOS,SA49,missed,0.0,8,2.02,no rain while most neighbors got rain
+2026-11-19,159801,YELLOW CREEK,RAWS,SA27,cold,55.0,8,69.1,max temp much colder than neighbors
+2026-11-19,55522240,COCHRAN,RAWS,SA41,hot,70.0,8,60.8,max temp much warmer than neighbors
+2026-11-19,80202,NAVAL LIVE OAKS,RAWS,SA47,cold,53.0,8,67.7,max temp much colder than neighbors
+2026-11-19,ASOS-BKD,Breckenridge,ASOS,SA05,cold,60.3,6,69.4,max temp much colder than neighbors
+2026-11-19,ASOS-GLS,Galveston/Scholes,ASOS,SA13,cold,62.6,8,76.0,max temp much colder than neighbors
+2026-11-19,ASOS-HHW,Hugo,ASOS,SA17A,cold,64.4,7,73.8,max temp much colder than neighbors
+2026-11-19,ASOS-ISM,Kissimmee Muni Airport/Orlando,ASOS,SA49,missed,0.0,8,1.68,no rain while most neighbors got rain
+2026-11-19,ASOS-PEQ,Pecos,ASOS,SA09,cold,55.0,3,67.7,max temp much colder than neighbors
+2026-11-19,ASOS-RYW,Lago Vista,ASOS,SA11,cold,61.0,8,70.9,max temp much colder than neighbors
