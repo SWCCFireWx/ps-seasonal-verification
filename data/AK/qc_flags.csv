@@ -4421,6 +4421,567 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-12-15,500970,EAGLE RIVER,RAWS,AK13,cold,3.0,8,23.7,max temp much colder than neighbors
 2025-12-15,500971,WILLOW,RAWS,AK11,cold,-7.0,8,24.6,max temp much colder than neighbors
 2025-12-15,ASOS-PAHL,Huslia,ASOS,AK05,cold,-10.0,3,1.7,max temp much colder than neighbors
+2025-12-16,500746,GOLD KING,RAWS,AK01W,hot,-12.0,8,-27.5,max temp much warmer than neighbors
+2025-12-16,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-32.0,4,-44.2,max temp much warmer than neighbors
+2025-12-16,500755,OKLAHOMA,RAWS,AK01W,hot,-8.0,8,-26.1,max temp much warmer than neighbors
+2025-12-16,500756,STUART CREEK,RAWS,AK01W,hot,-14.0,8,-27.7,max temp much warmer than neighbors
+2025-12-16,500760,BRIGADIER,RAWS,AK01W,hot,-12.0,8,-28.7,max temp much warmer than neighbors
+2025-12-16,500761,LYNX,RAWS,AK01W,hot,-21.0,8,-29.8,max temp much warmer than neighbors
+2025-12-16,500964,GRANITE,RAWS,AK14,cold,-5.0,8,15.1,max temp much colder than neighbors
+2025-12-16,500971,WILLOW,RAWS,AK11,cold,-3.0,8,20.8,max temp much colder than neighbors
+2025-12-17,500322,KAIYUH,RAWS,AK05,cold,-16.0,3,1.1,max temp much colder than neighbors
+2025-12-17,500751,BOLIO,RAWS,AK01W,hot,-16.0,6,-25.4,max temp much warmer than neighbors
+2025-12-17,500755,OKLAHOMA,RAWS,AK01W,hot,-11.0,8,-27.4,max temp much warmer than neighbors
+2025-12-17,500756,STUART CREEK,RAWS,AK01W,hot,-17.0,8,-26.9,max temp much warmer than neighbors
+2025-12-17,500760,BRIGADIER,RAWS,AK01W,hot,-17.0,8,-29.1,max temp much warmer than neighbors
+2025-12-17,500761,LYNX,RAWS,AK01W,hot,-14.0,8,-29.0,max temp much warmer than neighbors
+2025-12-17,500908,KENAI LAKE,RAWS,AK14,cold,6.0,7,15.4,max temp much colder than neighbors
+2025-12-17,500964,GRANITE,RAWS,AK14,cold,-13.0,8,15.1,max temp much colder than neighbors
+2025-12-17,500970,EAGLE RIVER,RAWS,AK13,cold,-2.0,8,17.7,max temp much colder than neighbors
+2025-12-17,500972,CAMPBELL CREEK,RAWS,AK13,cold,-3.0,8,18.7,max temp much colder than neighbors
+2025-12-17,ASOS-PAFR,Ft. Richardson,ASOS,AK13,cold,8.6,8,17.9,max temp much colder than neighbors
+2025-12-17,ASOS-PAGS,Gustavus,ASOS,AK15,cold,9.0,6,23.7,max temp much colder than neighbors
+2025-12-17,ASOS-PALG,Kalskag,ASOS,AK08,cold,-5.0,3,5.0,max temp much colder than neighbors
+2025-12-17,ASOS-PAWN,Noatak,ASOS,AK04,cold,-9.0,3,2.7,max temp much colder than neighbors
+2025-12-18,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-22.0,4,-44.1,max temp much warmer than neighbors
+2025-12-18,500751,BOLIO,RAWS,AK01W,hot,-17.0,6,-25.3,max temp much warmer than neighbors
+2025-12-18,500964,GRANITE,RAWS,AK14,cold,-14.0,8,13.9,max temp much colder than neighbors
+2025-12-18,500970,EAGLE RIVER,RAWS,AK13,cold,-3.0,8,15.7,max temp much colder than neighbors
+2025-12-18,500971,WILLOW,RAWS,AK11,cold,-4.0,8,16.7,max temp much colder than neighbors
+2025-12-18,500972,CAMPBELL CREEK,RAWS,AK13,cold,-6.0,8,16.8,max temp much colder than neighbors
+2025-12-18,ASOS-PADM,Marshall,ASOS,AK07,cold,17.0,3,26.3,max temp much colder than neighbors
+2025-12-18,ASOS-PAFR,Ft. Richardson,ASOS,AK13,cold,3.0,8,15.9,max temp much colder than neighbors
+2025-12-18,ASOS-PAWD,Seward (Asos),ASOS,AK14,hot,25.0,7,12.4,max temp much warmer than neighbors
+2025-12-19,500755,OKLAHOMA,RAWS,AK01W,hot,-5.0,8,-21.7,max temp much warmer than neighbors
+2025-12-19,500756,STUART CREEK,RAWS,AK01W,hot,-12.0,8,-21.6,max temp much warmer than neighbors
+2025-12-19,500760,BRIGADIER,RAWS,AK01W,hot,-10.0,8,-23.7,max temp much warmer than neighbors
+2025-12-19,500942,RABBIT CREEK,RAWS,AK13,hot,12.0,8,-0.6,max temp much warmer than neighbors
+2025-12-19,500964,GRANITE,RAWS,AK14,cold,-16.0,8,7.1,max temp much colder than neighbors
+2025-12-19,500966,BENTALIT,RAWS,AK11,cold,-7.0,4,4.0,max temp much colder than neighbors
+2025-12-19,500971,WILLOW,RAWS,AK11,cold,-15.0,8,1.8,max temp much colder than neighbors
+2025-12-19,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,13.0,8,-2.4,max temp much warmer than neighbors
+2025-12-19,ASOS-PAOR,Northway (Asos),ASOS,AK01E,hot,-29.0,3,-42.3,max temp much warmer than neighbors
+2025-12-20,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-12.0,4,-23.8,max temp much warmer than neighbors
+2025-12-20,500760,BRIGADIER,RAWS,AK01W,hot,-11.0,8,-23.5,max temp much warmer than neighbors
+2025-12-20,500964,GRANITE,RAWS,AK14,cold,-14.0,8,11.1,max temp much colder than neighbors
+2025-12-20,500970,EAGLE RIVER,RAWS,AK13,cold,-2.0,8,15.7,max temp much colder than neighbors
+2025-12-20,ASOS-PAWD,Seward (Asos),ASOS,AK14,hot,23.0,7,10.1,max temp much warmer than neighbors
+2025-12-20,ASOS-PAWN,Noatak,ASOS,AK04,cold,-8.0,3,6.2,max temp much colder than neighbors
+2025-12-21,500414,BEN CREEK,RAWS,AK02,bad_rain,13.0,0,,impossible rain total
+2025-12-21,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-18.0,4,-40.8,max temp much warmer than neighbors
+2025-12-21,500751,BOLIO,RAWS,AK01W,cold,-29.0,6,-19.0,max temp much colder than neighbors
+2025-12-21,500755,OKLAHOMA,RAWS,AK01W,hot,-10.0,8,-20.2,max temp much warmer than neighbors
+2025-12-21,500964,GRANITE,RAWS,AK14,cold,-19.0,8,7.6,max temp much colder than neighbors
+2025-12-21,500970,EAGLE RIVER,RAWS,AK13,cold,-7.0,8,12.2,max temp much colder than neighbors
+2025-12-21,500971,WILLOW,RAWS,AK11,cold,-13.0,8,13.7,max temp much colder than neighbors
+2025-12-22,500715,WEIN LAKE,RAWS,AK03S,hot,-19.0,3,-27.3,max temp much warmer than neighbors
+2025-12-22,500751,BOLIO,RAWS,AK01W,cold,-31.0,6,-19.6,max temp much colder than neighbors
+2025-12-22,500964,GRANITE,RAWS,AK14,cold,-15.0,8,1.6,max temp much colder than neighbors
+2025-12-22,500971,WILLOW,RAWS,AK11,cold,-16.0,8,-0.8,max temp much colder than neighbors
+2025-12-22,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-47.0,3,-33.3,max temp much colder than neighbors
+2025-12-23,500746,GOLD KING,RAWS,AK01W,hot,10.0,8,-17.3,max temp much warmer than neighbors
+2025-12-23,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-39.0,4,-47.6,max temp much warmer than neighbors
+2025-12-23,500755,OKLAHOMA,RAWS,AK01W,hot,-4.0,7,-20.3,max temp much warmer than neighbors
+2025-12-23,500756,STUART CREEK,RAWS,AK01W,hot,-1.0,8,-16.9,max temp much warmer than neighbors
+2025-12-23,500760,BRIGADIER,RAWS,AK01W,hot,-4.0,8,-19.0,max temp much warmer than neighbors
+2025-12-23,500949,CHISTOCHINA,RAWS,AK12,cold,-31.0,3,-18.7,max temp much colder than neighbors
+2025-12-23,500964,GRANITE,RAWS,AK14,cold,-15.0,8,3.6,max temp much colder than neighbors
+2025-12-23,500971,WILLOW,RAWS,AK11,cold,-12.0,8,-2.5,max temp much colder than neighbors
+2025-12-23,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,12.0,8,-5.1,max temp much warmer than neighbors
+2025-12-23,ASOS-PADG,Red Dog,ASOS,AK04,cold,5.0,3,18.0,max temp much colder than neighbors
+2025-12-23,ASOS-PARY,Ruby,ASOS,AK03S,cold,-20.0,3,-10.3,max temp much colder than neighbors
+2025-12-23,ASOS-PAWD,Seward (Asos),ASOS,AK14,hot,22.0,7,6.4,max temp much warmer than neighbors
+2025-12-23,ASOS-PFNO,Noorvik,ASOS,AK04,hot,13.0,4,4.6,max temp much warmer than neighbors
+2025-12-24,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-12.0,4,-22.8,max temp much warmer than neighbors
+2025-12-24,500751,BOLIO,RAWS,AK01W,hot,4.0,6,-9.6,max temp much warmer than neighbors
+2025-12-24,500942,RABBIT CREEK,RAWS,AK13,hot,19.0,8,3.6,max temp much warmer than neighbors
+2025-12-24,500966,BENTALIT,RAWS,AK11,hot,16.0,4,0.0,max temp much warmer than neighbors
+2025-12-24,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,10.0,8,1.5,max temp much warmer than neighbors
+2025-12-24,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,31.0,3,21.6,max temp much warmer than neighbors
+2025-12-25,500322,KAIYUH,RAWS,AK05,cold,-21.0,3,2.0,max temp much colder than neighbors
+2025-12-25,500723,CATHEDRAL,RAWS,AK01E,hot,1.0,4,-19.6,max temp much warmer than neighbors
+2025-12-25,500942,RABBIT CREEK,RAWS,AK13,hot,15.0,8,3.5,max temp much warmer than neighbors
+2025-12-26,ASOS-PAWN,Noatak,ASOS,AK04,cold,-22.0,3,-10.3,max temp much colder than neighbors
+2025-12-27,ASOS-PAJN,Juneau Intl Airport (Asos),ASOS,AK16,rain_alone,0.54,3,0.05,rain no neighbor saw
+2025-12-27,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,29.0,8,15.9,max temp much warmer than neighbors
+2025-12-27,ASOS-PAWN,Noatak,ASOS,AK04,cold,-26.0,3,-12.3,max temp much colder than neighbors
+2025-12-28,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-21.0,4,-12.5,max temp much colder than neighbors
+2025-12-28,500756,STUART CREEK,RAWS,AK01W,hot,-17.0,8,-41.2,max temp much warmer than neighbors
+2025-12-28,500760,BRIGADIER,RAWS,AK01W,hot,-20.0,8,-43.4,max temp much warmer than neighbors
+2025-12-28,500967,SKILAK GUARD STATION,RAWS,AK14,cold,6.0,8,15.3,max temp much colder than neighbors
+2025-12-28,500970,EAGLE RIVER,RAWS,AK13,cold,-2.0,8,11.6,max temp much colder than neighbors
+2025-12-28,500971,WILLOW,RAWS,AK11,cold,5.0,8,13.9,max temp much colder than neighbors
+2025-12-28,500972,CAMPBELL CREEK,RAWS,AK13,cold,-8.0,8,12.7,max temp much colder than neighbors
+2025-12-28,ASOS-PAFR,Ft. Richardson,ASOS,AK13,cold,1.2,8,11.8,max temp much colder than neighbors
+2025-12-28,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,-16.0,3,-3.6,max temp much colder than neighbors
+2025-12-29,ASOS-PABI,Ft.Greely/Allen Aaf (Asos),ASOS,AK01W,cold,-20.0,6,-9.4,max temp much colder than neighbors
+2025-12-29,ASOS-PAEI,Eielson Afb,ASOS,AK01W,cold,-45.0,8,-10.8,max temp much colder than neighbors
+2025-12-29,ASOS-PAFB,Wainwright Aaf,ASOS,AK01W,cold,-38.2,8,-10.5,max temp much colder than neighbors
+2025-12-29,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,rain_alone,0.94,8,0.0,rain no neighbor saw
+2025-12-30,500966,BENTALIT,RAWS,AK11,hot,23.0,4,13.5,max temp much warmer than neighbors
+2025-12-30,ASOS-PAFB,Wainwright Aaf,ASOS,AK01W,cold,-36.2,8,-10.5,max temp much colder than neighbors
+2025-12-30,ASOS-PANU,Nulato,ASOS,AK05,hot,-7.0,3,-22.0,max temp much warmer than neighbors
+2025-12-31,500715,WEIN LAKE,RAWS,AK03S,hot,-19.0,3,-32.3,max temp much warmer than neighbors
+2025-12-31,500971,WILLOW,RAWS,AK11,cold,2.0,8,14.7,max temp much colder than neighbors
+2025-12-31,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,1.0,6,10.1,max temp much colder than neighbors
+2025-12-31,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,4.0,3,-8.9,max temp much warmer than neighbors
+2025-12-31,ASOS-PANU,Nulato,ASOS,AK05,hot,-18.0,3,-30.7,max temp much warmer than neighbors
+2026-01-01,500715,WEIN LAKE,RAWS,AK03S,hot,-22.0,3,-34.3,max temp much warmer than neighbors
+2026-01-01,500971,WILLOW,RAWS,AK11,cold,-13.0,8,5.9,max temp much colder than neighbors
+2026-01-01,ASOS-PARS,Russian Mission,ASOS,AK07,cold,0.0,3,8.8,max temp much colder than neighbors
+2026-01-02,500715,WEIN LAKE,RAWS,AK03S,hot,-21.0,3,-34.3,max temp much warmer than neighbors
+2026-01-02,500746,GOLD KING,RAWS,AK01W,hot,-15.0,8,-38.9,max temp much warmer than neighbors
+2026-01-02,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-34.0,4,-46.6,max temp much warmer than neighbors
+2026-01-02,500760,BRIGADIER,RAWS,AK01W,hot,-7.0,8,-40.5,max temp much warmer than neighbors
+2026-01-02,500942,RABBIT CREEK,RAWS,AK13,hot,7.0,8,-5.3,max temp much warmer than neighbors
+2026-01-02,500949,CHISTOCHINA,RAWS,AK12,cold,-35.0,3,-15.7,max temp much colder than neighbors
+2026-01-02,500971,WILLOW,RAWS,AK11,cold,-17.0,8,-2.3,max temp much colder than neighbors
+2026-01-02,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,10.0,8,-6.5,max temp much warmer than neighbors
+2026-01-02,ASOS-PAGA,Galena Airport,ASOS,AK05,cold,-33.0,3,-23.2,max temp much colder than neighbors
+2026-01-02,ASOS-PANU,Nulato,ASOS,AK05,hot,-24.0,3,-33.7,max temp much warmer than neighbors
+2026-01-03,500216,TAG MTN,RAWS,AK05,hot,-5.0,3,-27.0,max temp much warmer than neighbors
+2026-01-03,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-41.0,4,-21.3,max temp much colder than neighbors
+2026-01-03,500746,GOLD KING,RAWS,AK01W,hot,-15.0,8,-42.0,max temp much warmer than neighbors
+2026-01-03,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-39.0,4,-51.1,max temp much warmer than neighbors
+2026-01-03,500942,RABBIT CREEK,RAWS,AK13,hot,6.0,8,-7.1,max temp much warmer than neighbors
+2026-01-03,500949,CHISTOCHINA,RAWS,AK12,cold,-37.0,3,-20.7,max temp much colder than neighbors
+2026-01-03,500970,EAGLE RIVER,RAWS,AK13,cold,-13.0,8,-3.1,max temp much colder than neighbors
+2026-01-03,ASOS-PAGA,Galena Airport,ASOS,AK05,cold,-38.0,3,-21.2,max temp much colder than neighbors
+2026-01-03,ASOS-PAKU,Kuparuk Airport,ASOS,AK00,hot,-22.0,3,-38.3,max temp much warmer than neighbors
+2026-01-03,ASOS-PALG,Kalskag,ASOS,AK08,hot,-4.0,3,-16.9,max temp much warmer than neighbors
+2026-01-03,ASOS-PANU,Nulato,ASOS,AK05,hot,-22.0,3,-37.0,max temp much warmer than neighbors
+2026-01-03,ASOS-PASX,Soldotna,ASOS,AK14,cold,-10.0,8,0.0,max temp much colder than neighbors
+2026-01-03,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,cold,-22.0,8,-1.8,max temp much colder than neighbors
+2026-01-03,ASOS-PAWD,Seward (Asos),ASOS,AK14,hot,12.0,6,-1.1,max temp much warmer than neighbors
+2026-01-03,ASOS-PAWN,Noatak,ASOS,AK04,cold,-30.0,3,-11.3,max temp much colder than neighbors
+2026-01-03,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,-15.0,3,-0.0,max temp much colder than neighbors
+2026-01-04,500216,TAG MTN,RAWS,AK05,hot,-12.0,3,-22.0,max temp much warmer than neighbors
+2026-01-04,500750,TOK AKTAS,RAWS,AK01E,cold,-54.0,3,-45.7,max temp much colder than neighbors
+2026-01-04,500942,RABBIT CREEK,RAWS,AK13,hot,9.0,8,-5.3,max temp much warmer than neighbors
+2026-01-04,500949,CHISTOCHINA,RAWS,AK12,cold,-33.0,3,-21.3,max temp much colder than neighbors
+2026-01-04,500971,WILLOW,RAWS,AK11,cold,-12.0,8,-2.6,max temp much colder than neighbors
+2026-01-04,ASOS-PAGA,Galena Airport,ASOS,AK05,cold,-44.0,3,-19.2,max temp much colder than neighbors
+2026-01-04,ASOS-PAWS,Wasilla New Arpt,ASOS,AK13,hot,4.0,8,-4.0,max temp much warmer than neighbors
+2026-01-05,500216,TAG MTN,RAWS,AK05,hot,-13.0,3,-22.0,max temp much warmer than neighbors
+2026-01-05,501044,HAIDA,RAWS,AK17,missed,0.0,4,0.98,no rain while most neighbors got rain
+2026-01-05,ASOS-PAEI,Eielson Afb,ASOS,AK01W,cold,-18.0,8,-9.7,max temp much colder than neighbors
+2026-01-05,ASOS-PAGA,Galena Airport,ASOS,AK05,cold,-23.0,3,-12.2,max temp much colder than neighbors
+2026-01-05,ASOS-PAKU,Kuparuk Airport,ASOS,AK00,hot,-22.0,3,-34.7,max temp much warmer than neighbors
+2026-01-06,500734,SELAWIK,RAWS,AK04,cold,-21.0,5,-9.8,max temp much colder than neighbors
+2026-01-06,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,31.0,8,18.6,max temp much warmer than neighbors
+2026-01-07,500322,KAIYUH,RAWS,AK05,cold,-18.0,3,-9.9,max temp much colder than neighbors
+2026-01-07,500734,SELAWIK,RAWS,AK04,cold,-21.0,5,-9.4,max temp much colder than neighbors
+2026-01-07,500964,GRANITE,RAWS,AK14,hot,10.0,8,0.7,max temp much warmer than neighbors
+2026-01-07,ASOS-PAED,Elmendorf Afb,ASOS,AK13,hot,15.0,8,1.6,max temp much warmer than neighbors
+2026-01-07,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,-8.0,3,-17.9,max temp much warmer than neighbors
+2026-01-07,ASOS-PANU,Nulato,ASOS,AK05,hot,-10.0,3,-19.0,max temp much warmer than neighbors
+2026-01-07,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,-26.0,3,-11.0,max temp much colder than neighbors
+2026-01-08,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-42.0,4,-26.8,max temp much colder than neighbors
+2026-01-08,500971,WILLOW,RAWS,AK11,cold,-23.0,8,-10.8,max temp much colder than neighbors
+2026-01-08,501042,SHELTER COVE,RAWS,AK17,missed,0.0,3,0.53,no rain while most neighbors got rain
+2026-01-08,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,-14.0,3,-22.4,max temp much warmer than neighbors
+2026-01-08,ASOS-PANU,Nulato,ASOS,AK05,hot,-14.0,3,-30.7,max temp much warmer than neighbors
+2026-01-09,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-22.0,4,-11.5,max temp much colder than neighbors
+2026-01-09,500734,SELAWIK,RAWS,AK04,cold,-26.0,5,-0.8,max temp much colder than neighbors
+2026-01-09,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,-12.0,4,-23.3,max temp much warmer than neighbors
+2026-01-09,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,20.0,8,4.3,max temp much warmer than neighbors
+2026-01-09,ASOS-PAOH,Hoonah Seaplane,ASOS,AK16,cold,32.0,5,43.1,max temp much colder than neighbors
+2026-01-10,500322,KAIYUH,RAWS,AK05,cold,-16.0,3,-2.0,max temp much colder than neighbors
+2026-01-10,500949,CHISTOCHINA,RAWS,AK12,cold,6.0,3,30.5,max temp much colder than neighbors
+2026-01-10,500964,GRANITE,RAWS,AK14,hot,36.0,8,21.6,max temp much warmer than neighbors
+2026-01-10,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,40.0,8,23.1,max temp much warmer than neighbors
+2026-01-10,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,1.46,8,0.19,far more rain than any neighbor
+2026-01-11,500322,KAIYUH,RAWS,AK05,cold,-16.0,3,-6.0,max temp much colder than neighbors
+2026-01-11,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,-5.0,3,-15.4,max temp much warmer than neighbors
+2026-01-12,500322,KAIYUH,RAWS,AK05,cold,-33.0,3,-18.9,max temp much colder than neighbors
+2026-01-12,500715,WEIN LAKE,RAWS,AK03S,hot,-21.0,3,-34.3,max temp much warmer than neighbors
+2026-01-12,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-24.0,3,-10.9,max temp much colder than neighbors
+2026-01-12,ASOS-PANU,Nulato,ASOS,AK05,hot,-10.0,3,-21.7,max temp much warmer than neighbors
+2026-01-13,500216,TAG MTN,RAWS,AK05,hot,-25.0,3,-34.0,max temp much warmer than neighbors
+2026-01-13,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-34.0,4,-24.8,max temp much colder than neighbors
+2026-01-13,500742,ANGEL CREEK,RAWS,AK01W,hot,-10.0,5,-25.3,max temp much warmer than neighbors
+2026-01-13,500756,STUART CREEK,RAWS,AK01W,hot,-15.0,8,-26.9,max temp much warmer than neighbors
+2026-01-13,500760,BRIGADIER,RAWS,AK01W,hot,-16.0,8,-29.1,max temp much warmer than neighbors
+2026-01-13,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,21.0,8,6.5,max temp much warmer than neighbors
+2026-01-13,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-46.0,3,-23.5,max temp much colder than neighbors
+2026-01-13,ASOS-PANU,Nulato,ASOS,AK05,hot,-18.0,3,-35.8,max temp much warmer than neighbors
+2026-01-14,500742,ANGEL CREEK,RAWS,AK01W,hot,-8.0,5,-19.6,max temp much warmer than neighbors
+2026-01-14,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,25.0,4,-9.8,max temp much warmer than neighbors
+2026-01-14,500965,HOMER,RAWS,AK14,hot,31.0,4,20.9,max temp much warmer than neighbors
+2026-01-14,ASOS-PAGA,Galena Airport,ASOS,AK05,cold,-38.0,3,-28.2,max temp much colder than neighbors
+2026-01-14,ASOS-PAHY,Hydaburg Seaplane Base,ASOS,AK17,hot,75.0,5,48.2,max temp much warmer than neighbors
+2026-01-14,ASOS-PANU,Nulato,ASOS,AK05,hot,-27.0,3,-38.8,max temp much warmer than neighbors
+2026-01-15,500206,KIANA,RAWS,AK04,cold,-14.0,4,-1.8,max temp much colder than neighbors
+2026-01-15,500216,TAG MTN,RAWS,AK05,hot,4.0,3,-5.6,max temp much warmer than neighbors
+2026-01-15,500742,ANGEL CREEK,RAWS,AK01W,cold,6.0,7,32.0,max temp much colder than neighbors
+2026-01-15,500748,GEORGE CREEK RAWS,RAWS,AK01W,cold,20.0,5,29.0,max temp much colder than neighbors
+2026-01-15,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,16.0,4,6.2,max temp much warmer than neighbors
+2026-01-15,500751,BOLIO,RAWS,AK01W,hot,36.0,5,27.6,max temp much warmer than neighbors
+2026-01-15,500756,STUART CREEK,RAWS,AK01W,hot,32.0,8,4.7,max temp much warmer than neighbors
+2026-01-15,500760,BRIGADIER,RAWS,AK01W,hot,29.0,8,2.6,max temp much warmer than neighbors
+2026-01-15,500761,LYNX,RAWS,AK01W,hot,32.0,8,2.6,max temp much warmer than neighbors
+2026-01-15,500942,RABBIT CREEK,RAWS,AK13,hot,40.0,8,27.7,max temp much warmer than neighbors
+2026-01-15,500949,CHISTOCHINA,RAWS,AK12,cold,24.0,3,34.5,max temp much colder than neighbors
+2026-01-15,ASOS-PAAQ,Palmer Municipal (Asos),ASOS,AK13,hot,44.0,8,32.8,max temp much warmer than neighbors
+2026-01-15,ASOS-PACM,Scammon Bay,ASOS,AK08,cold,-9.4,3,6.2,max temp much colder than neighbors
+2026-01-15,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,0.0,3,8.7,max temp much colder than neighbors
+2026-01-16,500742,ANGEL CREEK,RAWS,AK01W,cold,22.0,7,40.0,max temp much colder than neighbors
+2026-01-16,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,38.0,4,25.7,max temp much warmer than neighbors
+2026-01-16,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,22.0,4,33.5,max temp much colder than neighbors
+2026-01-16,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,rain_alone,0.91,4,0.04,rain no neighbor saw
+2026-01-16,ASOS-PAWS,Wasilla New Arpt,ASOS,AK13,missed,0.0,8,0.69,no rain while most neighbors got rain
+2026-01-17,500742,ANGEL CREEK,RAWS,AK01W,cold,17.0,7,32.7,max temp much colder than neighbors
+2026-01-17,500942,RABBIT CREEK,RAWS,AK13,hot,42.0,8,22.5,max temp much warmer than neighbors
+2026-01-17,500965,HOMER,RAWS,AK14,hot,37.0,4,27.4,max temp much warmer than neighbors
+2026-01-17,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,35.0,8,24.5,max temp much warmer than neighbors
+2026-01-18,500942,RABBIT CREEK,RAWS,AK13,hot,46.0,8,26.8,max temp much warmer than neighbors
+2026-01-18,500949,CHISTOCHINA,RAWS,AK12,cold,15.0,3,25.7,max temp much colder than neighbors
+2026-01-18,500965,HOMER,RAWS,AK14,hot,44.0,4,31.4,max temp much warmer than neighbors
+2026-01-18,501042,SHELTER COVE,RAWS,AK17,hot,48.0,3,36.6,max temp much warmer than neighbors
+2026-01-18,ASOS-PAKW,Klawock (Asos),ASOS,AK17,hot,47.0,3,37.6,max temp much warmer than neighbors
+2026-01-18,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,7.0,3,18.9,max temp much colder than neighbors
+2026-01-19,500725,EAGLE,RAWS,AK02,bad_rain,12.42,0,,impossible rain total
+2026-01-19,500942,RABBIT CREEK,RAWS,AK13,hot,44.0,8,21.3,max temp much warmer than neighbors
+2026-01-19,500965,HOMER,RAWS,AK14,hot,38.0,4,25.8,max temp much warmer than neighbors
+2026-01-19,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,41.0,8,22.5,max temp much warmer than neighbors
+2026-01-19,501042,SHELTER COVE,RAWS,AK17,hot,41.0,3,32.0,max temp much warmer than neighbors
+2026-01-19,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,43.0,8,26.2,max temp much warmer than neighbors
+2026-01-20,500216,TAG MTN,RAWS,AK05,hot,26.0,3,11.3,max temp much warmer than neighbors
+2026-01-20,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,10.0,4,-0.3,max temp much warmer than neighbors
+2026-01-20,500942,RABBIT CREEK,RAWS,AK13,hot,33.0,8,19.0,max temp much warmer than neighbors
+2026-01-20,500949,CHISTOCHINA,RAWS,AK12,cold,13.0,3,21.3,max temp much colder than neighbors
+2026-01-20,500965,HOMER,RAWS,AK14,hot,37.0,4,27.3,max temp much warmer than neighbors
+2026-01-20,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,33.0,8,22.3,max temp much warmer than neighbors
+2026-01-20,501013,HOONAH,RAWS,AK16,hot,42.0,4,30.5,max temp much warmer than neighbors
+2026-01-20,ASOS-PAHL,Huslia,ASOS,AK05,cold,16.0,3,28.7,max temp much colder than neighbors
+2026-01-20,ASOS-PASK,Selawik,ASOS,AK04,cold,16.0,5,24.5,max temp much colder than neighbors
+2026-01-20,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,23.0,3,31.4,max temp much colder than neighbors
+2026-01-21,500216,TAG MTN,RAWS,AK05,hot,26.0,3,13.3,max temp much warmer than neighbors
+2026-01-21,500715,WEIN LAKE,RAWS,AK03S,hot,18.0,3,7.6,max temp much warmer than neighbors
+2026-01-21,500755,OKLAHOMA,RAWS,AK01W,hot,31.0,8,12.0,max temp much warmer than neighbors
+2026-01-21,500942,RABBIT CREEK,RAWS,AK13,hot,38.0,8,20.3,max temp much warmer than neighbors
+2026-01-21,500965,HOMER,RAWS,AK14,hot,44.0,4,26.8,max temp much warmer than neighbors
+2026-01-21,500971,WILLOW,RAWS,AK11,cold,14.0,8,24.5,max temp much colder than neighbors
+2026-01-21,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,37.0,8,21.9,max temp much warmer than neighbors
+2026-01-22,500740,CARIBOU PEAK,RAWS,AK01W,hot,29.0,8,-4.1,max temp much warmer than neighbors
+2026-01-22,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,2.0,4,-10.2,max temp much warmer than neighbors
+2026-01-22,500756,STUART CREEK,RAWS,AK01W,hot,15.0,8,-3.1,max temp much warmer than neighbors
+2026-01-22,500760,BRIGADIER,RAWS,AK01W,hot,24.0,8,-5.2,max temp much warmer than neighbors
+2026-01-22,500761,LYNX,RAWS,AK01W,hot,13.0,8,-5.1,max temp much warmer than neighbors
+2026-01-22,500942,RABBIT CREEK,RAWS,AK13,hot,37.0,8,15.8,max temp much warmer than neighbors
+2026-01-22,500965,HOMER,RAWS,AK14,hot,45.0,4,25.8,max temp much warmer than neighbors
+2026-01-22,500971,WILLOW,RAWS,AK11,cold,10.0,8,21.7,max temp much colder than neighbors
+2026-01-22,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,37.0,8,19.2,max temp much warmer than neighbors
+2026-01-22,501013,HOONAH,RAWS,AK16,hot,46.0,4,31.6,max temp much warmer than neighbors
+2026-01-22,ASOS-PAGN,Angoon,ASOS,AK16,cold,25.0,3,39.2,max temp much colder than neighbors
+2026-01-23,500216,TAG MTN,RAWS,AK05,hot,34.0,3,12.0,max temp much warmer than neighbors
+2026-01-23,500715,WEIN LAKE,RAWS,AK03S,hot,6.0,3,-2.3,max temp much warmer than neighbors
+2026-01-23,500740,CARIBOU PEAK,RAWS,AK01W,hot,34.0,8,-2.7,max temp much warmer than neighbors
+2026-01-23,500942,RABBIT CREEK,RAWS,AK13,hot,40.0,8,16.7,max temp much warmer than neighbors
+2026-01-23,500949,CHISTOCHINA,RAWS,AK12,cold,-3.0,3,15.3,max temp much colder than neighbors
+2026-01-23,500965,HOMER,RAWS,AK14,hot,35.0,4,25.3,max temp much warmer than neighbors
+2026-01-23,500971,WILLOW,RAWS,AK11,cold,11.0,8,21.1,max temp much colder than neighbors
+2026-01-23,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,31.0,8,18.5,max temp much warmer than neighbors
+2026-01-23,501013,HOONAH,RAWS,AK16,hot,40.0,3,30.1,max temp much warmer than neighbors
+2026-01-23,ASOS-PAHL,Huslia,ASOS,AK05,cold,4.0,3,19.7,max temp much colder than neighbors
+2026-01-23,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,38.0,3,21.6,max temp much warmer than neighbors
+2026-01-23,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-8.0,3,2.3,max temp much colder than neighbors
+2026-01-24,500740,CARIBOU PEAK,RAWS,AK01W,hot,22.0,8,-0.3,max temp much warmer than neighbors
+2026-01-24,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,13.0,4,-4.0,max temp much warmer than neighbors
+2026-01-24,500755,OKLAHOMA,RAWS,AK01W,hot,32.0,7,7.7,max temp much warmer than neighbors
+2026-01-24,500756,STUART CREEK,RAWS,AK01W,hot,15.0,8,3.1,max temp much warmer than neighbors
+2026-01-24,500760,BRIGADIER,RAWS,AK01W,hot,19.0,8,0.9,max temp much warmer than neighbors
+2026-01-24,500761,LYNX,RAWS,AK01W,hot,9.0,8,1.0,max temp much warmer than neighbors
+2026-01-24,500942,RABBIT CREEK,RAWS,AK13,hot,40.0,8,14.1,max temp much warmer than neighbors
+2026-01-24,500949,CHISTOCHINA,RAWS,AK12,cold,-2.0,3,14.3,max temp much colder than neighbors
+2026-01-24,500965,HOMER,RAWS,AK14,hot,41.0,4,22.9,max temp much warmer than neighbors
+2026-01-24,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,29.0,8,16.5,max temp much warmer than neighbors
+2026-01-24,ASOS-PADM,Marshall,ASOS,AK07,hot,32.0,3,23.3,max temp much warmer than neighbors
+2026-01-24,ASOS-PAHL,Huslia,ASOS,AK05,cold,8.0,3,22.8,max temp much colder than neighbors
+2026-01-24,ASOS-PAHN,Haines,ASOS,AK15,cold,25.0,3,33.6,max temp much colder than neighbors
+2026-01-24,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,hot,39.0,3,23.6,max temp much warmer than neighbors
+2026-01-24,ASOS-PARS,Russian Mission,ASOS,AK07,cold,23.0,3,31.0,max temp much colder than neighbors
+2026-01-25,500216,TAG MTN,RAWS,AK05,hot,14.0,3,1.3,max temp much warmer than neighbors
+2026-01-25,500715,WEIN LAKE,RAWS,AK03S,hot,9.0,3,0.7,max temp much warmer than neighbors
+2026-01-25,500755,OKLAHOMA,RAWS,AK01W,hot,22.0,7,10.7,max temp much warmer than neighbors
+2026-01-25,500942,RABBIT CREEK,RAWS,AK13,hot,35.0,8,20.2,max temp much warmer than neighbors
+2026-01-25,500966,BENTALIT,RAWS,AK11,cold,11.0,4,20.4,max temp much colder than neighbors
+2026-01-25,ASOS-PAHL,Huslia,ASOS,AK05,cold,3.0,3,16.8,max temp much colder than neighbors
+2026-01-25,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,17.0,3,29.0,max temp much colder than neighbors
+2026-01-26,500745,LIVENGOOD,RAWS,AK03S,hot,4.0,3,-10.1,max temp much warmer than neighbors
+2026-01-26,500942,RABBIT CREEK,RAWS,AK13,hot,32.0,8,20.3,max temp much warmer than neighbors
+2026-01-26,500971,WILLOW,RAWS,AK11,cold,16.0,8,24.9,max temp much colder than neighbors
+2026-01-26,ASOS-PAHL,Huslia,ASOS,AK05,cold,-3.0,3,8.7,max temp much colder than neighbors
+2026-01-26,ASOS-PANU,Nulato,ASOS,AK05,hot,9.0,4,-4.4,max temp much warmer than neighbors
+2026-01-27,500740,CARIBOU PEAK,RAWS,AK01W,hot,13.0,8,-0.0,max temp much warmer than neighbors
+2026-01-27,500751,BOLIO,RAWS,AK01W,hot,27.0,5,15.6,max temp much warmer than neighbors
+2026-01-27,500760,BRIGADIER,RAWS,AK01W,hot,21.0,8,1.2,max temp much warmer than neighbors
+2026-01-27,500942,RABBIT CREEK,RAWS,AK13,hot,26.0,8,13.0,max temp much warmer than neighbors
+2026-01-27,500964,GRANITE,RAWS,AK14,hot,36.0,8,17.0,max temp much warmer than neighbors
+2026-01-27,ASOS-PAAQ,Palmer Municipal (Asos),ASOS,AK13,hot,29.0,8,17.4,max temp much warmer than neighbors
+2026-01-27,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-2.0,3,6.7,max temp much colder than neighbors
+2026-01-27,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,hot,40.0,8,19.7,max temp much warmer than neighbors
+2026-01-28,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,14.0,4,5.2,max temp much warmer than neighbors
+2026-01-28,500760,BRIGADIER,RAWS,AK01W,hot,28.0,8,6.5,max temp much warmer than neighbors
+2026-01-28,500761,LYNX,RAWS,AK01W,hot,25.0,8,7.4,max temp much warmer than neighbors
+2026-01-28,500942,RABBIT CREEK,RAWS,AK13,hot,36.0,8,24.1,max temp much warmer than neighbors
+2026-01-28,500949,CHISTOCHINA,RAWS,AK12,cold,16.0,3,25.3,max temp much colder than neighbors
+2026-01-28,500965,HOMER,RAWS,AK14,hot,40.0,4,28.9,max temp much warmer than neighbors
+2026-01-28,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,36.0,8,23.8,max temp much warmer than neighbors
+2026-01-28,ASOS-PAAQ,Palmer Municipal (Asos),ASOS,AK13,hot,37.0,8,26.3,max temp much warmer than neighbors
+2026-01-28,ASOS-PAWS,Wasilla New Arpt,ASOS,AK13,hot,41.0,8,25.8,max temp much warmer than neighbors
+2026-01-29,500216,TAG MTN,RAWS,AK05,hot,15.0,3,5.3,max temp much warmer than neighbors
+2026-01-29,500740,CARIBOU PEAK,RAWS,AK01W,hot,27.0,8,7.4,max temp much warmer than neighbors
+2026-01-29,500760,BRIGADIER,RAWS,AK01W,hot,28.0,8,8.0,max temp much warmer than neighbors
+2026-01-29,500971,WILLOW,RAWS,AK11,cold,20.0,8,40.8,max temp much colder than neighbors
+2026-01-30,500740,CARIBOU PEAK,RAWS,AK01W,hot,32.0,8,5.3,max temp much warmer than neighbors
+2026-01-30,500760,BRIGADIER,RAWS,AK01W,hot,32.0,8,7.8,max temp much warmer than neighbors
+2026-01-30,500761,LYNX,RAWS,AK01W,hot,29.0,8,7.2,max temp much warmer than neighbors
+2026-01-30,500942,RABBIT CREEK,RAWS,AK13,hot,40.0,8,31.1,max temp much warmer than neighbors
+2026-01-30,500949,CHISTOCHINA,RAWS,AK12,cold,21.0,3,30.7,max temp much colder than neighbors
+2026-01-30,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,3.0,3,13.3,max temp much colder than neighbors
+2026-01-30,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,1.12,8,0.19,far more rain than any neighbor
+2026-01-31,500740,CARIBOU PEAK,RAWS,AK01W,hot,33.0,8,3.7,max temp much warmer than neighbors
+2026-01-31,500942,RABBIT CREEK,RAWS,AK13,hot,39.0,8,28.4,max temp much warmer than neighbors
+2026-01-31,500965,HOMER,RAWS,AK14,hot,43.0,4,33.9,max temp much warmer than neighbors
+2026-01-31,ASOS-PAHL,Huslia,ASOS,AK05,cold,6.0,3,14.7,max temp much colder than neighbors
+2026-02-01,500942,RABBIT CREEK,RAWS,AK13,hot,41.0,8,22.2,max temp much warmer than neighbors
+2026-02-01,500965,HOMER,RAWS,AK14,hot,43.0,4,27.8,max temp much warmer than neighbors
+2026-02-02,500761,LYNX,RAWS,AK01W,hot,22.0,8,10.7,max temp much warmer than neighbors
+2026-02-02,500942,RABBIT CREEK,RAWS,AK13,hot,43.0,8,26.4,max temp much warmer than neighbors
+2026-02-02,500965,HOMER,RAWS,AK14,hot,43.0,4,32.4,max temp much warmer than neighbors
+2026-02-02,ASOS-PAEI,Eielson Afb,ASOS,AK01W,cold,9.0,8,17.5,max temp much colder than neighbors
+2026-02-02,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,1.64,8,0.21,far more rain than any neighbor
+2026-02-03,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,20.0,4,10.2,max temp much warmer than neighbors
+2026-02-03,500761,LYNX,RAWS,AK01W,hot,23.0,8,12.0,max temp much warmer than neighbors
+2026-02-03,500971,WILLOW,RAWS,AK11,cold,25.0,8,42.8,max temp much colder than neighbors
+2026-02-03,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,2.98,8,0.54,far more rain than any neighbor
+2026-02-04,500745,LIVENGOOD,RAWS,AK03S,cold,5.0,3,16.0,max temp much colder than neighbors
+2026-02-04,500761,LYNX,RAWS,AK01W,hot,25.0,8,12.4,max temp much warmer than neighbors
+2026-02-04,500942,RABBIT CREEK,RAWS,AK13,hot,46.0,8,36.5,max temp much warmer than neighbors
+2026-02-04,500949,CHISTOCHINA,RAWS,AK12,cold,22.0,3,39.3,max temp much colder than neighbors
+2026-02-04,500971,WILLOW,RAWS,AK11,cold,29.0,8,42.0,max temp much colder than neighbors
+2026-02-04,ASOS-PAFR,Ft. Richardson,ASOS,AK13,hot,51.8,8,40.3,max temp much warmer than neighbors
+2026-02-04,ASOS-PALG,Kalskag,ASOS,AK08,hot,31.0,3,23.0,max temp much warmer than neighbors
+2026-02-05,500740,CARIBOU PEAK,RAWS,AK01W,hot,16.0,8,7.6,max temp much warmer than neighbors
+2026-02-05,500761,LYNX,RAWS,AK01W,hot,20.0,8,9.5,max temp much warmer than neighbors
+2026-02-05,500942,RABBIT CREEK,RAWS,AK13,hot,47.0,8,34.1,max temp much warmer than neighbors
+2026-02-05,ASOS-PAFR,Ft. Richardson,ASOS,AK13,hot,47.5,8,37.9,max temp much warmer than neighbors
+2026-02-05,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,3.03,8,0.47,far more rain than any neighbor
+2026-02-06,500761,LYNX,RAWS,AK01W,hot,15.0,8,6.4,max temp much warmer than neighbors
+2026-02-06,500942,RABBIT CREEK,RAWS,AK13,hot,41.0,8,28.6,max temp much warmer than neighbors
+2026-02-06,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,41.0,8,31.2,max temp much warmer than neighbors
+2026-02-07,500942,RABBIT CREEK,RAWS,AK13,hot,39.0,8,25.3,max temp much warmer than neighbors
+2026-02-07,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,3.0,3,12.3,max temp much colder than neighbors
+2026-02-08,500761,LYNX,RAWS,AK01W,hot,0.0,8,-9.5,max temp much warmer than neighbors
+2026-02-08,500942,RABBIT CREEK,RAWS,AK13,hot,36.0,8,24.2,max temp much warmer than neighbors
+2026-02-08,ASOS-PAEI,Eielson Afb,ASOS,AK01W,hot,9.0,8,-3.9,max temp much warmer than neighbors
+2026-02-08,ASOS-PAGA,Galena Airport,ASOS,AK05,hot,3.0,3,-7.1,max temp much warmer than neighbors
+2026-02-08,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,-6.0,4,4.7,max temp much colder than neighbors
+2026-02-09,500206,KIANA,RAWS,AK04,hot,-5.0,4,-13.3,max temp much warmer than neighbors
+2026-02-09,500216,TAG MTN,RAWS,AK05,hot,0.0,3,-20.7,max temp much warmer than neighbors
+2026-02-09,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-13.0,4,-2.6,max temp much colder than neighbors
+2026-02-09,ASOS-PARY,Ruby,ASOS,AK03S,cold,-21.0,3,-8.7,max temp much colder than neighbors
+2026-02-09,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,-9.0,3,0.9,max temp much colder than neighbors
+2026-02-10,500740,CARIBOU PEAK,RAWS,AK01W,hot,4.0,8,-5.4,max temp much warmer than neighbors
+2026-02-10,500760,BRIGADIER,RAWS,AK01W,hot,4.0,8,-4.2,max temp much warmer than neighbors
+2026-02-10,500942,RABBIT CREEK,RAWS,AK13,hot,27.0,8,15.4,max temp much warmer than neighbors
+2026-02-10,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,rain_alone,0.5,8,0.01,rain no neighbor saw
+2026-02-11,500740,CARIBOU PEAK,RAWS,AK01W,hot,18.0,8,-2.7,max temp much warmer than neighbors
+2026-02-11,500756,STUART CREEK,RAWS,AK01W,hot,18.0,8,1.2,max temp much warmer than neighbors
+2026-02-11,500760,BRIGADIER,RAWS,AK01W,hot,18.0,8,-0.9,max temp much warmer than neighbors
+2026-02-11,500761,LYNX,RAWS,AK01W,hot,13.0,8,-1.4,max temp much warmer than neighbors
+2026-02-11,500942,RABBIT CREEK,RAWS,AK13,hot,34.0,8,24.4,max temp much warmer than neighbors
+2026-02-11,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-10.0,4,4.6,max temp much colder than neighbors
+2026-02-11,ASOS-PARS,Russian Mission,ASOS,AK07,cold,22.0,3,33.2,max temp much colder than neighbors
+2026-02-12,500721,CHATANIKA,RAWS,AK01W,hot,21.0,4,-5.3,max temp much warmer than neighbors
+2026-02-12,500755,OKLAHOMA,RAWS,AK01W,hot,23.0,8,9.3,max temp much warmer than neighbors
+2026-02-12,500965,HOMER,RAWS,AK14,hot,39.0,4,30.8,max temp much warmer than neighbors
+2026-02-13,500755,OKLAHOMA,RAWS,AK01W,hot,18.0,8,5.9,max temp much warmer than neighbors
+2026-02-13,ASOS-PALG,Kalskag,ASOS,AK08,hot,24.0,3,9.0,max temp much warmer than neighbors
+2026-02-13,ASOS-PANU,Nulato,ASOS,AK05,hot,8.0,4,-4.1,max temp much warmer than neighbors
+2026-02-13,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,1.0,4,11.8,max temp much colder than neighbors
+2026-02-13,ASOS-PARS,Russian Mission,ASOS,AK07,cold,8.0,3,32.2,max temp much colder than neighbors
+2026-02-14,500755,OKLAHOMA,RAWS,AK01W,hot,26.0,8,14.9,max temp much warmer than neighbors
+2026-02-14,500760,BRIGADIER,RAWS,AK01W,hot,19.0,8,10.0,max temp much warmer than neighbors
+2026-02-14,500942,RABBIT CREEK,RAWS,AK13,hot,36.0,8,22.3,max temp much warmer than neighbors
+2026-02-15,500216,TAG MTN,RAWS,AK05,hot,1.0,3,-10.7,max temp much warmer than neighbors
+2026-02-15,ASOS-PAKV,Kaltag Airport (Asos),ASOS,AK05,hot,25.0,3,15.7,max temp much warmer than neighbors
+2026-02-16,500966,BENTALIT,RAWS,AK11,hot,27.0,4,18.4,max temp much warmer than neighbors
+2026-02-16,ASOS-PAED,Elmendorf Afb,ASOS,AK13,hot,30.0,8,20.6,max temp much warmer than neighbors
+2026-02-16,ASOS-PALG,Kalskag,ASOS,AK08,hot,15.8,3,7.0,max temp much warmer than neighbors
+2026-02-17,500745,LIVENGOOD,RAWS,AK03S,cold,-5.0,5,10.0,max temp much colder than neighbors
+2026-02-17,500746,GOLD KING,RAWS,AK01W,hot,18.0,8,6.5,max temp much warmer than neighbors
+2026-02-18,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,12.0,4,2.7,max temp much warmer than neighbors
+2026-02-18,ASOS-PAKU,Kuparuk Airport,ASOS,AK00,cold,1.4,3,12.1,max temp much colder than neighbors
+2026-02-18,ASOS-PARY,Ruby,ASOS,AK03S,cold,2.0,4,22.5,max temp much colder than neighbors
+2026-02-19,ASOS-PADM,Marshall,ASOS,AK07,hot,19.4,3,10.7,max temp much warmer than neighbors
+2026-02-20,500216,TAG MTN,RAWS,AK05,hot,0.0,3,-15.0,max temp much warmer than neighbors
+2026-02-20,500220,SHAKTOOLIK RIVER,RAWS,AK06,hot,13.0,3,-2.8,max temp much warmer than neighbors
+2026-02-21,500216,TAG MTN,RAWS,AK05,hot,10.0,3,-1.7,max temp much warmer than neighbors
+2026-02-21,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-6.0,4,2.5,max temp much colder than neighbors
+2026-02-21,500761,LYNX,RAWS,AK01W,hot,3.0,8,-6.3,max temp much warmer than neighbors
+2026-02-21,500970,EAGLE RIVER,RAWS,AK13,cold,10.0,8,20.9,max temp much colder than neighbors
+2026-02-22,500216,TAG MTN,RAWS,AK05,hot,23.0,3,7.3,max temp much warmer than neighbors
+2026-02-22,500745,LIVENGOOD,RAWS,AK03S,cold,3.0,5,12.1,max temp much colder than neighbors
+2026-02-22,500746,GOLD KING,RAWS,AK01W,hot,19.0,8,4.1,max temp much warmer than neighbors
+2026-02-22,500965,HOMER,RAWS,AK14,hot,36.0,4,27.9,max temp much warmer than neighbors
+2026-02-23,500749,TOK RIVER VALLEY,RAWS,AK01E,hot,20.0,4,6.5,max temp much warmer than neighbors
+2026-02-23,500755,OKLAHOMA,RAWS,AK01W,hot,24.0,8,12.9,max temp much warmer than neighbors
+2026-02-23,500761,LYNX,RAWS,AK01W,hot,22.0,8,13.3,max temp much warmer than neighbors
+2026-02-23,500942,RABBIT CREEK,RAWS,AK13,hot,37.0,8,23.1,max temp much warmer than neighbors
+2026-02-23,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,30.0,6,38.3,max temp much colder than neighbors
+2026-02-23,ASOS-PAKU,Kuparuk Airport,ASOS,AK00,cold,17.6,3,27.0,max temp much colder than neighbors
+2026-02-24,500206,KIANA,RAWS,AK04,hot,2.0,4,-7.3,max temp much warmer than neighbors
+2026-02-24,500942,RABBIT CREEK,RAWS,AK13,hot,36.0,8,25.4,max temp much warmer than neighbors
+2026-02-24,ASOS-PAFB,Wainwright Aaf,ASOS,AK01W,hot,41.0,8,26.2,max temp much warmer than neighbors
+2026-02-25,500715,WEIN LAKE,RAWS,AK03S,hot,-1.0,3,-12.3,max temp much warmer than neighbors
+2026-02-25,ASOS-PABI,Ft.Greely/Allen Aaf (Asos),ASOS,AK01W,hot,26.0,5,-10.8,max temp much warmer than neighbors
+2026-02-25,ASOS-PAED,Elmendorf Afb,ASOS,AK13,hot,28.0,8,12.2,max temp much warmer than neighbors
+2026-02-25,ASOS-PAEI,Eielson Afb,ASOS,AK01W,hot,2.0,8,-11.5,max temp much warmer than neighbors
+2026-02-25,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,hot,29.0,6,12.1,max temp much warmer than neighbors
+2026-02-25,ASOS-PAIK,Kiana,ASOS,AK04,hot,-10.0,4,-18.3,max temp much warmer than neighbors
+2026-02-26,500220,SHAKTOOLIK RIVER,RAWS,AK06,hot,-1.0,3,-19.0,max temp much warmer than neighbors
+2026-02-26,ASOS-PARS,Russian Mission,ASOS,AK07,hot,4.0,3,-5.0,max temp much warmer than neighbors
+2026-02-27,500715,WEIN LAKE,RAWS,AK03S,hot,9.0,3,-1.3,max temp much warmer than neighbors
+2026-02-27,500721,CHATANIKA,RAWS,AK01W,hot,-11.0,3,-23.1,max temp much warmer than neighbors
+2026-02-27,ASOS-PABI,Ft.Greely/Allen Aaf (Asos),ASOS,AK01W,cold,-17.0,5,-7.2,max temp much colder than neighbors
+2026-02-27,ASOS-PAEI,Eielson Afb,ASOS,AK01W,cold,-19.0,8,-4.8,max temp much colder than neighbors
+2026-02-27,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-20.0,5,-6.6,max temp much colder than neighbors
+2026-02-27,ASOS-PARS,Russian Mission,ASOS,AK07,hot,5.0,3,-3.8,max temp much warmer than neighbors
+2026-02-27,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,-24.0,3,-14.6,max temp much colder than neighbors
+2026-02-28,500715,WEIN LAKE,RAWS,AK03S,hot,10.0,3,-4.4,max temp much warmer than neighbors
+2026-02-28,500721,CHATANIKA,RAWS,AK01W,hot,-14.0,3,-22.4,max temp much warmer than neighbors
+2026-02-28,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,13.0,8,4.2,max temp much warmer than neighbors
+2026-02-28,ASOS-PAJN,Juneau Intl Airport (Asos),ASOS,AK16,rain_alone,0.55,4,0.05,rain no neighbor saw
+2026-02-28,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-21.0,3,-10.3,max temp much colder than neighbors
+2026-03-01,500206,KIANA,RAWS,AK04,hot,4.0,3,-7.4,max temp much warmer than neighbors
+2026-03-01,500715,WEIN LAKE,RAWS,AK03S,hot,12.0,3,-3.3,max temp much warmer than neighbors
+2026-03-01,500721,CHATANIKA,RAWS,AK01W,hot,-10.0,3,-19.1,max temp much warmer than neighbors
+2026-03-01,500734,SELAWIK,RAWS,AK04,cold,-8.0,4,2.2,max temp much colder than neighbors
+2026-03-01,ASOS-PABI,Ft.Greely/Allen Aaf (Asos),ASOS,AK01W,cold,-14.0,5,-0.8,max temp much colder than neighbors
+2026-03-01,ASOS-PFNO,Noorvik,ASOS,AK04,cold,-7.0,3,4.4,max temp much colder than neighbors
+2026-03-02,500724,MCKINLEY RIVER,RAWS,AK03S,cold,-7.0,4,7.5,max temp much colder than neighbors
+2026-03-02,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-12.0,4,-3.7,max temp much colder than neighbors
+2026-03-02,ASOS-PFNO,Noorvik,ASOS,AK04,cold,-3.0,3,8.4,max temp much colder than neighbors
+2026-03-04,500715,WEIN LAKE,RAWS,AK03S,hot,18.0,3,2.6,max temp much warmer than neighbors
+2026-03-04,500734,SELAWIK,RAWS,AK04,cold,-17.0,4,0.7,max temp much colder than neighbors
+2026-03-04,500761,LYNX,RAWS,AK01W,hot,11.0,8,-0.6,max temp much warmer than neighbors
+2026-03-04,500927,SOLDOTNA AKKKS,RAWS,AK14,cold,9.0,7,21.7,max temp much colder than neighbors
+2026-03-04,ASOS-PAHN,Haines,ASOS,AK15,cold,21.0,3,33.0,max temp much colder than neighbors
+2026-03-04,ASOS-PFNO,Noorvik,ASOS,AK04,cold,-11.0,3,0.4,max temp much colder than neighbors
+2026-03-05,500715,WEIN LAKE,RAWS,AK03S,hot,20.0,3,6.7,max temp much warmer than neighbors
+2026-03-05,500734,SELAWIK,RAWS,AK04,cold,-13.0,4,2.7,max temp much colder than neighbors
+2026-03-05,ASOS-PFNO,Noorvik,ASOS,AK04,cold,-9.0,3,2.4,max temp much colder than neighbors
+2026-03-06,500743,GOODPASTURE,RAWS,AK01W,hot,21.0,8,11.2,max temp much warmer than neighbors
+2026-03-06,ASOS-PAED,Elmendorf Afb,ASOS,AK13,wet,2.45,8,0.24,far more rain than any neighbor
+2026-03-06,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,7.0,5,16.3,max temp much colder than neighbors
+2026-03-06,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,1.41,8,0.06,far more rain than any neighbor
+2026-03-07,500734,SELAWIK,RAWS,AK04,cold,-11.0,4,0.2,max temp much colder than neighbors
+2026-03-07,ASOS-PFEL,Elim,ASOS,AK06,hot,8.0,4,-1.8,max temp much warmer than neighbors
+2026-03-07,ASOS-PFNO,Noorvik,ASOS,AK04,cold,-14.0,3,0.4,max temp much colder than neighbors
+2026-03-08,500715,WEIN LAKE,RAWS,AK03S,hot,30.0,3,12.7,max temp much warmer than neighbors
+2026-03-08,501013,HOONAH,RAWS,AK16,hot,42.0,3,32.1,max temp much warmer than neighbors
+2026-03-09,500715,WEIN LAKE,RAWS,AK03S,hot,10.0,3,-1.4,max temp much warmer than neighbors
+2026-03-10,500715,WEIN LAKE,RAWS,AK03S,hot,10.0,3,-1.3,max temp much warmer than neighbors
+2026-03-10,500734,SELAWIK,RAWS,AK04,cold,-4.0,4,6.4,max temp much colder than neighbors
+2026-03-10,501013,HOONAH,RAWS,AK16,hot,39.0,3,26.1,max temp much warmer than neighbors
+2026-03-11,500715,WEIN LAKE,RAWS,AK03S,hot,19.0,3,7.7,max temp much warmer than neighbors
+2026-03-11,500721,CHATANIKA,RAWS,AK01W,hot,0.0,3,-9.4,max temp much warmer than neighbors
+2026-03-11,500724,MCKINLEY RIVER,RAWS,AK03S,cold,0.0,4,9.5,max temp much colder than neighbors
+2026-03-11,500734,SELAWIK,RAWS,AK04,cold,-11.0,4,2.2,max temp much colder than neighbors
+2026-03-12,500715,WEIN LAKE,RAWS,AK03S,hot,22.0,3,3.6,max temp much warmer than neighbors
+2026-03-12,500966,BENTALIT,RAWS,AK11,hot,30.0,4,21.6,max temp much warmer than neighbors
+2026-03-12,ASOS-PAGS,Gustavus,ASOS,AK15,hot,34.0,5,23.0,max temp much warmer than neighbors
+2026-03-12,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,-2.0,5,10.4,max temp much colder than neighbors
+2026-03-13,500715,WEIN LAKE,RAWS,AK03S,hot,21.0,3,11.1,max temp much warmer than neighbors
+2026-03-13,500757,WILLS RANGE,RAWS,AK01W,hot,23.0,5,11.4,max temp much warmer than neighbors
+2026-03-13,501013,HOONAH,RAWS,AK16,hot,33.0,3,25.0,max temp much warmer than neighbors
+2026-03-13,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,19.0,6,27.6,max temp much colder than neighbors
+2026-03-13,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-1.0,4,7.3,max temp much colder than neighbors
+2026-03-14,500964,GRANITE,RAWS,AK14,hot,27.0,8,16.6,max temp much warmer than neighbors
+2026-03-14,ASOS-PADM,Marshall,ASOS,AK07,hot,22.0,3,11.3,max temp much warmer than neighbors
+2026-03-15,500715,WEIN LAKE,RAWS,AK03S,hot,22.0,3,9.7,max temp much warmer than neighbors
+2026-03-15,500734,SELAWIK,RAWS,AK04,cold,-6.0,4,5.4,max temp much colder than neighbors
+2026-03-15,500755,OKLAHOMA,RAWS,AK01W,hot,14.0,8,5.0,max temp much warmer than neighbors
+2026-03-16,500715,WEIN LAKE,RAWS,AK03S,hot,19.0,3,8.7,max temp much warmer than neighbors
+2026-03-17,500715,WEIN LAKE,RAWS,AK03S,hot,18.0,3,5.7,max temp much warmer than neighbors
+2026-03-17,500734,SELAWIK,RAWS,AK04,cold,-5.0,5,7.6,max temp much colder than neighbors
+2026-03-17,500761,LYNX,RAWS,AK01W,hot,4.0,8,-4.0,max temp much warmer than neighbors
+2026-03-17,ASOS-PASM,Saint Mary S (Awos),ASOS,AK08,cold,2.0,3,10.5,max temp much colder than neighbors
+2026-03-18,500206,KIANA,RAWS,AK04,hot,5.0,4,-4.3,max temp much warmer than neighbors
+2026-03-18,500715,WEIN LAKE,RAWS,AK03S,hot,15.0,3,6.7,max temp much warmer than neighbors
+2026-03-18,ASOS-PAIK,Kiana,ASOS,AK04,hot,8.0,4,-4.3,max temp much warmer than neighbors
+2026-03-18,ASOS-PAOH,Hoonah Seaplane,ASOS,AK16,hot,43.0,4,34.1,max temp much warmer than neighbors
+2026-03-19,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,rain_alone,0.69,8,0.0,rain no neighbor saw
+2026-03-20,500216,TAG MTN,RAWS,AK05,hot,-7.0,3,-20.7,max temp much warmer than neighbors
+2026-03-20,500715,WEIN LAKE,RAWS,AK03S,hot,18.0,3,9.7,max temp much warmer than neighbors
+2026-03-20,500761,LYNX,RAWS,AK01W,hot,18.0,8,6.6,max temp much warmer than neighbors
+2026-03-20,501013,HOONAH,RAWS,AK16,hot,49.0,4,35.3,max temp much warmer than neighbors
+2026-03-20,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,5.0,4,13.8,max temp much colder than neighbors
+2026-03-20,ASOS-PASK,Selawik,ASOS,AK04,cold,-15.0,5,-4.5,max temp much colder than neighbors
+2026-03-21,500216,TAG MTN,RAWS,AK05,hot,10.0,3,-11.7,max temp much warmer than neighbors
+2026-03-21,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,5.0,3,17.4,max temp much colder than neighbors
+2026-03-22,500724,MCKINLEY RIVER,RAWS,AK03S,cold,18.0,4,26.3,max temp much colder than neighbors
+2026-03-22,500734,SELAWIK,RAWS,AK04,cold,7.0,5,18.6,max temp much colder than neighbors
+2026-03-22,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,cold,28.0,8,38.3,max temp much colder than neighbors
+2026-03-22,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,11.0,3,23.4,max temp much colder than neighbors
+2026-03-23,500715,WEIN LAKE,RAWS,AK03S,hot,35.0,3,18.6,max temp much warmer than neighbors
+2026-03-23,500755,OKLAHOMA,RAWS,AK01W,hot,28.0,8,14.9,max temp much warmer than neighbors
+2026-03-23,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,30.0,5,38.2,max temp much colder than neighbors
+2026-03-23,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,cold,19.0,3,28.8,max temp much colder than neighbors
+2026-03-23,ASOS-PAKT,Ketchikan Intl Arpt (Asos),ASOS,AK17,cold,34.0,4,42.2,max temp much colder than neighbors
+2026-03-23,ASOS-PASK,Selawik,ASOS,AK04,cold,3.0,5,18.5,max temp much colder than neighbors
+2026-03-24,500761,LYNX,RAWS,AK01W,hot,27.0,8,17.0,max temp much warmer than neighbors
+2026-03-25,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,11.0,4,20.7,max temp much colder than neighbors
+2026-03-26,500724,MCKINLEY RIVER,RAWS,AK03S,cold,21.0,4,31.5,max temp much colder than neighbors
+2026-03-26,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,cold,16.0,3,27.6,max temp much colder than neighbors
+2026-03-27,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,29.0,5,38.9,max temp much colder than neighbors
+2026-03-27,ASOS-PAIL,Iliamna Arpt (Asos),ASOS,AK10,cold,19.0,3,28.9,max temp much colder than neighbors
+2026-03-27,ASOS-PASK,Selawik,ASOS,AK04,cold,14.0,6,23.6,max temp much colder than neighbors
+2026-03-28,500721,CHATANIKA,RAWS,AK01W,hot,27.0,5,18.9,max temp much warmer than neighbors
+2026-03-28,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,30.0,5,38.2,max temp much colder than neighbors
+2026-03-29,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,30.0,5,38.9,max temp much colder than neighbors
+2026-03-30,500755,OKLAHOMA,RAWS,AK01W,hot,43.0,8,33.5,max temp much warmer than neighbors
+2026-03-30,ASOS-PFSH,Shaktoolik,ASOS,AK06,cold,25.0,3,34.0,max temp much colder than neighbors
+2026-03-31,500505,REINDEER RIVER,RAWS,AK08,cold,28.0,3,36.7,max temp much colder than neighbors
+2026-03-31,500975,LITTLE GRANITE CREEK,RAWS,AK13,hot,44.0,8,34.7,max temp much warmer than neighbors
+2026-03-31,ASOS-PASO,Seldovia (Asos),ASOS,AK14,cold,34.0,3,43.1,max temp much colder than neighbors
+2026-04-01,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,36.0,5,45.4,max temp much colder than neighbors
+2026-04-01,ASOS-PAGS,Gustavus,ASOS,AK15,cold,43.0,4,51.2,max temp much colder than neighbors
+2026-04-01,ASOS-PASO,Seldovia (Asos),ASOS,AK14,cold,36.0,3,44.1,max temp much colder than neighbors
+2026-04-02,501013,HOONAH,RAWS,AK16,hot,51.0,3,42.0,max temp much warmer than neighbors
+2026-04-02,ASOS-PABI,Ft.Greely/Allen Aaf (Asos),ASOS,AK01W,cold,28.0,6,38.2,max temp much colder than neighbors
+2026-04-02,ASOS-PAKT,Ketchikan Intl Arpt (Asos),ASOS,AK17,cold,43.0,4,51.2,max temp much colder than neighbors
+2026-04-02,ASOS-PFEL,Elim,ASOS,AK06,cold,17.6,4,26.0,max temp much colder than neighbors
+2026-04-03,ASOS-PADM,Marshall,ASOS,AK07,hot,35.0,3,26.3,max temp much warmer than neighbors
+2026-04-03,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,35.0,5,45.2,max temp much colder than neighbors
+2026-04-03,ASOS-PANN,Nenana/Mun. (Asos),ASOS,AK01W,cold,25.0,5,37.5,max temp much colder than neighbors
+2026-04-03,ASOS-PASX,Soldotna,ASOS,AK14,cold,37.0,7,45.2,max temp much colder than neighbors
+2026-04-05,500505,REINDEER RIVER,RAWS,AK08,cold,16.0,3,27.6,max temp much colder than neighbors
+2026-04-05,ASOS-PABI,Ft.Greely/Allen Aaf (Asos),ASOS,AK01W,cold,41.0,6,49.2,max temp much colder than neighbors
+2026-04-05,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,39.0,5,47.4,max temp much colder than neighbors
+2026-04-05,ASOS-PAMH,Minchumina,ASOS,AK03S,cold,31.0,3,39.1,max temp much colder than neighbors
+2026-04-06,500216,TAG MTN,RAWS,AK05,hot,34.0,3,13.3,max temp much warmer than neighbors
+2026-04-06,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,33.0,5,43.9,max temp much colder than neighbors
+2026-04-07,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,38.0,5,47.2,max temp much colder than neighbors
+2026-04-07,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,cold,39.0,8,48.7,max temp much colder than neighbors
+2026-04-07,ASOS-PAWD,Seward (Asos),ASOS,AK14,cold,33.0,6,48.5,max temp much colder than neighbors
+2026-04-08,500734,SELAWIK,RAWS,AK04,cold,22.0,6,37.7,max temp much colder than neighbors
+2026-04-08,500741,FAIRBANKS,RAWS,AK01W,rain_alone,0.53,8,0.01,rain no neighbor saw
+2026-04-08,500761,LYNX,RAWS,AK01W,hot,54.0,8,43.1,max temp much warmer than neighbors
+2026-04-08,500936,JATAHMUND LAKE,RAWS,AK01E,hot,55.0,4,43.7,max temp much warmer than neighbors
+2026-04-08,ASOS-PAMH,Minchumina,ASOS,AK03S,cold,45.0,3,53.4,max temp much colder than neighbors
+2026-04-09,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,43.0,5,52.2,max temp much colder than neighbors
+2026-04-09,ASOS-PAMH,Minchumina,ASOS,AK03S,cold,44.0,3,52.1,max temp much colder than neighbors
+2026-04-09,ASOS-PASX,Soldotna,ASOS,AK14,cold,44.0,7,52.2,max temp much colder than neighbors
+2026-04-11,501042,SHELTER COVE,RAWS,AK17,hot,65.0,3,54.6,max temp much warmer than neighbors
+2026-04-12,501042,SHELTER COVE,RAWS,AK17,hot,63.0,3,51.0,max temp much warmer than neighbors
+2026-04-13,501013,HOONAH,RAWS,AK16,hot,47.0,3,38.1,max temp much warmer than neighbors
+2026-04-13,ASOS-PASK,Selawik,ASOS,AK04,cold,28.0,5,37.7,max temp much colder than neighbors
+2026-04-14,500206,KIANA,RAWS,AK04,hot,31.0,4,19.7,max temp much warmer than neighbors
+2026-04-14,ASOS-PAEN,Kenai Municipal (Asos),ASOS,AK14,cold,41.0,5,50.9,max temp much colder than neighbors
+2026-04-14,ASOS-PASX,Soldotna,ASOS,AK14,cold,42.0,7,50.9,max temp much colder than neighbors
 2026-11-08,ASOS-PFWS,South Naknek,ASOS,AK10,bad_rain,15.57,0,,impossible rain total
 2026-11-09,500934,KELLY,RAWS,AK04,hot,34.0,3,14.0,max temp much warmer than neighbors
 2026-11-09,500970,EAGLE RIVER,RAWS,AK13,cold,27.0,8,35.6,max temp much colder than neighbors
@@ -4471,3 +5032,8 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-18,ASOS-PASO,Seldovia (Asos),ASOS,AK14,cold,36.0,3,44.1,max temp much colder than neighbors
 2026-11-18,ASOS-PASO,Seldovia (Asos),ASOS,AK14,missed,0.0,3,0.5,no rain while most neighbors got rain
 2026-11-18,ASOS-PAVE,Venetie,ASOS,AK02,hot,29.0,3,17.7,max temp much warmer than neighbors
+2026-11-19,500751,BOLIO,RAWS,AK01W,hot,46.0,7,33.3,max temp much warmer than neighbors
+2026-11-19,500934,KELLY,RAWS,AK04,cold,-32.0,3,31.0,max temp much colder than neighbors
+2026-11-19,500949,CHISTOCHINA,RAWS,AK12,cold,25.0,3,34.3,max temp much colder than neighbors
+2026-11-19,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,13.0,4,21.7,max temp much colder than neighbors
+2026-11-19,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,4.87,8,0.89,far more rain than any neighbor

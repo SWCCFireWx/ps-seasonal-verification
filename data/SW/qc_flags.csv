@@ -1980,6 +1980,271 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-12-14,ASOS-SJN,St. Johns Air Park,ASOS,SW08,cold,61.0,8,69.0,max temp much colder than neighbors
 2025-12-15,291202,PECOS,RAWS,SW10,hot,63.0,8,51.9,max temp much warmer than neighbors
 2025-12-15,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,57.0,4,67.2,max temp much colder than neighbors
+2025-12-16,291202,PECOS,RAWS,SW10,hot,65.0,8,52.7,max temp much warmer than neighbors
+2025-12-16,292203,SMOKEY BEAR,RAWS,SW12,hot,65.0,7,55.9,max temp much warmer than neighbors
+2025-12-16,292302,DUNKEN,RAWS,SW12,hot,73.0,7,61.9,max temp much warmer than neighbors
+2025-12-16,293002,MAYHILL,RAWS,SW12,hot,66.0,8,57.8,max temp much warmer than neighbors
+2025-12-16,ASOS-BRG,Belen,ASOS,SW09,cold,47.3,8,61.3,max temp much colder than neighbors
+2025-12-16,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,56.0,4,67.7,max temp much colder than neighbors
+2025-12-17,291002,BARTLEY,RAWS,SW10,hot,58.0,7,48.1,max temp much warmer than neighbors
+2025-12-18,293104,CAPROCK,RAWS,SW14N,cold,60.0,4,68.0,max temp much colder than neighbors
+2025-12-18,ASOS-BRG,Belen,ASOS,SW09,cold,48.0,8,64.0,max temp much colder than neighbors
+2025-12-18,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,61.0,4,71.9,max temp much colder than neighbors
+2025-12-19,291002,BARTLEY,RAWS,SW10,hot,59.0,7,50.4,max temp much warmer than neighbors
+2025-12-19,ASOS-BRG,Belen,ASOS,SW09,cold,32.0,8,66.5,max temp much colder than neighbors
+2025-12-19,ASOS-IFP,Bull Head City,ASOS,SW02,cold,69.8,4,78.6,max temp much colder than neighbors
+2025-12-19,ASOS-RTN,Raton/Crews Fld,ASOS,SW10,cold,53.0,5,65.9,max temp much colder than neighbors
+2025-12-20,ASOS-BRG,Belen,ASOS,SW09,cold,48.2,8,67.0,max temp much colder than neighbors
+2025-12-21,291002,BARTLEY,RAWS,SW10,hot,60.0,7,50.4,max temp much warmer than neighbors
+2025-12-21,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,hot,67.0,4,58.9,max temp much warmer than neighbors
+2025-12-22,291002,BARTLEY,RAWS,SW10,hot,65.0,7,54.9,max temp much warmer than neighbors
+2025-12-23,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,cold,67.0,4,77.8,max temp much colder than neighbors
+2025-12-24,ASOS-BRG,Belen,ASOS,SW09,cold,40.3,8,65.5,max temp much colder than neighbors
+2025-12-24,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,cold,65.0,4,78.8,max temp much colder than neighbors
+2025-12-24,ASOS-DMA,Davis-Monthan Afb,ASOS,SW06S,hot,74.0,8,65.4,max temp much warmer than neighbors
+2025-12-24,ASOS-FHU,Fort Huachuca/Libby,ASOS,SW06S,hot,67.0,7,58.3,max temp much warmer than neighbors
+2025-12-24,ASOS-IGM,Kingman,ASOS,SW02,hot,67.0,7,58.7,max temp much warmer than neighbors
+2025-12-24,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,64.0,4,55.7,max temp much warmer than neighbors
+2025-12-25,ASOS-BRG,Belen,ASOS,SW09,cold,45.3,8,64.1,max temp much colder than neighbors
+2025-12-25,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,cold,68.0,4,76.0,max temp much colder than neighbors
+2025-12-25,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,66.0,4,56.4,max temp much warmer than neighbors
+2025-12-26,291002,BARTLEY,RAWS,SW10,hot,56.0,7,44.9,max temp much warmer than neighbors
+2025-12-26,ASOS-BRG,Belen,ASOS,SW09,cold,46.6,8,64.7,max temp much colder than neighbors
+2025-12-27,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,cold,60.0,4,74.0,max temp much colder than neighbors
+2025-12-28,ASOS-BRG,Belen,ASOS,SW09,cold,36.3,8,49.1,max temp much colder than neighbors
+2025-12-29,291408,SANDIA LAB,RAWS,SW11,rain_alone,5.0,7,0.0,rain no neighbor saw
+2025-12-29,417105,PX WELL,RAWS,SW12,hot,50.0,3,39.0,max temp much warmer than neighbors
+2025-12-29,ASOS-BRG,Belen,ASOS,SW09,cold,35.6,8,49.1,max temp much colder than neighbors
+2025-12-30,20207,TUSAYAN,RAWS,SW01,cold,46.0,7,57.6,max temp much colder than neighbors
+2025-12-30,20291,HAPPY JACK,RAWS,SW05,cold,46.0,8,56.2,max temp much colder than neighbors
+2025-12-30,20606,TONTO BASIN,RAWS,SW06N,cold,62.0,8,71.5,max temp much colder than neighbors
+2025-12-30,21104,GUTHRIE,RAWS,SW06S,cold,48.0,6,57.1,max temp much colder than neighbors
+2025-12-30,21302,HOPKINS,RAWS,SW06S,hot,69.0,6,52.8,max temp much warmer than neighbors
+2025-12-30,290401,CIMARRON,RAWS,SW10,hot,58.0,5,49.9,max temp much warmer than neighbors
+2025-12-30,291202,PECOS,RAWS,SW10,hot,60.0,8,48.4,max temp much warmer than neighbors
+2025-12-30,292504,BURRO MOUNTAIN,RAWS,SW08,hot,56.0,4,46.1,max temp much warmer than neighbors
+2025-12-30,ASOS-BRG,Belen,ASOS,SW09,cold,39.4,8,51.9,max temp much colder than neighbors
+2025-12-30,ASOS-FMN,Farmington Regional,ASOS,SW04,cold,45.0,7,53.1,max temp much colder than neighbors
+2025-12-31,21302,HOPKINS,RAWS,SW06S,hot,59.0,6,50.1,max temp much warmer than neighbors
+2025-12-31,21414,RUCKER,RAWS,SW06S,hot,63.0,3,49.6,max temp much warmer than neighbors
+2025-12-31,ASOS-BRG,Belen,ASOS,SW09,cold,45.5,8,56.4,max temp much colder than neighbors
+2025-12-31,ASOS-CNM,Carlsbad/Cavern Cty,ASOS,SW14N,cold,54.0,6,64.5,max temp much colder than neighbors
+2025-12-31,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,44.0,4,56.4,max temp much colder than neighbors
+2026-01-01,20606,TONTO BASIN,RAWS,SW06N,cold,52.0,8,60.1,max temp much colder than neighbors
+2026-01-01,291408,SANDIA LAB,RAWS,SW11,bad_rain,30.09,0,,impossible rain total
+2026-01-01,ASOS-BRG,Belen,ASOS,SW09,cold,41.0,8,54.9,max temp much colder than neighbors
+2026-01-01,ASOS-E77,San Manuel,ASOS,SW06S,cold,55.4,8,65.3,max temp much colder than neighbors
+2026-01-01,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,63.0,4,51.7,max temp much warmer than neighbors
+2026-01-03,20212,DRY PARK,RAWS,SW01,hot,50.0,8,41.7,max temp much warmer than neighbors
+2026-01-03,291002,BARTLEY,RAWS,SW10,hot,56.0,7,47.1,max temp much warmer than neighbors
+2026-01-03,ASOS-BRG,Belen,ASOS,SW09,cold,38.3,8,58.5,max temp much colder than neighbors
+2026-01-03,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,cold,56.0,4,67.0,max temp much colder than neighbors
+2026-01-04,291002,BARTLEY,RAWS,SW10,hot,57.0,7,47.2,max temp much warmer than neighbors
+2026-01-05,290801,TOWER,RAWS,SW07,rain_alone,2.4,8,0.0,rain no neighbor saw
+2026-01-05,291408,SANDIA LAB,RAWS,SW11,rain_alone,10.0,7,0.0,rain no neighbor saw
+2026-01-05,292302,DUNKEN,RAWS,SW12,hot,72.0,7,62.9,max temp much warmer than neighbors
+2026-01-05,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,hot,59.0,4,49.4,max temp much warmer than neighbors
+2026-01-06,291002,BARTLEY,RAWS,SW10,hot,50.0,7,40.9,max temp much warmer than neighbors
+2026-01-06,293002,MAYHILL,RAWS,SW12,hot,64.0,8,55.8,max temp much warmer than neighbors
+2026-01-06,ASOS-BRG,Belen,ASOS,SW09,cold,44.2,8,56.1,max temp much colder than neighbors
+2026-01-07,291002,BARTLEY,RAWS,SW10,hot,51.0,7,42.9,max temp much warmer than neighbors
+2026-01-07,417105,PX WELL,RAWS,SW12,cold,62.0,3,71.0,max temp much colder than neighbors
+2026-01-07,ASOS-BRG,Belen,ASOS,SW09,cold,41.0,8,56.3,max temp much colder than neighbors
+2026-01-07,ASOS-DMA,Davis-Monthan Afb,ASOS,SW06S,hot,60.0,8,51.0,max temp much warmer than neighbors
+2026-01-08,21302,HOPKINS,RAWS,SW06S,cold,36.0,5,44.4,max temp much colder than neighbors
+2026-01-09,20310,MOUNTAIN LION,RAWS,SW08,hot,41.0,8,28.6,max temp much warmer than neighbors
+2026-01-09,21302,HOPKINS,RAWS,SW06S,rain_alone,0.57,8,0.02,rain no neighbor saw
+2026-01-09,290702,JEMEZ,RAWS,SW07,hot,35.0,8,26.2,max temp much warmer than neighbors
+2026-01-09,291501,MOUNTAINAIR,RAWS,SW11,hot,39.0,7,30.8,max temp much warmer than neighbors
+2026-01-09,ASOS-P08,Coolidge,ASOS,SW06N,cold,42.8,8,54.6,max temp much colder than neighbors
+2026-01-10,21207,RINCON,RAWS,SW06S,rain_alone,0.55,8,0.03,rain no neighbor saw
+2026-01-10,290401,CIMARRON,RAWS,SW10,hot,38.0,5,23.5,max temp much warmer than neighbors
+2026-01-10,ASOS-FMN,Farmington Regional,ASOS,SW04,cold,27.0,7,40.8,max temp much colder than neighbors
+2026-01-11,20212,DRY PARK,RAWS,SW01,hot,44.0,8,33.6,max temp much warmer than neighbors
+2026-01-11,20220,LINDBERGH HILL,RAWS,SW01,hot,46.0,8,33.3,max temp much warmer than neighbors
+2026-01-11,20291,HAPPY JACK,RAWS,SW05,cold,38.0,8,50.6,max temp much colder than neighbors
+2026-01-11,291408,SANDIA LAB,RAWS,SW11,bad_temp,147.0,0,,impossible temperature
+2026-01-11,291408,SANDIA LAB,RAWS,SW11,bad_rain,22.0,0,,impossible rain total
+2026-01-11,ASOS-BRG,Belen,ASOS,SW09,cold,29.7,8,49.1,max temp much colder than neighbors
+2026-01-11,ASOS-FMN,Farmington Regional,ASOS,SW04,cold,31.0,7,52.6,max temp much colder than neighbors
+2026-01-11,ASOS-GCN,Grand Canyon Park,ASOS,SW01,cold,37.0,6,49.9,max temp much colder than neighbors
+2026-01-11,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,cold,41.0,6,50.0,max temp much colder than neighbors
+2026-01-12,21104,GUTHRIE,RAWS,SW06S,cold,47.0,6,55.6,max temp much colder than neighbors
+2026-01-12,21302,HOPKINS,RAWS,SW06S,hot,69.0,6,49.4,max temp much warmer than neighbors
+2026-01-12,ASOS-FMN,Farmington Regional,ASOS,SW04,cold,34.0,7,52.8,max temp much colder than neighbors
+2026-01-13,20402,PINEY HILL,RAWS,SW04,hot,57.0,3,46.4,max temp much warmer than neighbors
+2026-01-13,21302,HOPKINS,RAWS,SW06S,hot,70.0,6,54.9,max temp much warmer than neighbors
+2026-01-13,ASOS-FMN,Farmington Regional,ASOS,SW04,cold,38.0,7,57.1,max temp much colder than neighbors
+2026-01-14,20215,MORMON LAKE,RAWS,SW05,cold,48.0,8,56.9,max temp much colder than neighbors
+2026-01-14,20291,HAPPY JACK,RAWS,SW05,cold,50.0,8,58.3,max temp much colder than neighbors
+2026-01-14,21302,HOPKINS,RAWS,SW06S,hot,70.0,6,58.2,max temp much warmer than neighbors
+2026-01-14,ASOS-FMN,Farmington Regional,ASOS,SW04,cold,47.0,7,58.8,max temp much colder than neighbors
+2026-01-15,21302,HOPKINS,RAWS,SW06S,hot,74.0,6,58.9,max temp much warmer than neighbors
+2026-01-15,291002,BARTLEY,RAWS,SW10,hot,58.0,7,45.9,max temp much warmer than neighbors
+2026-01-15,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,57.0,4,65.9,max temp much colder than neighbors
+2026-01-15,ASOS-P33,Wilcox,ASOS,SW06S,cold,60.8,5,70.2,max temp much colder than neighbors
+2026-01-16,20215,MORMON LAKE,RAWS,SW05,cold,49.0,8,57.9,max temp much colder than neighbors
+2026-01-16,21302,HOPKINS,RAWS,SW06S,hot,71.0,6,59.1,max temp much warmer than neighbors
+2026-01-17,20120,TRUXTON CANYON,RAWS,SW02,cold,50.0,4,58.7,max temp much colder than neighbors
+2026-01-17,21302,HOPKINS,RAWS,SW06S,hot,69.0,6,58.4,max temp much warmer than neighbors
+2026-01-17,417105,PX WELL,RAWS,SW12,hot,54.0,3,42.2,max temp much warmer than neighbors
+2026-01-17,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,30.0,4,40.1,max temp much colder than neighbors
+2026-01-17,ASOS-RTN,Raton/Crews Fld,ASOS,SW10,cold,30.0,5,40.6,max temp much colder than neighbors
+2026-01-18,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,60.4,max temp much warmer than neighbors
+2026-01-18,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,58.0,4,67.9,max temp much colder than neighbors
+2026-01-19,21302,HOPKINS,RAWS,SW06S,hot,75.0,6,64.1,max temp much warmer than neighbors
+2026-01-19,292102,CHUPADERA,RAWS,SW11,cold,46.0,5,54.3,max temp much colder than neighbors
+2026-01-20,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,58.3,max temp much warmer than neighbors
+2026-01-20,291002,BARTLEY,RAWS,SW10,hot,51.0,7,40.0,max temp much warmer than neighbors
+2026-01-20,291202,PECOS,RAWS,SW10,hot,53.0,8,44.4,max temp much warmer than neighbors
+2026-01-20,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,52.0,4,61.4,max temp much colder than neighbors
+2026-01-21,ASOS-ATS,Artesia,ASOS,SW14N,cold,52.0,4,60.3,max temp much colder than neighbors
+2026-01-21,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,47.0,4,61.2,max temp much colder than neighbors
+2026-01-21,ASOS-TYL,Taylor,ASOS,SW05,cold,50.0,7,58.2,max temp much colder than neighbors
+2026-01-22,21302,HOPKINS,RAWS,SW06S,hot,70.0,6,58.5,max temp much warmer than neighbors
+2026-01-22,291002,BARTLEY,RAWS,SW10,hot,53.0,7,43.0,max temp much warmer than neighbors
+2026-01-23,293104,CAPROCK,RAWS,SW14N,hot,50.0,3,36.8,max temp much warmer than neighbors
+2026-01-23,417105,PX WELL,RAWS,SW12,missed,0.0,4,0.52,no rain while most neighbors got rain
+2026-01-23,ASOS-AXX,Angel Fire,ASOS,SW10,hot,46.2,7,36.9,max temp much warmer than neighbors
+2026-01-23,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,hot,53.0,4,32.8,max temp much warmer than neighbors
+2026-01-23,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,30.0,4,42.9,max temp much colder than neighbors
+2026-01-24,293002,MAYHILL,RAWS,SW12,missed,0.0,6,0.89,no rain while most neighbors got rain
+2026-01-24,293004,COSMIC,RAWS,SW12,hot,34.0,3,24.1,max temp much warmer than neighbors
+2026-01-24,ASOS-CQC,Clines Corners,ASOS,SW11,cold,21.0,7,35.0,max temp much colder than neighbors
+2026-01-24,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,16.0,4,37.1,max temp much colder than neighbors
+2026-01-24,ASOS-ROW,Roswell/Industrial,ASOS,SW14N,rain_alone,0.64,3,0.0,rain no neighbor saw
+2026-01-24,ASOS-SAF,Santa Fe Co. Muni,ASOS,SW10,cold,29.0,8,37.3,max temp much colder than neighbors
+2026-01-24,ASOS-TYL,Taylor,ASOS,SW05,wet,1.55,7,0.24,far more rain than any neighbor
+2026-01-25,292203,SMOKEY BEAR,RAWS,SW12,hot,37.0,6,27.6,max temp much warmer than neighbors
+2026-01-26,20212,DRY PARK,RAWS,SW01,hot,46.0,8,37.1,max temp much warmer than neighbors
+2026-01-26,20220,LINDBERGH HILL,RAWS,SW01,hot,48.0,8,36.8,max temp much warmer than neighbors
+2026-01-26,21302,HOPKINS,RAWS,SW06S,hot,53.0,6,44.3,max temp much warmer than neighbors
+2026-01-26,291002,BARTLEY,RAWS,SW10,hot,39.0,7,26.9,max temp much warmer than neighbors
+2026-01-26,293104,CAPROCK,RAWS,SW14N,hot,33.0,3,17.3,max temp much warmer than neighbors
+2026-01-27,20220,LINDBERGH HILL,RAWS,SW01,hot,52.0,8,43.2,max temp much warmer than neighbors
+2026-01-27,21302,HOPKINS,RAWS,SW06S,hot,67.0,6,52.9,max temp much warmer than neighbors
+2026-01-27,293104,CAPROCK,RAWS,SW14N,hot,50.0,3,31.3,max temp much warmer than neighbors
+2026-01-27,ASOS-ATS,Artesia,ASOS,SW14N,cold,30.0,4,53.8,max temp much colder than neighbors
+2026-01-27,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,47.0,4,55.9,max temp much colder than neighbors
+2026-01-28,21302,HOPKINS,RAWS,SW06S,hot,65.0,6,55.0,max temp much warmer than neighbors
+2026-01-28,291002,BARTLEY,RAWS,SW10,hot,51.0,7,39.2,max temp much warmer than neighbors
+2026-01-28,292203,SMOKEY BEAR,RAWS,SW12,hot,54.0,7,45.4,max temp much warmer than neighbors
+2026-01-28,293002,MAYHILL,RAWS,SW12,hot,58.0,8,47.8,max temp much warmer than neighbors
+2026-01-28,293104,CAPROCK,RAWS,SW14N,hot,47.0,3,34.8,max temp much warmer than neighbors
+2026-01-28,ASOS-INW,Winslow (Aut),ASOS,SW04,cold,52.0,4,61.4,max temp much colder than neighbors
+2026-01-28,ASOS-ROW,Roswell/Industrial,ASOS,SW14N,cold,35.0,3,46.9,max temp much colder than neighbors
+2026-01-29,20291,HAPPY JACK,RAWS,SW05,cold,46.0,8,54.3,max temp much colder than neighbors
+2026-01-30,21302,HOPKINS,RAWS,SW06S,hot,68.0,6,54.6,max temp much warmer than neighbors
+2026-01-31,21302,HOPKINS,RAWS,SW06S,hot,67.0,6,57.9,max temp much warmer than neighbors
+2026-01-31,293002,MAYHILL,RAWS,SW12,hot,59.0,8,50.3,max temp much warmer than neighbors
+2026-01-31,293104,CAPROCK,RAWS,SW14N,hot,41.0,3,29.8,max temp much warmer than neighbors
+2026-01-31,ASOS-CVN,Clovis Muni,ASOS,SW13,cold,30.0,4,41.3,max temp much colder than neighbors
+2026-02-01,20212,DRY PARK,RAWS,SW01,hot,59.0,8,50.9,max temp much warmer than neighbors
+2026-02-01,21302,HOPKINS,RAWS,SW06S,hot,74.0,6,62.4,max temp much warmer than neighbors
+2026-02-01,291002,BARTLEY,RAWS,SW10,hot,58.0,7,48.5,max temp much warmer than neighbors
+2026-02-01,293104,CAPROCK,RAWS,SW14N,hot,55.0,3,41.3,max temp much warmer than neighbors
+2026-02-01,ASOS-ROW,Roswell/Industrial,ASOS,SW14N,cold,43.0,3,54.9,max temp much colder than neighbors
+2026-02-02,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,60.8,max temp much warmer than neighbors
+2026-02-02,292302,DUNKEN,RAWS,SW12,hot,69.0,7,59.8,max temp much warmer than neighbors
+2026-02-02,ASOS-HOB,Hobbs/Lea Co.,ASOS,SW14N,hot,82.0,5,66.3,max temp much warmer than neighbors
+2026-02-03,21302,HOPKINS,RAWS,SW06S,hot,74.0,6,61.8,max temp much warmer than neighbors
+2026-02-06,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,61.7,max temp much warmer than neighbors
+2026-02-07,21302,HOPKINS,RAWS,SW06S,hot,72.0,6,57.9,max temp much warmer than neighbors
+2026-02-07,291408,SANDIA LAB,RAWS,SW11,rain_alone,11.0,7,0.0,rain no neighbor saw
+2026-02-08,21302,HOPKINS,RAWS,SW06S,hot,77.0,6,61.7,max temp much warmer than neighbors
+2026-02-09,21302,HOPKINS,RAWS,SW06S,hot,76.0,6,64.9,max temp much warmer than neighbors
+2026-02-09,291002,BARTLEY,RAWS,SW10,hot,63.0,7,51.2,max temp much warmer than neighbors
+2026-02-10,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,60.7,max temp much warmer than neighbors
+2026-02-11,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,62.6,max temp much warmer than neighbors
+2026-02-12,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,59.8,max temp much warmer than neighbors
+2026-02-13,20220,LINDBERGH HILL,RAWS,SW01,hot,43.0,8,33.5,max temp much warmer than neighbors
+2026-02-13,ASOS-DMA,Davis-Monthan Afb,ASOS,SW06S,hot,74.0,8,63.9,max temp much warmer than neighbors
+2026-02-13,ASOS-IWA,Williams Afb/Chandl,ASOS,SW06N,hot,75.0,8,66.9,max temp much warmer than neighbors
+2026-02-13,ASOS-SOW,Show Low Municipal,ASOS,SW05,hot,59.0,8,44.8,max temp much warmer than neighbors
+2026-02-14,20220,LINDBERGH HILL,RAWS,SW01,hot,54.0,8,44.5,max temp much warmer than neighbors
+2026-02-14,21302,HOPKINS,RAWS,SW06S,hot,62.0,6,52.5,max temp much warmer than neighbors
+2026-02-16,293002,MAYHILL,RAWS,SW12,hot,75.0,8,66.2,max temp much warmer than neighbors
+2026-02-16,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,66.0,4,56.7,max temp much warmer than neighbors
+2026-02-17,291408,SANDIA LAB,RAWS,SW11,bad_rain,20.01,0,,impossible rain total
+2026-02-17,ASOS-FHU,Fort Huachuca/Libby,ASOS,SW06S,hot,64.0,7,55.3,max temp much warmer than neighbors
+2026-02-18,ASOS-FMN,Farmington Regional,ASOS,SW04,hot,50.0,7,40.1,max temp much warmer than neighbors
+2026-02-18,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,50.0,4,39.7,max temp much warmer than neighbors
+2026-02-19,20502,CROWN KING,RAWS,SW02,rain_alone,0.55,8,0.04,rain no neighbor saw
+2026-02-19,21302,HOPKINS,RAWS,SW06S,hot,58.0,6,49.1,max temp much warmer than neighbors
+2026-02-19,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,50.0,4,41.1,max temp much warmer than neighbors
+2026-02-19,ASOS-P52,Cottonwood,ASOS,SW02,cold,32.0,8,51.1,max temp much colder than neighbors
+2026-02-20,290101,WASHINGTON PASS,RAWS,SW04,cold,19.0,3,27.4,max temp much colder than neighbors
+2026-02-21,21302,HOPKINS,RAWS,SW06S,hot,72.0,6,56.7,max temp much warmer than neighbors
+2026-02-22,20207,TUSAYAN,RAWS,SW01,cold,48.0,7,57.6,max temp much colder than neighbors
+2026-02-22,21302,HOPKINS,RAWS,SW06S,hot,79.0,6,61.4,max temp much warmer than neighbors
+2026-02-23,21302,HOPKINS,RAWS,SW06S,hot,85.0,6,65.6,max temp much warmer than neighbors
+2026-02-23,291002,BARTLEY,RAWS,SW10,hot,61.0,7,50.2,max temp much warmer than neighbors
+2026-02-24,21302,HOPKINS,RAWS,SW06S,hot,83.0,6,70.0,max temp much warmer than neighbors
+2026-02-25,21302,HOPKINS,RAWS,SW06S,hot,83.0,6,70.0,max temp much warmer than neighbors
+2026-02-25,291408,SANDIA LAB,RAWS,SW11,rain_alone,8.0,7,0.0,rain no neighbor saw
+2026-02-26,21302,HOPKINS,RAWS,SW06S,hot,84.0,6,72.0,max temp much warmer than neighbors
+2026-02-27,21302,HOPKINS,RAWS,SW06S,hot,92.0,6,75.4,max temp much warmer than neighbors
+2026-02-27,291002,BARTLEY,RAWS,SW10,hot,65.0,7,56.9,max temp much warmer than neighbors
+2026-02-27,ASOS-DMA,Davis-Monthan Afb,ASOS,SW06S,hot,97.0,8,88.3,max temp much warmer than neighbors
+2026-02-28,21302,HOPKINS,RAWS,SW06S,hot,89.0,6,76.0,max temp much warmer than neighbors
+2026-03-01,21302,HOPKINS,RAWS,SW06S,hot,89.0,6,75.5,max temp much warmer than neighbors
+2026-03-02,21302,HOPKINS,RAWS,SW06S,hot,88.0,6,73.6,max temp much warmer than neighbors
+2026-03-03,21302,HOPKINS,RAWS,SW06S,hot,85.0,6,68.6,max temp much warmer than neighbors
+2026-03-04,21302,HOPKINS,RAWS,SW06S,hot,75.0,6,65.6,max temp much warmer than neighbors
+2026-03-05,21302,HOPKINS,RAWS,SW06S,hot,74.0,6,63.6,max temp much warmer than neighbors
+2026-03-06,21302,HOPKINS,RAWS,SW06S,hot,68.0,6,53.5,max temp much warmer than neighbors
+2026-03-06,ASOS-GNT,Grants-Milan Muni,ASOS,SW07,hot,58.0,6,48.7,max temp much warmer than neighbors
+2026-03-07,21302,HOPKINS,RAWS,SW06S,hot,68.0,6,58.9,max temp much warmer than neighbors
+2026-03-11,ASOS-CQC,Clines Corners,ASOS,SW11,cold,55.0,7,64.1,max temp much colder than neighbors
+2026-03-12,21302,HOPKINS,RAWS,SW06S,hot,87.0,6,70.5,max temp much warmer than neighbors
+2026-03-13,21302,HOPKINS,RAWS,SW06S,hot,90.0,6,73.8,max temp much warmer than neighbors
+2026-03-14,21302,HOPKINS,RAWS,SW06S,hot,81.0,6,71.1,max temp much warmer than neighbors
+2026-03-15,21302,HOPKINS,RAWS,SW06S,hot,86.0,6,69.0,max temp much warmer than neighbors
+2026-03-15,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,hot,77.0,4,65.8,max temp much warmer than neighbors
+2026-03-16,ASOS-HMN,Holloman Afb,ASOS,SW09,hot,77.0,5,63.0,max temp much warmer than neighbors
+2026-03-16,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,47.0,4,57.6,max temp much colder than neighbors
+2026-03-17,21302,HOPKINS,RAWS,SW06S,hot,94.0,6,77.0,max temp much warmer than neighbors
+2026-03-17,291408,SANDIA LAB,RAWS,SW11,bad_rain,29.0,0,,impossible rain total
+2026-03-17,293004,COSMIC,RAWS,SW12,cold,56.0,3,65.0,max temp much colder than neighbors
+2026-03-18,291408,SANDIA LAB,RAWS,SW11,rain_alone,6.0,7,0.0,rain no neighbor saw
+2026-03-19,21302,HOPKINS,RAWS,SW06S,hot,101.0,6,84.0,max temp much warmer than neighbors
+2026-03-20,21302,HOPKINS,RAWS,SW06S,hot,100.0,6,85.3,max temp much warmer than neighbors
+2026-03-20,291408,SANDIA LAB,RAWS,SW11,rain_alone,6.0,7,0.0,rain no neighbor saw
+2026-03-21,20118,HAVASU,RAWS,SW02,cold,96.0,5,104.9,max temp much colder than neighbors
+2026-03-21,21302,HOPKINS,RAWS,SW06S,hot,99.0,6,85.4,max temp much warmer than neighbors
+2026-03-22,21302,HOPKINS,RAWS,SW06S,hot,94.0,6,82.1,max temp much warmer than neighbors
+2026-03-23,21302,HOPKINS,RAWS,SW06S,hot,96.0,6,79.6,max temp much warmer than neighbors
+2026-03-24,21302,HOPKINS,RAWS,SW06S,hot,95.0,6,80.1,max temp much warmer than neighbors
+2026-03-25,21302,HOPKINS,RAWS,SW06S,hot,95.0,6,79.8,max temp much warmer than neighbors
+2026-03-26,21302,HOPKINS,RAWS,SW06S,hot,95.0,6,80.1,max temp much warmer than neighbors
+2026-03-27,21302,HOPKINS,RAWS,SW06S,hot,99.0,6,82.1,max temp much warmer than neighbors
+2026-03-27,293004,COSMIC,RAWS,SW12,hot,58.0,3,44.7,max temp much warmer than neighbors
+2026-03-27,293104,CAPROCK,RAWS,SW14N,hot,73.0,4,63.7,max temp much warmer than neighbors
+2026-03-27,ASOS-CQC,Clines Corners,ASOS,SW11,hot,79.0,7,56.3,max temp much warmer than neighbors
+2026-03-27,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,hot,65.0,4,56.4,max temp much warmer than neighbors
+2026-03-28,21302,HOPKINS,RAWS,SW06S,hot,92.0,6,66.5,max temp much warmer than neighbors
+2026-03-28,292504,BURRO MOUNTAIN,RAWS,SW08,hot,70.0,4,61.6,max temp much warmer than neighbors
+2026-03-28,ASOS-GNT,Grants-Milan Muni,ASOS,SW07,cold,68.0,6,76.5,max temp much colder than neighbors
+2026-03-28,ASOS-OLS,Nogales Intl Airport,ASOS,SW06S,hot,86.0,7,77.8,max temp much warmer than neighbors
+2026-03-29,ASOS-FHU,Fort Huachuca/Libby,ASOS,SW06S,cold,74.7,7,83.7,max temp much colder than neighbors
+2026-03-30,21302,HOPKINS,RAWS,SW06S,hot,89.0,6,70.5,max temp much warmer than neighbors
+2026-03-31,21302,HOPKINS,RAWS,SW06S,hot,83.0,6,70.3,max temp much warmer than neighbors
+2026-04-01,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,61.1,max temp much warmer than neighbors
+2026-04-01,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,missed,0.0,4,0.51,no rain while most neighbors got rain
+2026-04-02,21302,HOPKINS,RAWS,SW06S,hot,79.0,6,67.5,max temp much warmer than neighbors
+2026-04-02,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,72.0,4,61.2,max temp much warmer than neighbors
+2026-04-03,20502,CROWN KING,RAWS,SW02,hot,71.0,7,62.4,max temp much warmer than neighbors
+2026-04-03,21302,HOPKINS,RAWS,SW06S,hot,83.0,6,68.5,max temp much warmer than neighbors
+2026-04-04,21302,HOPKINS,RAWS,SW06S,hot,80.0,6,70.1,max temp much warmer than neighbors
+2026-04-04,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,hot,76.0,4,66.3,max temp much warmer than neighbors
+2026-04-04,ASOS-HMN,Holloman Afb,ASOS,SW09,hot,80.0,5,68.0,max temp much warmer than neighbors
+2026-04-06,21302,HOPKINS,RAWS,SW06S,hot,71.0,6,62.9,max temp much warmer than neighbors
+2026-04-06,ASOS-RYN,Tucson/Ryan Fld,ASOS,SW06S,hot,95.0,8,82.5,max temp much warmer than neighbors
+2026-04-06,ASOS-SOW,Show Low Municipal,ASOS,SW05,hot,70.0,8,59.6,max temp much warmer than neighbors
+2026-04-07,21302,HOPKINS,RAWS,SW06S,hot,80.0,6,67.1,max temp much warmer than neighbors
+2026-04-08,21302,HOPKINS,RAWS,SW06S,hot,90.0,6,73.6,max temp much warmer than neighbors
+2026-04-09,21302,HOPKINS,RAWS,SW06S,hot,87.0,6,74.9,max temp much warmer than neighbors
+2026-04-14,21302,HOPKINS,RAWS,SW06S,hot,75.0,6,61.6,max temp much warmer than neighbors
 2026-11-08,291408,SANDIA LAB,RAWS,SW11,bad_rain,14.34,0,,impossible rain total
 2026-11-11,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.34,6,0.0,rain no neighbor saw
 2026-11-14,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,60.0,4,51.7,max temp much warmer than neighbors
@@ -1991,4 +2256,3 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-17,ASOS-GCN,Grand Canyon Park,ASOS,SW01,missed,0.0,5,0.63,no rain while most neighbors got rain
 2026-11-17,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,62.0,4,52.7,max temp much warmer than neighbors
 2026-11-19,ASOS-BRG,Belen,ASOS,SW09,cold,54.5,8,63.1,max temp much colder than neighbors
-2026-11-19,ASOS-SJN,St. Johns Air Park,ASOS,SW08,hot,70.0,8,61.6,max temp much warmer than neighbors

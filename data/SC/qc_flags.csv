@@ -6780,6 +6780,657 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-12-15,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,73.0,8,59.0,max temp much warmer than neighbors
 2025-12-15,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,79.8,max temp much colder than neighbors
 2025-12-15,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,66.0,8,79.5,max temp much colder than neighbors
+2025-12-16,44003,LOS BANOS,RAWS,SC06,cold,50.0,8,68.0,max temp much colder than neighbors
+2025-12-16,44114,CATHEYS VALLEY,RAWS,SC04,cold,49.0,8,71.8,max temp much colder than neighbors
+2025-12-16,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,60.0,6,80.3,max temp much colder than neighbors
+2025-12-16,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,80.0,max temp much colder than neighbors
+2025-12-16,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,61.0,8,80.0,max temp much colder than neighbors
+2025-12-17,44003,LOS BANOS,RAWS,SC06,cold,59.0,8,71.2,max temp much colder than neighbors
+2025-12-17,44114,CATHEYS VALLEY,RAWS,SC04,cold,60.0,8,71.4,max temp much colder than neighbors
+2025-12-17,44602,KETTLEMAN HILLS,RAWS,SC05,cold,52.0,8,70.0,max temp much colder than neighbors
+2025-12-17,45452,MALIBU CANYON,RAWS,SC08,cold,70.0,8,79.4,max temp much colder than neighbors
+2025-12-17,55522261,EUREKA VALLEY,RAWS,SC16,cold,64.0,4,80.3,max temp much colder than neighbors
+2025-12-17,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,72.0,8,60.3,max temp much warmer than neighbors
+2025-12-17,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,78.5,max temp much colder than neighbors
+2025-12-17,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,63.3,8,72.7,max temp much colder than neighbors
+2025-12-18,45017,PIUTES,RAWS,SC03,hot,66.0,8,55.6,max temp much warmer than neighbors
+2025-12-18,45448,WHITAKER PEAK,RAWS,SC09,rain_alone,6.17,8,0.0,rain no neighbor saw
+2025-12-18,55522323,MOUNTAIN SPRINGS GRADE,RAWS,SC11,cold,78.0,8,87.8,max temp much colder than neighbors
+2025-12-18,ASOS-EDW,Edwards Afb,ASOS,SC15,cold,67.0,8,75.9,max temp much colder than neighbors
+2025-12-18,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,70.0,8,81.6,max temp much colder than neighbors
+2025-12-18,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,67.0,6,83.9,max temp much colder than neighbors
+2025-12-18,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,71.0,8,85.7,max temp much colder than neighbors
+2025-12-19,45303,OZENA,RAWS,SC09,hot,79.0,8,66.0,max temp much warmer than neighbors
+2025-12-19,45509,ALISO LAGUNA,RAWS,SC08,cold,70.0,8,78.3,max temp much colder than neighbors
+2025-12-19,55522261,EUREKA VALLEY,RAWS,SC16,cold,60.0,4,72.5,max temp much colder than neighbors
+2025-12-19,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,85.4,max temp much colder than neighbors
+2025-12-20,45113,DEVORE,RAWS,SC08,hot,74.0,8,64.9,max temp much warmer than neighbors
+2025-12-20,45303,OZENA,RAWS,SC09,hot,73.0,8,60.0,max temp much warmer than neighbors
+2025-12-20,45509,ALISO LAGUNA,RAWS,SC08,cold,59.0,8,67.4,max temp much colder than neighbors
+2025-12-20,45619,EL CARISO,RAWS,SC08,hot,71.0,8,61.1,max temp much warmer than neighbors
+2025-12-20,45624,CLARK,RAWS,SC08,hot,75.0,8,65.4,max temp much warmer than neighbors
+2025-12-20,55522261,EUREKA VALLEY,RAWS,SC16,cold,65.0,4,74.0,max temp much colder than neighbors
+2025-12-20,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,78.5,max temp much colder than neighbors
+2025-12-21,44302,BIG SUR,RAWS,SC07,rain_alone,0.73,8,0.03,rain no neighbor saw
+2025-12-21,45303,OZENA,RAWS,SC09,hot,74.0,8,58.7,max temp much warmer than neighbors
+2025-12-21,45509,ALISO LAGUNA,RAWS,SC08,cold,62.0,8,76.3,max temp much colder than neighbors
+2025-12-21,45619,EL CARISO,RAWS,SC08,hot,79.0,8,70.2,max temp much warmer than neighbors
+2025-12-21,55522261,EUREKA VALLEY,RAWS,SC16,cold,60.0,4,79.9,max temp much colder than neighbors
+2025-12-21,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,64.0,8,75.0,max temp much colder than neighbors
+2025-12-21,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,79.2,max temp much colder than neighbors
+2025-12-22,45457,CATALINA ISLAND,RAWS,SC08,hot,72.0,8,60.2,max temp much warmer than neighbors
+2025-12-22,55522323,MOUNTAIN SPRINGS GRADE,RAWS,SC11,cold,74.0,8,83.1,max temp much colder than neighbors
+2025-12-22,ASOS-EED,Needles Airport,ASOS,SC13,cold,62.0,6,74.4,max temp much colder than neighbors
+2025-12-23,45303,OZENA,RAWS,SC09,hot,60.0,8,52.0,max temp much warmer than neighbors
+2025-12-23,45426,WARM SPRINGS,RAWS,SC09,bad_temp,139.0,0,,impossible temperature
+2025-12-23,ASOS-NID,China Lake (Naf),ASOS,SC15,cold,55.0,8,63.7,max temp much colder than neighbors
+2025-12-24,43612,WWOLF,RAWS,SC02,missed,0.0,8,2.82,no rain while most neighbors got rain
+2025-12-24,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,3.29,no rain while most neighbors got rain
+2025-12-24,44719,CEDAR GROVE,RAWS,SC03,cold,41.0,8,52.7,max temp much colder than neighbors
+2025-12-24,44809,HUNTER MOUNTAIN,RAWS,SC16,wet,4.97,3,1.09,far more rain than any neighbor
+2025-12-24,45426,WARM SPRINGS,RAWS,SC09,hot,135.0,8,49.4,max temp much warmer than neighbors
+2025-12-24,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,3.41,no rain while most neighbors got rain
+2025-12-24,45510,CHINO HILLS,RAWS,SC08,missed,0.0,8,1.39,no rain while most neighbors got rain
+2025-12-24,45731,CASE SPRINGS,RAWS,SC08,missed,0.0,8,0.89,no rain while most neighbors got rain
+2025-12-24,55522348,PURISIMA HILLS,RAWS,SC07,missed,0.0,8,1.69,no rain while most neighbors got rain
+2025-12-24,ASOS-DAG,Barstow-Daggett,ASOS,SC14,hot,72.0,6,62.8,max temp much warmer than neighbors
+2025-12-24,ASOS-L08,Borrego Springs,ASOS,SC12,cold,60.8,8,71.3,max temp much colder than neighbors
+2025-12-25,109702,SANTA BARBARA,RAWS,SC08,missed,0.0,8,0.64,no rain while most neighbors got rain
+2025-12-25,43612,WWOLF,RAWS,SC02,missed,0.0,8,1.39,no rain while most neighbors got rain
+2025-12-25,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,1.46,no rain while most neighbors got rain
+2025-12-25,45125,BURNS CANYON,RAWS,SC10,hot,52.0,8,43.9,max temp much warmer than neighbors
+2025-12-25,45426,WARM SPRINGS,RAWS,SC09,hot,128.0,8,44.5,max temp much warmer than neighbors
+2025-12-25,55522261,EUREKA VALLEY,RAWS,SC16,missed,0.0,5,0.72,no rain while most neighbors got rain
+2025-12-25,55522324,MT. SAN JACINTO,RAWS,SC11,hot,44.0,6,34.9,max temp much warmer than neighbors
+2025-12-25,55522348,PURISIMA HILLS,RAWS,SC07,missed,0.0,8,0.76,no rain while most neighbors got rain
+2025-12-25,ASOS-BLH,Blythe Airport,ASOS,SC13,cold,62.0,3,75.9,max temp much colder than neighbors
+2025-12-25,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,72.6,max temp much colder than neighbors
+2025-12-26,43612,WWOLF,RAWS,SC02,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-12-26,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,0.8,no rain while most neighbors got rain
+2025-12-26,44809,HUNTER MOUNTAIN,RAWS,SC16,wet,1.64,3,0.17,far more rain than any neighbor
+2025-12-26,45125,BURNS CANYON,RAWS,SC10,hot,52.0,8,40.2,max temp much warmer than neighbors
+2025-12-26,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,1.39,no rain while most neighbors got rain
+2025-12-26,45510,CHINO HILLS,RAWS,SC08,missed,0.0,8,0.65,no rain while most neighbors got rain
+2025-12-26,45731,CASE SPRINGS,RAWS,SC08,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-12-26,ASOS-NFG,Camp Pendleton Mcas,ASOS,SC08,missed,0.0,8,0.57,no rain while most neighbors got rain
+2025-12-26,ASOS-NTD,Pt Mugu Naws,ASOS,SC08,missed,0.0,8,0.94,no rain while most neighbors got rain
+2025-12-26,ASOS-O26,Lone Pine,ASOS,SC16,hot,57.2,7,48.1,max temp much warmer than neighbors
+2025-12-26,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,69.1,max temp much colder than neighbors
+2025-12-27,44722,BLACKROCK,RAWS,SC03,hot,46.0,8,32.1,max temp much warmer than neighbors
+2025-12-27,45303,OZENA,RAWS,SC09,cold,44.0,8,52.5,max temp much colder than neighbors
+2025-12-27,45426,WARM SPRINGS,RAWS,SC09,hot,133.0,8,45.1,max temp much warmer than neighbors
+2025-12-27,ASOS-SCK,Stockton Metro,ASOS,SC05,hot,62.0,8,52.5,max temp much warmer than neighbors
+2025-12-27,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,66.6,max temp much colder than neighbors
+2025-12-28,45009,BRECKENRIDGE,RAWS,SC03,hot,49.0,8,40.6,max temp much warmer than neighbors
+2025-12-28,45105,CONVERSE,RAWS,SC10,hot,55.0,8,46.9,max temp much warmer than neighbors
+2025-12-28,45426,WARM SPRINGS,RAWS,SC09,bad_temp,145.0,0,,impossible temperature
+2025-12-28,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,23.0,8,41.0,max temp much colder than neighbors
+2025-12-28,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,71.6,max temp much colder than neighbors
+2025-12-29,43710,ROCK CREEK,RAWS,SC01,cold,30.0,8,44.8,max temp much colder than neighbors
+2025-12-29,44003,LOS BANOS,RAWS,SC06,cold,46.0,8,61.5,max temp much colder than neighbors
+2025-12-29,44114,CATHEYS VALLEY,RAWS,SC04,cold,48.0,8,64.7,max temp much colder than neighbors
+2025-12-29,44203,MINARETS,RAWS,SC02,hot,62.0,8,52.8,max temp much warmer than neighbors
+2025-12-29,45105,CONVERSE,RAWS,SC10,hot,57.0,8,47.3,max temp much warmer than neighbors
+2025-12-29,45426,WARM SPRINGS,RAWS,SC09,cold,33.0,8,48.9,max temp much colder than neighbors
+2025-12-29,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,19.4,8,44.7,max temp much colder than neighbors
+2025-12-29,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,74.1,max temp much colder than neighbors
+2025-12-29,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,73.0,max temp much colder than neighbors
+2025-12-30,43710,ROCK CREEK,RAWS,SC01,cold,26.0,8,44.3,max temp much colder than neighbors
+2025-12-30,44003,LOS BANOS,RAWS,SC06,cold,46.0,8,56.9,max temp much colder than neighbors
+2025-12-30,44112,EL PORTAL,RAWS,SC02,cold,54.0,8,62.8,max temp much colder than neighbors
+2025-12-30,45426,WARM SPRINGS,RAWS,SC09,cold,32.0,8,48.9,max temp much colder than neighbors
+2025-12-30,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,26.6,8,44.2,max temp much colder than neighbors
+2025-12-30,ASOS-NUC,San Clemente (Awos),ASOS,SC08,hot,122.0,6,73.4,max temp much warmer than neighbors
+2025-12-30,ASOS-TRM,Thermal Airport,ASOS,SC12,cold,1.0,8,74.2,max temp much colder than neighbors
+2025-12-31,44302,BIG SUR,RAWS,SC07,hot,67.0,8,55.9,max temp much warmer than neighbors
+2025-12-31,44319,HASTINGS,RAWS,SC07,hot,61.0,8,50.5,max temp much warmer than neighbors
+2025-12-31,44521,DINKEY,RAWS,SC02,cold,43.0,8,52.9,max temp much colder than neighbors
+2025-12-31,44917,SAN SIMEON,RAWS,SC07,hot,69.0,8,57.2,max temp much warmer than neighbors
+2025-12-31,45426,WARM SPRINGS,RAWS,SC09,hot,121.0,8,47.4,max temp much warmer than neighbors
+2025-12-31,45438,ACTON,RAWS,SC09,cold,54.0,8,63.2,max temp much colder than neighbors
+2025-12-31,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,0.52,no rain while most neighbors got rain
+2025-12-31,45452,MALIBU CANYON,RAWS,SC08,cold,58.0,8,68.4,max temp much colder than neighbors
+2025-12-31,ASOS-NID,China Lake (Naf),ASOS,SC15,cold,49.0,8,58.1,max temp much colder than neighbors
+2025-12-31,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,64.0,8,72.3,max temp much colder than neighbors
+2026-01-01,109702,SANTA BARBARA,RAWS,SC08,missed,0.0,8,0.86,no rain while most neighbors got rain
+2026-01-01,45125,BURNS CANYON,RAWS,SC10,hot,55.0,8,46.2,max temp much warmer than neighbors
+2026-01-01,45426,WARM SPRINGS,RAWS,SC09,hot,108.0,8,47.0,max temp much warmer than neighbors
+2026-01-01,45438,ACTON,RAWS,SC09,missed,0.0,8,1.03,no rain while most neighbors got rain
+2026-01-01,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,1.23,no rain while most neighbors got rain
+2026-01-01,45510,CHINO HILLS,RAWS,SC08,missed,0.0,8,0.92,no rain while most neighbors got rain
+2026-01-01,45614,LOST HORSE,RAWS,SC14,hot,54.0,8,45.5,max temp much warmer than neighbors
+2026-01-01,55522314,MEANS LAKE,RAWS,SC14,missed,0.0,8,0.52,no rain while most neighbors got rain
+2026-01-01,ASOS-IPL,Imperial,ASOS,SC12,missed,0.0,4,0.55,no rain while most neighbors got rain
+2026-01-01,ASOS-L08,Borrego Springs,ASOS,SC12,cold,55.4,8,65.2,max temp much colder than neighbors
+2026-01-01,ASOS-NFG,Camp Pendleton Mcas,ASOS,SC08,missed,0.0,8,0.6,no rain while most neighbors got rain
+2026-01-02,44302,BIG SUR,RAWS,SC07,wet,1.45,8,0.34,far more rain than any neighbor
+2026-01-02,45013,JAWBONE,RAWS,SC03,cold,43.0,8,51.7,max temp much colder than neighbors
+2026-01-02,45426,WARM SPRINGS,RAWS,SC09,bad_temp,141.0,0,,impossible temperature
+2026-01-03,109702,SANTA BARBARA,RAWS,SC08,missed,0.0,8,0.56,no rain while most neighbors got rain
+2026-01-03,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,1.62,no rain while most neighbors got rain
+2026-01-03,44719,CEDAR GROVE,RAWS,SC03,cold,41.0,8,49.7,max temp much colder than neighbors
+2026-01-03,45423,VALYERMO,RAWS,SC09,hot,63.0,8,52.1,max temp much warmer than neighbors
+2026-01-03,55522324,MT. SAN JACINTO,RAWS,SC11,hot,51.0,6,39.7,max temp much warmer than neighbors
+2026-01-03,55522348,PURISIMA HILLS,RAWS,SC07,missed,0.0,8,1.49,no rain while most neighbors got rain
+2026-01-04,43612,WWOLF,RAWS,SC02,missed,0.0,8,1.73,no rain while most neighbors got rain
+2026-01-04,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,1.11,no rain while most neighbors got rain
+2026-01-04,44713,PARK RIDGE,RAWS,SC03,missed,0.0,8,0.74,no rain while most neighbors got rain
+2026-01-04,45426,WARM SPRINGS,RAWS,SC09,hot,66.0,8,42.2,max temp much warmer than neighbors
+2026-01-04,45731,CASE SPRINGS,RAWS,SC08,missed,0.0,8,0.6,no rain while most neighbors got rain
+2026-01-04,55522324,MT. SAN JACINTO,RAWS,SC11,hot,42.0,6,33.2,max temp much warmer than neighbors
+2026-01-04,ASOS-NFG,Camp Pendleton Mcas,ASOS,SC08,missed,0.0,8,0.84,no rain while most neighbors got rain
+2026-01-04,ASOS-O26,Lone Pine,ASOS,SC16,hot,55.4,7,45.7,max temp much warmer than neighbors
+2026-01-05,43210,COTTAGE,RAWS,SC02,cold,32.0,8,42.0,max temp much colder than neighbors
+2026-01-05,45426,WARM SPRINGS,RAWS,SC09,bad_temp,148.0,0,,impossible temperature
+2026-01-05,45433,MALIBU HILLS,RAWS,SC08,hot,68.0,8,59.0,max temp much warmer than neighbors
+2026-01-05,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,30.2,8,41.2,max temp much colder than neighbors
+2026-01-06,44713,PARK RIDGE,RAWS,SC03,rain_alone,0.56,8,0.0,rain no neighbor saw
+2026-01-06,45426,WARM SPRINGS,RAWS,SC09,hot,104.0,8,45.6,max temp much warmer than neighbors
+2026-01-06,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,30.2,8,41.2,max temp much colder than neighbors
+2026-01-07,45303,OZENA,RAWS,SC09,cold,48.0,8,56.0,max temp much colder than neighbors
+2026-01-07,45426,WARM SPRINGS,RAWS,SC09,bad_temp,138.0,0,,impossible temperature
+2026-01-07,ASOS-9L2,Edwards N-Aux,ASOS,SC15,cold,39.7,8,56.5,max temp much colder than neighbors
+2026-01-08,45426,WARM SPRINGS,RAWS,SC09,hot,100.0,8,39.5,max temp much warmer than neighbors
+2026-01-09,44319,HASTINGS,RAWS,SC07,hot,63.0,8,54.9,max temp much warmer than neighbors
+2026-01-09,45105,CONVERSE,RAWS,SC10,hot,46.0,8,37.9,max temp much warmer than neighbors
+2026-01-09,45426,WARM SPRINGS,RAWS,SC09,bad_temp,150.0,0,,impossible temperature
+2026-01-09,55522324,MT. SAN JACINTO,RAWS,SC11,hot,35.0,6,26.3,max temp much warmer than neighbors
+2026-01-09,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,28.4,8,42.9,max temp much colder than neighbors
+2026-01-10,43710,ROCK CREEK,RAWS,SC01,cold,32.0,8,48.4,max temp much colder than neighbors
+2026-01-10,45105,CONVERSE,RAWS,SC10,hot,56.0,8,46.2,max temp much warmer than neighbors
+2026-01-10,45426,WARM SPRINGS,RAWS,SC09,hot,76.0,8,46.2,max temp much warmer than neighbors
+2026-01-10,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,21.2,8,48.3,max temp much colder than neighbors
+2026-01-11,109703,ANACAPA ISLAND,RAWS,SC08,cold,65.0,8,73.4,max temp much colder than neighbors
+2026-01-11,43615,PINECREST 2,RAWS,SC02,hot,67.0,8,58.3,max temp much warmer than neighbors
+2026-01-11,43710,ROCK CREEK,RAWS,SC01,cold,34.0,8,53.2,max temp much colder than neighbors
+2026-01-11,44722,BLACKROCK,RAWS,SC03,hot,61.0,8,49.3,max temp much warmer than neighbors
+2026-01-11,45105,CONVERSE,RAWS,SC10,hot,65.0,8,52.8,max temp much warmer than neighbors
+2026-01-11,45426,WARM SPRINGS,RAWS,SC09,bad_temp,147.0,0,,impossible temperature
+2026-01-11,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,26.6,8,53.1,max temp much colder than neighbors
+2026-01-12,43710,ROCK CREEK,RAWS,SC01,cold,37.0,8,55.2,max temp much colder than neighbors
+2026-01-12,45426,WARM SPRINGS,RAWS,SC09,bad_temp,149.0,0,,impossible temperature
+2026-01-12,55522261,EUREKA VALLEY,RAWS,SC16,cold,57.0,4,67.9,max temp much colder than neighbors
+2026-01-12,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,28.4,8,55.2,max temp much colder than neighbors
+2026-01-13,109703,ANACAPA ISLAND,RAWS,SC08,cold,70.0,8,78.8,max temp much colder than neighbors
+2026-01-13,43710,ROCK CREEK,RAWS,SC01,cold,40.0,8,59.3,max temp much colder than neighbors
+2026-01-13,45225,TEPUSQUET,RAWS,SC09,hot,77.0,8,68.0,max temp much warmer than neighbors
+2026-01-13,55522261,EUREKA VALLEY,RAWS,SC16,cold,60.0,4,71.4,max temp much colder than neighbors
+2026-01-13,55522348,PURISIMA HILLS,RAWS,SC07,bad_rain,13.25,0,,impossible rain total
+2026-01-13,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,30.2,8,59.2,max temp much colder than neighbors
+2026-01-13,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,68.0,6,77.3,max temp much colder than neighbors
+2026-01-14,109703,ANACAPA ISLAND,RAWS,SC08,cold,69.0,8,83.1,max temp much colder than neighbors
+2026-01-14,43710,ROCK CREEK,RAWS,SC01,cold,48.0,8,61.5,max temp much colder than neighbors
+2026-01-14,44114,CATHEYS VALLEY,RAWS,SC04,cold,63.0,8,77.8,max temp much colder than neighbors
+2026-01-14,44520,HIGH SIERRA,RAWS,SC02,cold,51.0,8,63.0,max temp much colder than neighbors
+2026-01-14,45426,WARM SPRINGS,RAWS,SC09,bad_temp,149.0,0,,impossible temperature
+2026-01-14,45439,HENNINGER FLATS,RAWS,SC08,bad_rain,12.4,0,,impossible rain total
+2026-01-14,45749,WIRE MOUNTAIN,RAWS,SC08,cold,74.0,8,84.8,max temp much colder than neighbors
+2026-01-14,55522261,EUREKA VALLEY,RAWS,SC16,cold,66.0,4,76.4,max temp much colder than neighbors
+2026-01-14,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,33.8,8,61.4,max temp much colder than neighbors
+2026-01-14,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,68.0,6,83.1,max temp much colder than neighbors
+2026-01-14,ASOS-OKB,Oceanside Municipal (Was L32),ASOS,SC08,cold,76.0,8,85.5,max temp much colder than neighbors
+2026-01-15,43710,ROCK CREEK,RAWS,SC01,cold,45.0,8,61.1,max temp much colder than neighbors
+2026-01-15,44003,LOS BANOS,RAWS,SC06,cold,62.0,8,72.2,max temp much colder than neighbors
+2026-01-15,44114,CATHEYS VALLEY,RAWS,SC04,cold,65.0,8,79.8,max temp much colder than neighbors
+2026-01-15,45426,WARM SPRINGS,RAWS,SC09,bad_temp,148.0,0,,impossible temperature
+2026-01-15,45433,MALIBU HILLS,RAWS,SC08,hot,88.0,8,78.2,max temp much warmer than neighbors
+2026-01-15,55522261,EUREKA VALLEY,RAWS,SC16,cold,60.0,4,75.4,max temp much colder than neighbors
+2026-01-15,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,37.4,8,61.0,max temp much colder than neighbors
+2026-01-15,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,69.0,8,81.6,max temp much colder than neighbors
+2026-01-15,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,70.0,6,80.9,max temp much colder than neighbors
+2026-01-16,43710,ROCK CREEK,RAWS,SC01,cold,46.0,8,57.3,max temp much colder than neighbors
+2026-01-16,44003,LOS BANOS,RAWS,SC06,cold,62.0,8,72.7,max temp much colder than neighbors
+2026-01-16,44114,CATHEYS VALLEY,RAWS,SC04,cold,63.0,8,77.7,max temp much colder than neighbors
+2026-01-16,45426,WARM SPRINGS,RAWS,SC09,bad_temp,136.0,0,,impossible temperature
+2026-01-16,55522261,EUREKA VALLEY,RAWS,SC16,cold,60.0,4,71.8,max temp much colder than neighbors
+2026-01-16,ASOS-9L2,Edwards N-Aux,ASOS,SC15,cold,35.2,8,69.8,max temp much colder than neighbors
+2026-01-16,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,33.8,8,57.2,max temp much colder than neighbors
+2026-01-16,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,64.0,6,79.8,max temp much colder than neighbors
+2026-01-17,109703,ANACAPA ISLAND,RAWS,SC08,cold,71.0,8,81.1,max temp much colder than neighbors
+2026-01-17,43710,ROCK CREEK,RAWS,SC01,cold,44.0,8,59.2,max temp much colder than neighbors
+2026-01-17,44003,LOS BANOS,RAWS,SC06,cold,57.0,8,70.7,max temp much colder than neighbors
+2026-01-17,44004,SAN LUIS NWR,RAWS,SC05,cold,49.0,8,70.7,max temp much colder than neighbors
+2026-01-17,44114,CATHEYS VALLEY,RAWS,SC04,cold,65.0,8,78.3,max temp much colder than neighbors
+2026-01-17,45105,CONVERSE,RAWS,SC10,hot,70.0,8,59.8,max temp much warmer than neighbors
+2026-01-17,45426,WARM SPRINGS,RAWS,SC09,bad_temp,141.0,0,,impossible temperature
+2026-01-17,55522261,EUREKA VALLEY,RAWS,SC16,cold,63.0,4,72.4,max temp much colder than neighbors
+2026-01-17,ASOS-BFL,Bakersfield/Meadows,ASOS,SC05,cold,58.0,8,76.4,max temp much colder than neighbors
+2026-01-17,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,32.0,8,59.1,max temp much colder than neighbors
+2026-01-17,ASOS-PRB,Paso Robles,ASOS,SC06,cold,68.0,8,77.5,max temp much colder than neighbors
+2026-01-18,44003,LOS BANOS,RAWS,SC06,cold,55.0,8,71.9,max temp much colder than neighbors
+2026-01-18,44114,CATHEYS VALLEY,RAWS,SC04,cold,60.0,8,76.7,max temp much colder than neighbors
+2026-01-18,45426,WARM SPRINGS,RAWS,SC09,bad_temp,146.0,0,,impossible temperature
+2026-01-18,45433,MALIBU HILLS,RAWS,SC08,hot,86.0,8,74.8,max temp much warmer than neighbors
+2026-01-18,55522323,MOUNTAIN SPRINGS GRADE,RAWS,SC11,cold,72.0,8,81.5,max temp much colder than neighbors
+2026-01-19,44003,LOS BANOS,RAWS,SC06,cold,47.0,8,69.3,max temp much colder than neighbors
+2026-01-19,44004,SAN LUIS NWR,RAWS,SC05,cold,46.0,8,69.1,max temp much colder than neighbors
+2026-01-19,45303,OZENA,RAWS,SC09,hot,77.0,8,67.1,max temp much warmer than neighbors
+2026-01-19,45426,WARM SPRINGS,RAWS,SC09,bad_temp,150.0,0,,impossible temperature
+2026-01-19,55522324,MT. SAN JACINTO,RAWS,SC11,hot,58.0,6,49.8,max temp much warmer than neighbors
+2026-01-19,ASOS-BFL,Bakersfield/Meadows,ASOS,SC05,cold,49.0,8,72.4,max temp much colder than neighbors
+2026-01-19,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,33.8,8,57.3,max temp much colder than neighbors
+2026-01-19,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,69.0,8,79.1,max temp much colder than neighbors
+2026-01-20,43710,ROCK CREEK,RAWS,SC01,cold,42.0,8,56.4,max temp much colder than neighbors
+2026-01-20,44114,CATHEYS VALLEY,RAWS,SC04,cold,53.0,8,75.7,max temp much colder than neighbors
+2026-01-20,44731,FOUNTAIN SPRINGS,RAWS,SC04,cold,58.0,8,74.4,max temp much colder than neighbors
+2026-01-20,ASOS-BFL,Bakersfield/Meadows,ASOS,SC05,cold,52.0,8,74.9,max temp much colder than neighbors
+2026-01-20,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,33.8,8,56.3,max temp much colder than neighbors
+2026-01-20,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,70.0,8,82.0,max temp much colder than neighbors
+2026-01-21,45731,CASE SPRINGS,RAWS,SC08,hot,69.0,8,59.6,max temp much warmer than neighbors
+2026-01-21,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,35.6,8,55.3,max temp much colder than neighbors
+2026-01-22,55522261,EUREKA VALLEY,RAWS,SC16,cold,53.0,4,62.9,max temp much colder than neighbors
+2026-01-22,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,41.0,8,51.4,max temp much colder than neighbors
+2026-01-23,45303,OZENA,RAWS,SC09,hot,69.0,8,56.7,max temp much warmer than neighbors
+2026-01-23,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,54.2,max temp much colder than neighbors
+2026-01-23,ASOS-WHP,La / Whiteman,ASOS,SC08,hot,78.8,8,67.6,max temp much warmer than neighbors
+2026-01-25,44003,LOS BANOS,RAWS,SC06,cold,47.0,8,60.5,max temp much colder than neighbors
+2026-01-25,ASOS-HMT,Hemet,ASOS,SC08,cold,42.8,8,66.1,max temp much colder than neighbors
+2026-01-25,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,28.4,8,45.9,max temp much colder than neighbors
+2026-01-26,44003,LOS BANOS,RAWS,SC06,cold,56.0,8,66.0,max temp much colder than neighbors
+2026-01-26,45603,CRANSTON,RAWS,SC11,hot,72.0,8,62.7,max temp much warmer than neighbors
+2026-01-26,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,37.4,8,47.7,max temp much colder than neighbors
+2026-01-27,109703,ANACAPA ISLAND,RAWS,SC08,cold,63.0,8,72.7,max temp much colder than neighbors
+2026-01-27,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,30.2,8,48.2,max temp much colder than neighbors
+2026-01-27,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,63.0,6,71.1,max temp much colder than neighbors
+2026-01-28,44722,BLACKROCK,RAWS,SC03,hot,57.0,8,48.1,max temp much warmer than neighbors
+2026-01-28,45017,PIUTES,RAWS,SC03,hot,59.0,8,50.6,max temp much warmer than neighbors
+2026-01-28,45426,WARM SPRINGS,RAWS,SC09,hot,65.0,8,54.8,max temp much warmer than neighbors
+2026-01-28,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,41.0,8,54.5,max temp much colder than neighbors
+2026-01-29,44319,HASTINGS,RAWS,SC07,hot,75.0,8,66.9,max temp much warmer than neighbors
+2026-01-29,55522261,EUREKA VALLEY,RAWS,SC16,cold,62.0,4,70.4,max temp much colder than neighbors
+2026-01-29,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,57.8,max temp much colder than neighbors
+2026-01-29,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,69.0,6,77.3,max temp much colder than neighbors
+2026-01-30,109703,ANACAPA ISLAND,RAWS,SC08,cold,69.0,8,82.1,max temp much colder than neighbors
+2026-01-30,43710,ROCK CREEK,RAWS,SC01,cold,50.0,8,59.9,max temp much colder than neighbors
+2026-01-30,44114,CATHEYS VALLEY,RAWS,SC04,cold,65.0,8,77.2,max temp much colder than neighbors
+2026-01-30,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,59.8,max temp much colder than neighbors
+2026-01-30,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,72.5,8,80.8,max temp much colder than neighbors
+2026-01-31,44114,CATHEYS VALLEY,RAWS,SC04,cold,66.0,8,78.2,max temp much colder than neighbors
+2026-01-31,45105,CONVERSE,RAWS,SC10,hot,71.0,8,62.9,max temp much warmer than neighbors
+2026-01-31,45303,OZENA,RAWS,SC09,hot,82.0,8,73.0,max temp much warmer than neighbors
+2026-01-31,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,58.2,max temp much colder than neighbors
+2026-02-01,45433,MALIBU HILLS,RAWS,SC08,hot,89.0,8,79.8,max temp much warmer than neighbors
+2026-02-01,45447,LEO CARRILLO,RAWS,SC08,cold,73.0,8,84.4,max temp much colder than neighbors
+2026-02-01,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,58.4,max temp much colder than neighbors
+2026-02-02,45303,OZENA,RAWS,SC09,hot,74.0,8,65.9,max temp much warmer than neighbors
+2026-02-02,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,41.0,8,59.7,max temp much colder than neighbors
+2026-02-02,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,66.0,6,74.6,max temp much colder than neighbors
+2026-02-03,43710,ROCK CREEK,RAWS,SC01,cold,55.0,8,63.2,max temp much colder than neighbors
+2026-02-03,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,63.1,max temp much colder than neighbors
+2026-02-03,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,67.0,6,81.3,max temp much colder than neighbors
+2026-02-03,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,74.0,8,83.4,max temp much colder than neighbors
+2026-02-03,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,75.0,8,86.6,max temp much colder than neighbors
+2026-02-04,44003,LOS BANOS,RAWS,SC06,cold,64.0,8,77.0,max temp much colder than neighbors
+2026-02-04,45603,CRANSTON,RAWS,SC11,hot,84.0,8,75.7,max temp much warmer than neighbors
+2026-02-04,ASOS-9L2,Edwards N-Aux,ASOS,SC15,cold,36.5,8,74.1,max temp much colder than neighbors
+2026-02-04,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,63.4,max temp much colder than neighbors
+2026-02-05,109703,ANACAPA ISLAND,RAWS,SC08,cold,73.0,8,81.7,max temp much colder than neighbors
+2026-02-05,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,42.8,8,60.0,max temp much colder than neighbors
+2026-02-05,ASOS-PRB,Paso Robles,ASOS,SC06,cold,70.0,8,79.1,max temp much colder than neighbors
+2026-02-05,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,76.0,8,84.3,max temp much colder than neighbors
+2026-02-07,45509,ALISO LAGUNA,RAWS,SC08,cold,65.0,8,76.6,max temp much colder than neighbors
+2026-02-07,ASOS-HMT,Hemet,ASOS,SC08,cold,46.4,8,78.0,max temp much colder than neighbors
+2026-02-07,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,42.8,8,55.3,max temp much colder than neighbors
+2026-02-07,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,78.1,max temp much colder than neighbors
+2026-02-07,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,73.0,8,81.7,max temp much colder than neighbors
+2026-02-08,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,76.6,max temp much colder than neighbors
+2026-02-08,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,44.6,8,58.8,max temp much colder than neighbors
+2026-02-08,ASOS-NZY,North Island Nas,ASOS,SC08,cold,76.0,8,84.6,max temp much colder than neighbors
+2026-02-08,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,74.0,8,83.9,max temp much colder than neighbors
+2026-02-09,45433,MALIBU HILLS,RAWS,SC08,hot,84.0,8,73.9,max temp much warmer than neighbors
+2026-02-09,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,68.0,6,77.4,max temp much colder than neighbors
+2026-02-09,ASOS-SBD,San Bernardino,ASOS,SC08,hot,95.0,8,80.6,max temp much warmer than neighbors
+2026-02-10,45230,CUYAMA VALLEY,RAWS,SC06,hot,67.0,8,58.8,max temp much warmer than neighbors
+2026-02-11,43612,WWOLF,RAWS,SC02,missed,0.0,8,0.51,no rain while most neighbors got rain
+2026-02-11,44730,BEAR PEAK,RAWS,SC03,cold,32.0,8,40.7,max temp much colder than neighbors
+2026-02-11,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,0.68,no rain while most neighbors got rain
+2026-02-11,45510,CHINO HILLS,RAWS,SC08,missed,0.0,8,0.71,no rain while most neighbors got rain
+2026-02-11,45731,CASE SPRINGS,RAWS,SC08,missed,0.0,8,0.86,no rain while most neighbors got rain
+2026-02-13,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,41.0,8,50.5,max temp much colder than neighbors
+2026-02-13,ASOS-TSP,Tehachapi,ASOS,SC03,cold,50.0,8,58.4,max temp much colder than neighbors
+2026-02-14,45426,WARM SPRINGS,RAWS,SC09,hot,63.0,8,53.6,max temp much warmer than neighbors
+2026-02-14,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,39.2,8,50.3,max temp much colder than neighbors
+2026-02-16,43210,COTTAGE,RAWS,SC02,missed,0.0,8,1.25,no rain while most neighbors got rain
+2026-02-16,43212,BLUE MTN LOOKOUT,RAWS,SC02,missed,0.0,8,1.25,no rain while most neighbors got rain
+2026-02-16,43612,WWOLF,RAWS,SC02,missed,0.0,8,1.31,no rain while most neighbors got rain
+2026-02-16,44102,CRANE,RAWS,SC02,missed,0.0,8,1.5,no rain while most neighbors got rain
+2026-02-16,44406,HOLLISTER,RAWS,SC06,missed,0.0,8,1.49,no rain while most neighbors got rain
+2026-02-16,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,1.1,no rain while most neighbors got rain
+2026-02-16,44521,DINKEY,RAWS,SC02,missed,0.0,8,0.69,no rain while most neighbors got rain
+2026-02-16,44707,JOHNSONDALE,RAWS,SC03,cold,36.0,8,46.3,max temp much colder than neighbors
+2026-02-16,44713,PARK RIDGE,RAWS,SC03,missed,0.0,8,0.73,no rain while most neighbors got rain
+2026-02-16,44726,PEPPERMINT,RAWS,SC03,missed,0.0,8,0.92,no rain while most neighbors got rain
+2026-02-16,44733,CASE MOUNTAIN,RAWS,SC03,missed,0.0,8,1.23,no rain while most neighbors got rain
+2026-02-16,44734,MTN HOME,RAWS,SC03,missed,0.0,8,0.82,no rain while most neighbors got rain
+2026-02-16,45009,BRECKENRIDGE,RAWS,SC03,missed,0.0,8,0.5,no rain while most neighbors got rain
+2026-02-16,45313,CHEESEBORO,RAWS,SC08,missed,0.0,8,2.06,no rain while most neighbors got rain
+2026-02-16,45438,ACTON,RAWS,SC09,missed,0.0,8,1.15,no rain while most neighbors got rain
+2026-02-16,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,1.49,no rain while most neighbors got rain
+2026-02-16,45510,CHINO HILLS,RAWS,SC08,missed,0.0,8,1.08,no rain while most neighbors got rain
+2026-02-16,45731,CASE SPRINGS,RAWS,SC08,missed,0.0,8,0.81,no rain while most neighbors got rain
+2026-02-16,ASOS-LPC,Lompoc (Awos),ASOS,SC07,missed,0.0,8,1.08,no rain while most neighbors got rain
+2026-02-16,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,missed,0.0,8,0.69,no rain while most neighbors got rain
+2026-02-16,ASOS-NTD,Pt Mugu Naws,ASOS,SC08,missed,0.0,8,0.83,no rain while most neighbors got rain
+2026-02-16,ASOS-NXP,Twentynine Palms,ASOS,SC14,hot,69.0,8,59.9,max temp much warmer than neighbors
+2026-02-17,44511,MOUNT TOM,RAWS,SC02,missed,0.0,8,0.79,no rain while most neighbors got rain
+2026-02-17,44520,HIGH SIERRA,RAWS,SC02,missed,0.0,8,0.79,no rain while most neighbors got rain
+2026-02-17,44522,SHAVER,RAWS,SC02,missed,0.0,8,1.44,no rain while most neighbors got rain
+2026-02-17,44713,PARK RIDGE,RAWS,SC03,missed,0.0,8,1.42,no rain while most neighbors got rain
+2026-02-17,44726,PEPPERMINT,RAWS,SC03,missed,0.0,8,1.54,no rain while most neighbors got rain
+2026-02-17,44734,MTN HOME,RAWS,SC03,missed,0.0,8,1.24,no rain while most neighbors got rain
+2026-02-17,45401,BIG PINES,RAWS,SC09,missed,0.0,8,0.64,no rain while most neighbors got rain
+2026-02-17,45438,ACTON,RAWS,SC09,missed,0.0,8,0.79,no rain while most neighbors got rain
+2026-02-17,45439,HENNINGER FLATS,RAWS,SC08,missed,0.0,8,0.57,no rain while most neighbors got rain
+2026-02-17,55522348,PURISIMA HILLS,RAWS,SC07,missed,0.0,8,0.69,no rain while most neighbors got rain
+2026-02-17,ASOS-O26,Lone Pine,ASOS,SC16,hot,50.0,5,40.4,max temp much warmer than neighbors
+2026-02-18,45426,WARM SPRINGS,RAWS,SC09,hot,90.0,8,39.3,max temp much warmer than neighbors
+2026-02-18,55522324,MT. SAN JACINTO,RAWS,SC11,hot,32.0,6,23.2,max temp much warmer than neighbors
+2026-02-19,44406,HOLLISTER,RAWS,SC06,missed,0.0,8,0.55,no rain while most neighbors got rain
+2026-02-19,45125,BURNS CANYON,RAWS,SC10,hot,44.0,8,33.0,max temp much warmer than neighbors
+2026-02-19,45313,CHEESEBORO,RAWS,SC08,missed,0.0,8,0.65,no rain while most neighbors got rain
+2026-02-19,45426,WARM SPRINGS,RAWS,SC09,hot,52.0,8,38.2,max temp much warmer than neighbors
+2026-02-19,45510,CHINO HILLS,RAWS,SC08,missed,0.0,8,0.54,no rain while most neighbors got rain
+2026-02-19,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,63.0,8,53.6,max temp much warmer than neighbors
+2026-02-19,55522348,PURISIMA HILLS,RAWS,SC07,missed,0.0,8,0.5,no rain while most neighbors got rain
+2026-02-19,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,63.0,8,54.1,max temp much warmer than neighbors
+2026-02-20,43605,MOUNT ELIZABETH,RAWS,SC04,hot,48.0,8,39.0,max temp much warmer than neighbors
+2026-02-20,43605,MOUNT ELIZABETH,RAWS,SC04,missed,0.0,8,0.59,no rain while most neighbors got rain
+2026-02-20,44521,DINKEY,RAWS,SC02,hot,46.0,8,37.8,max temp much warmer than neighbors
+2026-02-20,45426,WARM SPRINGS,RAWS,SC09,hot,60.0,8,44.0,max temp much warmer than neighbors
+2026-02-20,ASOS-BIH,Bishop Airport,ASOS,SC16,cold,31.0,8,44.3,max temp much colder than neighbors
+2026-02-20,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,19.4,8,33.4,max temp much colder than neighbors
+2026-02-21,43612,WWOLF,RAWS,SC02,cold,22.0,8,37.5,max temp much colder than neighbors
+2026-02-21,44732,WOLVERTON,RAWS,SC03,hot,63.0,8,54.2,max temp much warmer than neighbors
+2026-02-21,45101,FAWNSKIN,RAWS,SC10,hot,102.0,8,46.7,max temp much warmer than neighbors
+2026-02-21,45133,HEAPS PEAK,RAWS,SC10,rain_alone,0.76,8,0.01,rain no neighbor saw
+2026-02-21,45426,WARM SPRINGS,RAWS,SC09,hot,67.0,8,49.6,max temp much warmer than neighbors
+2026-02-21,45708,JULIAN,RAWS,SC11,cold,49.0,8,58.9,max temp much colder than neighbors
+2026-02-21,45729,RANCHITA,RAWS,SC11,cold,49.0,8,57.2,max temp much colder than neighbors
+2026-02-22,43605,MOUNT ELIZABETH,RAWS,SC04,rain_alone,2.27,8,0.0,rain no neighbor saw
+2026-02-22,43612,WWOLF,RAWS,SC02,cold,25.0,8,51.9,max temp much colder than neighbors
+2026-02-22,45101,FAWNSKIN,RAWS,SC10,hot,92.0,8,54.2,max temp much warmer than neighbors
+2026-02-22,45426,WARM SPRINGS,RAWS,SC09,hot,63.0,8,54.1,max temp much warmer than neighbors
+2026-02-22,45509,ALISO LAGUNA,RAWS,SC08,cold,67.0,8,76.0,max temp much colder than neighbors
+2026-02-22,ASOS-BIH,Bishop Airport,ASOS,SC16,cold,40.0,8,55.3,max temp much colder than neighbors
+2026-02-23,43605,MOUNT ELIZABETH,RAWS,SC04,rain_alone,0.5,8,0.0,rain no neighbor saw
+2026-02-23,43612,WWOLF,RAWS,SC02,cold,28.0,8,55.3,max temp much colder than neighbors
+2026-02-23,45017,PIUTES,RAWS,SC03,hot,65.0,8,55.5,max temp much warmer than neighbors
+2026-02-23,45101,FAWNSKIN,RAWS,SC10,hot,103.0,8,60.1,max temp much warmer than neighbors
+2026-02-23,45303,OZENA,RAWS,SC09,hot,76.0,8,67.9,max temp much warmer than neighbors
+2026-02-23,45401,BIG PINES,RAWS,SC09,hot,69.0,8,58.2,max temp much warmer than neighbors
+2026-02-23,ASOS-BIH,Bishop Airport,ASOS,SC16,cold,47.0,8,63.2,max temp much colder than neighbors
+2026-02-23,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,37.4,8,57.4,max temp much colder than neighbors
+2026-02-23,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,69.0,8,78.9,max temp much colder than neighbors
+2026-02-23,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,68.0,6,76.6,max temp much colder than neighbors
+2026-02-23,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,78.9,max temp much colder than neighbors
+2026-02-23,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,75.0,8,83.0,max temp much colder than neighbors
+2026-02-24,43710,ROCK CREEK,RAWS,SC01,hot,68.0,8,57.9,max temp much warmer than neighbors
+2026-02-24,44109,WAWONA,RAWS,SC02,cold,51.0,8,59.5,max temp much colder than neighbors
+2026-02-24,44505,MOUNTAIN REST,RAWS,SC02,hot,69.0,8,59.6,max temp much warmer than neighbors
+2026-02-24,44917,SAN SIMEON,RAWS,SC07,cold,68.0,8,77.2,max temp much colder than neighbors
+2026-02-24,45101,FAWNSKIN,RAWS,SC10,hot,124.0,8,66.4,max temp much warmer than neighbors
+2026-02-24,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,62.0,8,72.6,max temp much colder than neighbors
+2026-02-24,45303,OZENA,RAWS,SC09,hot,82.0,8,66.0,max temp much warmer than neighbors
+2026-02-24,45426,WARM SPRINGS,RAWS,SC09,hot,80.0,8,70.1,max temp much warmer than neighbors
+2026-02-24,55522348,PURISIMA HILLS,RAWS,SC07,rain_alone,4.64,8,0.0,rain no neighbor saw
+2026-02-24,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,69.0,8,78.2,max temp much colder than neighbors
+2026-02-25,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,77.7,max temp much colder than neighbors
+2026-02-25,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,60.0,8,70.6,max temp much colder than neighbors
+2026-02-25,45303,OZENA,RAWS,SC09,hot,75.0,8,66.0,max temp much warmer than neighbors
+2026-02-25,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,94.0,8,84.6,max temp much warmer than neighbors
+2026-02-25,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,65.0,8,73.2,max temp much colder than neighbors
+2026-02-25,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,95.0,8,85.1,max temp much warmer than neighbors
+2026-02-25,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,67.0,8,76.6,max temp much colder than neighbors
+2026-02-25,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,62.0,8,71.1,max temp much colder than neighbors
+2026-02-25,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,70.0,8,82.1,max temp much colder than neighbors
+2026-02-25,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,61.0,8,71.7,max temp much colder than neighbors
+2026-02-26,44722,BLACKROCK,RAWS,SC03,hot,67.0,8,57.4,max temp much warmer than neighbors
+2026-02-26,45009,BRECKENRIDGE,RAWS,SC03,cold,52.0,8,60.1,max temp much colder than neighbors
+2026-02-26,45133,HEAPS PEAK,RAWS,SC10,cold,59.0,8,67.3,max temp much colder than neighbors
+2026-02-26,45426,WARM SPRINGS,RAWS,SC09,hot,111.0,8,67.2,max temp much warmer than neighbors
+2026-02-26,45509,ALISO LAGUNA,RAWS,SC08,cold,73.0,8,82.8,max temp much colder than neighbors
+2026-02-26,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,57.2,8,66.2,max temp much colder than neighbors
+2026-02-26,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,68.0,8,81.4,max temp much colder than neighbors
+2026-02-26,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,69.0,6,82.3,max temp much colder than neighbors
+2026-02-26,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,71.0,8,87.9,max temp much colder than neighbors
+2026-02-26,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,73.0,8,88.5,max temp much colder than neighbors
+2026-02-26,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,74.3,8,83.9,max temp much colder than neighbors
+2026-02-27,45101,FAWNSKIN,RAWS,SC10,bad_temp,147.0,0,,impossible temperature
+2026-02-27,45426,WARM SPRINGS,RAWS,SC09,bad_temp,141.0,0,,impossible temperature
+2026-02-27,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,77.0,6,89.3,max temp much colder than neighbors
+2026-02-27,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,81.0,8,91.4,max temp much colder than neighbors
+2026-02-27,ASOS-TOA,Torrance Municipal,ASOS,SC08,cold,84.2,8,93.7,max temp much colder than neighbors
+2026-02-28,45101,FAWNSKIN,RAWS,SC10,bad_temp,146.0,0,,impossible temperature
+2026-02-28,45303,OZENA,RAWS,SC09,hot,86.0,8,75.4,max temp much warmer than neighbors
+2026-02-28,45426,WARM SPRINGS,RAWS,SC09,hot,89.0,8,73.3,max temp much warmer than neighbors
+2026-02-28,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,73.0,8,89.4,max temp much colder than neighbors
+2026-02-28,ASOS-NZY,North Island Nas,ASOS,SC08,cold,78.0,8,89.4,max temp much colder than neighbors
+2026-02-28,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,78.0,8,86.3,max temp much colder than neighbors
+2026-03-01,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,75.6,max temp much colder than neighbors
+2026-03-01,45101,FAWNSKIN,RAWS,SC10,bad_temp,143.0,0,,impossible temperature
+2026-03-01,45303,OZENA,RAWS,SC09,hot,79.0,8,69.5,max temp much warmer than neighbors
+2026-03-01,45426,WARM SPRINGS,RAWS,SC09,hot,79.0,8,69.8,max temp much warmer than neighbors
+2026-03-01,ASOS-NKX,Miramar Nas,ASOS,SC08,cold,66.0,8,86.0,max temp much colder than neighbors
+2026-03-01,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,78.0,8,87.1,max temp much colder than neighbors
+2026-03-02,45009,BRECKENRIDGE,RAWS,SC03,cold,42.0,8,51.9,max temp much colder than neighbors
+2026-03-02,45101,FAWNSKIN,RAWS,SC10,hot,129.0,8,56.3,max temp much warmer than neighbors
+2026-03-02,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,56.0,8,65.6,max temp much colder than neighbors
+2026-03-02,45303,OZENA,RAWS,SC09,hot,69.0,8,60.5,max temp much warmer than neighbors
+2026-03-02,55522231,CATHEDRAL CANYON,RAWS,SC11,hot,88.0,8,78.6,max temp much warmer than neighbors
+2026-03-02,55522267,FIVE MILE,RAWS,SC03,hot,74.0,8,63.0,max temp much warmer than neighbors
+2026-03-02,ASOS-PSP,Palm Springs Rgnl,ASOS,SC12,hot,88.0,8,79.1,max temp much warmer than neighbors
+2026-03-03,45101,FAWNSKIN,RAWS,SC10,bad_temp,145.0,0,,impossible temperature
+2026-03-03,45303,OZENA,RAWS,SC09,hot,72.0,8,61.6,max temp much warmer than neighbors
+2026-03-04,45101,FAWNSKIN,RAWS,SC10,bad_temp,150.0,0,,impossible temperature
+2026-03-04,45313,CHEESEBORO,RAWS,SC08,rain_alone,0.58,8,0.0,rain no neighbor saw
+2026-03-04,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,62.0,8,72.1,max temp much colder than neighbors
+2026-03-05,45101,FAWNSKIN,RAWS,SC10,bad_temp,148.0,0,,impossible temperature
+2026-03-05,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,56.0,8,68.1,max temp much colder than neighbors
+2026-03-05,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,47.0,8,57.1,max temp much colder than neighbors
+2026-03-06,45101,FAWNSKIN,RAWS,SC10,bad_temp,144.0,0,,impossible temperature
+2026-03-07,44112,EL PORTAL,RAWS,SC02,hot,74.0,8,65.2,max temp much warmer than neighbors
+2026-03-07,45016,RIVERKERN,RAWS,SC03,hot,72.0,8,63.7,max temp much warmer than neighbors
+2026-03-07,45101,FAWNSKIN,RAWS,SC10,bad_temp,145.0,0,,impossible temperature
+2026-03-08,109703,ANACAPA ISLAND,RAWS,SC08,cold,72.0,8,83.6,max temp much colder than neighbors
+2026-03-08,45101,FAWNSKIN,RAWS,SC10,bad_temp,149.0,0,,impossible temperature
+2026-03-09,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,77.3,max temp much colder than neighbors
+2026-03-09,45101,FAWNSKIN,RAWS,SC10,hot,130.0,8,54.6,max temp much warmer than neighbors
+2026-03-09,45303,OZENA,RAWS,SC09,hot,78.0,8,63.1,max temp much warmer than neighbors
+2026-03-09,45335,WILEY RIDGE,RAWS,SC08,hot,79.0,8,71.0,max temp much warmer than neighbors
+2026-03-09,ASOS-NUC,San Clemente (Awos),ASOS,SC08,hot,76.3,6,66.9,max temp much warmer than neighbors
+2026-03-09,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,67.0,8,75.6,max temp much colder than neighbors
+2026-03-10,45009,BRECKENRIDGE,RAWS,SC03,cold,48.0,8,56.9,max temp much colder than neighbors
+2026-03-10,45101,FAWNSKIN,RAWS,SC10,hot,132.0,8,56.9,max temp much warmer than neighbors
+2026-03-10,45303,OZENA,RAWS,SC09,hot,75.0,8,53.6,max temp much warmer than neighbors
+2026-03-10,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,35.6,8,61.7,max temp much colder than neighbors
+2026-03-10,ASOS-O22,Columbia,ASOS,SC04,cold,48.2,8,70.4,max temp much colder than neighbors
+2026-03-11,44917,SAN SIMEON,RAWS,SC07,cold,73.0,8,81.2,max temp much colder than neighbors
+2026-03-11,45101,FAWNSKIN,RAWS,SC10,hot,94.0,8,66.4,max temp much warmer than neighbors
+2026-03-11,45426,WARM SPRINGS,RAWS,SC09,hot,80.0,8,71.1,max temp much warmer than neighbors
+2026-03-11,45509,ALISO LAGUNA,RAWS,SC08,cold,65.0,8,80.6,max temp much colder than neighbors
+2026-03-11,ASOS-LPC,Lompoc (Awos),ASOS,SC07,cold,72.0,8,80.4,max temp much colder than neighbors
+2026-03-11,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,67.0,8,78.2,max temp much colder than neighbors
+2026-03-11,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,65.0,8,79.4,max temp much colder than neighbors
+2026-03-11,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,64.0,8,73.5,max temp much colder than neighbors
+2026-03-11,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,68.5,8,79.6,max temp much colder than neighbors
+2026-03-12,109703,ANACAPA ISLAND,RAWS,SC08,cold,70.0,8,90.1,max temp much colder than neighbors
+2026-03-12,44917,SAN SIMEON,RAWS,SC07,cold,73.0,8,85.3,max temp much colder than neighbors
+2026-03-12,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,67.0,8,81.8,max temp much colder than neighbors
+2026-03-12,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,76.0,8,91.9,max temp much colder than neighbors
+2026-03-12,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,73.0,6,87.4,max temp much colder than neighbors
+2026-03-12,ASOS-NZY,North Island Nas,ASOS,SC08,cold,79.0,8,91.6,max temp much colder than neighbors
+2026-03-12,ASOS-OXR,Oxnard,ASOS,SC08,cold,81.0,8,90.7,max temp much colder than neighbors
+2026-03-12,ASOS-SAN,San Diego/Lindberg,ASOS,SC08,cold,81.0,8,91.6,max temp much colder than neighbors
+2026-03-12,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,79.0,8,90.9,max temp much colder than neighbors
+2026-03-12,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,77.5,8,87.4,max temp much colder than neighbors
+2026-03-13,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,82.1,max temp much colder than neighbors
+2026-03-13,45101,FAWNSKIN,RAWS,SC10,cold,44.0,8,70.0,max temp much colder than neighbors
+2026-03-13,45509,ALISO LAGUNA,RAWS,SC08,cold,83.0,8,91.0,max temp much colder than neighbors
+2026-03-13,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,81.0,8,92.5,max temp much colder than neighbors
+2026-03-13,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,78.8,6,89.6,max temp much colder than neighbors
+2026-03-13,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,77.0,8,89.9,max temp much colder than neighbors
+2026-03-13,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,67.0,8,82.2,max temp much colder than neighbors
+2026-03-14,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,82.2,max temp much colder than neighbors
+2026-03-14,45101,FAWNSKIN,RAWS,SC10,cold,38.0,8,69.8,max temp much colder than neighbors
+2026-03-14,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,63.0,8,77.8,max temp much colder than neighbors
+2026-03-14,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,65.0,8,79.6,max temp much colder than neighbors
+2026-03-14,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,-1.0,6,77.4,max temp much colder than neighbors
+2026-03-14,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,64.0,8,75.5,max temp much colder than neighbors
+2026-03-15,44917,SAN SIMEON,RAWS,SC07,cold,72.0,8,85.6,max temp much colder than neighbors
+2026-03-15,45101,FAWNSKIN,RAWS,SC10,cold,41.0,8,68.0,max temp much colder than neighbors
+2026-03-15,45227,GAVIOTA,RAWS,SC07,cold,74.0,8,83.8,max temp much colder than neighbors
+2026-03-15,45457,CATALINA ISLAND,RAWS,SC08,hot,77.0,8,68.1,max temp much warmer than neighbors
+2026-03-15,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,87.7,max temp much colder than neighbors
+2026-03-15,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,71.0,8,85.0,max temp much colder than neighbors
+2026-03-16,44917,SAN SIMEON,RAWS,SC07,cold,80.0,8,89.8,max temp much colder than neighbors
+2026-03-16,45101,FAWNSKIN,RAWS,SC10,cold,37.0,8,67.7,max temp much colder than neighbors
+2026-03-16,45303,OZENA,RAWS,SC09,hot,92.0,8,81.1,max temp much warmer than neighbors
+2026-03-16,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,78.0,8,90.6,max temp much colder than neighbors
+2026-03-16,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,72.0,8,87.4,max temp much colder than neighbors
+2026-03-16,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,70.0,6,91.3,max temp much colder than neighbors
+2026-03-16,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,76.0,8,92.3,max temp much colder than neighbors
+2026-03-16,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,76.0,8,94.0,max temp much colder than neighbors
+2026-03-17,44917,SAN SIMEON,RAWS,SC07,cold,85.0,8,96.2,max temp much colder than neighbors
+2026-03-17,45101,FAWNSKIN,RAWS,SC10,cold,38.0,8,75.2,max temp much colder than neighbors
+2026-03-17,45433,MALIBU HILLS,RAWS,SC08,hot,110.0,8,94.2,max temp much warmer than neighbors
+2026-03-17,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,80.0,8,95.6,max temp much colder than neighbors
+2026-03-17,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,83.0,6,96.3,max temp much colder than neighbors
+2026-03-17,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,79.7,8,96.3,max temp much colder than neighbors
+2026-03-18,44917,SAN SIMEON,RAWS,SC07,cold,83.0,8,97.6,max temp much colder than neighbors
+2026-03-18,45509,ALISO LAGUNA,RAWS,SC08,cold,85.0,8,95.1,max temp much colder than neighbors
+2026-03-18,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,75.0,8,89.6,max temp much colder than neighbors
+2026-03-18,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,80.6,6,91.6,max temp much colder than neighbors
+2026-03-18,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,82.0,8,94.7,max temp much colder than neighbors
+2026-03-18,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,82.0,8,99.0,max temp much colder than neighbors
+2026-03-18,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,79.0,8,93.7,max temp much colder than neighbors
+2026-03-19,44112,EL PORTAL,RAWS,SC02,hot,96.0,8,87.8,max temp much warmer than neighbors
+2026-03-19,44722,BLACKROCK,RAWS,SC03,rain_alone,9.1,8,0.0,rain no neighbor saw
+2026-03-19,44917,SAN SIMEON,RAWS,SC07,cold,84.0,8,96.3,max temp much colder than neighbors
+2026-03-19,45221,MONTECITO #2,RAWS,SC08,cold,85.0,8,95.4,max temp much colder than neighbors
+2026-03-19,ASOS-9L2,Edwards N-Aux,ASOS,SC15,cold,59.0,8,93.1,max temp much colder than neighbors
+2026-03-19,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,77.0,8,94.1,max temp much colder than neighbors
+2026-03-19,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,78.0,8,92.6,max temp much colder than neighbors
+2026-03-19,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,75.0,6,93.3,max temp much colder than neighbors
+2026-03-19,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,81.0,8,95.8,max temp much colder than neighbors
+2026-03-19,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,82.0,8,100.0,max temp much colder than neighbors
+2026-03-20,44917,SAN SIMEON,RAWS,SC07,cold,82.0,8,96.6,max temp much colder than neighbors
+2026-03-20,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,79.0,8,97.6,max temp much colder than neighbors
+2026-03-20,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,73.0,6,92.3,max temp much colder than neighbors
+2026-03-20,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,78.0,8,93.1,max temp much colder than neighbors
+2026-03-20,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,87.0,8,99.0,max temp much colder than neighbors
+2026-03-20,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,77.0,8,91.1,max temp much colder than neighbors
+2026-03-21,44917,SAN SIMEON,RAWS,SC07,cold,74.0,8,90.2,max temp much colder than neighbors
+2026-03-21,45509,ALISO LAGUNA,RAWS,SC08,cold,75.0,8,89.8,max temp much colder than neighbors
+2026-03-21,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,60.0,6,84.3,max temp much colder than neighbors
+2026-03-21,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,71.0,8,84.9,max temp much colder than neighbors
+2026-03-22,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,88.8,max temp much colder than neighbors
+2026-03-22,45457,CATALINA ISLAND,RAWS,SC08,hot,76.0,8,65.9,max temp much warmer than neighbors
+2026-03-22,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,79.4,max temp much colder than neighbors
+2026-03-22,ASOS-TSP,Tehachapi,ASOS,SC03,cold,75.2,8,84.4,max temp much colder than neighbors
+2026-03-23,44917,SAN SIMEON,RAWS,SC07,cold,76.0,8,93.2,max temp much colder than neighbors
+2026-03-23,45227,GAVIOTA,RAWS,SC07,cold,75.0,8,90.3,max temp much colder than neighbors
+2026-03-23,45457,CATALINA ISLAND,RAWS,SC08,hot,77.0,8,66.6,max temp much warmer than neighbors
+2026-03-23,ASOS-AVX,Avalon/Catalina,ASOS,SC08,hot,77.0,8,67.1,max temp much warmer than neighbors
+2026-03-23,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,71.0,8,80.5,max temp much colder than neighbors
+2026-03-23,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,74.7,8,91.1,max temp much colder than neighbors
+2026-03-23,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,80.0,8,92.5,max temp much colder than neighbors
+2026-03-24,44917,SAN SIMEON,RAWS,SC07,cold,77.0,8,91.2,max temp much colder than neighbors
+2026-03-24,45203,LOS PRIETOS,RAWS,SC09,hot,88.0,8,74.4,max temp much warmer than neighbors
+2026-03-24,45335,WILEY RIDGE,RAWS,SC08,hot,100.0,8,84.5,max temp much warmer than neighbors
+2026-03-24,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,67.0,8,79.1,max temp much colder than neighbors
+2026-03-25,44917,SAN SIMEON,RAWS,SC07,cold,73.0,8,88.7,max temp much colder than neighbors
+2026-03-25,45335,WILEY RIDGE,RAWS,SC08,hot,100.0,8,83.5,max temp much warmer than neighbors
+2026-03-25,45509,ALISO LAGUNA,RAWS,SC08,cold,71.0,8,85.3,max temp much colder than neighbors
+2026-03-25,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,68.0,8,85.5,max temp much colder than neighbors
+2026-03-26,44917,SAN SIMEON,RAWS,SC07,cold,65.0,8,87.3,max temp much colder than neighbors
+2026-03-26,ASOS-MRY,Monterey Peninsula,ASOS,SC07,cold,63.0,8,80.8,max temp much colder than neighbors
+2026-03-26,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,67.0,8,80.9,max temp much colder than neighbors
+2026-03-26,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,69.0,8,82.1,max temp much colder than neighbors
+2026-03-26,ASOS-TSP,Tehachapi,ASOS,SC03,cold,69.8,8,82.5,max temp much colder than neighbors
+2026-03-27,44917,SAN SIMEON,RAWS,SC07,cold,73.0,8,88.2,max temp much colder than neighbors
+2026-03-27,45335,WILEY RIDGE,RAWS,SC08,hot,99.0,8,83.5,max temp much warmer than neighbors
+2026-03-27,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,79.9,max temp much colder than neighbors
+2026-03-27,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,67.5,8,79.1,max temp much colder than neighbors
+2026-03-28,44917,SAN SIMEON,RAWS,SC07,cold,62.0,8,90.1,max temp much colder than neighbors
+2026-03-28,45335,WILEY RIDGE,RAWS,SC08,hot,97.0,8,83.5,max temp much warmer than neighbors
+2026-03-28,45426,WARM SPRINGS,RAWS,SC09,hot,82.0,8,73.1,max temp much warmer than neighbors
+2026-03-28,45509,ALISO LAGUNA,RAWS,SC08,cold,73.0,8,89.8,max temp much colder than neighbors
+2026-03-28,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,66.0,8,82.6,max temp much colder than neighbors
+2026-03-29,44917,SAN SIMEON,RAWS,SC07,cold,69.0,8,91.6,max temp much colder than neighbors
+2026-03-29,45335,WILEY RIDGE,RAWS,SC08,hot,103.0,8,87.0,max temp much warmer than neighbors
+2026-03-29,45457,CATALINA ISLAND,RAWS,SC08,hot,83.0,8,75.0,max temp much warmer than neighbors
+2026-03-29,45733,LAS FLORES,RAWS,SC08,cold,75.0,8,86.0,max temp much colder than neighbors
+2026-03-29,ASOS-EDW,Edwards Afb,ASOS,SC15,cold,73.0,8,88.3,max temp much colder than neighbors
+2026-03-29,ASOS-NXP,Twentynine Palms,ASOS,SC14,cold,70.0,8,91.5,max temp much colder than neighbors
+2026-03-29,ASOS-SBA,Santa Barbara Muni,ASOS,SC08,cold,68.0,8,87.0,max temp much colder than neighbors
+2026-03-29,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,64.0,8,84.8,max temp much colder than neighbors
+2026-03-30,44917,SAN SIMEON,RAWS,SC07,cold,64.0,8,80.8,max temp much colder than neighbors
+2026-03-30,45335,WILEY RIDGE,RAWS,SC08,hot,91.0,8,78.0,max temp much warmer than neighbors
+2026-03-30,45426,WARM SPRINGS,RAWS,SC09,hot,78.0,8,66.1,max temp much warmer than neighbors
+2026-03-30,45452,MALIBU CANYON,RAWS,SC08,cold,69.0,8,77.5,max temp much colder than neighbors
+2026-03-30,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,65.7,8,76.2,max temp much colder than neighbors
+2026-03-31,45423,VALYERMO,RAWS,SC09,hot,73.0,8,63.9,max temp much warmer than neighbors
+2026-03-31,45426,WARM SPRINGS,RAWS,SC09,hot,62.0,8,53.4,max temp much warmer than neighbors
+2026-03-31,ASOS-O26,Lone Pine,ASOS,SC16,hot,75.2,7,63.7,max temp much warmer than neighbors
+2026-04-01,45125,BURNS CANYON,RAWS,SC10,hot,63.0,8,53.6,max temp much warmer than neighbors
+2026-04-01,45449,GRASS MOUNTAIN,RAWS,SC09,cold,49.0,8,58.4,max temp much colder than neighbors
+2026-04-02,44511,MOUNT TOM,RAWS,SC02,cold,41.0,8,49.9,max temp much colder than neighbors
+2026-04-02,45023,BIRD SPRINGS PASS,RAWS,SC03,rain_alone,1.68,8,0.02,rain no neighbor saw
+2026-04-02,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,58.0,8,67.5,max temp much colder than neighbors
+2026-04-02,45335,WILEY RIDGE,RAWS,SC08,hot,82.0,8,69.5,max temp much warmer than neighbors
+2026-04-03,109703,ANACAPA ISLAND,RAWS,SC08,cold,69.0,8,80.0,max temp much colder than neighbors
+2026-04-03,44917,SAN SIMEON,RAWS,SC07,cold,72.0,8,81.1,max temp much colder than neighbors
+2026-04-03,45002,DEMOCRAT,RAWS,SC03,hot,80.0,8,70.6,max temp much warmer than neighbors
+2026-04-03,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,64.0,6,77.4,max temp much colder than neighbors
+2026-04-03,ASOS-TOA,Torrance Municipal,ASOS,SC08,cold,75.2,8,85.0,max temp much colder than neighbors
+2026-04-03,ASOS-TQS,Vandenberg Space Force South,ASOS,SC07,cold,69.0,8,77.3,max temp much colder than neighbors
+2026-04-04,45335,WILEY RIDGE,RAWS,SC08,hot,97.0,8,81.7,max temp much warmer than neighbors
+2026-04-04,45433,MALIBU HILLS,RAWS,SC08,hot,92.0,8,83.7,max temp much warmer than neighbors
+2026-04-04,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,79.0,8,88.4,max temp much colder than neighbors
+2026-04-05,44917,SAN SIMEON,RAWS,SC07,cold,74.0,8,89.8,max temp much colder than neighbors
+2026-04-05,45335,WILEY RIDGE,RAWS,SC08,hot,96.0,8,85.8,max temp much warmer than neighbors
+2026-04-05,45426,WARM SPRINGS,RAWS,SC09,hot,82.0,8,73.3,max temp much warmer than neighbors
+2026-04-05,ASOS-NRS,Imperial Beach/Ream,ASOS,SC08,cold,71.0,8,83.4,max temp much colder than neighbors
+2026-04-06,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,86.2,max temp much colder than neighbors
+2026-04-06,45217,SANTA ROSA ISLAND,RAWS,SC08,cold,57.0,8,73.4,max temp much colder than neighbors
+2026-04-06,45335,WILEY RIDGE,RAWS,SC08,hot,95.0,8,79.5,max temp much warmer than neighbors
+2026-04-06,45426,WARM SPRINGS,RAWS,SC09,hot,79.0,8,68.6,max temp much warmer than neighbors
+2026-04-07,44917,SAN SIMEON,RAWS,SC07,cold,66.0,8,86.7,max temp much colder than neighbors
+2026-04-07,45335,WILEY RIDGE,RAWS,SC08,hot,99.0,8,81.0,max temp much warmer than neighbors
+2026-04-07,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,62.6,8,77.0,max temp much colder than neighbors
+2026-04-07,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,67.0,8,76.6,max temp much colder than neighbors
+2026-04-08,44917,SAN SIMEON,RAWS,SC07,cold,76.0,8,87.8,max temp much colder than neighbors
+2026-04-08,45335,WILEY RIDGE,RAWS,SC08,hot,100.0,8,82.5,max temp much warmer than neighbors
+2026-04-08,ASOS-OAR,Fort Ord Fritzsche Aaf,ASOS,SC07,cold,69.8,8,80.9,max temp much colder than neighbors
+2026-04-08,ASOS-SDB,Sandburg (Aut),ASOS,SC09,cold,67.0,8,75.2,max temp much colder than neighbors
+2026-04-09,44917,SAN SIMEON,RAWS,SC07,cold,63.0,8,82.3,max temp much colder than neighbors
+2026-04-09,ASOS-VGN,Vandenberg Space Force North,ASOS,SC07,cold,63.0,8,73.8,max temp much colder than neighbors
+2026-04-10,44204,NORTH FORK,RAWS,SC02,hot,71.0,8,63.0,max temp much warmer than neighbors
+2026-04-10,44302,BIG SUR,RAWS,SC07,cold,59.0,8,69.1,max temp much colder than neighbors
+2026-04-10,45335,WILEY RIDGE,RAWS,SC08,hot,87.0,8,69.5,max temp much warmer than neighbors
+2026-04-10,55522277,HARMON,RAWS,SC08,hot,74.0,8,65.0,max temp much warmer than neighbors
+2026-04-10,ASOS-SMO,Santa Monica Muni,ASOS,SC08,cold,67.0,8,75.5,max temp much colder than neighbors
+2026-04-11,44514,PANOCHE ROAD,RAWS,SC06,missed,0.0,8,0.62,no rain while most neighbors got rain
+2026-04-11,44520,HIGH SIERRA,RAWS,SC02,hot,52.0,8,44.0,max temp much warmer than neighbors
+2026-04-11,44733,CASE MOUNTAIN,RAWS,SC03,cold,44.0,8,52.8,max temp much colder than neighbors
+2026-04-11,45125,BURNS CANYON,RAWS,SC10,hot,63.0,8,55.0,max temp much warmer than neighbors
+2026-04-11,45335,WILEY RIDGE,RAWS,SC08,hot,86.0,8,67.2,max temp much warmer than neighbors
+2026-04-11,45426,WARM SPRINGS,RAWS,SC09,hot,66.0,8,56.5,max temp much warmer than neighbors
+2026-04-12,43212,BLUE MTN LOOKOUT,RAWS,SC02,missed,0.0,8,0.72,no rain while most neighbors got rain
+2026-04-12,43612,WWOLF,RAWS,SC02,missed,0.0,8,0.81,no rain while most neighbors got rain
+2026-04-12,44102,CRANE,RAWS,SC02,missed,0.0,8,0.97,no rain while most neighbors got rain
+2026-04-12,44505,MOUNTAIN REST,RAWS,SC02,missed,0.0,8,0.9,no rain while most neighbors got rain
+2026-04-12,45009,BRECKENRIDGE,RAWS,SC03,cold,33.0,8,42.1,max temp much colder than neighbors
+2026-04-12,45125,BURNS CANYON,RAWS,SC10,hot,54.0,8,42.8,max temp much warmer than neighbors
+2026-04-12,45230,CUYAMA VALLEY,RAWS,SC06,missed,0.0,8,0.53,no rain while most neighbors got rain
+2026-04-12,45335,WILEY RIDGE,RAWS,SC08,hot,80.0,8,63.5,max temp much warmer than neighbors
+2026-04-12,45426,WARM SPRINGS,RAWS,SC09,hot,61.0,8,52.9,max temp much warmer than neighbors
+2026-04-13,43615,PINECREST 2,RAWS,SC02,hot,58.0,8,49.2,max temp much warmer than neighbors
+2026-04-13,45009,BRECKENRIDGE,RAWS,SC03,cold,29.0,8,37.6,max temp much colder than neighbors
+2026-04-13,45426,WARM SPRINGS,RAWS,SC09,hot,62.0,8,50.3,max temp much warmer than neighbors
+2026-04-14,44917,SAN SIMEON,RAWS,SC07,cold,67.0,8,75.7,max temp much colder than neighbors
+2026-04-14,45335,WILEY RIDGE,RAWS,SC08,hot,90.0,8,72.0,max temp much warmer than neighbors
+2026-04-14,45426,WARM SPRINGS,RAWS,SC09,hot,71.0,8,61.6,max temp much warmer than neighbors
 2026-11-08,45447,LEO CARRILLO,RAWS,SC08,cold,80.0,8,88.3,max temp much colder than neighbors
 2026-11-09,44917,SAN SIMEON,RAWS,SC07,cold,78.0,8,86.1,max temp much colder than neighbors
 2026-11-09,ASOS-NUC,San Clemente (Awos),ASOS,SC08,cold,76.0,6,84.8,max temp much colder than neighbors
