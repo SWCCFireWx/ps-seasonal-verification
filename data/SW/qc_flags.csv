@@ -1492,6 +1492,253 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-04-18,ASOS-CVN,Clovis Muni,ASOS,SW13,cold,68.0,4,77.5,max temp much colder than neighbors
 2025-04-18,ASOS-TYL,Taylor,ASOS,SW05,wet,5.33,7,0.36,far more rain than any neighbor
 2025-04-19,20602,PAYSON,RAWS,SW06N,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-04-20,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-21,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-22,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-23,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-24,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-25,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-26,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-27,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-27,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,67.0,4,58.1,max temp much warmer than neighbors
+2025-04-28,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-04-28,291408,SANDIA LAB,RAWS,SW11,bad_rain,28.72,0,,impossible rain total
+2025-04-29,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.04,rain no neighbor saw
+2025-04-29,290706,SANDIA LAKES,RAWS,SW09,hot,80.0,8,70.4,max temp much warmer than neighbors
+2025-04-30,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.01,rain no neighbor saw
+2025-05-01,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-02,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.01,rain no neighbor saw
+2025-05-02,291002,BARTLEY,RAWS,SW10,cold,44.0,6,52.3,max temp much colder than neighbors
+2025-05-03,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-04,ASOS-IWA,Williams Afb/Chandl,ASOS,SW06N,hot,91.0,8,80.6,max temp much warmer than neighbors
+2025-05-05,291408,SANDIA LAB,RAWS,SW11,bad_rain,20.19,0,,impossible rain total
+2025-05-05,ASOS-CHD,Chandler Municipal Airport,ASOS,SW06N,hot,84.2,8,71.3,max temp much warmer than neighbors
+2025-05-05,ASOS-DMA,Davis-Monthan Afb,ASOS,SW06S,cold,58.3,8,67.4,max temp much colder than neighbors
+2025-05-07,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.7,8,0.04,rain no neighbor saw
+2025-05-07,21302,HOPKINS,RAWS,SW06S,hot,73.0,6,64.7,max temp much warmer than neighbors
+2025-05-07,290307,WILD RIVERS,RAWS,SW07,missed,0.0,5,0.56,no rain while most neighbors got rain
+2025-05-07,417105,PX WELL,RAWS,SW12,hot,81.0,5,71.9,max temp much warmer than neighbors
+2025-05-08,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-08,293004,COSMIC,RAWS,SW12,hot,65.0,3,56.1,max temp much warmer than neighbors
+2025-05-08,ASOS-AXX,Angel Fire,ASOS,SW10,cold,49.0,7,57.5,max temp much colder than neighbors
+2025-05-09,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-09,290706,SANDIA LAKES,RAWS,SW09,hot,82.0,8,73.6,max temp much warmer than neighbors
+2025-05-10,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-11,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-12,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-12,291408,SANDIA LAB,RAWS,SW11,bad_rain,19.57,0,,impossible rain total
+2025-05-13,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-13,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,78.0,4,69.7,max temp much warmer than neighbors
+2025-05-14,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-14,291408,SANDIA LAB,RAWS,SW11,bad_rain,27.5,0,,impossible rain total
+2025-05-15,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-16,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-17,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-18,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-19,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-20,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-21,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-22,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-22,291408,SANDIA LAB,RAWS,SW11,rain_alone,6.38,7,0.0,rain no neighbor saw
+2025-05-23,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-24,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-25,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-25,ASOS-IFP,Bull Head City,ASOS,SW02,cold,91.4,4,100.5,max temp much colder than neighbors
+2025-05-25,ASOS-LGF,Laguna Aaf,ASOS,SW03,cold,78.6,4,97.6,max temp much colder than neighbors
+2025-05-26,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-26,291408,SANDIA LAB,RAWS,SW11,bad_rain,27.49,0,,impossible rain total
+2025-05-27,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-27,291901,MELROSE RANGE,RAWS,SW13,hot,82.0,3,73.5,max temp much warmer than neighbors
+2025-05-27,292901,MCGREGGOR RANGE,RAWS,SW12,hot,89.0,4,79.1,max temp much warmer than neighbors
+2025-05-27,293002,MAYHILL,RAWS,SW12,cold,70.0,8,79.9,max temp much colder than neighbors
+2025-05-27,417105,PX WELL,RAWS,SW12,hot,93.0,5,84.4,max temp much warmer than neighbors
+2025-05-28,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-28,ASOS-GUP,Gallup Muni/Clarke,ASOS,SW04,cold,71.0,6,83.4,max temp much colder than neighbors
+2025-05-29,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-29,ASOS-GYR,Goodyear Municipal,ASOS,SW06N,cold,86.0,8,95.6,max temp much colder than neighbors
+2025-05-29,ASOS-NOZ,Wellton,ASOS,SW03,cold,74.0,4,97.3,max temp much colder than neighbors
+2025-05-30,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-05-30,417105,PX WELL,RAWS,SW12,hot,86.0,5,78.0,max temp much warmer than neighbors
+2025-05-31,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-01,ASOS-IWA,Williams Afb/Chandl,ASOS,SW06N,hot,99.0,8,87.2,max temp much warmer than neighbors
+2025-06-02,20501,IRON SPRINGS,RAWS,SW02,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-06-02,293202,PADUCA,RAWS,SW14N,wet,1.04,3,0.17,far more rain than any neighbor
+2025-06-02,ASOS-SOW,Show Low Municipal,ASOS,SW05,hot,79.0,8,69.0,max temp much warmer than neighbors
+2025-06-04,ASOS-CQC,Clines Corners,ASOS,SW11,cold,50.0,7,66.3,max temp much colder than neighbors
+2025-06-04,ASOS-NOZ,Wellton,ASOS,SW03,cold,82.0,4,97.2,max temp much colder than neighbors
+2025-06-05,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-05,ASOS-4MR,Melrose Gunary Ran,ASOS,SW13,missed,0.0,3,0.79,no rain while most neighbors got rain
+2025-06-06,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-06,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.48,6,0.0,rain no neighbor saw
+2025-06-07,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-07,ASOS-AVQ,Tucson - Marana,ASOS,SW06S,cold,82.4,8,104.2,max temp much colder than neighbors
+2025-06-08,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-09,20212,DRY PARK,RAWS,SW01,rain_alone,0.73,8,0.03,rain no neighbor saw
+2025-06-09,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-09,290706,SANDIA LAKES,RAWS,SW09,hot,95.0,8,85.5,max temp much warmer than neighbors
+2025-06-09,291002,BARTLEY,RAWS,SW10,cold,56.0,7,66.6,max temp much colder than neighbors
+2025-06-09,417105,PX WELL,RAWS,SW12,hot,98.0,5,89.2,max temp much warmer than neighbors
+2025-06-09,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,67.0,4,75.4,max temp much colder than neighbors
+2025-06-10,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-10,290706,SANDIA LAKES,RAWS,SW09,hot,94.0,8,85.3,max temp much warmer than neighbors
+2025-06-10,417105,PX WELL,RAWS,SW12,hot,94.0,5,84.9,max temp much warmer than neighbors
+2025-06-10,417105,PX WELL,RAWS,SW12,missed,0.0,6,0.56,no rain while most neighbors got rain
+2025-06-10,ASOS-HOB,Hobbs/Lea Co.,ASOS,SW14N,missed,0.0,5,0.61,no rain while most neighbors got rain
+2025-06-11,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-12,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-13,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-13,ASOS-P33,Wilcox,ASOS,SW06S,cold,78.8,5,100.0,max temp much colder than neighbors
+2025-06-14,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-15,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-16,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-17,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-18,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-19,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-19,292203,SMOKEY BEAR,RAWS,SW12,hot,94.0,7,84.7,max temp much warmer than neighbors
+2025-06-19,292203,SMOKEY BEAR,RAWS,SW12,rain_alone,0.91,7,0.0,rain no neighbor saw
+2025-06-20,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-21,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-21,291408,SANDIA LAB,RAWS,SW11,bad_rain,14.31,0,,impossible rain total
+2025-06-21,ASOS-CNM,Carlsbad/Cavern Cty,ASOS,SW14N,rain_alone,2.13,8,0.01,rain no neighbor saw
+2025-06-22,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-22,ASOS-ROW,Roswell/Industrial,ASOS,SW14N,rain_alone,0.79,3,0.04,rain no neighbor saw
+2025-06-23,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-23,291002,BARTLEY,RAWS,SW10,wet,1.13,6,0.07,far more rain than any neighbor
+2025-06-23,292302,DUNKEN,RAWS,SW12,wet,1.99,8,0.36,far more rain than any neighbor
+2025-06-23,292903,DRIPPING SPRINGS,RAWS,SW09,wet,1.14,4,0.1,far more rain than any neighbor
+2025-06-23,ASOS-RTN,Raton/Crews Fld,ASOS,SW10,rain_alone,1.72,4,0.04,rain no neighbor saw
+2025-06-23,ASOS-SRR,Ruidoso Regional,ASOS,SW12,cold,77.0,5,86.3,max temp much colder than neighbors
+2025-06-24,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-24,293202,PADUCA,RAWS,SW14N,hot,86.0,3,76.2,max temp much warmer than neighbors
+2025-06-24,417105,PX WELL,RAWS,SW12,missed,0.0,6,1.52,no rain while most neighbors got rain
+2025-06-25,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-25,ASOS-AXX,Angel Fire,ASOS,SW10,cold,62.2,7,73.5,max temp much colder than neighbors
+2025-06-25,ASOS-SAF,Santa Fe Co. Muni,ASOS,SW10,cold,61.0,8,79.3,max temp much colder than neighbors
+2025-06-26,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-27,20221,PROMONTORY,RAWS,SW05,cold,73.0,8,82.0,max temp much colder than neighbors
+2025-06-27,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-27,293202,PADUCA,RAWS,SW14N,wet,1.01,3,0.11,far more rain than any neighbor
+2025-06-27,417105,PX WELL,RAWS,SW12,hot,87.0,5,78.9,max temp much warmer than neighbors
+2025-06-28,20221,PROMONTORY,RAWS,SW05,cold,76.0,8,85.0,max temp much colder than neighbors
+2025-06-28,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-28,291408,SANDIA LAB,RAWS,SW11,rain_alone,1.68,7,0.0,rain no neighbor saw
+2025-06-29,20221,PROMONTORY,RAWS,SW05,cold,76.0,8,88.6,max temp much colder than neighbors
+2025-06-29,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-06-30,20221,PROMONTORY,RAWS,SW05,cold,82.0,8,90.8,max temp much colder than neighbors
+2025-06-30,ASOS-SVC,Silver City/Grant,ASOS,SW08,missed,0.0,3,0.58,no rain while most neighbors got rain
+2025-07-01,20221,PROMONTORY,RAWS,SW05,cold,73.0,8,84.3,max temp much colder than neighbors
+2025-07-01,290706,SANDIA LAKES,RAWS,SW09,hot,94.0,8,83.4,max temp much warmer than neighbors
+2025-07-01,291408,SANDIA LAB,RAWS,SW11,rain_alone,0.85,7,0.02,rain no neighbor saw
+2025-07-01,417105,PX WELL,RAWS,SW12,hot,83.0,5,73.3,max temp much warmer than neighbors
+2025-07-01,417105,PX WELL,RAWS,SW12,missed,0.0,6,0.74,no rain while most neighbors got rain
+2025-07-02,20221,PROMONTORY,RAWS,SW05,cold,63.0,8,78.1,max temp much colder than neighbors
+2025-07-02,417105,PX WELL,RAWS,SW12,hot,84.0,5,72.3,max temp much warmer than neighbors
+2025-07-02,417105,PX WELL,RAWS,SW12,missed,0.0,6,0.69,no rain while most neighbors got rain
+2025-07-03,20221,PROMONTORY,RAWS,SW05,cold,59.0,8,74.4,max temp much colder than neighbors
+2025-07-03,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.04,rain no neighbor saw
+2025-07-03,21205,EMPIRE,RAWS,SW06S,rain_alone,0.6,8,0.03,rain no neighbor saw
+2025-07-03,291002,BARTLEY,RAWS,SW10,wet,1.02,8,0.17,far more rain than any neighbor
+2025-07-03,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,rain_alone,1.36,4,0.05,rain no neighbor saw
+2025-07-04,20221,PROMONTORY,RAWS,SW05,cold,65.0,8,76.8,max temp much colder than neighbors
+2025-07-04,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-05,20221,PROMONTORY,RAWS,SW05,cold,74.0,8,82.6,max temp much colder than neighbors
+2025-07-05,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-05,21206,SASABE,RAWS,SW06S,rain_alone,0.81,5,0.01,rain no neighbor saw
+2025-07-06,20221,PROMONTORY,RAWS,SW05,cold,77.0,8,85.3,max temp much colder than neighbors
+2025-07-06,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-06,292302,DUNKEN,RAWS,SW12,cold,78.0,7,89.9,max temp much colder than neighbors
+2025-07-06,417105,PX WELL,RAWS,SW12,hot,97.0,5,87.9,max temp much warmer than neighbors
+2025-07-06,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,missed,0.0,5,0.7,no rain while most neighbors got rain
+2025-07-06,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,75.0,4,84.0,max temp much colder than neighbors
+2025-07-07,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-07,ASOS-CVS,Cannon Afb/Clovis,ASOS,SW13,missed,0.0,3,0.78,no rain while most neighbors got rain
+2025-07-09,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-10,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-10,291408,SANDIA LAB,RAWS,SW11,rain_alone,0.82,7,0.0,rain no neighbor saw
+2025-07-11,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-12,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-12,ASOS-4MR,Melrose Gunary Ran,ASOS,SW13,missed,0.0,3,1.04,no rain while most neighbors got rain
+2025-07-13,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-15,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.02,rain no neighbor saw
+2025-07-15,ASOS-FLG,Flagstaff - Pulliam,ASOS,SW05,rain_alone,0.85,7,0.0,rain no neighbor saw
+2025-07-15,ASOS-INW,Winslow (Aut),ASOS,SW04,rain_alone,0.92,4,0.03,rain no neighbor saw
+2025-07-16,21207,RINCON,RAWS,SW06S,wet,2.45,8,0.32,far more rain than any neighbor
+2025-07-16,292104,MAGDALENA,RAWS,SW08,rain_alone,0.52,5,0.02,rain no neighbor saw
+2025-07-16,ASOS-IWA,Williams Afb/Chandl,ASOS,SW06N,hot,104.0,8,91.6,max temp much warmer than neighbors
+2025-07-17,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.04,rain no neighbor saw
+2025-07-17,21501,SMITH PEAK,RAWS,SW02,rain_alone,0.9,3,0.04,rain no neighbor saw
+2025-07-17,ASOS-AXX,Angel Fire,ASOS,SW10,cold,71.6,7,80.5,max temp much colder than neighbors
+2025-07-18,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-18,21010,NOON CREEK,RAWS,SW06S,wet,1.5,8,0.25,far more rain than any neighbor
+2025-07-19,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.04,rain no neighbor saw
+2025-07-19,ASOS-SOW,Show Low Municipal,ASOS,SW05,hot,86.0,8,77.4,max temp much warmer than neighbors
+2025-07-20,20220,LINDBERGH HILL,RAWS,SW01,cold,66.0,8,77.4,max temp much colder than neighbors
+2025-07-20,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-20,ASOS-IWA,Williams Afb/Chandl,ASOS,SW06N,hot,104.0,8,94.2,max temp much warmer than neighbors
+2025-07-21,20220,LINDBERGH HILL,RAWS,SW01,cold,63.0,8,74.3,max temp much colder than neighbors
+2025-07-21,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-22,20220,LINDBERGH HILL,RAWS,SW01,cold,62.0,8,75.3,max temp much colder than neighbors
+2025-07-23,20220,LINDBERGH HILL,RAWS,SW01,cold,60.0,8,76.7,max temp much colder than neighbors
+2025-07-23,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-24,20220,LINDBERGH HILL,RAWS,SW01,cold,61.0,8,75.9,max temp much colder than neighbors
+2025-07-24,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-25,20220,LINDBERGH HILL,RAWS,SW01,cold,62.0,8,76.9,max temp much colder than neighbors
+2025-07-25,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-26,20220,LINDBERGH HILL,RAWS,SW01,cold,60.0,8,76.3,max temp much colder than neighbors
+2025-07-26,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-27,20220,LINDBERGH HILL,RAWS,SW01,cold,65.0,8,79.8,max temp much colder than neighbors
+2025-07-27,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-28,20220,LINDBERGH HILL,RAWS,SW01,cold,68.0,8,83.4,max temp much colder than neighbors
+2025-07-28,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-28,291408,SANDIA LAB,RAWS,SW11,wet,4.07,8,0.42,far more rain than any neighbor
+2025-07-28,293004,COSMIC,RAWS,SW12,cold,64.0,3,75.0,max temp much colder than neighbors
+2025-07-29,20220,LINDBERGH HILL,RAWS,SW01,cold,69.0,8,82.7,max temp much colder than neighbors
+2025-07-29,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-30,20220,LINDBERGH HILL,RAWS,SW01,cold,68.0,8,82.5,max temp much colder than neighbors
+2025-07-30,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-30,293105,QUEEN,RAWS,SW12,rain_alone,0.57,7,0.0,rain no neighbor saw
+2025-07-31,20220,LINDBERGH HILL,RAWS,SW01,cold,67.0,8,80.7,max temp much colder than neighbors
+2025-07-31,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-07-31,ASOS-SVC,Silver City/Grant,ASOS,SW08,wet,1.19,4,0.21,far more rain than any neighbor
+2025-08-01,20220,LINDBERGH HILL,RAWS,SW01,cold,67.0,8,81.3,max temp much colder than neighbors
+2025-08-01,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-01,ASOS-CGZ,Casa Granda (Awos),ASOS,SW06N,cold,92.0,8,108.7,max temp much colder than neighbors
+2025-08-01,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,83.0,5,96.4,max temp much colder than neighbors
+2025-08-02,20220,LINDBERGH HILL,RAWS,SW01,cold,68.0,8,81.5,max temp much colder than neighbors
+2025-08-02,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-03,20220,LINDBERGH HILL,RAWS,SW01,cold,69.0,8,83.5,max temp much colder than neighbors
+2025-08-03,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-04,20220,LINDBERGH HILL,RAWS,SW01,cold,69.0,8,83.1,max temp much colder than neighbors
+2025-08-04,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-04,291408,SANDIA LAB,RAWS,SW11,rain_alone,7.02,7,0.0,rain no neighbor saw
+2025-08-05,20220,LINDBERGH HILL,RAWS,SW01,cold,69.0,8,83.3,max temp much colder than neighbors
+2025-08-05,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-06,20220,LINDBERGH HILL,RAWS,SW01,cold,71.0,8,84.7,max temp much colder than neighbors
+2025-08-06,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-06,ASOS-XNI,Zuni,ASOS,SW07,cold,73.4,7,94.3,max temp much colder than neighbors
+2025-08-07,20220,LINDBERGH HILL,RAWS,SW01,cold,74.0,8,85.0,max temp much colder than neighbors
+2025-08-07,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-07,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,89.0,5,105.0,max temp much colder than neighbors
+2025-08-08,20220,LINDBERGH HILL,RAWS,SW01,cold,70.0,8,84.2,max temp much colder than neighbors
+2025-08-08,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-08,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,86.0,5,101.4,max temp much colder than neighbors
+2025-08-09,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-09,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,84.0,5,98.0,max temp much colder than neighbors
+2025-08-10,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,76.0,4,85.5,max temp much colder than neighbors
+2025-08-10,ASOS-RYN,Tucson/Ryan Fld,ASOS,SW06S,hot,118.4,8,102.0,max temp much warmer than neighbors
+2025-08-11,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-11,291002,BARTLEY,RAWS,SW10,cold,67.0,7,76.9,max temp much colder than neighbors
+2025-08-11,ASOS-4MR,Melrose Gunary Ran,ASOS,SW13,cold,77.5,3,90.5,max temp much colder than neighbors
+2025-08-11,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,74.0,5,96.4,max temp much colder than neighbors
+2025-08-11,ASOS-LVS,Las Vegas Municipal,ASOS,SW10,cold,74.0,4,84.4,max temp much colder than neighbors
+2025-08-12,21302,HOPKINS,RAWS,SW06S,hot,95.0,6,86.5,max temp much warmer than neighbors
+2025-08-12,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,76.0,5,97.0,max temp much colder than neighbors
+2025-08-13,ASOS-CNM,Carlsbad/Cavern Cty,ASOS,SW14N,cold,87.0,8,98.3,max temp much colder than neighbors
+2025-08-13,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,73.0,5,94.4,max temp much colder than neighbors
+2025-08-14,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,72.0,5,90.4,max temp much colder than neighbors
+2025-08-15,ASOS-OLS,Nogales Intl Airport,ASOS,SW06S,wet,2.07,8,0.46,far more rain than any neighbor
+2025-08-17,20606,TONTO BASIN,RAWS,SW06N,rain_alone,0.69,8,0.0,rain no neighbor saw
+2025-08-17,ASOS-DUG,Douglas Bisbee Intl,ASOS,SW06S,cold,70.0,5,89.4,max temp much colder than neighbors
 2026-11-08,291408,SANDIA LAB,RAWS,SW11,bad_rain,14.34,0,,impossible rain total
 2026-11-11,291408,SANDIA LAB,RAWS,SW11,rain_alone,4.34,6,0.0,rain no neighbor saw
 2026-11-14,ASOS-INW,Winslow (Aut),ASOS,SW04,hot,60.0,4,51.7,max temp much warmer than neighbors

@@ -1511,115 +1511,339 @@ month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,pre
 2025-03,SA49,31,40,8,32,0.98,19,2.74,36,78.9,88.0,0.9,31,37.6,22.8,27.86,31,2,17.9,22.1,7,Patrick Afb/Cocoa B (1 hot day); Deland (1 cold day); Bunnell (1 cold day); Winter Haven (Asos) (reads dry); Lakeland Regional (1 hot day); Melbourne Orlando Intl (1 rain flag); St Augustine Airpt (1 cold day),yes
 2025-03,SA50,31,46,14,32,1.48,28,2.48,64,81.5,87.9,0.5,31,44.3,23.6,27.53,31,2,18.9,23.48,7,"LOXAHATCHEE (reads dry); DING DARLING NWR (reads dry); CACHE (1 rain flag); Naples Municipal (1 cold day); Marathon (reads dry); Okeechobee (1 cold day); Miami/Kendall-Tamia (reads wet, 1 hot day, 2 cold days)",yes
 2025-03,SA52A,31,10,5,5,2.79,4,,,85.6,87.5,0.3,5,58.1,20.7,24.23,31,1,16.7,21.24,5,"CABO ROJO (1 rain flag); GUANICA (reads dry); Aguadilla (1 cold day); Naval Station Roosevelt Roads (reads dry); San Juan (reads wet, 1 rain flag)",yes
-2025-04,SA01,19,16,5,11,0.94,9,0.84,,72.5,94.25,2.1,11,22.7,35.3,43.23,19,0,33.1,54.06,1,Amarillo - Rick Husband Intl (1 hot day),19 of 30 days
-2025-04,SA02,19,15,1,14,1.98,6,1.44,,72.6,91.8,1.6,14,33.3,30.7,42.4,19,4,29.4,42.74,1,Fort Sill (1 cold day),19 of 30 days
-2025-04,SA03,19,26,1,25,2.71,7,2.01,,71.5,89.8,0.7,25,38.2,27.7,40.56,19,7,25.6,38.57,1,Blackwell (1 rain flag),19 of 30 days
-2025-04,SA04,19,4,0,4,0.92,1,0.75,,75.1,93.2,1.2,4,22.8,,,0,,,,0,,19 of 30 days
-2025-04,SA05,19,17,4,13,2.31,9,1.28,,77.6,96.0,1.0,12,32.5,35.0,43.94,19,0,29.4,41.16,4,"Eastland (reads dry); Cisco (reads dry, 1 rain flag); Graham_Muni_Arpt (reads dry); Sheppard Afb (1 cold day)",19 of 30 days
-2025-04,SA06,19,29,4,25,1.99,23,1.9,,75.8,91.8,0.7,24,42.7,28.7,41.58,19,0,22.6,36.08,6,"POSSUM KINGDOM (reads wet); Dallas/Addison Arpt (reads dry, 1 rain flag); Cleburne (reads dry); Fort Worth - Spinks (reads dry); Sherman/Denison (1 hot day); Midlothian/Waxac (reads dry)",19 of 30 days
-2025-04,SA07,19,24,9,15,3.25,17,2.35,,77.0,87.0,1.5,14,48.2,17.6,29.51,19,0,15.8,24.14,1,Henderson (runs hot),19 of 30 days
-2025-04,SA08,19,12,6,6,0.39,7,0.1,,79.7,93.0,-0.5,5,14.8,52.8,58.52,19,2,40.0,57.44,0,,19 of 30 days
-2025-04,SA09,19,20,3,17,0.42,9,0.4,,79.8,97.0,1.0,16,21.2,40.8,48.79,19,0,33.8,48.23,0,,19 of 30 days
-2025-04,SA10,19,21,8,13,1.06,10,0.94,,80.5,95.0,3.1,13,32.3,32.7,44.92,19,0,27.7,41.55,3,"Junction - Kimble County (1 cold day); Comanche County/City Arpt (reads dry, 2 rain flags); Sonora Muni (1 cold day)",19 of 30 days
-2025-04,SA11,19,50,19,31,0.26,37,1.73,,81.9,91.0,3.3,30,41.1,23.8,33.41,19,0,20.5,28.53,4,"Georgetown (Awos) (1 cold day); Killeen Muni (Awos) (reads dry, 1 rain flag); Hearne (1 cold day); Lago Vista (3 cold days)",19 of 30 days
-2025-04,SA12,19,30,14,16,1.44,16,2.17,,80.0,87.0,2.5,16,48.1,17.9,25.96,19,0,15.6,20.81,4,"CONROE (reads wet); College Station (reads dry); Conroe/Montgomery County Airport (reads dry, 1 rain flag); Nacogdoches (Awos) (1 cold day)",19 of 30 days
-2025-04,SA13,19,21,4,17,0.1,13,2.15,,79.3,86.0,1.3,17,51.8,19.9,24.86,19,0,20.7,24.41,2,Beaumont - Port Arthur (reads dry); Orange (2 cold days),19 of 30 days
-2025-04,SA14,19,24,3,21,0.03,9,1.04,,86.7,95.0,5.4,21,32.0,30.1,37.88,19,2,24.9,32.25,4,"San Antonio (1 cold day); Laughlin Afb (1 cold day); Castroville (4 hot days, 2 cold days); Uvalde/Garner_Field_Arpt (1 cold day)",19 of 30 days
-2025-04,SA15,19,17,3,14,0.0,9,0.98,,82.9,88.5,2.5,13,49.7,23.0,27.01,19,0,20.8,23.36,1,Port Aransas/Mustang Beach Arpt (runs cold),19 of 30 days
-2025-04,SA16,19,10,4,6,0.0,5,0.86,,88.2,98.0,0.4,5,37.0,29.6,33.62,19,1,23.4,26.92,0,,19 of 30 days
-2025-04,SA17A,19,19,3,16,6.08,7,2.46,,71.7,87.8,0.7,15,41.6,19.9,35.87,19,5,16.9,27.34,1,KIAMICHI (1 hot day),19 of 30 days
-2025-04,SA17B,19,30,12,18,7.38,23,2.86,,70.6,86.0,1.3,18,43.8,19.2,33.68,19,4,15.6,25.16,5,BOONEVILLE (reads dry); GUY (reads dry); ODEN (1 cold day); J Lynn Helms/De Queen (reads dry); Mount Ida (2 hot days),19 of 30 days
-2025-04,SA18,19,28,6,22,8.38,18,3.21,,74.7,86.0,2.8,21,45.3,19.7,30.75,19,3,15.7,21.99,8,"POINSETT (1 rain flag); BLUFF CITY (reads dry, 2 rain flags); UAM (reads dry); Batesville (Awos) (reads dry, 1 hot day, 3 rain flags); Camden (reads dry); Colt - Delta Regional (runs cold); Stuttgart (Awos) (1 hot day); Searcy Muni Airport (M07) (1 cold day)",19 of 30 days
-2025-04,SA19,19,33,7,26,2.78,17,3.34,,79.3,88.0,2.5,26,46.4,19.1,26.83,19,0,15.6,19.86,1,Lake Charles - Chennault Intl (1 hot day),19 of 30 days
-2025-04,SA20,19,6,2,4,0.25,3,2.93,,78.0,83.0,0.6,4,55.3,19.2,26.69,19,0,21.3,25.45,0,,19 of 30 days
-2025-04,SA21A,19,9,1,8,1.1,4,3.29,,78.4,84.2,1.5,8,52.8,18.1,26.17,19,0,14.7,18.95,0,,19 of 30 days
-2025-04,SA21B,19,8,4,4,2.75,6,3.3,,77.0,81.35,1.4,4,52.8,17.8,26.57,19,0,15.3,19.65,0,,19 of 30 days
-2025-04,SA21C,19,6,1,5,6.9,3,3.36,,76.9,81.3,0.2,5,49.9,19.9,27.89,19,4,14.7,19.81,0,,19 of 30 days
-2025-04,SA22A,19,42,17,25,2.71,28,3.58,,79.2,88.0,3.4,22,43.1,19.8,28.26,19,0,16.3,20.92,5,DELTA RD (1 cold day); HOLMES (1 hot day); COPIAH (1 rain flag); Raymond (1 cold day); Madison (runs cold),19 of 30 days
-2025-04,SA22B,19,3,0,3,1.19,1,3.23,,81.7,89.0,4.1,3,43.8,,,0,,,,0,,19 of 30 days
-2025-04,SA23,19,14,5,9,3.37,6,3.48,,76.3,87.0,3.6,8,39.6,20.1,29.94,19,4,17.5,25.09,1,Iuka (1 rain flag),19 of 30 days
-2025-04,SA24,19,24,8,16,10.35,9,3.14,,72.3,86.5,2.5,16,43.8,18.5,31.59,19,5,16.1,24.83,4,"CHICKASAW SF (reads wet); SHILOH NMP (reads dry, 1 rain flag); Bolivar (1 cold day); Jackson/Mckellar (reads dry, 3 rain flags)",19 of 30 days
-2025-04,SA25,19,38,11,27,2.58,15,3.16,,72.0,86.0,2.6,27,38.6,22.0,34.99,19,6,16.4,22.4,2,Crossville Memorial (1 cold day); John C Tune (1 cold day),19 of 30 days
-2025-04,SA25B,19,17,7,10,2.97,9,2.71,,71.9,86.0,2.6,9,37.7,22.9,34.81,19,6,17.6,24.72,1,DELANO (1 hot day),19 of 30 days
-2025-04,SA26,19,33,5,28,8.48,12,2.79,,67.3,82.4,-0.5,27,45.7,16.8,31.78,19,4,13.8,24.1,4,"CRITTENDEN (reads dry, 1 rain flag); HOUCHIN MEADOW (1 cold day); Bardstown - Samuels Field (2 rain flags); Greenville (2 hot days)",19 of 30 days
-2025-04,SA27,19,21,7,14,4.83,11,2.8,,67.4,86.0,0.8,14,41.4,19.0,36.33,19,3,16.9,30.23,2,JACKSON CO AP (1 rain flag); YELLOW CREEK (1 rain flag),19 of 30 days
-2025-04,SA28A,19,6,1,5,1.86,1,,,65.5,81.9,1.8,5,40.2,20.8,33.48,19,3,16.4,26.48,0,,19 of 30 days
-2025-04,SA28B,19,19,7,12,1.67,8,2.14,,64.5,86.0,-0.1,12,42.3,21.7,31.1,19,4,16.3,22.39,0,,19 of 30 days
-2025-04,SA29,19,32,4,28,3.44,11,2.13,,68.7,86.0,0.6,28,40.9,18.8,27.35,19,0,15.9,23.03,2,Brookneal (1 cold day); Farmville (1 cold day),19 of 30 days
-2025-04,SA30,19,29,4,25,2.34,14,2.04,,69.0,86.0,0.9,24,43.2,18.0,24.66,19,0,14.6,19.91,3,Quantico Mcaf (2 cold days); Stafford (1 rain flag); Tangier Island (2 cold days),19 of 30 days
-2025-04,SA31A,19,25,16,9,3.4,17,2.58,,69.3,85.0,2.4,9,37.1,20.1,32.8,19,6,16.3,22.73,2,GRANDFATHER (reads dry); Watauga_Cnty_Hosp_Helip (1 hot day),19 of 30 days
-2025-04,SA31B,19,8,5,3,2.97,5,,,70.5,82.2,4.2,3,37.8,20.5,31.86,19,6,17.5,23.66,0,,19 of 30 days
-2025-04,SA31C,19,9,2,7,2.88,6,2.38,,73.4,85.3,1.5,7,37.5,21.0,35.79,19,6,15.3,24.27,0,,19 of 30 days
-2025-04,SA32,19,39,11,28,2.25,20,2.35,,72.8,87.0,1.6,28,39.7,19.9,28.24,19,4,16.0,22.02,1,PILOT MOUNTAIN (runs cold),19 of 30 days
-2025-04,SA33,19,23,5,18,2.02,8,2.03,,75.3,87.8,2.8,18,40.8,23.1,31.92,19,5,17.0,19.49,0,,19 of 30 days
-2025-04,SA34,19,38,16,22,0.99,22,2.04,,74.6,87.0,2.0,18,44.4,20.9,26.8,19,4,17.3,22.2,11,"BEAUFORT (reads dry); CROATAN (1 cold day); CEDAR ISLAND (reads dry); BUXTON (1 cold day); Kill_Devil_Hills (2 cold days); Hatteras_(Asos) (1 cold day); Manteo/Dare_Co_Rgnl (runs cold, 3 hot days, 1 rain flag); Smith_Field/Beaufort_(Asos) (1 cold day); Bogue Field (runs cold); Cherry_Point_Mcas (runs hot); Southport/Brunswick (runs cold)",19 of 30 days
-2025-04,SA35,19,23,9,14,1.94,13,1.79,,76.8,87.0,2.6,14,38.5,21.6,29.94,19,5,15.7,20.5,2,Newberry (1 cold day); Mcentire Ang Base (1 rain flag),19 of 30 days
-2025-04,SA36,19,22,6,16,1.0,8,1.86,,78.3,86.5,3.2,16,38.5,23.5,31.05,19,5,15.8,20.2,1,North Air Force (1 rain flag),19 of 30 days
-2025-04,SA37,19,15,4,11,0.96,6,1.99,,77.0,84.0,2.1,10,45.5,21.8,27.3,19,5,19.0,22.89,3,SAVANNAH NWR (12 rain flags); North Myrtle Beach (runs cold); Myrtle Beach(Civ) (3 cold days),19 of 30 days
-2025-04,SA38,19,29,9,20,3.45,17,3.13,,75.6,86.0,2.7,20,38.2,20.4,30.01,19,4,16.1,21.02,2,BROWNSBORO (1 rain flag); Redstone Arsenal (1 cold day),19 of 30 days
-2025-04,SA39,19,29,9,20,3.79,17,3.25,,79.2,88.5,2.1,20,40.1,20.2,29.99,19,4,15.2,19.24,5,SRS (1 cold day); Prattville (1 cold day); Andalusia (1 cold day); Evergreen (reads dry); Cairns Aaf/Ozark (1 cold day),19 of 30 days
-2025-04,SA40,19,32,6,26,3.32,14,2.5,,75.1,86.0,2.9,26,36.5,22.1,33.74,19,5,17.9,24.7,2,Monroe (1 cold day); Cartersville Airport (reads dry),19 of 30 days
-2025-04,SA41,19,36,13,23,2.97,19,2.35,,78.2,87.0,3.0,22,38.4,20.9,29.07,19,4,16.9,21.79,3,COCHRAN (runs hot); Americus (2 cold days); Perry (1 cold day),19 of 30 days
-2025-04,SA42,19,41,14,27,1.62,13,2.24,,81.0,88.6,3.7,24,36.3,23.3,28.32,19,4,18.0,22.2,7,BAINBRIDGE (runs hot); OKE-WEST (reads dry); METTER (16 rain flags); OKE-EAST (reads dry); Metter (runs cold); Reidsville (1 cold day); Moody Afb/Valdosta (2 cold days),19 of 30 days
-2025-04,SA46,19,10,5,5,32.72,3,,,80.3,86.0,3.0,5,40.9,13.7,23.36,19,6,11.9,17.06,4,MIDWAY (18 rain flags); STAFFORD (reads dry); Ft Stewart/Wright (1 rain flag); Savannah - Hilton Head (13 rain flags),19 of 30 days
-2025-04,SA47,19,28,8,20,1.59,19,3.13,,79.0,84.0,1.6,17,45.3,20.8,26.45,19,2,15.6,18.61,3,ST. MARKS  (EAST) (1 cold day); Apalachicola Muni (Asos) (runs cold); Eglin Afb/Valparais (1 rain flag),19 of 30 days
-2025-04,SA48,19,23,6,17,0.53,13,1.7,,83.3,89.6,3.1,17,36.3,25.0,28.96,19,6,17.3,19.38,0,,19 of 30 days
-2025-04,SA49,19,41,8,33,0.3,19,1.54,,83.9,89.3,1.9,32,39.7,26.1,29.17,19,8,19.5,21.88,3,"Brooksville (Asos) (reads dry); Lakeland Regional (1 hot day); Orlando/Herndon (reads wet, 1 cold day)",19 of 30 days
-2025-04,SA50,19,46,14,32,0.35,29,1.56,,84.6,89.0,0.8,30,46.9,25.9,29.48,19,8,20.0,22.98,4,"Naples Municipal (1 cold day); West Palm Beach (reads dry); Fort Lauderdale (reads dry, 1 rain flag); Pompano Beach (reads wet)",19 of 30 days
-2025-04,SA52A,19,10,5,5,2.0,6,2.47,,86.0,87.8,-0.6,5,59.1,21.2,23.38,19,0,17.7,21.43,3,MARICAO (1 rain flag); Naval Station Roosevelt Roads (reads dry); San Juan (1 rain flag),19 of 30 days
-2026-11,SA01,11,16,5,11,0.57,9,0.21,,60.6,73.0,-1.7,10,51.8,17.1,23.06,11,0,15.7,20.25,1,Perryton/Ochiltree County Apt (1 cold day),11 of 30 days
-2026-11,SA02,11,15,1,14,0.91,6,0.51,,62.0,73.4,-0.1,13,49.5,17.2,22.09,11,0,16.7,25.19,2,Elk City (reads dry); Fort Sill (1 cold day),11 of 30 days
+2025-04,SA01,30,16,5,11,3.84,9,1.47,80,73.7,94.25,2.0,11,29.3,31.3,43.23,30,0,29.5,54.06,3,BOOTLEG (1 rain flag); Amarillo - Rick Husband Intl (1 hot day); Pampa (1 rain flag),yes
+2025-04,SA02,30,15,1,14,7.51,6,2.46,273,73.3,91.8,1.0,14,42.4,26.3,42.4,30,4,26.2,42.74,1,Fort Sill (1 cold day),yes
+2025-04,SA03,30,26,1,25,8.3,7,3.62,216,72.6,89.8,0.6,25,46.6,23.8,40.56,30,7,22.7,38.57,2,Blackwell (1 rain flag); Norman/Westheimer (1 hot day),yes
+2025-04,SA04,30,4,0,4,1.74,1,1.33,131,77.0,93.2,1.7,4,24.8,,,0,,,,1,Denver City (2 cold days),yes
+2025-04,SA05,30,17,4,13,5.98,9,2.3,260,78.4,96.0,0.7,12,39.2,31.1,43.94,30,0,26.8,41.16,5,"BUFFALO GAP (1 rain flag); Eastland (reads dry); Cisco (reads dry, 1 cold day, 2 rain flags); Graham_Muni_Arpt (reads dry); Sheppard Afb (1 cold day)",yes
+2025-04,SA06,30,29,4,25,5.79,20,3.15,183,77.0,91.8,0.9,24,47.4,25.3,41.58,30,0,20.8,36.08,8,"POSSUM KINGDOM (reads wet); Dallas/Addison Arpt (reads dry, 4 rain flags); Cleburne (reads dry); Fort Worth - Spinks (reads dry, 2 rain flags); Sherman/Denison (reads dry, 1 hot day, 2 rain flags); Mesquite (reads dry, 2 rain flags); Midlothian/Waxac (reads dry, 1 rain flag); Bridgeport (reads dry, 2 rain flags)",yes
+2025-04,SA07,30,24,9,15,7.18,17,3.95,149,78.5,87.0,2.0,14,51.4,17.9,29.51,30,0,15.4,24.14,1,Henderson (runs hot),yes
+2025-04,SA08,30,12,6,6,0.47,7,0.17,229,82.2,93.0,1.0,5,12.5,51.3,59.95,30,5,39.7,57.44,0,,yes
+2025-04,SA09,30,20,3,17,0.56,9,0.64,80,81.6,97.0,1.3,16,24.5,37.6,48.79,30,0,32.0,48.23,1,Andews (1 cold day),yes
+2025-04,SA10,30,21,8,13,2.41,10,1.61,159,81.7,95.0,3.0,13,36.1,29.4,44.92,30,0,25.5,41.55,3,"Junction - Kimble County (1 cold day); Comanche County/City Arpt (reads dry, 3 rain flags); Sonora Muni (1 cold day)",yes
+2025-04,SA11,30,50,19,31,1.82,36,3.02,80,83.1,91.0,3.7,30,44.1,22.8,33.41,30,0,19.7,28.53,7,"LA GRANGE (reads dry); Austin - City/Camp Mabry (1 rain flag); Gatesville (2 cold days); Georgetown (Awos) (1 cold day); Killeen Muni (Awos) (reads dry, 2 rain flags); Hearne (1 cold day); Lago Vista (4 cold days)",yes
+2025-04,SA12,30,30,14,16,4.55,20,3.36,113,81.5,87.0,3.0,16,52.0,17.6,25.96,30,0,14.9,20.81,2,Conroe/Montgomery County Airport (1 rain flag); Nacogdoches (Awos) (1 cold day),yes
+2025-04,SA13,30,21,4,17,2.76,9,3.67,57,80.6,86.0,1.7,17,55.4,19.2,24.86,30,0,19.9,24.41,5,ANAHUAC (reads dry); MCFADDIN (reads dry); Beaumont - Port Arthur (reads wet); Bay City Regional (reads dry); Orange (2 cold days),yes
+2025-04,SA14,30,24,3,21,1.0,8,1.47,46,86.8,95.0,4.6,20,37.2,27.5,37.88,30,2,23.7,32.25,5,"San Antonio (1 cold day); Hondo Municipal (reads dry, 1 rain flag); Laughlin Afb (1 cold day); Castroville (runs hot, 2 cold days); Uvalde/Garner_Field_Arpt (1 cold day)",yes
+2025-04,SA15,30,17,3,14,0.66,8,1.46,48,83.6,88.5,2.3,14,55.3,20.8,27.01,30,0,19.0,23.36,4,ARANSAS (reads wet); LAGUNA ATASCOSA (1 rain flag); Port Isabel-Cameron County Apt (1 rain flag); Port Aransas/Mustang Beach Arpt (2 cold days),yes
+2025-04,SA16,30,10,4,6,0.16,5,1.38,12,88.3,98.0,-0.3,5,42.8,27.1,33.62,30,1,22.0,26.92,0,,yes
+2025-04,SA17A,30,19,3,16,9.81,7,4.42,233,73.3,87.8,1.1,16,48.8,18.4,35.87,30,5,15.3,27.34,1,KIAMICHI (1 hot day),yes
+2025-04,SA17B,30,30,12,18,10.07,26,4.93,203,73.1,86.0,2.3,18,47.5,19.4,33.68,30,4,15.3,25.16,2,ODEN (1 cold day); Mount Ida (2 hot days),yes
+2025-04,SA18,30,28,6,22,11.04,18,5.34,194,77.0,87.0,3.6,21,49.4,20.1,30.75,30,3,15.4,21.99,12,"POINSETT (1 rain flag); BLUFF CITY (reads dry, 3 rain flags); UAM (reads dry, 1 rain flag); Batesville (Awos) (reads dry, 1 hot day, 3 rain flags); Camden (reads dry); Colt - Delta Regional (runs cold); El Dorado/Goodwin (1 rain flag); Newport (1 rain flag); North Little Rock (1 cold day); Stuttgart (Awos) (1 hot day); Searcy Muni Airport (M07) (1 cold day); Texarkana Rgnl/Webb (1 rain flag)",yes
+2025-04,SA19,30,33,7,26,5.53,17,5.07,120,81.1,88.0,3.1,26,49.9,18.7,26.83,30,0,14.9,19.86,3,Lake Charles - Chennault Intl (1 hot day); Lafayette (1 rain flag); Ruston (1 cold day),yes
+2025-04,SA20,30,6,2,4,0.25,3,4.82,93,80.0,85.0,1.5,4,58.3,19.8,26.69,30,0,21.0,25.45,0,,yes
+2025-04,SA21A,30,9,1,8,2.39,4,5.22,57,80.1,85.0,2.0,8,55.4,19.2,26.17,30,0,14.8,18.95,0,,yes
+2025-04,SA21B,30,8,4,4,3.53,6,4.89,79,79.0,86.0,2.5,4,55.3,19.4,26.57,30,0,15.9,19.65,1,Pascagoula (1 rain flag),yes
+2025-04,SA21C,30,6,1,5,6.92,3,5.29,149,79.2,86.0,1.3,5,52.6,21.2,27.89,30,4,15.1,19.81,0,,yes
+2025-04,SA22A,30,42,17,25,4.46,28,5.37,88,80.8,88.0,3.8,23,48.0,19.3,28.26,30,0,15.4,20.92,8,DELTA RD (1 cold day); HOLMES (1 hot day); COPIAH (1 rain flag); Golden Tri(Awos) (1 rain flag); Jackson/Thompson (1 rain flag); Raymond (1 cold day); Madison (4 cold days); Meridian/Key Field (2 rain flags),yes
+2025-04,SA22B,30,3,0,3,4.76,1,5.08,94,83.5,90.7,3.7,2,46.6,,,0,,,,1,Gonzale (runs hot),yes
+2025-04,SA23,30,14,5,9,5.6,6,5.51,124,78.0,88.0,4.0,8,46.0,18.9,29.94,30,4,16.1,25.09,1,Iuka (3 rain flags),yes
+2025-04,SA24,30,24,8,16,11.16,10,5.27,233,75.1,87.8,3.4,16,46.4,19.8,31.59,30,7,16.2,24.83,4,"CHICKASAW SF (reads wet); SHILOH NMP (1 rain flag); Bolivar (1 cold day); Jackson/Mckellar (reads dry, 3 rain flags)",yes
+2025-04,SA25,30,38,11,27,4.51,15,5.04,93,74.0,86.0,3.1,27,44.8,21.2,34.99,30,8,15.4,22.4,2,Crossville Memorial (1 cold day); John C Tune (1 cold day),yes
+2025-04,SA25B,30,17,7,10,5.3,9,4.25,100,74.4,86.0,3.3,10,42.4,22.7,34.81,30,8,16.7,24.72,3,DELANO (1 hot day); Elizabethton (1 cold day); Morristown Moore-Murrell (1 cold day),yes
+2025-04,SA26,30,33,5,28,9.47,13,4.62,204,71.1,85.15,1.6,27,46.4,18.6,31.78,30,7,14.5,24.1,4,CRITTENDEN (1 rain flag); HOUCHIN MEADOW (1 cold day); Bardstown - Samuels Field (2 rain flags); Greenville (2 hot days),yes
+2025-04,SA27,30,21,7,14,6.3,11,4.6,138,70.7,86.0,2.2,14,43.5,20.8,36.33,30,6,16.8,30.23,2,JACKSON CO AP (1 rain flag); YELLOW CREEK (1 rain flag),yes
+2025-04,SA28A,30,6,1,5,3.28,1,,,68.0,82.4,2.8,5,42.8,22.3,34.78,30,8,16.5,26.48,0,,yes
+2025-04,SA28B,30,19,7,12,1.91,8,3.49,47,69.5,86.0,2.6,12,39.3,24.7,32.68,30,14,17.2,22.39,1,SAWMILL RIDGE (1 hot day),yes
+2025-04,SA29,30,32,4,28,3.54,11,3.45,72,72.6,86.0,2.7,28,39.4,22.0,32.71,30,4,17.1,23.03,2,Brookneal (1 cold day); Farmville (2 cold days),yes
+2025-04,SA30,30,29,4,25,2.88,14,3.25,82,72.4,86.0,2.7,24,41.6,20.2,26.57,30,4,15.4,19.91,4,BACK BAY (2 cold days); Quantico Mcaf (2 cold days); Stafford (1 rain flag); Tangier Island (3 cold days),yes
+2025-04,SA31A,30,25,16,9,5.25,18,4.12,90,71.5,85.0,3.1,9,40.8,20.3,32.8,30,8,15.7,22.73,1,Watauga_Cnty_Hosp_Helip (1 hot day),yes
+2025-04,SA31B,30,8,5,3,6.83,5,,,72.3,82.2,4.5,3,44.3,20.3,31.86,30,8,16.4,23.66,0,,yes
+2025-04,SA31C,30,9,2,7,4.62,6,3.71,115,75.0,85.3,1.7,7,42.6,20.8,35.79,30,8,14.4,24.27,0,,yes
+2025-04,SA32,30,39,11,28,2.49,20,3.71,68,75.2,87.0,2.4,28,41.5,20.8,28.24,30,4,16.0,22.02,2,PILOT MOUNTAIN (runs cold); Durham - Duke North Heliport (1 cold day),yes
+2025-04,SA33,30,23,5,18,2.06,8,3.15,68,77.5,87.8,3.6,18,41.2,24.3,31.92,30,11,17.2,19.62,0,,yes
+2025-04,SA34,30,38,16,22,1.58,23,3.29,52,76.5,87.0,2.7,18,45.0,22.1,26.8,30,11,17.4,22.2,10,"CROATAN (1 cold day); CEDAR ISLAND (reads dry); BUXTON (1 cold day); Kill_Devil_Hills (2 cold days); Hatteras_(Asos) (1 cold day); Manteo/Dare_Co_Rgnl (runs cold, 4 hot days, 1 rain flag); Smith_Field/Beaufort_(Asos) (1 cold day); Bogue Field (runs cold); Cherry_Point_Mcas (runs hot); Southport/Brunswick (runs cold)",yes
+2025-04,SA35,30,23,9,14,2.7,13,2.81,99,78.3,87.0,2.7,14,41.0,21.9,29.94,30,7,15.6,20.5,2,Newberry (1 cold day); Mcentire Ang Base (1 rain flag),yes
+2025-04,SA36,30,22,6,16,1.7,8,2.92,58,79.8,86.5,3.2,16,40.5,24.0,31.05,30,9,15.6,20.2,1,North Air Force (2 rain flags),yes
+2025-04,SA37,30,15,4,11,1.06,6,3.29,33,78.1,84.0,1.8,9,48.7,22.7,27.3,30,10,18.7,22.89,3,SAVANNAH NWR (20 rain flags); North Myrtle Beach (runs cold); Myrtle Beach(Civ) (runs cold),yes
+2025-04,SA38,30,29,9,20,4.93,17,4.96,104,77.3,86.0,2.9,20,45.0,20.0,30.01,30,4,15.3,21.02,2,BROWNSBORO (1 rain flag); Redstone Arsenal (1 cold day),yes
+2025-04,SA39,30,29,9,20,4.26,18,4.78,85,81.4,88.5,3.0,20,42.1,21.7,29.99,30,4,15.5,19.24,5,SRS (1 cold day); Prattville (1 cold day); Andalusia (1 cold day); Evergreen (reads dry); Cairns Aaf/Ozark (1 cold day),yes
+2025-04,SA40,30,32,6,26,4.63,14,3.92,106,76.5,86.0,3.1,26,42.6,21.2,33.74,30,7,16.4,24.7,2,Monroe (2 cold days); Cartersville Airport (reads dry),yes
+2025-04,SA41,30,36,13,23,4.17,19,3.57,86,79.9,87.0,3.3,22,41.7,22.3,29.07,30,6,17.0,21.79,4,COCHRAN (runs hot); LOUISVILLE (1 rain flag); Americus (2 cold days); Perry (1 cold day),yes
+2025-04,SA42,30,41,14,27,2.7,13,3.25,66,82.8,90.5,4.1,26,38.4,24.6,28.34,30,12,18.1,22.2,7,BAINBRIDGE (runs hot); OKE-WEST (reads dry); METTER (23 rain flags); OKE-EAST (reads dry); Metter (runs cold); Reidsville (1 cold day); Moody Afb/Valdosta (4 cold days),yes
+2025-04,SA46,30,10,5,5,45.44,4,,,81.3,88.0,2.7,5,43.2,15.0,23.36,30,8,12.6,17.06,4,MIDWAY (28 rain flags); Brunswick/Glynco (1 cold day); Ft Stewart/Wright (3 rain flags); Savannah - Hilton Head (20 rain flags),yes
+2025-04,SA47,30,28,8,20,1.59,19,4.83,33,81.2,89.0,2.4,18,46.5,22.7,28.23,30,8,16.0,18.61,3,ST. MARKS  (EAST) (1 cold day); Apalachicola Muni (Asos) (runs cold); Eglin Afb/Valparais (1 rain flag),yes
+2025-04,SA48,30,23,6,17,0.57,11,2.49,23,84.7,91.4,3.3,17,37.9,26.1,30.18,30,16,17.3,19.38,3,INDIAN LAKE SF (reads wet); Ocala (reads dry); Williston (1 rain flag),yes
+2025-04,SA49,30,41,8,33,0.35,20,2.35,21,85.2,91.0,2.0,32,40.0,27.3,30.54,30,19,19.8,21.88,3,"Lakeland Regional (2 hot days); Orlando/Herndon (reads wet, 1 cold day); Cape Canaveral (1 rain flag)",yes
+2025-04,SA50,30,46,14,32,0.62,29,2.69,27,85.0,89.0,0.5,30,46.7,27.1,31.09,30,19,20.5,23.47,4,"OCHOPEE RAWS (reads dry); Naples Municipal (3 cold days); West Palm Beach (reads dry); Fort Lauderdale (reads dry, 1 rain flag)",yes
+2025-04,SA52A,30,10,5,5,5.12,6,4.45,124,85.5,87.8,-1.4,5,59.8,20.3,24.91,30,2,16.9,21.43,6,"CABO ROJO (1 rain flag); GUANICA (1 rain flag); MARICAO (3 rain flags); CAMP SANTIAGO (1 rain flag); Naval Station Roosevelt Roads (reads dry, 3 rain flags); San Juan (1 rain flag)",yes
+2025-05,SA01,31,16,5,11,3.24,9,2.26,131,77.8,91.4,-3.1,11,35.1,28.6,42.01,31,0,25.0,43.27,0,,yes
+2025-05,SA02,31,15,1,14,3.17,6,3.72,103,79.5,93.2,-2.0,14,42.0,26.3,40.86,31,1,24.5,35.31,2,Fort Sill (2 cold days); Weatherford (1 rain flag),yes
+2025-05,SA03,31,26,1,25,4.56,7,4.67,104,78.6,94.6,-1.3,25,45.7,21.7,32.97,31,2,19.4,28.6,4,Ada_Municipal_Airport (1 rain flag); Chickasha Muni Airport (1 hot day); Vance Afb/Enid (2 cold days); Tinker Afb (1 cold day),yes
+2025-05,SA04,31,4,0,4,2.08,1,2.69,77,82.8,99.5,-1.0,4,23.2,,,0,,,,0,,yes
+2025-05,SA05,31,17,4,13,3.54,9,3.76,94,83.5,97.5,-1.8,11,39.7,29.4,43.47,31,0,24.4,37.98,5,"Abilene (1 rain flag); Eastland (reads dry); Cisco (reads dry, 1 rain flag); Graham_Muni_Arpt (reads dry, 1 cold day); Sweetwater/Avenger Field Airport (runs hot)",yes
+2025-05,SA06,31,29,4,25,3.58,21,4.34,79,82.8,94.8,-0.6,24,48.7,24.3,36.82,31,0,19.2,26.28,9,"LBJ (1 cold day); Bowie (3 rain flags); Dallas/Addison Arpt (reads dry, 1 rain flag); Cleburne (reads dry); Fort Worth - Spinks (reads dry, 1 rain flag); Sherman/Denison (reads dry, 1 rain flag); Midlothian/Waxac (1 rain flag); Lancaster (3 hot days); Bridgeport (reads dry, 1 rain flag)",yes
+2025-05,SA07,31,24,9,15,5.42,16,4.72,108,82.1,93.0,-1.0,14,53.1,19.8,26.67,31,0,15.2,20.75,3,"Gilmer/Fox_Stephens_Field (1 cold day); Mount Pleasant Airport (2 rain flags); Henderson (1 hot day, 1 cold day)",yes
+2025-05,SA08,31,12,6,6,0.63,7,0.43,0,87.1,97.0,-1.2,5,14.1,50.9,63.68,31,11,39.3,50.45,0,,yes
+2025-05,SA09,31,20,3,17,0.96,8,1.62,56,87.6,101.25,-0.0,16,22.0,39.3,54.93,31,0,32.3,57.13,1,Big_Spring (2 rain flags),yes
+2025-05,SA10,31,21,8,13,3.5,10,3.1,140,87.7,101.0,2.5,13,34.5,29.9,42.94,31,0,24.8,36.06,4,"LOST MAPLES SNA (1 rain flag); Junction - Kimble County (1 rain flag); Comanche County/City Arpt (reads dry, 1 rain flag); Sonora Muni (1 cold day)",yes
+2025-05,SA11,31,49,19,30,5.37,35,4.62,114,87.5,98.0,1.8,30,44.6,25.3,34.18,31,0,20.2,26.23,6,"NEASLONEY WMA RAWS (1 rain flag); La Grange/Fayette Regional (1 rain flag); Ft Hood Aaf/Killeen (reads dry, 1 cold day); San Marcos (Awos) (1 cold day); Killeen Muni (Awos) (reads dry, 3 rain flags); Lago Vista (4 cold days)",yes
+2025-05,SA12,31,30,14,16,7.23,21,4.6,151,85.5,93.2,0.4,16,53.1,20.2,28.13,31,0,15.0,18.98,2,Palestine (1 cold day); Liberty (2 cold days),yes
+2025-05,SA13,31,21,4,17,5.35,13,4.94,100,85.3,90.5,0.4,17,53.4,19.6,23.86,31,0,19.3,24.23,3,SAN BERNARD NWR (1 rain flag); Bay City Regional (reads dry); Galveston/Scholes (1 cold day),yes
+2025-05,SA14,31,24,3,21,3.1,8,3.75,103,92.8,103.0,4.5,21,36.1,30.4,39.86,31,5,24.3,30.3,8,"KICKAPOO CAVERNS SP (1 rain flag); Kenedy (1 cold day); Alice Intl Airport (2 cold days); Hondo Municipal (reads dry, 2 rain flags); Orange Grove (1 cold day); Kelly Afb (1 rain flag); Castroville (3 hot days); Uvalde/Garner_Field_Arpt (1 cold day)",yes
+2025-05,SA15,31,17,3,14,4.92,6,2.36,175,88.8,93.0,2.4,14,56.7,22.4,26.67,31,0,19.2,23.94,4,MATAGORDA ISLAND (reads dry); Corpus Christi Intl (reads dry); Rockport/Aransas Co (reads wet); Victoria Regional (1 rain flag),yes
+2025-05,SA16,31,10,4,6,1.97,4,2.03,56,93.1,99.35,0.1,6,46.8,26.1,33.12,31,0,20.4,26.69,2,"LA PUERTA (runs hot, reads dry); Zapata (1 cold day)",yes
+2025-05,SA17A,31,19,3,16,8.22,7,5.61,144,77.9,93.6,-1.4,15,52.3,18.4,29.89,31,0,14.1,21.05,2,Durant (1 rain flag); Sallisaw Muni Airport (1 rain flag),yes
+2025-05,SA17B,31,30,12,18,7.34,26,5.67,128,76.2,87.0,-1.6,18,54.7,16.9,25.76,31,0,12.9,18.17,5,HORSESHOE BEND (1 rain flag); ODEN (1 cold day); Flippin (Awos) (2 rain flags); Fort Smith Muni (1 rain flag); Bentonville (Awos) (1 cold day),yes
+2025-05,SA18,31,28,6,22,6.89,20,5.08,132,79.0,88.65,-2.2,20,55.6,17.9,25.45,31,0,13.4,16.38,10,"BLUFF CITY (1 rain flag); UAM (reads dry, 3 rain flags); FELSENTHAL NWR (1 rain flag); Walnut Ridge (Awos) (1 rain flag); Batesville (Awos) (1 rain flag); Camden (reads dry, 1 rain flag); Colt - Delta Regional (runs cold); Little Rock Afb (1 cold day); Newport (1 rain flag); North Little Rock (runs cold)",yes
+2025-05,SA19,31,33,7,26,7.13,17,4.45,159,84.0,91.7,-1.1,26,53.9,20.1,28.24,31,0,14.6,18.7,6,Jennings (1 rain flag); Peason Ridge - Ft Polk (1 rain flag); Barksdale Afb (2 cold days); Lafayette (1 rain flag); Fort Polk (Army) (1 cold day); Vicksburg / Tallulah (2 hot days),yes
+2025-05,SA20,31,6,2,4,9.14,3,4.39,208,83.3,89.0,-1.6,4,64.3,19.1,23.65,31,0,18.5,23.57,0,,yes
+2025-05,SA21A,31,9,1,8,7.62,4,5.46,138,84.4,91.0,-0.3,8,57.4,20.0,24.81,31,0,14.4,18.34,2,Slidell (1 cold day); New Orleans/Lakefro (1 hot day),yes
+2025-05,SA21B,31,8,4,4,13.25,6,4.85,273,83.4,89.9,-0.1,4,59.7,19.3,27.12,31,0,14.5,21.58,2,HANCOCK (1 rain flag); GRAND BAY (1 rain flag),yes
+2025-05,SA21C,31,6,1,5,10.23,3,4.9,213,83.3,89.8,-1.7,5,58.5,19.4,25.3,31,1,14.4,18.76,0,,yes
+2025-05,SA22A,31,42,17,25,8.48,28,4.23,191,83.0,91.0,-1.4,22,55.1,19.9,29.85,31,1,14.2,18.94,9,"DELTA RD (1 rain flag); BIENVILLE (1 rain flag); BOGUE CHITTO (2 rain flags); Columbus Afb (1 cold day, 1 rain flag); Jackson/Thompson (1 rain flag); Madison (runs cold); Meridian/Key Field (1 rain flag); Pine Belt Rgnl Awos (1 rain flag); Cleveland (1 cold day)",yes
+2025-05,SA22B,31,3,0,3,8.51,1,5.23,163,86.6,95.2,1.3,2,52.2,,,0,,,,0,,yes
+2025-05,SA23,31,14,5,9,7.42,6,5.06,125,79.1,89.0,-2.7,8,57.3,16.2,23.75,31,0,13.5,18.11,1,Tupelo (1 rain flag),yes
+2025-05,SA24,31,24,8,16,6.56,12,5.42,125,76.3,86.5,-3.4,14,58.1,16.7,22.83,31,0,13.2,19.84,1,CHICKASAW SF (2 cold days),yes
+2025-05,SA25,31,38,11,27,6.7,15,4.48,179,75.2,84.2,-3.1,27,57.0,15.5,23.86,31,0,11.7,17.31,3,MERIWETHER LEWIS (1 rain flag); Crossville Memorial (1 cold day); Smyrna (1 rain flag),yes
+2025-05,SA25B,31,17,7,10,8.2,9,3.97,153,74.9,84.2,-3.5,9,55.6,18.0,27.93,31,2,13.2,19.69,0,,yes
+2025-05,SA26,31,34,5,29,6.38,12,5.13,118,73.7,84.8,-3.9,28,53.0,17.1,24.15,31,0,13.1,18.95,5,CRITTENDEN (reads dry); Bardstown - Samuels Field (3 rain flags); Capital City Airport/Frankfort (1 cold day); Hopkinsville (1 cold day); Falmouth (1 rain flag),yes
+2025-05,SA27,31,21,7,14,6.63,10,4.89,118,72.9,84.0,-3.3,14,52.8,18.5,25.09,31,0,14.8,20.68,2,"JACKSON CO AP (reads dry); London-Corbin Arpt (1 cold day, 2 rain flags)",yes
+2025-05,SA28A,31,6,1,5,6.31,1,,,69.0,77.9,-3.9,5,52.7,18.4,24.79,31,0,13.9,18.13,0,,yes
+2025-05,SA28B,31,19,7,12,8.97,8,4.31,175,72.4,84.5,-2.0,12,47.9,19.3,27.54,31,0,13.1,18.4,2,Hot Springs/Ingalls (1 cold day); Waynesboro (1 cold day),yes
+2025-05,SA29,31,32,4,28,7.02,11,4.13,170,75.8,87.8,-1.5,27,49.3,19.1,31.64,31,2,14.0,22.01,2,Blackstone (1 cold day); Farmville (runs cold),yes
+2025-05,SA30,31,29,4,25,5.35,13,3.69,145,76.4,89.4,-0.6,24,50.5,18.1,25.36,31,2,13.5,17.87,5,Manassas Muni(Awos) (1 rain flag); Quantico Mcaf (1 rain flag); Norfolk/Hampton Roads (1 rain flag); Tangier Island (1 cold day); Wallops Island Stn (1 hot day),yes
+2025-05,SA31A,31,25,16,9,7.4,18,4.0,162,71.9,82.0,-3.1,9,53.5,16.2,27.38,31,3,12.0,19.28,1,Andrews-Murphy_Airport (1 cold day),yes
+2025-05,SA31B,31,8,5,3,8.66,5,,,73.1,83.6,-1.5,3,58.0,16.8,29.96,31,3,13.1,21.18,0,,yes
+2025-05,SA31C,31,9,2,7,6.49,6,3.8,157,76.8,87.0,-3.1,7,52.9,15.3,30.59,31,3,11.0,20.56,0,,yes
+2025-05,SA32,31,39,11,28,6.45,20,3.37,164,77.5,86.0,-2.1,28,49.6,19.3,29.74,31,3,14.1,24.44,6,TAYLORSVILLE (LENOIR) (2 rain flags); PILOT MOUNTAIN (runs cold); Greensboro/Piedmont_(Asos) (1 rain flag); Mackall_Aaf (1 cold day); Winston-Salem/Smith_(Asos) (1 rain flag); Laurinburg-Maxton_Arpt_(Asos) (1 rain flag),yes
+2025-05,SA33,31,23,5,18,5.27,8,3.11,167,80.7,91.0,-0.2,18,49.7,21.5,32.33,31,9,15.1,21.86,0,,yes
+2025-05,SA34,31,38,16,22,6.92,23,4.25,175,80.7,91.0,0.4,22,52.2,19.6,28.36,31,9,15.1,20.9,8,"CEDAR ISLAND (1 rain flag); Dare County Gunnery Range (1 cold day); Wallace (1 rain flag); New_Bern/Craven_Co_(Asos) (1 cold day); Hatteras_(Asos) (1 cold day); Manteo/Dare_Co_Rgnl (reads dry, 1 hot day, 2 cold days, 3 rain flags); Smith_Field/Beaufort_(Asos) (1 cold day); Southport/Brunswick (2 cold days)",yes
+2025-05,SA35,31,23,9,14,7.46,13,3.06,252,80.1,90.0,-2.3,14,51.2,19.4,31.56,31,3,14.0,22.84,2,Newberry (1 hot day); Mcentire Ang Base (1 cold day),yes
+2025-05,SA36,31,22,6,16,7.46,8,3.48,186,82.6,93.0,-0.9,16,50.5,20.6,33.7,31,8,13.6,20.52,5,"Orangeburg (1 cold day); Walterboro (1 cold day); Shaw Afb/Sumter (1 cold day); Darlington County Jetport (reads dry); North Air Force (1 cold day, 4 rain flags)",yes
+2025-05,SA37,31,15,4,11,5.81,5,3.14,194,83.4,93.0,0.4,11,54.0,20.3,32.84,31,7,16.3,24.56,3,"SAVANNAH NWR (12 rain flags); North Myrtle Beach (3 cold days); Myrtle Beach(Civ) (reads dry, 2 cold days, 1 rain flag)",yes
+2025-05,SA38,31,29,9,20,10.59,16,4.51,218,78.5,87.0,-2.5,20,57.5,16.6,25.1,31,0,12.7,18.54,9,LIRI (2 rain flags); SCHOOLHOUSE (1 rain flag); Haleyville (1 rain flag); Fort_Payne (1 rain flag); Anniston (1 cold day); Cullman (1 rain flag); Huntsville/Madison (1 rain flag); Redstone Arsenal (1 hot day); Muscle Shoals Rgnl (1 cold day),yes
+2025-05,SA39,31,29,9,20,8.38,18,3.63,210,84.2,92.0,-1.5,20,50.9,19.8,30.29,31,2,14.0,18.29,6,"OAKMULGEE (1 rain flag); SRS (2 cold days, 2 rain flags); Evergreen (1 rain flag); Fort Rucker (1 cold day); Shell Ahp (1 cold day); Troy Municipal (1 rain flag)",yes
+2025-05,SA40,31,32,6,26,7.81,15,3.78,198,77.5,87.0,-2.7,26,55.3,16.2,26.69,31,1,12.9,18.88,3,Newnan Coweta County Airport (reads dry); Dobbins Afb/Mariett (1 cold day); Cartersville Airport (1 rain flag),yes
+2025-05,SA41,31,36,13,23,7.26,19,2.93,220,82.1,91.0,-1.7,22,52.8,19.4,29.39,31,3,14.8,23.18,4,"COCHRAN (runs hot); La_Grange (4 hot days, 1 cold day); Fort Benning (1 rain flag); Warner Robins Afb (1 cold day)",yes
+2025-05,SA42,31,41,14,27,5.34,15,2.81,136,87.0,94.0,0.9,27,45.7,24.3,32.69,31,12,17.1,21.62,5,BAINBRIDGE (runs hot); METTER (15 rain flags); Millen (1 cold day); Reidsville (2 cold days); Tifton (1 rain flag),yes
+2025-05,SA46,31,10,5,5,57.11,4,,,86.9,95.9,2.0,5,47.7,17.7,28.39,31,15,13.5,19.52,4,"MIDWAY (17 rain flags); Ft Stewart/Wright (1 cold day, 5 rain flags); Savannah - Hilton Head (13 rain flags); Hunter (Aaf) (1 cold day, 1 rain flag)",yes
+2025-05,SA47,31,28,8,20,5.88,18,3.37,183,85.5,92.0,-0.4,20,51.9,23.1,30.92,31,13,15.6,19.09,7,"ST. MARKS  (EAST) (1 cold day); Apalachicola Muni (Asos) (2 cold days); Destin - Fort Walton Beach (1 cold day); Duke Fld/Eglin (1 cold day); Choctaw (reads dry, 3 rain flags); Tyndall Afb (1 cold day); Panama City Beach - Drone Runway (1 cold day)",yes
+2025-05,SA48,31,23,6,17,4.73,13,3.08,108,89.3,95.0,2.5,17,43.5,25.7,32.44,31,20,16.7,20.32,1,Mayport Ns (1 rain flag),yes
+2025-05,SA49,31,41,8,33,5.27,20,3.33,171,89.7,94.5,1.9,32,48.5,26.2,32.27,31,16,18.0,22.16,4,"Lakeland Regional (1 hot day, 1 rain flag); Orlando International (1 rain flag); Melbourne Orlando Intl (1 rain flag); St Augustine Airpt (1 cold day, 1 rain flag)",yes
+2025-05,SA50,31,46,14,32,2.94,32,4.12,68,89.8,94.0,1.7,30,51.6,26.8,30.76,31,22,19.0,21.66,8,"LOXAHATCHEE (1 rain flag); RACCOON POINT RAWS (1 rain flag); NATIONAL KEY DEER NWR (runs hot); Boca Raton Airport (1 hot day); Fort Lauderdale (reads dry, 1 rain flag); Marathon (1 rain flag); Punta Gorda (1 rain flag); Pompano Beach (1 cold day)",yes
+2025-05,SA52A,31,10,5,5,5.23,6,5.54,126,86.5,89.5,-0.9,5,64.8,19.0,23.51,31,0,16.1,20.41,2,"MARICAO (1 rain flag); Naval Station Roosevelt Roads (reads dry, 3 rain flags)",yes
+2025-06,SA01,30,16,5,11,4.37,9,2.71,121,87.8,96.8,-2.3,11,40.0,28.3,39.13,30,0,25.0,38.48,5,CEDAR (1 rain flag); CAPROCK (1 hot day); Amarillo - Rick Husband Intl (2 rain flags); Spearman (3 cold days); Guymon (3 cold days),yes
+2025-06,SA02,30,15,1,14,4.43,6,3.4,95,89.1,95.7,-1.3,13,44.8,24.0,28.48,30,0,23.8,34.54,3,Elk City (1 rain flag); Frederick (1 rain flag); Fort Sill (runs cold),yes
+2025-06,SA03,30,26,1,25,8.73,7,4.5,184,87.9,94.0,-0.6,23,51.9,21.8,28.05,30,0,19.9,30.56,5,"Blackwell (runs hot); Chickasha Muni Airport (1 rain flag); Guthrie (1 cold day); Pauls Valley Muni Airport (1 rain flag); Stillwater Muni (1 hot day, 1 rain flag)",yes
+2025-06,SA04,30,4,0,4,6.13,1,2.58,238,89.8,103.6,-1.3,4,34.3,,,0,,,,0,,yes
+2025-06,SA05,30,17,4,13,3.83,10,3.37,114,91.6,96.9,-0.4,12,43.5,28.9,35.57,30,0,25.6,35.26,5,"Kickapoo (2 cold days); Dyess Afb/Abilene (1 cold day); Eastland (reads dry); Cisco (reads dry, 1 rain flag); Sweetwater/Avenger Field Airport (1 hot day)",yes
+2025-06,SA06,30,29,4,25,3.17,18,3.65,83,90.4,95.0,-0.9,23,50.4,25.3,31.87,30,0,19.9,25.59,13,"POSSUM KINGDOM (reads wet); GRANBURY (reads wet); Dallas/Addison Arpt (reads dry, 1 hot day, 2 rain flags); Cleburne (reads dry); Fort Worth/Meacham (reads dry); Fort Worth - Spinks (reads dry); Sherman/Denison (reads dry, 2 rain flags); Mesquite (2 rain flags); Midlothian/Waxac (1 rain flag); Lancaster (runs hot); Mineral Wells Muni (1 cold day, 1 rain flag); Stephenville/Clark (reads dry); Bridgeport (reads dry)",yes
+2025-06,SA07,30,24,9,15,6.07,15,3.98,155,89.3,93.0,-1.3,12,56.3,22.4,27.99,30,0,16.0,20.23,4,Carthage (1 cold day); Athens (1 rain flag); Henderson (runs hot); Terrell (1 rain flag),yes
+2025-06,SA08,30,12,6,6,2.69,7,0.73,116,93.5,104.0,-1.0,6,24.8,42.4,53.05,30,0,32.1,39.82,0,,yes
+2025-06,SA09,30,20,3,17,1.18,8,1.76,56,93.8,101.7,-0.5,16,31.0,36.3,43.28,30,0,29.8,42.01,1,Wink/Winkler Co. (1 cold day),yes
+2025-06,SA10,30,21,8,13,3.04,10,2.83,120,91.7,95.0,0.1,13,43.0,27.2,32.46,30,0,23.6,28.98,5,"LOST MAPLES SNA (1 rain flag); BIRD (1 rain flag); PAINT CREEK (1 rain flag); COMANCHE (reads wet, 2 rain flags); Junction - Kimble County (1 cold day)",yes
+2025-06,SA11,30,49,19,30,3.92,33,3.33,130,92.4,95.0,0.2,30,49.3,25.0,29.03,30,0,19.8,22.75,11,"ATTWATER NWR (1 rain flag); Austin - City/Camp Mabry (reads dry); Burnet Municipal/Kate Craddock (1 rain flag); Gatesville (1 rain flag); Ft Hood Aaf/Killeen (reads dry); San Marcos (Awos) (1 cold day); Killeen Muni (Awos) (reads dry, 1 rain flag); Hamilton (reads dry, 1 rain flag); Caldwell (1 cold day); Lago Vista (3 cold days); Seguin Randolph Afb (1 cold day)",yes
+2025-06,SA12,30,30,14,16,5.74,21,4.22,136,90.8,94.15,-0.3,16,57.0,20.6,26.25,30,0,14.6,18.3,4,Brenham_Municipal_Apt (1 rain flag); Conroe/Montgomery County Airport (1 rain flag); Jasper County-Bell Field Airport (1 rain flag); Palestine (2 rain flags),yes
+2025-06,SA13,30,21,4,17,5.15,12,5.02,103,89.4,91.6,-0.8,17,60.1,19.7,25.96,30,0,18.6,23.6,5,Houston Sw (1 rain flag); Bay City Regional (reads dry); Houston/D.W. Hooks (1 hot day); Houston/Will Hobby (1 rain flag); Pearland Regional (1 rain flag),yes
+2025-06,SA14,30,24,3,21,3.27,7,2.83,118,94.2,98.6,0.1,20,43.7,28.3,32.59,30,0,24.7,29.53,4,"Hondo Municipal (reads dry, 2 rain flags); Orange Grove (1 cold day); San Antonio (reads wet); Castroville (runs hot)",yes
+2025-06,SA15,30,17,3,14,2.9,9,3.11,88,91.8,93.2,0.4,13,60.3,21.8,27.19,30,0,19.0,22.35,5,Brownsville Intl (1 rain flag); Kingsville Nas (3 rain flags); Port Isabel-Cameron County Apt (runs cold); Rockport/Aransas Co (1 rain flag); Victoria Regional (2 rain flags),yes
+2025-06,SA16,30,10,4,6,3.19,4,3.05,116,95.1,99.8,-1.9,6,47.6,27.1,31.59,30,0,21.8,26.22,3,"LA PUERTA (reads dry, 1 rain flag); Falfurrias/Brooks County Airport (1 cold day); Edinburg (1 rain flag)",yes
+2025-06,SA17A,30,19,3,16,8.31,7,4.55,203,87.4,93.4,-0.2,15,57.4,19.9,26.94,30,0,14.5,18.65,2,Miami Municipal (1 rain flag); Muskogee/Davis Fld (1 rain flag),yes
+2025-06,SA17B,30,30,12,18,6.32,25,4.3,156,87.0,92.0,0.8,18,55.8,20.9,28.57,30,1,14.4,18.14,5,DEVILS KNOB (1 rain flag); GUY (reads dry); Flippin (Awos) (2 rain flags); Hot Springs (1 cold day); Russellville Municipal Airport (1 rain flag),yes
+2025-06,SA18,30,28,6,22,3.62,21,3.54,104,90.1,94.0,1.1,20,53.2,23.4,29.7,30,3,15.8,18.46,9,"Walnut Ridge (Awos) (1 rain flag); Camden (reads dry); Colt - Delta Regional (runs cold); Jonesboro (1 rain flag); Monticello (1 rain flag); Little Rock Afb (1 rain flag); Newport (1 rain flag); Pine Bluff/Grider (1 cold day); Stuttgart (Awos) (1 cold day, 1 rain flag)",yes
+2025-06,SA19,30,34,7,27,3.06,16,4.78,66,90.7,94.3,-0.1,27,54.4,23.1,30.52,30,1,15.2,18.68,5,GUM SPRINGS (2 rain flags); Alexandria Intl/England Afb (1 rain flag); Lake Charles - Chennault Intl (1 cold day); Alexandria - Esler (1 cold day); Opelousas (2 cold days),yes
+2025-06,SA20,30,6,2,4,4.26,3,6.46,144,89.5,92.75,-0.2,4,61.4,25.4,41.84,30,8,22.4,36.67,3,LACASSINE (1 rain flag); Grand Chenier (1 cold day); Abbeville (2 rain flags),yes
+2025-06,SA21A,30,9,1,8,7.55,4,6.04,130,90.3,93.0,1.1,8,56.7,23.2,27.62,30,3,15.7,18.54,2,Galliano (1 rain flag); New Orleans - Louis Armstrong (1 rain flag),yes
+2025-06,SA21B,30,8,4,4,7.78,6,6.9,119,89.8,94.0,0.8,4,57.6,22.6,28.71,30,3,16.0,20.5,2,CAMP KELLER (1 rain flag); Bay_St._Louis (1 cold day),yes
+2025-06,SA21C,30,6,1,5,6.91,3,6.06,133,88.7,93.6,-0.7,5,58.4,21.3,26.52,30,4,15.1,17.44,1,Mobile/Bates Field (1 rain flag),yes
+2025-06,SA22A,30,42,17,25,4.37,27,4.43,85,90.3,94.0,0.1,22,54.7,23.4,28.83,30,0,15.3,17.58,14,"DELTA RD (1 rain flag); COPIAH (1 rain flag); COVINGTON (2 rain flags); MARION (1 rain flag); BOGUE CHITTO (reads dry, 2 rain flags); BLACK CREEK (1 rain flag); Brookhaven (1 rain flag); Greenville Muni (1 rain flag); Jackson/Hawkins Field (1 rain flag); Jackson/Thompson (1 rain flag); Madison (runs cold); Meridian/Key Field (1 rain flag); Meridian Range (1 cold day); Cleveland (1 rain flag)",yes
+2025-06,SA22B,30,3,0,3,6.6,1,6.45,102,92.7,95.7,2.8,3,51.7,,,0,,,,0,,yes
+2025-06,SA23,30,14,5,9,8.93,6,4.84,207,88.8,95.0,0.4,8,57.1,21.2,30.1,30,4,14.9,18.14,3,YALLABUSHA (1 rain flag); Tupelo (1 rain flag); Tunica Municipal Airport (reads dry),yes
+2025-06,SA24,30,24,8,16,5.71,12,4.32,117,88.3,95.0,1.0,14,56.1,21.6,30.12,30,4,14.6,18.89,3,SHILOH NMP (1 rain flag); Huntingdon (1 cold day); Bolivar (1 cold day),yes
+2025-06,SA25,30,38,11,27,5.25,15,4.46,99,86.2,94.0,1.0,26,55.9,19.8,26.83,30,1,13.0,15.57,4,BISO-NP (1 rain flag); LAFAYETTE WORK CENTER (1 rain flag); Fayetteville (1 rain flag); Jacksboro (1 cold day),yes
+2025-06,SA25B,30,17,7,10,4.3,9,4.02,87,86.6,95.0,1.2,10,52.6,21.6,26.65,30,3,14.2,16.19,5,TELLICO (1 rain flag); Elizabethton (1 cold day); Morristown Moore-Murrell (1 cold day); Cleveland (1 cold day); Bristol/Tri-City (1 rain flag),yes
+2025-06,SA26,30,34,5,29,4.28,11,4.64,91,85.7,95.0,0.9,29,55.9,21.0,29.82,30,5,14.0,17.33,6,"CRITTENDEN (reads dry); ALPINE (1 rain flag); Bardstown - Samuels Field (1 rain flag); Capital City Airport/Frankfort (reads wet, 1 cold day); Falmouth (1 cold day); Sturgis (1 cold day)",yes
+2025-06,SA27,30,21,7,14,5.31,9,4.87,103,85.4,95.0,1.8,14,52.8,21.2,28.31,30,1,14.8,18.52,3,"BIG SANDY (reads dry, 1 rain flag); JACKSON CO AP (reads dry, 1 rain flag); Big Sandy (1 cold day)",yes
+2025-06,SA28A,30,6,1,5,3.43,1,,,80.2,89.85,1.0,5,54.8,19.5,26.21,30,3,13.6,17.39,0,,yes
+2025-06,SA28B,30,19,7,12,3.94,8,4.66,53,84.7,95.0,1.8,11,49.9,21.8,28.1,30,1,14.0,16.92,2,Luray (runs hot); Winchester Rgnl (1 rain flag),yes
+2025-06,SA29,30,32,4,28,2.59,11,4.23,73,87.0,96.8,2.1,27,51.4,23.3,33.94,30,6,14.9,21.27,6,Brookneal (1 rain flag); Farmville (runs cold); Gordonsville (1 cold day); Lawrenceville (1 rain flag); Martinsville (1 rain flag); Petersburg (Awos) (1 rain flag),yes
+2025-06,SA30,30,29,4,25,4.66,14,4.25,103,86.5,97.35,1.8,24,54.5,21.3,29.98,30,7,14.4,17.02,2,"Norfolk/Hampton Roads (1 rain flag); Tangier Island (1 hot day, 3 cold days)",yes
+2025-06,SA31A,30,25,16,9,4.33,17,4.57,68,83.9,92.0,1.7,9,52.4,19.6,25.76,30,1,13.3,15.07,5,RENDEZVOUS MTN. (reads wet); BUSICK (1 rain flag); NORTH COVE PINNACLE (FR1) (1 rain flag); TUSQUITEE (2 rain flags); HIGHLANDS (1 rain flag),yes
+2025-06,SA31B,30,8,5,3,5.85,5,,,83.7,92.0,2.5,3,55.5,21.4,26.86,30,4,14.6,16.48,1,CHATTOOGA (1 rain flag),yes
+2025-06,SA31C,30,9,2,7,3.53,6,4.04,74,87.9,97.5,1.2,7,50.5,20.6,25.94,30,0,13.3,16.22,2,Clemson/Oconee County (4 cold days); Greenville - Spartanburg (1 cold day),yes
+2025-06,SA32,30,39,11,28,3.79,20,4.09,94,88.0,96.9,1.4,28,50.0,23.0,31.42,30,9,15.6,18.47,3,RUTHERFORD COUNTY (1 rain flag); PILOT MOUNTAIN (runs cold); Lincolnton (1 rain flag),yes
+2025-06,SA33,30,23,5,18,4.3,8,4.89,97,89.6,98.6,2.0,18,51.2,22.9,29.85,30,10,15.7,19.86,0,,yes
+2025-06,SA34,30,38,16,22,4.7,24,4.58,83,88.5,97.75,1.6,22,55.5,21.8,29.45,30,11,15.7,19.55,8,"CEDAR ISLAND (1 rain flag); Dare County Gunnery Range (2 rain flags); New_Bern/Craven_Co_(Asos) (1 rain flag); Hatteras_(Asos) (1 cold day); Manteo/Dare_Co_Rgnl (1 hot day, 1 rain flag); New_River_Mcas (1 cold day, 1 rain flag); Cherry_Point_Mcas (1 rain flag); Jacksonville_(Awos) (1 rain flag)",yes
+2025-06,SA35,30,23,9,14,4.85,12,4.37,115,89.9,99.0,1.0,14,48.9,24.2,33.11,30,11,16.0,20.03,2,WHITMIRE (reads dry); Greenwood County Airport (1 cold day),yes
+2025-06,SA36,30,22,6,16,4.06,8,4.64,81,90.2,99.0,1.3,16,50.9,22.9,30.36,30,11,14.6,17.41,3,"Orangeburg (1 cold day); Darlington County Jetport (reads dry); North Air Force (1 cold day, 2 rain flags)",yes
+2025-06,SA37,30,15,4,11,4.08,6,4.85,70,88.8,96.8,0.8,11,57.5,21.7,29.24,30,13,16.4,20.29,2,SAVANNAH NWR (9 rain flags); Hilton Head Island (reads dry),yes
+2025-06,SA38,30,29,9,20,4.97,15,4.37,114,87.3,95.0,-0.3,20,56.1,21.5,29.05,30,3,14.1,17.08,11,"LIRI (reads dry, 1 rain flag); MT. LONGLEAF (1 hot day); Courtland (1 cold day); Anniston (1 cold day); Talladega (1 rain flag); Birmingham Muni (1 rain flag); Decatur/Pryor Field (1 rain flag); Alabaster (1 cold day); Gadsden Muni (Awos) (reads dry); Redstone Arsenal (4 cold days); Muscle Shoals Rgnl (1 rain flag)",yes
+2025-06,SA39,30,29,9,20,5.96,20,4.8,122,89.4,96.0,-1.2,20,54.3,21.5,28.7,30,2,14.2,17.53,6,"SRS (1 rain flag); Dothan Municipal (1 rain flag); Evergreen (1 rain flag); Cairns Aaf/Ozark (1 cold day, 1 rain flag); Greenville (1 rain flag); Selma (1 rain flag)",yes
+2025-06,SA40,30,32,6,26,4.37,15,4.45,100,86.9,95.5,0.4,25,53.4,21.8,30.16,30,4,14.7,17.95,4,COHUTTA (1 rain flag); Lawrenceville (1 cold day); Dobbins Afb/Mariett (1 rain flag); Rome/Russell(Ramos) (1 cold day),yes
+2025-06,SA41,30,37,13,24,4.46,20,4.72,70,89.3,98.0,-0.1,22,52.0,23.3,31.91,30,7,16.2,18.85,4,COCHRAN (runs hot); BYROMVILLE (1 rain flag); Blakely (1 rain flag); La_Grange (runs hot),yes
+2025-06,SA42,30,41,14,27,6.85,16,5.15,94,91.0,97.5,0.7,25,50.1,23.2,30.82,30,12,16.6,20.38,6,"BAINBRIDGE (runs hot); METTER (13 rain flags); Millen (1 cold day); Alma/Bacon Co. (1 rain flag); Dublin (reads dry, 1 rain flag); Tifton (1 cold day, 1 rain flag)",yes
+2025-06,SA46,30,10,5,5,60.62,4,,,90.6,95.45,0.8,5,51.8,14.9,25.72,30,15,11.7,16.9,4,MIDWAY (16 rain flags); Ft Stewart/Wright (3 rain flags); Savannah - Hilton Head (11 rain flags); Hunter (Aaf) (1 rain flag),yes
+2025-06,SA47,30,28,8,20,6.68,21,5.93,99,89.7,96.0,-0.4,20,56.7,21.3,28.68,30,8,14.1,17.84,9,ST. MARKS  (EAST) (1 rain flag); Quincy (1 cold day); Defuniak (1 cold day); Apalachicola Muni (Asos) (1 rain flag); Duke Fld/Eglin (2 rain flags); Milton (1 rain flag); Choctaw (2 rain flags); Pensacola Nas (1 rain flag); Pensacola Regional (2 rain flags),yes
+2025-06,SA48,30,23,6,17,4.88,12,7.26,62,91.4,95.0,1.1,16,49.6,23.7,29.94,30,10,15.6,18.12,3,SUWANNEE FORESTRY CENTER (1 rain flag); Live Oak (1 rain flag); Keystone Heights (runs cold),yes
+2025-06,SA49,30,41,8,33,4.56,21,7.37,64,90.5,93.1,0.1,32,53.0,24.0,28.81,30,4,17.0,19.73,8,AVON PARK AFR NORTH (1 rain flag); LAKE FORESTRY CTR (1 rain flag); Crystal River (1 cold day); Inverness (1 rain flag); Lakeland Regional (1 hot day); Leesburg Municipal Airport (1 rain flag); Saint Petersburg (1 rain flag); St Augustine Airpt (1 cold day),yes
+2025-06,SA50,30,46,14,32,5.78,31,8.48,66,90.2,92.0,-0.2,31,56.7,22.4,27.6,30,3,16.9,20.16,13,"DING DARLING NWR (1 rain flag); OASIS (1 rain flag); RACCOON POINT RAWS (1 rain flag); NATIONAL KEY DEER NWR (1 rain flag); Clewiston (1 rain flag); Coral Creek (1 rain flag); Naples Municipal (2 rain flags); Fort Lauderdale (reads dry, 2 rain flags); Okeechobee (1 rain flag); Miami/Opa Locka (reads dry, 2 rain flags); Punta Gorda (1 rain flag); Sarasota-Bradenton (2 rain flags); Vero Beach (1 cold day)",yes
+2025-06,SA52A,30,10,5,5,0.35,5,,,88.4,89.8,-0.8,5,60.0,23.2,25.9,30,9,19.1,20.75,2,"Naval Station Roosevelt Roads (reads dry); San Juan (reads wet, 1 rain flag)",yes
+2025-07,SA01,31,16,5,11,2.6,9,2.45,100,91.7,100.0,-2.0,11,37.1,30.9,40.13,31,0,25.3,35.62,5,CEDAR (1 rain flag); WHEELER RAWS (1 rain flag); CAPROCK (2 rain flags); Spearman (3 cold days); Guymon (1 cold day),yes
+2025-07,SA02,31,15,1,14,1.42,5,2.19,77,93.8,101.5,-1.5,13,38.4,29.1,44.19,31,1,25.5,35.1,2,Fort Sill (1 cold day); Lawton Municipal (reads dry),yes
+2025-07,SA03,31,26,1,25,2.66,7,3.25,81,92.2,100.4,-1.7,24,48.6,25.1,31.05,31,0,21.2,27.64,2,Blackwell (runs hot); Bartlesville/Philli (1 cold day),yes
+2025-07,SA04,31,4,0,4,2.77,1,1.96,141,90.3,99.5,-2.4,4,37.1,,,0,,,,0,,yes
+2025-07,SA05,31,17,4,13,1.2,9,1.92,59,93.9,101.15,-2.7,12,41.1,31.0,43.47,31,0,25.0,33.05,5,BUFFALO GAP (1 rain flag); Eastland (reads dry); Cisco (1 rain flag); Wichita Falls/Shep (reads dry); Sweetwater/Avenger Field Airport (2 hot days),yes
+2025-07,SA06,31,29,4,25,1.61,23,1.96,81,93.6,102.7,-2.1,24,43.5,27.9,44.39,31,0,21.4,26.76,7,"Dallas/Addison Arpt (reads dry, 1 hot day, 1 rain flag); Cleburne (reads dry); Dallas/Love Field (1 rain flag); Denton (reads dry); Fort Worth/Meacham (reads dry); Dallas/Redbird Arpt (1 rain flag); Stephenville/Clark (reads dry)",yes
+2025-07,SA07,31,24,9,15,2.68,15,2.88,83,93.6,102.0,-1.0,12,48.9,25.9,31.61,31,4,17.6,23.59,5,HENDERSON (1 rain flag); Bonham (1 rain flag); Gilmer/Fox_Stephens_Field (1 cold day); Henderson (runs hot); Tyler/Pounds Fld (reads dry),yes
+2025-07,SA08,31,12,6,6,4.19,7,1.52,103,90.0,97.4,-1.8,6,31.0,34.2,47.72,31,0,26.3,31.93,2,El Paso Intl Arpt (1 rain flag); Marfa (1 rain flag),yes
+2025-07,SA09,31,20,3,17,2.79,8,1.5,69,91.8,99.0,-3.8,17,37.7,30.7,46.87,31,0,24.3,33.62,2,"Monahans (1 cold day); Odessa-Schlemeyer Fld (Was E02) (1 hot day, 1 cold day, 1 rain flag)",yes
+2025-07,SA10,31,21,8,13,6.0,10,1.48,285,90.3,99.0,-4.5,13,47.3,23.3,42.97,31,0,19.5,26.16,2,"PAINT CREEK (1 rain flag); COMANCHE (reads wet, 1 rain flag)",yes
+2025-07,SA11,31,49,19,30,4.82,33,2.14,204,92.7,100.4,-3.0,30,48.2,22.6,36.76,31,1,17.6,23.66,12,"BALCONES (1 rain flag); BALCONES FLYING X (1 rain flag); TEMPLE (1 rain flag); La Grange/Fayette Regional (1 rain flag); Waco (1 rain flag); Corsicana (reads dry); Fort Hood/Gray Aaf (1 rain flag); San Marcos (Awos) (reads dry); Killeen Muni (Awos) (5 rain flags); Hillsboro (1 rain flag); Hamilton (reads dry, 1 rain flag); Lago Vista (1 cold day)",yes
+2025-07,SA12,31,30,14,16,3.66,21,2.57,88,92.9,98.0,-1.4,16,52.9,23.9,30.2,31,0,15.8,18.75,9,"LUMBERJACK (reads dry); ZAVALLA (1 rain flag); COLDSPRINGS (1 rain flag); Brenham_Municipal_Apt (1 cold day, 1 rain flag); Conroe/Montgomery County Airport (1 rain flag); Jasper County-Bell Field Airport (1 rain flag); Lufkin/Angelina Co. (1 cold day); Nacogdoches (Awos) (1 cold day); Houston Exec (1 cold day)",yes
+2025-07,SA13,31,21,4,17,2.33,15,4.0,76,91.7,96.3,-0.9,17,54.7,23.9,29.35,31,5,19.8,22.49,3,ANAHUAC (1 rain flag); Galveston/Scholes (1 rain flag); Palacios Municipal (1 cold day),yes
+2025-07,SA14,31,24,3,21,0.81,5,2.26,36,94.7,100.7,-1.3,19,41.2,26.2,39.08,31,1,22.2,29.75,8,"PEARSALL (reads wet); Hondo Municipal (reads dry, 1 cold day); Laredo Intl Airport (1 hot day); Orange Grove (2 cold days); San Antonio (reads dry); San Antonio/Stinson (reads dry); Laughlin Afb (1 cold day); Castroville (2 hot days, 2 cold days)",yes
+2025-07,SA15,31,17,3,14,2.38,8,1.76,205,93.3,98.0,-0.2,13,54.4,23.6,28.28,31,1,19.8,22.78,4,Corpus Christi Intl (reads wet); Port Isabel-Cameron County Apt (1 cold day); Port_Lavaca (runs hot); Rockport/Aransas Co (reads dry),yes
+2025-07,SA16,31,10,4,6,1.9,5,2.03,116,96.1,101.6,-1.8,6,42.6,27.3,33.97,31,1,22.2,27.55,1,Zapata (1 hot day),yes
+2025-07,SA17A,31,19,3,16,3.56,7,3.68,104,92.1,100.0,-0.7,15,52.8,24.4,30.95,31,2,16.2,18.66,1,KIAMICHI (runs cold),yes
+2025-07,SA17B,31,30,12,18,3.16,23,3.78,89,91.4,98.3,0.9,18,51.6,25.2,31.47,31,6,16.3,19.01,7,"HORSESHOE BEND (1 hot day); DEVILS KNOB (reads dry); ARMSTEAD MOUNTAIN (1 rain flag); Mountain Home/Baxter County (1 cold day); Fayetteville/Drake (1 rain flag); Hot Springs (1 cold day, 1 rain flag); Russellville Municipal Airport (reads dry)",yes
+2025-07,SA18,31,28,6,22,1.52,20,3.69,39,94.2,99.0,2.2,20,49.6,27.2,31.18,31,13,17.1,19.13,10,"POINSETT (1 rain flag); FELSENTHAL NWR (reads dry); Arkadelphia (1 cold day, 1 rain flag); Walnut Ridge (Awos) (reads dry, 1 rain flag); Colt - Delta Regional (runs cold); Monticello (1 cold day); Little Rock Afb (1 cold day); Newport (1 cold day); Stuttgart (Awos) (3 cold days); Searcy Muni Airport (M07) (1 cold day)",yes
+2025-07,SA19,31,34,7,27,4.72,15,4.05,122,93.8,98.4,0.7,27,50.4,26.2,31.3,31,1,16.5,18.84,10,"CANEY (1 rain flag); CATAHOULA (reads dry); De Quincy (1 cold day); Lake Charles - Chennault Intl (1 cold day); Shreveport Downtown (1 rain flag); Alexandria - Esler (1 rain flag); New Roads (1 cold day); Lake Charles (1 rain flag); Marksville (1 cold day); Ruston (1 cold day, 1 rain flag)",yes
+2025-07,SA20,31,6,2,4,6.55,3,6.71,92,91.5,96.7,-0.1,4,60.6,27.9,46.29,31,9,20.7,33.59,2,LACASSINE (1 rain flag); Grand Chenier (1 hot day),yes
+2025-07,SA21A,31,9,1,8,4.48,4,6.79,84,92.0,96.8,1.2,8,56.0,23.0,28.54,31,3,16.0,19.75,3,"Reserve (1 hot day); Slidell (1 cold day, 1 rain flag); New Orleans Nas (1 rain flag)",yes
+2025-07,SA21B,31,8,4,4,5.36,6,6.93,92,92.6,98.0,1.7,4,54.5,23.1,29.81,31,5,16.0,18.48,0,,yes
+2025-07,SA21C,31,6,1,5,3.88,3,7.03,47,91.8,96.8,0.6,5,55.2,20.4,25.41,31,2,14.8,17.74,1,Mobile Downtown (1 rain flag),yes
+2025-07,SA22A,31,42,17,25,2.98,28,4.66,59,93.2,97.0,0.7,22,53.1,25.6,29.85,31,3,16.3,17.99,6,MARION (reads dry); BOGUE CHITTO (runs cold); Laurel (1 rain flag); Madison (runs cold); Meridian Nas/Mccain (2 rain flags); Cleveland (1 cold day),yes
+2025-07,SA22B,31,3,0,3,5.49,1,5.09,108,94.3,98.2,2.5,3,53.6,,,0,,,,0,,yes
+2025-07,SA23,31,14,5,9,2.27,6,4.5,40,92.8,98.0,1.8,8,52.7,26.2,29.97,31,14,17.3,18.87,0,,yes
+2025-07,SA24,31,24,8,16,1.75,12,4.27,42,92.4,97.5,2.1,12,53.7,25.4,29.66,31,12,16.3,18.85,4,"COVINGTON (1 rain flag); Clarksville/Outlaw (1 cold day, 1 rain flag); Paris (1 cold day, 1 rain flag); Savannah (2 cold days)",yes
+2025-07,SA25,31,38,11,27,3.29,14,5.19,71,90.3,94.1,1.9,25,54.3,22.8,27.76,31,3,14.2,16.07,6,PICKETT STATE FOREST (1 rain flag); BISO-NP (reads wet); BLEDSOE SF (1 rain flag); Portland (1 cold day); Lawrenceburg (1 cold day); Oneida Scott (1 cold day),yes
+2025-07,SA25B,31,17,7,10,3.81,9,5.04,101,90.4,93.2,2.3,9,52.0,23.8,28.64,31,7,14.6,17.06,1,Bristol/Tri-City (1 rain flag),yes
+2025-07,SA26,31,34,5,29,3.75,12,4.25,88,90.3,94.0,2.2,29,55.1,23.0,28.8,31,3,14.9,17.44,6,CRITTENDEN (reads dry); GREENVILLE (1 rain flag); Fort Knox/Godman (1 rain flag); Lexington/Bluegrass (2 rain flags); Greenville (1 rain flag); Mayfield (1 rain flag),yes
+2025-07,SA27,31,21,7,14,4.73,7,5.05,142,88.9,92.3,2.4,14,55.7,21.9,29.97,31,3,14.8,17.32,7,"TRIANGLE MTN (1 rain flag); BIG SANDY (reads dry, 2 rain flags); JACKSON CO AP (reads dry); Wendell H Ford (1 cold day); Monticello (reads dry); Mount Sterling (1 rain flag); London-Corbin Arpt (1 rain flag)",yes
+2025-07,SA28A,31,6,1,5,6.55,1,,,82.9,85.8,1.1,5,57.7,19.2,26.66,31,2,13.3,17.45,3,FLATWOODS (1 rain flag); Richlands (1 rain flag); Abingdon (2 cold days),yes
+2025-07,SA28B,31,19,7,12,5.13,8,4.15,101,87.8,92.0,1.1,11,54.0,21.8,26.72,31,0,13.8,15.55,4,"SAWMILL RIDGE (runs hot); CRAIG VALLEY (1 rain flag); Luray (runs hot, 1 rain flag); Roanoke Muni (1 rain flag)",yes
+2025-07,SA29,31,32,4,28,6.57,11,4.37,134,89.8,95.2,1.1,28,55.5,22.5,29.86,31,4,15.1,18.62,5,FAPH_SOUTH 1 (1 rain flag); Blackstone (1 rain flag); Charlottesville (2 rain flags); Farmville (1 cold day); Gordonsville (1 cold day),yes
+2025-07,SA30,31,29,4,25,5.2,14,4.95,101,89.5,95.0,0.8,24,57.2,21.1,25.91,31,6,14.4,18.62,4,GDR (1 rain flag); BACK BAY (1 rain flag); Quantico Mcaf (1 rain flag); Wallops Island Stn (1 rain flag),yes
+2025-07,SA31A,31,25,16,9,5.05,18,4.42,110,86.0,90.0,1.2,9,54.4,20.4,24.58,31,0,13.5,15.41,7,RENDEZVOUS MTN. (1 rain flag); 7 MILE RIDGE (1 rain flag); GRANDFATHER (1 rain flag); DAVIDSON RIVER (1 rain flag); LOCUST GAP (1 rain flag); Hickory_Regional_(Asos) (1 rain flag); Morganton-Lenoir_Airport (1 cold day),yes
+2025-07,SA31B,31,8,5,3,3.97,5,,,87.2,92.0,3.9,2,55.0,23.4,29.48,31,6,15.2,17.04,2,TOCCOA (1 rain flag); Cornelia (runs cold),yes
+2025-07,SA31C,31,9,2,7,4.29,6,4.21,78,92.7,99.0,3.2,7,45.4,22.0,27.59,31,2,13.7,16.33,4,ANDREW PICKENS (1 rain flag); Clemson/Oconee County (2 cold days); Greenville - Downtown (1 rain flag); Greenville - Spartanburg (1 rain flag),yes
+2025-07,SA32,31,39,11,28,5.58,18,4.21,119,91.3,99.0,1.2,28,50.7,23.6,29.21,31,6,15.6,18.34,10,"RAVEN KNOB (SURRY CTY) (1 rain flag); ROCKINGHAM (1 rain flag); HORSESHOE HOUSE (1 rain flag); PILOT MOUNTAIN (runs cold, reads dry, 1 rain flag); Monroe_Airport_(Asos) (1 rain flag); Mackall_Aaf (1 rain flag); Laurinburg-Maxton_Arpt_(Asos) (3 rain flags); Mount_Airy/Surry_County_Aprt (2 rain flags); Statesville (1 cold day); Roxboro (4 cold days)",yes
+2025-07,SA33,31,23,5,18,5.53,8,4.61,96,92.0,99.0,1.1,18,55.4,22.0,27.7,31,2,15.5,19.38,2,Fayetteville (1 rain flag); Fort_Bragg/Simmons (1 rain flag),yes
+2025-07,SA34,31,38,16,22,5.39,24,5.92,91,90.5,96.0,0.5,22,60.6,22.0,28.18,31,6,15.5,20.34,5,"ELIZABETH CITY (2 hot days, 1 rain flag); CROATAN (1 rain flag); SUNNY POINT (1 rain flag); Manteo/Dare_Co_Rgnl (4 rain flags); New_River_Mcas (1 cold day)",yes
+2025-07,SA35,31,23,9,14,3.5,13,4.41,73,93.9,101.0,2.2,14,46.0,25.7,30.71,31,10,16.6,19.33,3,KINGS MOUNTAIN (1 rain flag); Columbia Metro (2 rain flags); Laurens (1 rain flag),yes
+2025-07,SA36,31,22,6,16,5.0,8,5.38,83,92.9,100.0,0.9,15,53.0,22.8,30.45,31,5,15.0,17.97,4,WITHERBEE (1 rain flag); Hartsville (1 cold day); Sumter (runs hot); Shaw Afb/Sumter (1 rain flag),yes
+2025-07,SA37,31,15,4,11,6.3,6,6.6,101,91.1,98.0,0.3,11,59.6,22.0,29.15,31,7,16.5,20.6,3,SAVANNAH NWR (7 rain flags); North Myrtle Beach (1 cold day); Beaufort Mcas (1 rain flag),yes
+2025-07,SA38,31,29,9,20,2.21,16,4.49,44,91.6,96.0,1.4,20,52.1,26.6,30.75,31,18,16.5,17.89,5,SCHOOLHOUSE (1 rain flag); Haleyville (1 rain flag); Birmingham Muni (1 rain flag); Redstone Arsenal (1 hot day); Muscle Shoals Rgnl (2 rain flags),yes
+2025-07,SA39,31,29,9,20,2.83,19,5.15,67,92.9,97.0,0.1,20,51.9,24.2,29.34,31,6,15.6,18.02,3,OAKMULGEE (1 rain flag); Prattville (1 cold day); Enterprise (1 cold day),yes
+2025-07,SA40,31,32,6,26,3.17,14,4.62,60,91.6,96.7,2.3,24,48.6,25.4,32.13,31,14,16.2,18.42,7,"ARMUCHEE (1 rain flag); CHATSWORTH (1 rain flag); Atlanta Intl Arpt (1 rain flag); Peachtree City (1 cold day); Atlanta/Fulton Co. (1 rain flag); Lawrenceville (1 cold day, 1 rain flag); Cartersville Airport (reads dry)",yes
+2025-07,SA41,31,37,13,24,3.17,17,4.42,69,93.7,98.0,1.6,23,48.1,26.3,30.42,31,17,18.1,20.93,10,"COCHRAN (runs hot); FORT GORDON (1 rain flag); Butler (1 rain flag); Albany Municipal (1 rain flag); Athens Municipal (1 rain flag); Cordele (1 rain flag); Columbus Metro Arpt (reads dry); Augusta (1 cold day, 1 rain flag); Macon/Lewis Wilson (reads dry); Warner Robins Afb (1 rain flag)",yes
+2025-07,SA42,31,41,14,27,4.11,15,5.2,56,94.4,99.7,2.1,26,49.2,24.7,30.55,31,10,17.5,20.6,9,BAINBRIDGE (runs hot); METTER (12 rain flags); BAXLEY (2 rain flags); NAHUNTA (1 rain flag); Millen (1 cold day); Alma/Bacon Co. (1 rain flag); Douglas_Muni_Arpt (1 cold day); Statesboro/Bulloch Co (1 cold day); Vidalia Muni Airport (2 cold days),yes
+2025-07,SA46,31,10,5,5,65.17,4,,,93.8,100.7,1.3,5,52.7,17.8,22.58,31,11,13.7,17.11,4,MIDWAY (15 rain flags); Ft Stewart/Wright (11 rain flags); Savannah - Hilton Head (12 rain flags); Hunter (Aaf) (3 rain flags),yes
+2025-07,SA47,31,28,8,20,4.3,20,6.79,52,92.5,98.0,0.8,19,54.1,20.7,25.7,31,1,14.1,16.59,5,NAVAL LIVE OAKS (1 cold day); SUMATRA (1 rain flag); ST. MARKS (WEST) (1 rain flag); Defuniak (1 rain flag); Crestview/Bob Sikes (1 rain flag),yes
+2025-07,SA48,31,23,6,17,4.74,12,6.34,74,93.2,99.0,1.5,16,51.8,24.3,31.55,31,9,15.9,19.5,4,LOWER SUWANNEE (1 rain flag); Jacksonville Intl (1 rain flag); Jacksonville - Whitehouse (1 rain flag); Jacksonville - Cecil Field (1 hot day),yes
+2025-07,SA49,31,41,8,33,6.46,21,7.29,87,92.2,98.0,0.8,31,55.4,22.1,30.32,31,7,15.7,19.35,11,LAKE FORESTRY CTR (1 rain flag); PAISLEY (1 rain flag); Deland (1 rain flag); Winter Haven (Asos) (1 rain flag); Kissimmee Muni Airport/Orlando (1 rain flag); Lakeland Regional (2 rain flags); Leesburg Municipal Airport (1 rain flag); Orlando International (2 rain flags); Melbourne Orlando Intl (1 rain flag); St Augustine Airpt (1 cold day); Titusville (1 cold day),yes
+2025-07,SA50,31,46,14,32,6.09,31,6.82,60,91.8,95.0,0.2,30,56.8,21.0,28.9,31,8,15.9,19.63,11,"LAKE WALES (1 rain flag); DING DARLING NWR (1 rain flag); OCHOPEE RAWS (1 rain flag); Naples Municipal (1 rain flag); Key West (1 rain flag); Fort Lauderdale (reads dry, 2 rain flags); Key Largo - Ocean Reef (1 rain flag); Marathon (1 rain flag); Key West Nas (1 rain flag); Okeechobee (1 rain flag); Miami/Kendall-Tamia (1 rain flag)",yes
+2025-07,SA52A,31,10,5,5,1.37,4,4.31,21,89.5,91.2,0.0,5,60.1,23.1,25.11,31,5,19.0,21.21,4,"GUANICA (reads dry, 1 rain flag); CAMP SANTIAGO (reads dry); Naval Station Roosevelt Roads (1 cold day); San Juan (reads wet, 2 rain flags)",yes
+2025-08,SA01,17,16,5,11,1.18,9,1.6,,95.3,104.0,2.4,10,28.5,35.8,46.17,17,0,29.1,39.96,3,Spearman (runs cold); Guymon (4 cold days); Canadian (1 cold day),17 of 31 days
+2025-08,SA02,17,15,1,14,1.33,6,1.48,,94.6,100.9,-0.9,13,35.8,30.8,38.02,17,0,27.1,36.41,3,Altus (1 rain flag); Elk City (1 rain flag); Fort Sill (1 cold day),17 of 31 days
+2025-08,SA03,17,26,1,25,0.23,6,1.81,,93.0,98.6,-1.4,24,43.9,27.0,31.13,17,0,23.8,29.62,4,OSAGE (reads dry); Blackwell (runs hot); Oklahoma City Sundance (1 cold day); Ponca City Muni (1 rain flag),17 of 31 days
+2025-08,SA04,17,4,0,4,2.06,1,0.88,,95.1,101.4,2.8,4,27.6,,,0,,,,0,,17 of 31 days
+2025-08,SA05,17,17,4,13,0.44,11,1.42,,96.7,102.1,-0.8,12,33.6,37.7,48.11,17,0,29.1,39.59,1,Wichita Falls/Shep (reads wet),17 of 31 days
+2025-08,SA06,17,29,4,25,0.81,21,1.15,,94.9,98.6,-2.2,24,40.7,31.8,38.05,17,0,23.0,28.48,8,"Dallas/Addison Arpt (reads dry, 1 rain flag); Fort Worth - Alliance (reads dry); Rockwall (reads dry); Fort Worth/Meacham (reads dry); Fort Worth - Spinks (reads dry); Sherman/Denison (1 rain flag); Mineral Wells Muni (reads wet); Stephenville/Clark (reads dry)",17 of 31 days
+2025-08,SA07,17,24,9,15,0.85,13,1.42,,94.4,98.6,-1.5,12,44.9,27.3,29.81,17,0,17.7,19.46,8,TEXARKANA (1 rain flag); GILMER (reads dry); CADDO LAKE (reads dry); Carthage (1 cold day); Bonham (1 rain flag); Greenville/Majors (reads wet); Henderson (runs hot); Terrell (1 rain flag),17 of 31 days
+2025-08,SA08,17,12,6,6,0.21,7,0.97,,94.5,100.5,2.4,6,21.4,48.4,53.22,17,0,33.3,38.28,0,,17 of 31 days
+2025-08,SA09,17,20,3,17,0.16,7,0.86,,98.4,102.6,2.3,17,23.6,43.7,53.85,17,0,31.8,40.5,1,Odessa-Schlemeyer Fld (Was E02) (1 cold day),17 of 31 days
+2025-08,SA10,17,21,8,13,0.41,11,1.07,,96.0,98.6,-0.4,13,35.3,32.3,38.55,17,0,24.4,27.31,1,Llano_Muni_Arpt (1 rain flag),17 of 31 days
+2025-08,SA11,17,49,19,30,0.56,33,1.07,,96.5,100.0,-1.3,30,38.9,30.2,35.17,17,0,21.1,23.41,10,BASTROP (reads wet); LA GRANGE (reads dry); SOUTH AUSTIN RAWS (1 rain flag); SAN MARCOS-WEST (1 rain flag); Waco (1 cold day); Ft Hood Aaf/Killeen (reads wet); Killeen Muni (Awos) (reads dry); Caldwell (2 cold days); Lago Vista (2 cold days); Temple/Miller(Awos) (1 cold day),17 of 31 days
+2025-08,SA12,17,30,14,16,1.44,16,1.61,,94.7,98.0,-1.1,15,47.9,25.9,28.86,17,0,16.6,18.05,8,"LUMBERJACK (reads dry); SABINE SOUTH (reads dry); KIRBYVILLE, TX (reads dry); CONROE (reads wet); Cleveland (1 rain flag); Center (runs cold); Nacogdoches (Awos) (1 cold day); Palestine (reads dry)",17 of 31 days
+2025-08,SA13,17,21,4,17,1.45,11,2.21,,92.6,95.0,-0.9,17,54.4,22.5,25.23,17,0,18.3,20.73,8,"ANAHUAC (reads wet, 1 rain flag); BRAZORIA NWR (reads dry); SAN BERNARD NWR (1 rain flag); Beaumont (1 cold day); Beaumont - Port Arthur (1 rain flag); Bay City Regional (reads dry); Houston/Will Hobby (reads dry); Houston/Hull Field (1 rain flag)",17 of 31 days
+2025-08,SA14,17,24,3,21,0.06,9,0.84,,100.2,102.6,2.2,19,29.9,34.8,37.7,17,2,26.9,29.94,1,Castroville (1 hot day),17 of 31 days
+2025-08,SA15,17,17,3,14,0.16,7,0.73,,97.1,99.75,1.8,11,46.9,25.3,28.01,17,1,21.4,23.11,8,MATAGORDA ISLAND (runs cold); LAGUNA ATASCOSA (reads dry); Brownsville Intl (reads wet); Corpus Christi Nas (runs cold); Kingsville Nas (1 rain flag); Port Isabel-Cameron County Apt (reads dry); Port_Lavaca (runs hot); Port Aransas/Mustang Beach Arpt (runs cold),17 of 31 days
+2025-08,SA16,17,10,4,6,0.57,4,0.7,,101.0,103.8,1.4,6,33.4,31.4,34.23,17,3,25.3,28.89,2,"LA PUERTA (runs hot, reads dry, 1 rain flag); Edinburg (1 rain flag)",17 of 31 days
+2025-08,SA17A,17,20,3,17,2.07,5,1.69,,93.1,98.6,-0.4,15,47.1,25.9,29.6,17,0,16.6,18.89,4,CLEARVIEW (reads dry); KIAMICHI (runs cold); Robert S Kerr Airport/Poteau (1 rain flag); Tulsa/Lloyd Jones (reads wet),17 of 31 days
+2025-08,SA17B,17,30,12,18,0.35,18,1.98,,92.2,99.0,1.2,18,42.9,27.0,29.26,17,6,17.6,20.64,8,"TRIMBLE MTN (reads dry); WEDINGTON (reads wet); COMPTON (reads wet); DEVILS KNOB (reads dry); J Lynn Helms/De Queen (reads dry, 1 rain flag); Fort Smith Muni (reads dry); Rogers (Awos) (reads dry); Siloam Spring(Awos) (reads wet)",17 of 31 days
+2025-08,SA18,17,28,6,22,0.06,19,1.77,,93.6,100.4,1.4,22,43.7,27.4,29.85,17,8,17.3,19.8,4,Walnut Ridge (Awos) (reads wet); West Memphis Muni (reads dry); El Dorado/Goodwin (reads wet); Pine Bluff/Grider (1 rain flag),17 of 31 days
+2025-08,SA19,17,34,7,27,1.39,18,1.85,,93.8,97.5,-0.1,25,47.9,25.3,29.18,17,0,16.4,18.62,5,CANEY (1 rain flag); Vidalia (runs hot); New Roads (runs cold); Minden (1 rain flag); Shreveport Regional (1 rain flag),17 of 31 days
+2025-08,SA20,17,6,2,4,1.21,3,3.11,,92.4,95.0,0.0,4,55.8,23.8,26.66,17,0,17.0,18.57,3,LACASSINE (1 rain flag); New Iberia - Acadiana (1 rain flag); Abbeville (2 cold days),17 of 31 days
+2025-08,SA21A,17,9,1,8,1.74,4,3.62,,91.2,97.0,-0.1,8,57.0,21.9,25.1,17,0,14.9,17.06,1,BIG BRANCH NWR (1 rain flag),17 of 31 days
+2025-08,SA21B,17,8,4,4,4.25,6,3.84,,90.4,96.0,-1.1,3,60.5,20.5,25.56,17,0,13.9,17.63,1,GRAND BAY (1 rain flag),17 of 31 days
+2025-08,SA21C,17,6,1,5,4.9,3,3.96,,89.3,94.1,-2.2,5,60.8,21.7,30.19,17,4,16.6,23.02,0,,17 of 31 days
+2025-08,SA22A,17,42,17,25,1.05,23,2.53,,91.8,97.0,-0.7,22,53.0,23.6,26.47,17,0,16.2,17.93,8,HOLMES (reads dry); NOXUBEE - FTS (reads dry); LAUDERDALE (1 rain flag); COPIAH (1 rain flag); GREENE (reads dry); BOGUE CHITTO (runs cold); Greenville Muni (reads dry); Vicksburg (reads wet),17 of 31 days
+2025-08,SA22B,17,3,0,3,1.22,1,3.33,,94.2,98.6,2.2,3,51.1,,,0,,,,0,,17 of 31 days
+2025-08,SA23,17,14,5,9,1.92,2,,,91.0,98.6,0.1,8,51.0,25.1,28.47,17,5,15.9,17.91,4,WINBORN (reads dry); TISHOMINGO (reads dry); MONROE (reads dry); Tupelo (reads wet),17 of 31 days
+2025-08,SA24,17,24,8,16,0.23,10,1.99,,91.0,98.6,1.0,13,48.2,26.5,30.5,17,8,16.6,18.38,2,SHILOH NMP (reads wet); Memphis Intl Arpt (reads wet),17 of 31 days
+2025-08,SA25,17,38,11,27,2.23,14,2.11,,86.5,93.2,-1.8,25,57.2,18.5,24.59,17,0,12.3,14.94,3,"MERIWETHER LEWIS (1 rain flag); Winchester (1 rain flag); Chattanooga/Lovell (reads dry, 1 rain flag)",17 of 31 days
+2025-08,SA25B,17,17,7,10,2.25,9,2.22,,84.9,91.4,-2.8,9,57.6,16.7,22.55,17,0,11.9,13.72,1,TELLICO (2 rain flags),17 of 31 days
+2025-08,SA26,17,34,5,29,0.55,10,2.03,,88.7,95.0,0.8,28,49.5,24.9,28.62,17,4,15.6,17.44,3,GREENVILLE (reads wet); ALPINE (reads dry); Cincinnati / N Kentucky Intl (reads wet),17 of 31 days
+2025-08,SA27,17,21,7,14,0.87,5,2.41,,86.2,94.0,-0.0,14,55.1,20.1,24.99,17,0,14.2,16.46,7,"PILGRIM (reads wet); BIG SANDY (reads dry); JACKSON CO AP (reads dry); PEABODY (reads dry); Ashland (reads dry); Monticello (reads dry); Jackson/J. Carroll (1 cold day, 1 rain flag)",17 of 31 days
+2025-08,SA28A,17,6,1,5,3.43,1,,,78.7,86.1,-3.3,5,61.1,17.0,21.53,17,0,11.7,13.92,0,,17 of 31 days
+2025-08,SA28B,17,19,7,12,1.29,7,1.87,,81.3,90.0,-4.7,11,55.8,18.2,23.04,17,0,12.0,14.94,2,FORT VALLEY (reads wet); Luray (runs hot),17 of 31 days
+2025-08,SA29,17,32,4,28,1.78,9,2.18,,82.8,91.1,-4.8,28,57.7,21.2,26.45,17,0,14.2,16.67,2,"Wakefield (Nexrad) (reads wet); Chesterfield (reads dry, 1 rain flag)",17 of 31 days
+2025-08,SA30,17,29,4,25,0.84,10,2.9,,83.1,90.5,-4.2,25,59.0,17.8,23.3,17,0,13.0,15.09,4,PRINCE WILLIAM (reads dry); Washington/National (reads dry); Oceana Nas/Soucek (reads wet); Norfolk/Hampton Roads (reads dry),17 of 31 days
+2025-08,SA31A,17,25,16,9,4.86,18,2.61,,78.9,88.0,-5.3,9,65.9,9.9,17.57,17,0,8.6,12.79,3,7 MILE RIDGE (1 rain flag); CHEOAH (reads dry); TUSQUITEE (1 rain flag),17 of 31 days
+2025-08,SA31B,17,8,5,3,3.83,5,,,80.3,89.0,-3.6,3,66.7,12.8,20.55,17,0,10.6,14.33,3,TALLULAH (1 rain flag); Ellijay (1 rain flag); Cornelia (3 cold days),17 of 31 days
+2025-08,SA31C,17,9,2,7,5.28,7,2.54,,81.7,93.0,-7.0,7,65.8,7.1,14.55,17,0,6.5,11.07,1,TABLE ROCK (1 rain flag),17 of 31 days
+2025-08,SA32,17,39,11,28,4.51,20,2.45,,81.5,91.0,-7.1,28,64.4,10.6,21.65,17,0,8.4,14.25,3,PILOT MOUNTAIN (runs cold); Lexington_Davidson_County_Airp (reads dry); Laurinburg-Maxton_Arpt_(Asos) (2 rain flags),17 of 31 days
+2025-08,SA33,17,23,5,18,4.22,9,2.79,,83.8,91.0,-5.4,18,65.7,12.0,23.33,17,0,10.9,15.2,0,,17 of 31 days
+2025-08,SA34,17,38,16,22,5.93,24,3.73,,84.9,89.8,-4.1,22,65.8,12.5,20.36,17,0,11.1,15.62,6,ELIZABETH CITY (1 rain flag); BEAUFORT (1 rain flag); HOFMANN FOREST (1 rain flag); Kill_Devil_Hills (1 cold day); New_River_Mcas (2 cold days); Bogue Field (1 cold day),17 of 31 days
+2025-08,SA35,17,23,9,14,6.94,16,2.24,,83.5,95.0,-7.1,14,65.1,9.2,21.7,17,0,8.5,15.04,3,DURBIN CREEK (2 rain flags); Aiken (1 rain flag); Lancaster (reads dry),17 of 31 days
+2025-08,SA36,17,22,6,16,4.23,9,2.58,,85.4,95.0,-5.8,16,66.3,11.2,22.19,17,0,9.5,13.92,1,SANTEE NWR (reads dry),17 of 31 days
+2025-08,SA37,17,15,4,11,6.26,7,3.27,,86.0,94.0,-3.8,11,70.2,11.7,23.03,17,0,10.3,15.45,2,"SAVANNAH NWR (reads dry, 2 rain flags); Hilton Head Island (reads dry)",17 of 31 days
+2025-08,SA38,17,30,9,21,3.79,11,2.46,,86.4,94.0,-3.6,21,62.2,15.8,23.59,17,0,11.5,14.67,10,"BANKHEAD (reads wet); ONEONTA (reads dry, 1 rain flag); MT. LONGLEAF (1 hot day); SCHOOLHOUSE (1 rain flag); Anniston (1 rain flag); Decatur/Pryor Field (reads dry); Gadsden Muni (Awos) (1 rain flag); Huntsville/Madison (reads dry); Redstone Arsenal (1 cold day); Muscle Shoals Rgnl (reads wet)",17 of 31 days
+2025-08,SA39,17,29,9,20,2.32,18,2.84,,88.3,95.0,-4.2,20,61.4,17.8,25.66,17,0,12.6,16.69,5,"SRS (1 cold day); Auburn-Opelika Apt (reads dry, 1 rain flag); Lowe Ahp/Ft. Rucker (1 rain flag); Montgomery/Dannelly (reads dry, 1 rain flag); Tuscaloosa Muni (1 cold day, 1 rain flag)",17 of 31 days
+2025-08,SA40,17,32,6,26,3.1,14,2.31,,83.5,91.8,-5.5,23,64.6,12.4,20.54,17,0,10.5,14.41,5,"COHUTTA (1 rain flag); DAWSONVILLE (1 rain flag); Atlanta/Dekalb (1 rain flag); Marietta (reads dry, 1 rain flag); Winder (reads dry)",17 of 31 days
+2025-08,SA41,17,37,13,24,5.66,18,2.73,,85.3,95.0,-5.5,24,66.2,12.1,22.15,17,0,9.8,15.92,4,COCHRAN (runs hot); Augusta/Bush Field (4 rain flags); La_Grange (3 cold days); Fort Benning (1 rain flag),17 of 31 days
+2025-08,SA42,17,41,14,27,4.46,17,2.5,,90.3,96.8,-2.1,24,59.9,17.7,26.69,17,1,14.0,18.96,7,BAINBRIDGE (runs hot); METTER (8 rain flags); GLISSONS POND (1 hot day); OKE-EAST (1 rain flag); Hazlehurst (1 cold day); Claxton (1 cold day); Vidalia Muni Airport (1 cold day),17 of 31 days
+2025-08,SA46,17,10,5,5,38.01,4,,,89.4,97.4,-1.8,5,62.8,9.6,16.66,17,0,9.7,14.87,4,MIDWAY (4 rain flags); Ft Stewart/Wright (1 rain flag); Savannah - Hilton Head (7 rain flags); Hunter (Aaf) (2 rain flags),17 of 31 days
+2025-08,SA47,17,28,8,20,4.11,20,3.69,,89.2,93.0,-2.3,19,63.2,15.4,22.4,17,0,11.3,14.71,7,WILMA (1 rain flag); SANBORN (1 rain flag); ST. MARKS  (EAST) (2 rain flags); Defuniak (1 cold day); Apalachicola Muni (Asos) (2 rain flags); Panama City (reads wet); Pensacola Regional (1 rain flag),17 of 31 days
+2025-08,SA48,17,23,6,17,3.44,13,3.61,,92.1,96.9,0.4,17,56.0,22.0,30.36,17,2,14.6,18.59,3,LOWER SUWANNEE (1 rain flag); Jacksonville Intl (1 rain flag); Jacksonville - Cecil Field (1 hot day),17 of 31 days
+2025-08,SA49,17,41,8,33,3.83,20,4.23,,92.6,95.0,1.2,31,54.8,22.7,27.09,17,1,15.9,18.14,7,LAKE GEORGE (1 rain flag); Daytona Beach Rgnl (2 rain flags); Winter Haven (Asos) (reads dry); Lakeland Regional (1 rain flag); Ormond Beach Muni (1 cold day); Saint Petersburg (reads dry); Vandenberg Airport/Tampa (1 rain flag),17 of 31 days
+2025-08,SA50,17,46,14,32,3.95,29,4.34,,92.5,95.0,0.5,30,56.4,22.1,29.11,17,3,16.1,20.09,12,"BRIGHTON (2 rain flags); LOXAHATCHEE (1 rain flag); DING DARLING NWR (1 rain flag); HONEYMOON RAWS (1 rain flag); Fort Lauderdale (reads dry, 1 rain flag); Marco Island (2 rain flags); Marathon (reads dry, 1 rain flag); Miami/Opa Locka (1 hot day); Punta Gorda (1 rain flag); Pompano Beach (reads dry, 1 rain flag); Sarasota-Bradenton (1 rain flag); Miami/Kendall-Tamia (reads dry, 1 rain flag)",17 of 31 days
+2025-08,SA52A,17,10,5,5,2.91,4,,,89.6,91.0,-0.3,5,62.1,22.1,24.36,17,1,17.1,19.96,4,"CAMP SANTIAGO (reads dry); Aguadilla (1 cold day); Naval Station Roosevelt Roads (reads dry, 1 rain flag); San Juan (reads wet, 1 rain flag)",17 of 31 days
+2026-11,SA01,11,16,5,11,0.57,9,0.21,,60.6,73.0,-1.6,10,51.8,17.1,23.06,11,0,15.7,20.25,1,Perryton/Ochiltree County Apt (1 cold day),11 of 30 days
+2026-11,SA02,11,15,1,14,0.91,6,0.51,,62.1,73.4,-0.1,13,49.5,17.2,22.09,11,0,16.7,25.19,2,Elk City (reads dry); Fort Sill (1 cold day),11 of 30 days
 2026-11,SA03,11,26,1,25,0.49,7,0.69,,63.3,75.1,0.7,24,43.5,19.1,22.4,11,0,17.9,24.7,1,Chickasha Muni Airport (1 rain flag),11 of 30 days
 2026-11,SA04,11,5,0,5,0.4,1,0.28,,59.3,71.6,-4.5,5,58.5,,,0,,,,0,,11 of 30 days
-2026-11,SA05,11,17,4,13,0.88,10,0.56,,64.9,77.0,-2.5,12,55.4,15.0,21.11,11,0,13.2,18.05,1,Breckenridge (1 cold day),11 of 30 days
+2026-11,SA05,11,17,4,13,0.88,10,0.56,,64.9,77.0,-2.4,12,55.4,15.0,21.11,11,0,13.2,18.05,1,Breckenridge (1 cold day),11 of 30 days
 2026-11,SA06,11,29,4,25,0.92,21,0.91,,68.2,79.0,0.6,24,46.0,16.0,20.34,11,0,13.5,18.81,8,Bowie (reads dry); Dallas/Addison Arpt (reads dry); Cleburne (1 cold day); Fort Worth - Spinks (reads dry); Granbury (reads dry); Gainesville (reads dry); Mesquite (reads dry); Bridgeport (1 cold day),11 of 30 days
-2026-11,SA07,11,24,9,15,0.38,17,1.25,,68.6,80.0,0.8,14,40.0,18.1,20.69,11,0,14.7,17.62,0,,11 of 30 days
-2026-11,SA08,11,13,6,7,0.67,7,0.14,,65.6,71.6,-3.6,6,50.9,15.9,19.29,11,0,14.0,20.89,3,WOLF DEN DMP (1 hot day); ELEPHANT MTN WMA RAWS (1 cold day); Marfa (runs cold),11 of 30 days
+2026-11,SA07,11,24,9,15,0.38,17,1.25,,68.7,80.0,0.9,14,40.0,18.1,20.69,11,0,14.7,17.62,0,,11 of 30 days
+2026-11,SA08,11,13,6,7,0.67,7,0.14,,65.8,71.9,-3.6,6,50.9,15.9,19.29,11,0,14.0,20.89,3,WOLF DEN DMP (1 hot day); ELEPHANT MTN WMA RAWS (1 cold day); Marfa (runs cold),11 of 30 days
 2026-11,SA09,11,20,3,17,0.74,7,0.27,,63.6,73.0,-4.9,17,59.9,12.7,17.74,11,0,12.4,18.92,0,,11 of 30 days
-2026-11,SA10,11,21,8,13,2.39,10,0.5,,65.9,76.0,-3.4,13,62.7,8.7,14.63,11,0,8.6,13.7,0,,11 of 30 days
-2026-11,SA11,11,50,19,31,1.92,32,1.02,,68.9,80.0,-2.1,30,56.6,10.5,15.05,11,0,9.6,14.26,5,SOUTH AUSTIN RAWS (3 rain flags); SAN MARCOS-WEST (1 hot day); Killeen Muni (Awos) (reads dry); Lago Vista (1 cold day); Temple/Miller(Awos) (reads dry),11 of 30 days
+2026-11,SA10,11,21,8,13,2.39,10,0.5,,66.0,76.0,-3.3,13,62.7,8.7,14.63,11,0,8.6,13.7,0,,11 of 30 days
+2026-11,SA11,11,50,19,31,1.92,32,1.02,,68.9,80.0,-2.0,30,56.6,10.5,15.05,11,0,9.6,14.26,5,SOUTH AUSTIN RAWS (3 rain flags); SAN MARCOS-WEST (1 hot day); Killeen Muni (Awos) (reads dry); Lago Vista (1 cold day); Temple/Miller(Awos) (reads dry),11 of 30 days
 2026-11,SA12,11,30,14,16,1.32,21,1.59,,70.0,79.0,-0.6,14,44.8,16.4,19.78,11,0,13.1,15.81,0,,11 of 30 days
-2026-11,SA13,11,21,4,17,2.22,14,1.4,,70.8,80.0,-3.1,17,49.8,12.5,15.48,11,0,13.8,18.18,2,Beaumont (1 cold day); Houston Dunn (2 cold days),11 of 30 days
-2026-11,SA14,11,25,3,22,2.71,8,0.57,,70.0,80.0,-4.5,22,60.8,9.3,16.49,11,0,9.1,14.61,2,Laughlin Afb (1 hot day); Castroville (1 hot day),11 of 30 days
-2026-11,SA15,11,19,3,16,4.97,9,0.74,,73.1,80.0,-2.6,16,64.9,4.4,8.58,11,0,6.9,11.24,0,,11 of 30 days
+2026-11,SA13,11,21,4,17,2.22,14,1.4,,70.8,80.0,-3.0,17,49.8,12.5,15.48,11,0,13.8,18.18,2,Beaumont (1 cold day); Houston Dunn (2 cold days),11 of 30 days
+2026-11,SA14,11,25,3,22,2.71,8,0.57,,70.0,80.0,-4.4,22,60.8,9.3,16.49,11,0,9.1,14.61,2,Laughlin Afb (1 hot day); Castroville (1 hot day),11 of 30 days
+2026-11,SA15,11,19,3,16,4.97,9,0.74,,73.2,80.0,-2.6,16,64.9,4.4,8.58,11,0,6.9,11.24,0,,11 of 30 days
 2026-11,SA16,11,10,4,6,1.89,5,0.42,,74.6,86.85,-5.1,6,64.0,7.2,13.46,11,0,7.4,12.04,1,Falfurrias/Brooks County Airport (1 rain flag),11 of 30 days
-2026-11,SA17A,11,20,3,17,0.03,7,1.04,,64.9,75.85,2.1,16,38.2,20.1,25.18,11,0,14.9,16.43,0,,11 of 30 days
+2026-11,SA17A,11,20,3,17,0.03,7,1.04,,64.9,75.85,2.2,16,38.2,20.1,25.18,11,0,14.9,16.43,0,,11 of 30 days
 2026-11,SA17B,11,31,12,19,0.0,26,1.5,,63.9,77.0,2.7,19,36.5,20.4,25.45,11,0,15.6,17.78,0,,11 of 30 days
-2026-11,SA18,11,28,6,22,0.0,20,1.58,,66.0,81.0,2.8,22,35.6,20.2,25.75,11,0,14.5,16.69,0,,11 of 30 days
-2026-11,SA19,11,34,7,27,0.26,15,1.49,,69.6,80.2,-0.7,26,38.4,18.1,21.6,11,0,13.8,15.92,1,De Quincy (1 cold day),11 of 30 days
+2026-11,SA18,11,28,6,22,0.0,20,1.58,,66.1,81.0,2.9,22,35.6,20.2,25.75,11,0,14.5,16.69,0,,11 of 30 days
+2026-11,SA19,11,34,7,27,0.26,15,1.49,,69.7,80.2,-0.7,26,38.4,18.1,21.6,11,0,13.8,15.92,1,De Quincy (1 cold day),11 of 30 days
 2026-11,SA20,11,6,2,4,0.37,4,1.54,,69.7,77.0,-2.7,4,47.3,18.1,21.86,11,0,15.9,19.31,0,,11 of 30 days
 2026-11,SA21A,11,9,1,8,0.33,4,1.39,,69.3,79.0,-2.1,8,43.5,16.3,18.36,11,0,13.1,14.56,0,,11 of 30 days
-2026-11,SA21B,11,8,4,4,0.11,6,1.41,,70.5,80.0,-0.2,4,37.3,18.7,19.88,11,0,14.6,16.46,0,,11 of 30 days
-2026-11,SA21C,11,7,1,6,0.07,3,1.58,,69.2,77.0,-2.3,6,39.3,19.8,22.58,11,0,14.1,15.55,0,,11 of 30 days
-2026-11,SA22A,11,42,17,25,0.0,28,1.38,,68.8,79.0,0.5,24,32.2,21.0,24.18,11,0,15.9,18.52,0,,11 of 30 days
-2026-11,SA22B,11,3,0,3,0.5,1,1.26,,71.7,81.7,0.1,3,37.1,,,0,,,,0,,11 of 30 days
+2026-11,SA21B,11,8,4,4,0.11,6,1.41,,70.5,80.0,-0.1,4,37.3,18.7,19.88,11,0,14.6,16.46,0,,11 of 30 days
+2026-11,SA21C,11,7,1,6,0.07,3,1.58,,69.2,77.0,-2.2,6,39.3,19.8,22.58,11,0,14.1,15.55,0,,11 of 30 days
+2026-11,SA22A,11,42,17,25,0.0,28,1.38,,68.8,79.0,0.6,24,32.2,21.0,24.18,11,0,15.9,18.52,0,,11 of 30 days
+2026-11,SA22B,11,3,0,3,0.5,1,1.26,,71.9,81.7,0.2,3,37.1,,,0,,,,0,,11 of 30 days
 2026-11,SA23,11,15,5,10,0.01,7,1.4,,65.4,75.0,1.4,10,33.5,18.7,24.42,11,0,15.1,18.48,0,,11 of 30 days
-2026-11,SA24,11,25,8,17,0.0,11,1.5,,63.9,75.2,1.5,16,34.2,20.6,26.18,11,0,14.9,17.3,0,,11 of 30 days
-2026-11,SA25,11,39,11,28,0.04,15,1.58,,61.5,71.6,0.4,28,36.6,18.6,25.9,11,0,13.6,17.33,1,Portland (1 cold day),11 of 30 days
+2026-11,SA24,11,25,8,17,0.0,11,1.5,,64.0,75.2,1.6,16,34.2,20.6,26.18,11,0,14.9,17.3,0,,11 of 30 days
+2026-11,SA25,11,39,11,28,0.04,15,1.58,,61.5,71.6,0.5,28,36.6,18.6,25.9,11,0,13.6,17.33,1,Portland (1 cold day),11 of 30 days
 2026-11,SA25B,11,17,7,10,0.23,9,1.27,,59.7,69.8,-1.0,10,39.8,17.3,23.16,11,0,12.8,16.28,0,,11 of 30 days
 2026-11,SA26,11,33,4,29,0.24,12,1.17,,60.3,72.0,1.7,28,41.6,18.1,23.96,11,0,14.0,16.69,1,Greenville (1 cold day),11 of 30 days
-2026-11,SA27,11,22,7,15,0.42,11,1.17,,58.0,71.1,-0.3,15,43.8,20.1,25.59,11,0,13.5,16.85,2,YELLOW CREEK (runs cold); Monticello (3 hot days),11 of 30 days
+2026-11,SA27,11,22,7,15,0.42,11,1.17,,58.0,71.1,-0.3,15,43.8,20.1,25.59,11,0,13.5,16.85,2,YELLOW CREEK (runs cold); Monticello (2 hot days),11 of 30 days
 2026-11,SA28A,11,6,1,5,0.37,1,,,54.0,64.5,-2.8,5,44.1,15.6,21.76,11,0,10.8,16.5,0,,11 of 30 days
 2026-11,SA28B,11,19,7,12,0.01,8,1.06,,59.4,69.8,1.8,12,35.6,22.9,28.55,11,1,15.5,17.26,1,STONY FORK (1 hot day),11 of 30 days
 2026-11,SA29,11,32,4,28,0.0,11,1.2,,63.3,72.0,2.4,28,34.7,18.3,24.09,11,0,14.3,15.96,2,Shannon Arpt (1 cold day); Petersburg (Awos) (1 cold day),11 of 30 days
 2026-11,SA30,11,29,4,25,0.0,11,1.13,,62.1,71.0,0.6,24,40.0,15.4,19.15,11,0,12.4,13.65,0,,11 of 30 days
-2026-11,SA31A,11,25,16,9,0.13,17,1.31,,59.4,72.0,-0.4,9,34.3,20.9,25.35,11,1,14.7,15.95,2,JESSEN STATION (reads wet); Andrews-Murphy_Airport (1 cold day),11 of 30 days
+2026-11,SA31A,11,25,16,9,0.13,17,1.31,,59.5,72.0,-0.4,9,34.3,20.9,25.35,11,1,14.7,15.95,2,JESSEN STATION (reads wet); Andrews-Murphy_Airport (1 cold day),11 of 30 days
 2026-11,SA31B,11,7,4,3,0.22,4,,,60.4,71.6,0.7,3,35.0,21.0,25.54,11,1,16.3,18.39,0,,11 of 30 days
-2026-11,SA31C,11,9,2,7,0.01,6,1.3,,64.3,74.0,0.9,7,31.8,21.4,27.45,11,1,14.7,16.37,0,,11 of 30 days
+2026-11,SA31C,11,9,2,7,0.01,6,1.3,,64.3,74.0,1.0,7,31.8,21.4,27.45,11,1,14.7,16.37,0,,11 of 30 days
 2026-11,SA32,11,39,11,28,0.0,17,1.23,,64.6,74.0,1.0,28,33.1,17.7,23.26,11,0,14.0,15.04,0,,11 of 30 days
 2026-11,SA33,11,23,5,18,0.0,8,1.15,,65.9,75.7,0.5,18,34.2,18.7,22.91,11,0,14.7,16.33,0,,11 of 30 days
 2026-11,SA34,11,37,15,22,0.01,21,1.32,,65.7,74.0,-1.0,22,38.3,17.6,19.97,11,0,14.4,16.19,1,New_River_Mcas (1 cold day),11 of 30 days
 2026-11,SA35,11,23,9,14,0.0,13,1.12,,66.8,77.0,0.7,14,32.9,19.5,24.68,11,0,14.6,17.76,0,,11 of 30 days
 2026-11,SA36,11,22,6,16,0.0,9,1.0,,68.8,78.0,0.8,16,30.3,21.7,27.32,11,1,16.2,19.31,0,,11 of 30 days
 2026-11,SA37,11,15,4,11,0.0,7,1.12,,69.3,78.8,-0.1,10,36.3,20.0,23.31,11,0,16.3,19.75,0,,11 of 30 days
-2026-11,SA38,11,30,9,21,0.0,15,1.48,,64.7,73.7,0.0,19,34.5,17.6,22.45,11,0,13.1,15.23,2,Fort_Payne (1 cold day); Anniston (1 cold day),11 of 30 days
+2026-11,SA38,11,30,9,21,0.0,15,1.48,,64.8,73.7,0.1,19,34.5,17.6,22.45,11,0,13.1,15.23,1,Fort_Payne (1 cold day),11 of 30 days
 2026-11,SA39,11,28,8,20,0.0,15,1.5,,67.1,77.0,-3.2,20,36.5,17.4,21.76,11,0,13.4,15.2,0,,11 of 30 days
-2026-11,SA40,11,32,6,26,0.01,15,1.5,,63.8,73.4,-0.5,25,35.4,18.9,23.87,11,0,15.0,17.26,0,,11 of 30 days
+2026-11,SA40,11,32,6,26,0.01,15,1.5,,63.8,73.4,-0.4,25,35.4,18.9,23.87,11,0,15.0,17.26,0,,11 of 30 days
 2026-11,SA41,11,37,13,24,0.0,19,1.1,,67.9,77.0,-1.0,22,32.9,19.8,25.19,11,0,16.0,18.55,1,COCHRAN (runs hot),11 of 30 days
 2026-11,SA42,11,41,14,27,0.18,16,0.78,,70.0,78.8,-1.4,24,36.6,19.2,21.89,11,0,15.2,17.2,4,BAINBRIDGE (runs hot); Baxley (1 cold day); Eastman (2 cold days); Homerville (1 cold day),11 of 30 days
-2026-11,SA46,11,10,5,5,0.06,6,0.85,,70.7,80.1,-0.6,5,37.7,18.2,20.79,11,6,13.5,14.79,0,,11 of 30 days
-2026-11,SA47,11,28,8,20,0.35,15,1.42,,69.5,78.0,-3.7,20,40.8,16.4,19.16,11,0,12.5,14.55,2,NAVAL LIVE OAKS (runs cold); Blountstown (1 cold day),11 of 30 days
+2026-11,SA46,11,10,5,5,0.06,6,0.85,,70.7,80.1,-0.5,5,37.7,18.2,20.79,11,6,13.5,14.79,0,,11 of 30 days
+2026-11,SA47,11,28,8,20,0.35,15,1.42,,69.5,78.0,-3.6,20,40.8,16.4,19.16,11,0,12.5,14.55,2,NAVAL LIVE OAKS (runs cold); Blountstown (1 cold day),11 of 30 days
 2026-11,SA48,11,23,6,17,0.81,10,0.74,,72.5,80.6,-2.2,17,50.2,14.5,18.97,11,0,11.0,14.49,0,,11 of 30 days
-2026-11,SA49,11,42,7,35,1.66,19,0.62,,76.0,83.0,-2.1,34,53.3,15.8,19.49,11,0,12.2,15.2,4,LAKE WOODRUFF (reads wet); Kissimmee Muni Airport/Orlando (1 rain flag); Lakeland Regional (1 cold day); Valkaria (1 rain flag),11 of 30 days
-2026-11,SA50,11,46,14,32,2.01,25,0.98,,81.0,86.0,-0.8,29,54.7,17.1,19.34,11,0,14.2,17.18,10,MILES CITY RAWS (1 rain flag); RACCOON POINT RAWS (2 rain flags); CHEKIKA (reads dry); West Palm Beach (reads dry); Fort Lauderdale - Hollywood (reads wet); Hollywood/N. Perry (reads wet); Miami Intl Airport (1 rain flag); Marco Island (1 rain flag); Punta Gorda (reads dry); Miami/Kendall-Tamia (2 rain flags),11 of 30 days
+2026-11,SA49,11,42,7,35,1.66,19,0.62,,76.0,83.0,-2.0,34,53.3,15.8,19.49,11,0,12.2,15.2,3,LAKE WOODRUFF (reads wet); Kissimmee Muni Airport/Orlando (1 rain flag); Valkaria (1 rain flag),11 of 30 days
+2026-11,SA50,11,46,14,32,2.01,25,0.98,,81.0,86.0,-0.7,29,54.7,17.1,19.34,11,0,14.2,17.18,10,MILES CITY RAWS (1 rain flag); RACCOON POINT RAWS (2 rain flags); CHEKIKA (reads dry); West Palm Beach (reads dry); Fort Lauderdale - Hollywood (reads wet); Hollywood/N. Perry (reads wet); Miami Intl Airport (1 rain flag); Marco Island (1 rain flag); Punta Gorda (reads dry); Miami/Kendall-Tamia (2 rain flags),11 of 30 days
 2026-11,SA52A,11,11,5,6,0.66,6,2.9,,89.8,91.0,3.1,5,60.6,19.0,21.42,11,0,16.3,18.6,1,MARICAO (1 cold day),11 of 30 days

@@ -2717,6 +2717,127 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-04-16,260317,RUBY VALLEY,RAWS,GB19,hot,71.0,4,62.5,max temp much warmer than neighbors
 2025-04-18,103904,DIAMOND FLAT,RAWS,GB09,hot,45.0,8,34.4,max temp much warmer than neighbors
 2025-04-18,260302,POLE CREEK,RAWS,GB18,cold,29.0,3,37.1,max temp much colder than neighbors
+2025-04-24,ASOS-40U,Manilla,ASOS,GB29,cold,52.3,8,63.0,max temp much colder than neighbors
+2025-04-24,ASOS-EKO,Elko,ASOS,GB19,cold,66.0,3,74.2,max temp much colder than neighbors
+2025-04-25,261301,CHERRY VALLEY,RAWS,GB13,cold,47.0,4,55.4,max temp much colder than neighbors
+2025-04-25,ASOS-U69,Duchesne,ASOS,GB29,rain_alone,0.98,8,0.01,rain no neighbor saw
+2025-04-27,260505,BEACON LIGHT,RAWS,GB14,wet,1.54,3,0.26,far more rain than any neighbor
+2025-05-01,260317,RUBY VALLEY,RAWS,GB19,hot,71.0,4,62.6,max temp much warmer than neighbors
+2025-05-03,261301,CHERRY VALLEY,RAWS,GB13,cold,51.0,4,59.9,max temp much colder than neighbors
+2025-05-03,421105,OAK SPRINGS,RAWS,GB25,cold,43.0,8,77.9,max temp much colder than neighbors
+2025-05-04,260317,RUBY VALLEY,RAWS,GB19,hot,61.0,4,51.1,max temp much warmer than neighbors
+2025-05-04,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,66.6,max temp much colder than neighbors
+2025-05-05,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,56.8,max temp much colder than neighbors
+2025-05-05,ASOS-U16,Eagle View,ASOS,GB25,cold,53.0,4,62.9,max temp much colder than neighbors
+2025-05-06,260317,RUBY VALLEY,RAWS,GB19,hot,65.0,4,51.7,max temp much warmer than neighbors
+2025-05-06,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,58.5,max temp much colder than neighbors
+2025-05-06,ASOS-LAS,Las Vegas - Harry Reid Intl,ASOS,GB24,rain_alone,0.61,8,0.02,rain no neighbor saw
+2025-05-07,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,67.6,max temp much colder than neighbors
+2025-05-07,55522249,DECATHON  CANYON,RAWS,GB20,cold,54.0,4,62.3,max temp much colder than neighbors
+2025-05-07,ASOS-FOM,Fillmore,ASOS,GB27,cold,59.0,6,68.9,max temp much colder than neighbors
+2025-05-07,ASOS-U16,Eagle View,ASOS,GB25,cold,55.2,4,73.0,max temp much colder than neighbors
+2025-05-08,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,74.3,max temp much colder than neighbors
+2025-05-09,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,78.2,max temp much colder than neighbors
+2025-05-09,ASOS-MEV,Miden - Tahoe,ASOS,GB12,cold,51.8,8,82.2,max temp much colder than neighbors
+2025-05-10,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,82.8,max temp much colder than neighbors
+2025-05-11,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,82.1,max temp much colder than neighbors
+2025-05-12,260309,ROCK SPRING CREEK,RAWS,GB18,hot,79.0,5,70.0,max temp much warmer than neighbors
+2025-05-12,260315,STAG MOUNTAIN,RAWS,GB18,hot,67.0,3,58.6,max temp much warmer than neighbors
+2025-05-12,260701,DEAD CAMEL MOUNTAIN,RAWS,GB13,hot,73.0,5,61.3,max temp much warmer than neighbors
+2025-05-12,261301,CHERRY VALLEY,RAWS,GB13,cold,58.0,4,67.4,max temp much colder than neighbors
+2025-05-12,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,84.1,max temp much colder than neighbors
+2025-05-12,ASOS-HTH,Hawthorne,ASOS,GB13,hot,78.8,5,68.3,max temp much warmer than neighbors
+2025-05-13,103903,POLE CANYON,RAWS,GB08,cold,40.0,8,48.3,max temp much colder than neighbors
+2025-05-15,420206,RED SPUR,RAWS,GB26,cold,32.0,5,43.1,max temp much colder than neighbors
+2025-05-16,421105,OAK SPRINGS,RAWS,GB25,cold,51.0,8,61.5,max temp much colder than neighbors
+2025-05-17,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,69.8,max temp much colder than neighbors
+2025-05-18,102906,OHIO GULCH,RAWS,GB06,hot,59.0,8,49.5,max temp much warmer than neighbors
+2025-05-18,103103,SCOUT MOUNTAIN,RAWS,GB08,cold,41.0,7,49.8,max temp much colder than neighbors
+2025-05-18,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,51.8,max temp much colder than neighbors
+2025-05-18,ASOS-SUN,Hailey - Friedman Memorial,ASOS,GB06,hot,64.4,8,52.9,max temp much warmer than neighbors
+2025-05-20,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,68.3,max temp much colder than neighbors
+2025-05-21,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,66.3,max temp much colder than neighbors
+2025-05-22,104007,COTTON RIDGE,RAWS,GB07,cold,59.0,5,67.1,max temp much colder than neighbors
+2025-05-22,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,79.8,max temp much colder than neighbors
+2025-05-23,261301,CHERRY VALLEY,RAWS,GB13,cold,61.0,4,69.6,max temp much colder than neighbors
+2025-05-23,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,76.0,max temp much colder than neighbors
+2025-05-24,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,73.3,max temp much colder than neighbors
+2025-05-25,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,76.3,max temp much colder than neighbors
+2025-05-25,55522249,DECATHON  CANYON,RAWS,GB20,cold,61.0,4,69.3,max temp much colder than neighbors
+2025-05-26,104007,COTTON RIDGE,RAWS,GB07,rain_alone,1.0,8,0.0,rain no neighbor saw
+2025-05-26,260317,RUBY VALLEY,RAWS,GB19,hot,83.0,4,73.7,max temp much warmer than neighbors
+2025-05-26,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,80.9,max temp much colder than neighbors
+2025-05-27,260302,POLE CREEK,RAWS,GB18,cold,61.0,3,69.2,max temp much colder than neighbors
+2025-05-27,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,81.8,max temp much colder than neighbors
+2025-05-27,ASOS-DPG,Dugway Prvg Ground,ASOS,GB25,cold,75.4,8,88.0,max temp much colder than neighbors
+2025-05-28,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,82.3,max temp much colder than neighbors
+2025-05-29,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,84.9,max temp much colder than neighbors
+2025-05-29,421702,BRUIN POINT,RAWS,GB31,cold,59.0,5,67.8,max temp much colder than neighbors
+2025-05-30,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,84.7,max temp much colder than neighbors
+2025-05-31,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,85.3,max temp much colder than neighbors
+2025-05-31,ASOS-FOM,Fillmore,ASOS,GB27,cold,73.4,5,91.2,max temp much colder than neighbors
+2025-06-01,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,90.6,max temp much colder than neighbors
+2025-06-01,55522249,DECATHON  CANYON,RAWS,GB20,cold,71.0,4,79.0,max temp much colder than neighbors
+2025-06-02,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,76.8,max temp much colder than neighbors
+2025-06-02,55522249,DECATHON  CANYON,RAWS,GB20,cold,64.0,4,72.7,max temp much colder than neighbors
+2025-06-02,ASOS-BAN,Usmc Mtn Warfare Tra,ASOS,GB11,cold,50.0,8,77.7,max temp much colder than neighbors
+2025-06-03,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,71.3,max temp much colder than neighbors
+2025-06-04,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,73.1,max temp much colder than neighbors
+2025-06-05,260701,DEAD CAMEL MOUNTAIN,RAWS,GB13,missed,0.0,4,0.5,no rain while most neighbors got rain
+2025-06-05,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,75.1,max temp much colder than neighbors
+2025-06-05,421406,UPPER P.R. CANYON,RAWS,GB29,cold,57.0,8,65.3,max temp much colder than neighbors
+2025-06-05,421406,UPPER P.R. CANYON,RAWS,GB29,wet,3.33,8,0.66,far more rain than any neighbor
+2025-06-06,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,77.1,max temp much colder than neighbors
+2025-06-06,55522249,DECATHON  CANYON,RAWS,GB20,cold,62.0,4,70.0,max temp much colder than neighbors
+2025-06-07,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,81.8,max temp much colder than neighbors
+2025-06-08,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,84.7,max temp much colder than neighbors
+2025-06-09,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,87.3,max temp much colder than neighbors
+2025-06-09,422503,COTTONWOOD MTN,RAWS,GB34,hot,89.0,8,80.3,max temp much warmer than neighbors
+2025-06-10,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,88.2,max temp much colder than neighbors
+2025-06-11,260309,ROCK SPRING CREEK,RAWS,GB18,hot,87.0,5,77.8,max temp much warmer than neighbors
+2025-06-11,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,92.4,max temp much colder than neighbors
+2025-06-12,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,89.7,max temp much colder than neighbors
+2025-06-13,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,90.3,max temp much colder than neighbors
+2025-06-14,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,91.1,max temp much colder than neighbors
+2025-06-15,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,92.3,max temp much colder than neighbors
+2025-06-16,421105,OAK SPRINGS,RAWS,GB25,cold,-40.0,8,86.0,max temp much colder than neighbors
+2025-06-19,260309,ROCK SPRING CREEK,RAWS,GB18,hot,97.0,5,87.0,max temp much warmer than neighbors
+2025-06-21,260116,LITTLE VALLEY (WRCC),RAWS,GB11,cold,48.0,8,56.6,max temp much colder than neighbors
+2025-06-21,261301,CHERRY VALLEY,RAWS,GB13,cold,46.0,4,55.1,max temp much colder than neighbors
+2025-06-23,420705,HEWINTA,RAWS,GB26,cold,56.0,8,64.1,max temp much colder than neighbors
+2025-06-25,ASOS-BAM,Battle Mountain,ASOS,GB14,cold,78.8,3,89.2,max temp much colder than neighbors
+2025-06-25,ASOS-FOM,Fillmore,ASOS,GB27,cold,77.0,5,86.9,max temp much colder than neighbors
+2025-06-25,ASOS-TVY,Tooele,ASOS,GB25,cold,77.0,8,86.1,max temp much colder than neighbors
+2025-06-27,260309,ROCK SPRING CREEK,RAWS,GB18,hot,91.0,5,83.0,max temp much warmer than neighbors
+2025-07-01,420705,HEWINTA,RAWS,GB26,cold,71.0,8,79.6,max temp much colder than neighbors
+2025-07-06,420705,HEWINTA,RAWS,GB26,cold,69.0,8,77.0,max temp much colder than neighbors
+2025-07-06,ASOS-BDG,Blanding,ASOS,GB32,cold,66.6,5,94.0,max temp much colder than neighbors
+2025-07-09,101311,SKULL GULCH,RAWS,GB02,rain_alone,0.74,8,0.04,rain no neighbor saw
+2025-07-09,101805,LITTLE CREEK,RAWS,GB02,rain_alone,0.62,8,0.0,rain no neighbor saw
+2025-07-12,ASOS-BAN,Usmc Mtn Warfare Tra,ASOS,GB11,cold,75.0,8,90.4,max temp much colder than neighbors
+2025-07-12,ASOS-SGU,St George,ASOS,GB35,cold,94.0,8,106.2,max temp much colder than neighbors
+2025-07-13,ASOS-10U,Owyhee,ASOS,GB17,cold,82.4,5,95.6,max temp much colder than neighbors
+2025-07-14,422503,COTTONWOOD MTN,RAWS,GB34,hot,98.0,8,89.5,max temp much warmer than neighbors
+2025-07-14,ASOS-10U,Owyhee,ASOS,GB17,cold,80.6,5,94.0,max temp much colder than neighbors
+2025-07-14,ASOS-MEV,Miden - Tahoe,ASOS,GB12,cold,82.4,8,97.2,max temp much colder than neighbors
+2025-07-15,ASOS-74V,Roosevelt,ASOS,GB29,cold,77.0,8,92.4,max temp much colder than neighbors
+2025-07-17,261702,KYLE CANYON,RAWS,GB23,rain_alone,1.3,8,0.01,rain no neighbor saw
+2025-07-17,422502,JENSEN SPRING,RAWS,GB33,rain_alone,0.84,7,0.05,rain no neighbor saw
+2025-07-17,ASOS-WMC,Winnemucca Muni,ASOS,GB14,cold,85.0,3,96.4,max temp much colder than neighbors
+2025-07-18,20117,HURRICANE,RAWS,GB35,rain_alone,0.55,8,0.03,rain no neighbor saw
+2025-07-18,261710,WAMP SPRINGS,RAWS,GB23,rain_alone,0.55,6,0.02,rain no neighbor saw
+2025-07-21,260309,ROCK SPRING CREEK,RAWS,GB18,hot,91.0,5,82.8,max temp much warmer than neighbors
+2025-07-23,260302,POLE CREEK,RAWS,GB18,cold,67.0,3,75.0,max temp much colder than neighbors
+2025-07-24,420705,HEWINTA,RAWS,GB26,cold,66.0,8,75.5,max temp much colder than neighbors
+2025-07-27,260701,DEAD CAMEL MOUNTAIN,RAWS,GB13,missed,0.0,3,0.57,no rain while most neighbors got rain
+2025-07-28,421905,LOST CREEK,RAWS,GB28,cold,80.0,6,88.7,max temp much colder than neighbors
+2025-07-31,ASOS-SMN,Salmon/Lemhi (Awos),ASOS,GB02,cold,78.0,8,90.5,max temp much colder than neighbors
+2025-08-06,ASOS-AFO,Afton,ASOS,GB10,cold,80.6,8,89.0,max temp much colder than neighbors
+2025-08-07,260309,ROCK SPRING CREEK,RAWS,GB18,hot,90.0,5,82.0,max temp much warmer than neighbors
+2025-08-13,ASOS-AFO,Afton,ASOS,GB10,cold,82.4,8,90.6,max temp much colder than neighbors
+2025-08-15,102903,NORTH FORK,RAWS,GB05,hot,95.0,8,85.1,max temp much warmer than neighbors
+2025-08-15,423106,CHEPETA,RAWS,GB29,rain_alone,0.6,8,0.05,rain no neighbor saw
+2025-08-17,104006,BULL SPRING,RAWS,GB07,hot,90.0,8,81.7,max temp much warmer than neighbors
 2026-11-08,101303,INDIANOLA,RAWS,GB02,cold,52.0,8,64.1,max temp much colder than neighbors
 2026-11-08,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,60.0,5,68.8,max temp much colder than neighbors
 2026-11-09,260308,SPRING GULCH,RAWS,GB19,cold,54.0,3,66.2,max temp much colder than neighbors
@@ -2733,7 +2854,7 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-13,101805,LITTLE CREEK,RAWS,GB02,cold,50.0,8,58.8,max temp much colder than neighbors
 2026-11-15,422807,LAVA POINT RAWS,RAWS,GB34,rain_alone,0.5,8,0.01,rain no neighbor saw
 2026-11-16,420705,HEWINTA,RAWS,GB26,hot,52.0,8,42.1,max temp much warmer than neighbors
-2026-11-17,ASOS-EKO,Elko,ASOS,GB19,cold,36.0,3,48.2,max temp much colder than neighbors
+2026-11-17,ASOS-EKO,Elko,ASOS,GB19,cold,37.0,3,48.2,max temp much colder than neighbors
 2026-11-17,ASOS-SGU,St George,ASOS,GB35,missed,0.0,8,0.84,no rain while most neighbors got rain
 2026-11-18,420403,BEUS CANYON,RAWS,GB26,rain_alone,0.51,7,0.01,rain no neighbor saw
 2026-11-18,420703,BEAR RIVER,RAWS,GB26,hot,46.0,8,32.8,max temp much warmer than neighbors

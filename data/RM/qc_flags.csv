@@ -3559,6 +3559,361 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-04-19,53006,LOST PARK,RAWS,RM13,hot,39.0,8,29.3,max temp much warmer than neighbors
 2025-04-19,ASOS-MCK,Mccook,ASOS,RM26,cold,42.0,3,59.4,max temp much colder than neighbors
 2025-04-19,ASOS-TEX,Telluride Regional,ASOS,RM16,hot,59.0,7,37.8,max temp much warmer than neighbors
+2025-04-20,ASOS-C08,Westcliffe,ASOS,RM22,cold,44.6,8,52.8,max temp much colder than neighbors
+2025-04-20,ASOS-IAB,Mcconnell_Afb,ASOS,RM28,missed,0.0,8,0.69,no rain while most neighbors got rain
+2025-04-20,ASOS-TBX,Boysen Peak,ASOS,RM02,cold,42.8,6,50.8,max temp much colder than neighbors
+2025-04-21,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,44.6,7,55.2,max temp much colder than neighbors
+2025-04-22,ASOS-CBK,Colby,ASOS,RM27,cold,59.5,5,75.5,max temp much colder than neighbors
+2025-04-23,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,50.0,7,61.2,max temp much colder than neighbors
+2025-04-24,480306,MILL CREEK,RAWS,RM03,hot,41.0,4,32.9,max temp much warmer than neighbors
+2025-04-24,481502,CASPER MOUNTAIN,RAWS,RM08,hot,46.0,3,36.4,max temp much warmer than neighbors
+2025-04-24,481903,ANDERSON RIDGE,RAWS,RM07,hot,45.0,3,35.0,max temp much warmer than neighbors
+2025-04-24,ASOS-TEX,Telluride Regional,ASOS,RM16,hot,71.6,7,61.0,max temp much warmer than neighbors
+2025-04-25,481903,ANDERSON RIDGE,RAWS,RM07,hot,47.0,3,37.0,max temp much warmer than neighbors
+2025-04-25,50507,ESTES PARK,RAWS,RM13,hot,49.0,8,37.1,max temp much warmer than neighbors
+2025-04-25,ASOS-AFF,Air Force Academy,ASOS,RM18,hot,57.0,8,48.8,max temp much warmer than neighbors
+2025-04-25,ASOS-C08,Westcliffe,ASOS,RM22,hot,53.6,8,43.9,max temp much warmer than neighbors
+2025-04-25,ASOS-LAR,Laramie/Gen. Brees,ASOS,RM12,hot,48.0,8,37.7,max temp much warmer than neighbors
+2025-04-25,ASOS-RWL,Rawlins Municipal,ASOS,RM08,cold,55.0,4,64.7,max temp much colder than neighbors
+2025-04-26,ASOS-C08,Westcliffe,ASOS,RM22,hot,68.0,8,58.1,max temp much warmer than neighbors
+2025-04-26,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,20.32,0,,impossible rain total
+2025-04-27,ASOS-SNY,Sidney,ASOS,RM25,cold,54.0,4,82.9,max temp much colder than neighbors
+2025-04-27,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,81.49,0,,impossible rain total
+2025-04-28,145201,TALLGRASS PRAIRIE,RAWS,RM28,missed,0.0,3,0.91,no rain while most neighbors got rain
+2025-04-28,ASOS-2V6,Yuma,ASOS,RM25,cold,53.6,5,70.2,max temp much colder than neighbors
+2025-04-28,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,73.0,8,64.1,max temp much warmer than neighbors
+2025-04-28,ASOS-SUO,Rosebud,ASOS,RM23,cold,59.0,3,70.3,max temp much colder than neighbors
+2025-04-28,ASOS-TEX,Telluride Regional,ASOS,RM16,hot,60.8,7,47.1,max temp much warmer than neighbors
+2025-04-29,ASOS-8D3,Sisseton,ASOS,RM23,cold,48.0,6,57.0,max temp much colder than neighbors
+2025-04-29,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,50.0,3,62.8,max temp much colder than neighbors
+2025-04-29,ASOS-OFF,Offutt Afb/Belle,ASOS,RM26,hot,84.0,8,67.0,max temp much warmer than neighbors
+2025-04-30,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,61.0,3,74.1,max temp much colder than neighbors
+2025-05-01,481411,WIND RIVER,RAWS,RM08,cold,37.0,4,47.1,max temp much colder than neighbors
+2025-05-01,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,32.0,7,40.4,max temp much colder than neighbors
+2025-05-02,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,56.0,3,68.1,max temp much colder than neighbors
+2025-05-04,ASOS-2V6,Yuma,ASOS,RM25,cold,68.0,5,76.0,max temp much colder than neighbors
+2025-05-04,ASOS-AJZ,Delta,ASOS,RM14,hot,81.0,8,72.3,max temp much warmer than neighbors
+2025-05-05,55305,BLUE PARK,RAWS,RM20,hot,47.0,8,38.5,max temp much warmer than neighbors
+2025-05-05,ASOS-1BW,Long Springs,ASOS,RM25,cold,56.5,6,69.2,max temp much colder than neighbors
+2025-05-05,ASOS-1HW,Gurley,ASOS,RM25,cold,62.4,4,70.7,max temp much colder than neighbors
+2025-05-05,ASOS-1NW,Raymer,ASOS,RM25,cold,53.0,8,68.7,max temp much colder than neighbors
+2025-05-05,ASOS-2V6,Yuma,ASOS,RM25,cold,46.4,5,70.0,max temp much colder than neighbors
+2025-05-05,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,49.0,8,64.3,max temp much colder than neighbors
+2025-05-05,ASOS-GUR,Guernsey,ASOS,RM25,cold,56.7,5,73.4,max temp much colder than neighbors
+2025-05-05,ASOS-IAB,Mcconnell_Afb,ASOS,RM28,cold,65.0,8,74.3,max temp much colder than neighbors
+2025-05-05,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,59.0,8,77.1,max temp much colder than neighbors
+2025-05-06,481903,ANDERSON RIDGE,RAWS,RM07,hot,45.0,3,32.0,max temp much warmer than neighbors
+2025-05-06,51804,CORRAL CREEK,RAWS,RM13,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-05-06,53006,LOST PARK,RAWS,RM13,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-05-06,ASOS-2V6,Yuma,ASOS,RM25,cold,-9.4,5,63.0,max temp much colder than neighbors
+2025-05-06,ASOS-LBL,Liberal_Muni,ASOS,RM27,missed,0.0,5,1.48,no rain while most neighbors got rain
+2025-05-07,51804,CORRAL CREEK,RAWS,RM13,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-05-07,54801,WILLIS CREEK,RAWS,RM22,wet,1.1,8,0.24,far more rain than any neighbor
+2025-05-07,ASOS-2V6,Yuma,ASOS,RM25,cold,-9.4,5,65.3,max temp much colder than neighbors
+2025-05-07,ASOS-C99,Dakota Hills,ASOS,RM13,cold,28.4,8,42.1,max temp much colder than neighbors
+2025-05-07,ASOS-TQK,Scott City,ASOS,RM27,wet,11.17,4,0.52,far more rain than any neighbor
+2025-05-08,53005,KENOSHA PASS,RAWS,RM18,hot,58.0,8,49.5,max temp much warmer than neighbors
+2025-05-08,ASOS-C99,Dakota Hills,ASOS,RM13,cold,39.2,8,49.8,max temp much colder than neighbors
+2025-05-08,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,33.8,7,43.8,max temp much colder than neighbors
+2025-05-09,51508,STORM KING MOUNTAIN,RAWS,RM15,hot,74.0,8,65.3,max temp much warmer than neighbors
+2025-05-09,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,55.0,3,73.1,max temp much colder than neighbors
+2025-05-09,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,46.4,7,54.9,max temp much colder than neighbors
+2025-05-10,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,46.4,7,55.4,max temp much colder than neighbors
+2025-05-11,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,68.0,3,86.1,max temp much colder than neighbors
+2025-05-11,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,46.4,7,55.8,max temp much colder than neighbors
+2025-05-12,ASOS-EQA,El Dorado,ASOS,RM28,cold,71.6,8,80.6,max temp much colder than neighbors
+2025-05-12,ASOS-K88,Iola,ASOS,RM28,cold,68.0,8,81.9,max temp much colder than neighbors
+2025-05-12,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,59.0,3,90.1,max temp much colder than neighbors
+2025-05-13,ASOS-CDR,Chadron,ASOS,RM24,cold,71.0,5,81.9,max temp much colder than neighbors
+2025-05-14,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,67.0,3,82.8,max temp much colder than neighbors
+2025-05-15,481002,SCHOOL HOUSE,RAWS,RM03,hot,47.0,4,37.6,max temp much warmer than neighbors
+2025-05-16,395601,MAGPIE CREEK,RAWS,RM23,wet,1.04,3,0.1,far more rain than any neighbor
+2025-05-16,ASOS-C99,Dakota Hills,ASOS,RM13,cold,35.6,8,44.3,max temp much colder than neighbors
+2025-05-16,ASOS-CEZ,Cortez/Montezuma Co,ASOS,RM19,cold,52.0,7,72.7,max temp much colder than neighbors
+2025-05-16,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,61.0,8,69.5,max temp much colder than neighbors
+2025-05-17,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,57.2,8,71.1,max temp much colder than neighbors
+2025-05-18,51607,GYPSUM,RAWS,RM15,hot,69.0,8,58.4,max temp much warmer than neighbors
+2025-05-18,ASOS-AKO,Akron/Washington Co,ASOS,RM25,hot,79.0,3,69.4,max temp much warmer than neighbors
+2025-05-18,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,52.7,8,66.2,max temp much colder than neighbors
+2025-05-18,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,64.0,3,82.6,max temp much colder than neighbors
+2025-05-19,146501,STAFFORD,RAWS,RM28,missed,0.0,5,0.52,no rain while most neighbors got rain
+2025-05-19,ASOS-C07,Walton Peak,ASOS,RM11,cold,30.2,8,38.4,max temp much colder than neighbors
+2025-05-19,ASOS-LYO,Lyons,ASOS,RM28,cold,70.7,7,86.2,max temp much colder than neighbors
+2025-05-19,ASOS-PTT,Pratt,ASOS,RM28,rain_alone,0.68,3,0.02,rain no neighbor saw
+2025-05-19,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,31.23,0,,impossible rain total
+2025-05-20,ASOS-5SM,Sunlight,ASOS,RM15,cold,39.2,8,47.4,max temp much colder than neighbors
+2025-05-20,ASOS-C07,Walton Peak,ASOS,RM11,cold,35.6,8,44.0,max temp much colder than neighbors
+2025-05-23,392602,PINNACLES,RAWS,RM24,cold,52.0,4,63.3,max temp much colder than neighbors
+2025-05-23,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,68.0,3,91.6,max temp much colder than neighbors
+2025-05-23,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,53.6,7,61.7,max temp much colder than neighbors
+2025-05-24,393506,CUSTER,RAWS,RM05,hot,57.0,8,46.2,max temp much warmer than neighbors
+2025-05-24,53104,FRANKTOWN,RAWS,RM18,wet,1.38,8,0.32,far more rain than any neighbor
+2025-05-24,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,81.0,8,68.0,max temp much warmer than neighbors
+2025-05-25,ASOS-AFF,Air Force Academy,ASOS,RM18,hot,64.0,8,53.0,max temp much warmer than neighbors
+2025-05-25,ASOS-GBD,Great_Bend,ASOS,RM28,missed,0.0,5,0.52,no rain while most neighbors got rain
+2025-05-25,ASOS-LAR,Laramie/Gen. Brees,ASOS,RM12,hot,58.0,8,48.4,max temp much warmer than neighbors
+2025-05-25,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,19.73,0,,impossible rain total
+2025-05-26,55807,BIG BEAR PARK,RAWS,RM20,cold,50.0,8,58.4,max temp much colder than neighbors
+2025-05-26,ASOS-TEX,Telluride Regional,ASOS,RM16,cold,53.6,7,62.0,max temp much colder than neighbors
+2025-05-26,ASOS-TQK,Scott City,ASOS,RM27,wet,4.91,4,0.31,far more rain than any neighbor
+2025-05-27,ASOS-1NW,Raymer,ASOS,RM25,cold,58.0,7,67.5,max temp much colder than neighbors
+2025-05-27,ASOS-GUR,Guernsey,ASOS,RM25,cold,61.3,5,69.8,max temp much colder than neighbors
+2025-05-27,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,62.0,3,78.6,max temp much colder than neighbors
+2025-05-27,ASOS-SNY,Sidney,ASOS,RM25,cold,59.0,4,67.1,max temp much colder than neighbors
+2025-05-27,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,43.69,0,,impossible rain total
+2025-05-28,481411,WIND RIVER,RAWS,RM08,cold,49.0,4,59.9,max temp much colder than neighbors
+2025-05-28,56202,PINION CANYON,RAWS,RM27,wet,1.68,4,0.11,far more rain than any neighbor
+2025-05-28,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,35.16,0,,impossible rain total
+2025-05-29,ASOS-1BW,Long Springs,ASOS,RM25,cold,51.0,6,67.0,max temp much colder than neighbors
+2025-05-30,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,53.0,3,84.1,max temp much colder than neighbors
+2025-05-31,ASOS-OFF,Offutt Afb/Belle,ASOS,RM26,hot,94.0,8,86.0,max temp much warmer than neighbors
+2025-06-01,55522274,GRAND MESA,RAWS,RM15,cold,65.0,6,73.8,max temp much colder than neighbors
+2025-06-02,481903,ANDERSON RIDGE,RAWS,RM07,hot,70.0,3,61.0,max temp much warmer than neighbors
+2025-06-02,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,16.02,0,,impossible rain total
+2025-06-03,481411,WIND RIVER,RAWS,RM08,cold,39.0,4,48.5,max temp much colder than neighbors
+2025-06-03,481903,ANDERSON RIDGE,RAWS,RM07,hot,53.0,3,43.0,max temp much warmer than neighbors
+2025-06-03,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,70.0,8,54.4,max temp much warmer than neighbors
+2025-06-03,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,54.1,0,,impossible rain total
+2025-06-04,481002,SCHOOL HOUSE,RAWS,RM03,cold,42.0,4,50.4,max temp much colder than neighbors
+2025-06-04,481411,WIND RIVER,RAWS,RM08,cold,41.0,4,54.3,max temp much colder than neighbors
+2025-06-04,ASOS-OLU,Columbus Muni,ASOS,RM26,cold,58.0,5,74.2,max temp much colder than neighbors
+2025-06-04,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,307.1,0,,impossible rain total
+2025-06-05,395601,MAGPIE CREEK,RAWS,RM23,cold,56.0,3,64.8,max temp much colder than neighbors
+2025-06-05,481002,SCHOOL HOUSE,RAWS,RM03,cold,44.0,4,52.9,max temp much colder than neighbors
+2025-06-05,481411,WIND RIVER,RAWS,RM08,cold,43.0,4,54.8,max temp much colder than neighbors
+2025-06-05,ASOS-TEX,Telluride Regional,ASOS,RM16,cold,50.0,7,58.5,max temp much colder than neighbors
+2025-06-05,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,64.33,0,,impossible rain total
+2025-06-06,51508,STORM KING MOUNTAIN,RAWS,RM15,hot,67.0,8,58.1,max temp much warmer than neighbors
+2025-06-06,ASOS-OGA,Ogallala,ASOS,RM25,cold,58.0,3,66.8,max temp much colder than neighbors
+2025-06-06,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,104.81,0,,impossible rain total
+2025-06-07,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,138.37,0,,impossible rain total
+2025-06-08,481411,WIND RIVER,RAWS,RM08,cold,54.0,4,66.6,max temp much colder than neighbors
+2025-06-08,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,79.0,8,69.2,max temp much warmer than neighbors
+2025-06-08,ASOS-OFF,Offutt Afb/Belle,ASOS,RM26,hot,79.0,8,68.9,max temp much warmer than neighbors
+2025-06-09,ASOS-EMP,Emporia,ASOS,RM28,cold,72.0,3,82.0,max temp much colder than neighbors
+2025-06-09,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,51.8,7,62.8,max temp much colder than neighbors
+2025-06-11,55807,BIG BEAR PARK,RAWS,RM20,cold,61.0,8,72.0,max temp much colder than neighbors
+2025-06-11,ASOS-LYO,Lyons,ASOS,RM28,cold,77.0,7,88.5,max temp much colder than neighbors
+2025-06-12,328501,TATANKA PRAIRIE,RAWS,RM23,wet,1.89,4,0.15,far more rain than any neighbor
+2025-06-12,392507,SPEARFISH,RAWS,RM05,cold,63.0,8,71.1,max temp much colder than neighbors
+2025-06-12,395601,MAGPIE CREEK,RAWS,RM23,cold,82.0,3,90.1,max temp much colder than neighbors
+2025-06-12,ASOS-HQG,Hugoton,ASOS,RM27,cold,75.2,6,89.6,max temp much colder than neighbors
+2025-06-12,ASOS-LYO,Lyons,ASOS,RM28,cold,73.4,7,82.2,max temp much colder than neighbors
+2025-06-12,ASOS-SPF,Spearfish,ASOS,RM05,cold,62.6,8,71.1,max temp much colder than neighbors
+2025-06-12,ASOS-W43,Hulett,ASOS,RM04,hot,71.6,5,61.9,max temp much warmer than neighbors
+2025-06-13,392607,WHITETAIL PEAK,RAWS,RM05,hot,72.0,8,62.4,max temp much warmer than neighbors
+2025-06-13,395601,MAGPIE CREEK,RAWS,RM23,cold,74.0,3,82.1,max temp much colder than neighbors
+2025-06-13,55807,BIG BEAR PARK,RAWS,RM20,cold,66.0,8,74.0,max temp much colder than neighbors
+2025-06-13,ASOS-13K,Eureka,ASOS,RM28,cold,78.0,7,86.5,max temp much colder than neighbors
+2025-06-13,ASOS-ATY,Watertown,ASOS,RM23,missed,0.0,6,0.76,no rain while most neighbors got rain
+2025-06-13,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,69.8,8,82.2,max temp much colder than neighbors
+2025-06-13,ASOS-TOR,Torrington Municipal Airport,ASOS,RM25,cold,75.0,7,86.3,max temp much colder than neighbors
+2025-06-13,ASOS-U68,Cowley,ASOS,RM02,cold,71.6,8,86.7,max temp much colder than neighbors
+2025-06-14,ASOS-ADT,Atwood,ASOS,RM27,cold,74.3,5,86.9,max temp much colder than neighbors
+2025-06-14,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,14.14,0,,impossible rain total
+2025-06-15,390301,GRAND RIVER,RAWS,RM23,wet,1.02,3,0.18,far more rain than any neighbor
+2025-06-16,480307,HYATT HIGH,RAWS,RM02,hot,82.0,8,72.6,max temp much warmer than neighbors
+2025-06-16,55807,BIG BEAR PARK,RAWS,RM20,cold,70.0,8,78.0,max temp much colder than neighbors
+2025-06-16,ASOS-BFF,Scottsbluff,ASOS,RM25,wet,1.08,5,0.15,far more rain than any neighbor
+2025-06-16,ASOS-FEW,Cheyenne Few,ASOS,RM25,cold,73.4,8,87.3,max temp much colder than neighbors
+2025-06-16,ASOS-LYO,Lyons,ASOS,RM28,cold,71.6,7,90.2,max temp much colder than neighbors
+2025-06-17,ASOS-AFF,Air Force Academy,ASOS,RM18,hot,81.0,8,67.6,max temp much warmer than neighbors
+2025-06-17,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,82.0,8,68.1,max temp much warmer than neighbors
+2025-06-17,ASOS-SUO,Rosebud,ASOS,RM23,cold,68.0,3,78.3,max temp much colder than neighbors
+2025-06-18,ASOS-GEY,Greybull/South Big Horn Cnty Apt,ASOS,RM02,cold,68.0,8,89.0,max temp much colder than neighbors
+2025-06-19,ASOS-EWK,Newton,ASOS,RM28,cold,77.0,8,90.2,max temp much colder than neighbors
+2025-06-19,ASOS-LYO,Lyons,ASOS,RM28,cold,78.8,7,92.2,max temp much colder than neighbors
+2025-06-20,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,78.8,8,98.4,max temp much colder than neighbors
+2025-06-20,ASOS-LYO,Lyons,ASOS,RM28,cold,77.4,7,96.5,max temp much colder than neighbors
+2025-06-20,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,82.0,3,93.0,max temp much colder than neighbors
+2025-06-20,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,68.0,7,78.6,max temp much colder than neighbors
+2025-06-21,ASOS-RCA,Ellsworth Afb,ASOS,RM04,cold,84.7,8,94.6,max temp much colder than neighbors
+2025-06-21,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,55.4,7,76.6,max temp much colder than neighbors
+2025-06-22,395601,MAGPIE CREEK,RAWS,RM23,cold,69.0,3,82.1,max temp much colder than neighbors
+2025-06-22,ASOS-AKO,Akron/Washington Co,ASOS,RM25,hot,97.0,4,88.7,max temp much warmer than neighbors
+2025-06-22,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,82.0,3,98.1,max temp much colder than neighbors
+2025-06-22,ASOS-LYO,Lyons,ASOS,RM28,cold,82.4,7,92.5,max temp much colder than neighbors
+2025-06-23,54801,WILLIS CREEK,RAWS,RM22,cold,57.0,8,65.5,max temp much colder than neighbors
+2025-06-23,55503,SAND DUNES,RAWS,RM22,hot,84.0,8,68.1,max temp much warmer than neighbors
+2025-06-23,ASOS-33V,Walden,ASOS,RM11,cold,62.6,8,72.7,max temp much colder than neighbors
+2025-06-23,ASOS-8D3,Sisseton,ASOS,RM23,missed,0.0,3,0.5,no rain while most neighbors got rain
+2025-06-23,ASOS-AFF,Air Force Academy,ASOS,RM18,hot,85.0,8,73.7,max temp much warmer than neighbors
+2025-06-23,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,86.0,8,74.6,max temp much warmer than neighbors
+2025-06-23,ASOS-C99,Dakota Hills,ASOS,RM13,cold,51.8,8,64.1,max temp much colder than neighbors
+2025-06-23,ASOS-CFO,Colorado Air And Space,ASOS,RM25,hot,93.2,8,74.9,max temp much warmer than neighbors
+2025-06-23,ASOS-LYO,Lyons,ASOS,RM28,cold,77.0,7,90.7,max temp much colder than neighbors
+2025-06-24,53105,CARPENTER PEAK,RAWS,RM12,cold,70.0,8,78.1,max temp much colder than neighbors
+2025-06-24,ASOS-LYO,Lyons,ASOS,RM28,cold,75.2,7,87.8,max temp much colder than neighbors
+2025-06-24,ASOS-VTN,Valentine,ASOS,RM26,wet,1.5,4,0.24,far more rain than any neighbor
+2025-06-25,395105,RED CANYON,RAWS,RM06,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-06-25,ASOS-GGF,Grant,ASOS,RM25,wet,1.97,3,0.42,far more rain than any neighbor
+2025-06-25,ASOS-GRI,Grand Island,ASOS,RM26,wet,6.41,4,1.42,far more rain than any neighbor
+2025-06-25,ASOS-LYO,Lyons,ASOS,RM28,cold,74.3,7,92.2,max temp much colder than neighbors
+2025-06-25,ASOS-OFK,Norfolk,ASOS,RM26,cold,72.0,4,85.0,max temp much colder than neighbors
+2025-06-25,ASOS-OGA,Ogallala,ASOS,RM25,cold,69.3,3,77.6,max temp much colder than neighbors
+2025-06-25,ASOS-PSO,Pagosa Springs,ASOS,RM19,cold,68.0,8,79.9,max temp much colder than neighbors
+2025-06-25,ASOS-RCV,Del Norte,ASOS,RM21,cold,64.0,8,74.8,max temp much colder than neighbors
+2025-06-26,ASOS-CFV,Coffeyville,ASOS,RM28,missed,0.0,4,0.84,no rain while most neighbors got rain
+2025-06-26,ASOS-LBL,Liberal_Muni,ASOS,RM27,cold,80.0,4,89.3,max temp much colder than neighbors
+2025-06-26,ASOS-LYO,Lyons,ASOS,RM28,cold,73.4,7,92.2,max temp much colder than neighbors
+2025-06-27,ASOS-GLD,Goodland,ASOS,RM27,wet,1.32,3,0.26,far more rain than any neighbor
+2025-06-27,ASOS-LYO,Lyons,ASOS,RM28,cold,72.7,7,93.5,max temp much colder than neighbors
+2025-06-27,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,20.98,0,,impossible rain total
+2025-06-28,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,81.3,8,94.0,max temp much colder than neighbors
+2025-06-28,ASOS-LYO,Lyons,ASOS,RM28,cold,71.6,7,95.2,max temp much colder than neighbors
+2025-06-29,ASOS-49B,Sturgis,ASOS,RM05,cold,69.8,8,81.0,max temp much colder than neighbors
+2025-06-29,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,73.2,8,84.1,max temp much colder than neighbors
+2025-06-29,ASOS-CNU,Chanute,ASOS,RM28,missed,0.0,7,0.71,no rain while most neighbors got rain
+2025-06-29,ASOS-LAA,Lamar,ASOS,RM27,cold,73.0,3,99.2,max temp much colder than neighbors
+2025-06-30,ASOS-RSL,Russell,ASOS,RM28,cold,77.0,4,85.8,max temp much colder than neighbors
+2025-07-01,ASOS-ANK,Salida,ASOS,RM17,cold,71.2,8,80.5,max temp much colder than neighbors
+2025-07-02,ASOS-AJZ,Delta,ASOS,RM14,hot,101.0,8,93.0,max temp much warmer than neighbors
+2025-07-03,51607,GYPSUM,RAWS,RM15,hot,91.0,8,81.1,max temp much warmer than neighbors
+2025-07-04,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,74.0,8,87.5,max temp much colder than neighbors
+2025-07-04,ASOS-LAA,Lamar,ASOS,RM27,cold,71.0,3,95.9,max temp much colder than neighbors
+2025-07-04,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,21.05,0,,impossible rain total
+2025-07-05,ASOS-TQK,Scott City,ASOS,RM27,wet,8.05,3,0.95,far more rain than any neighbor
+2025-07-05,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,64.4,7,76.6,max temp much colder than neighbors
+2025-07-06,ASOS-BVN,Albion,ASOS,RM26,rain_alone,0.76,4,0.02,rain no neighbor saw
+2025-07-06,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,78.8,8,90.6,max temp much colder than neighbors
+2025-07-06,ASOS-HUT,Hutchinson,ASOS,RM28,missed,0.0,6,0.53,no rain while most neighbors got rain
+2025-07-06,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,63.0,3,89.6,max temp much colder than neighbors
+2025-07-06,ASOS-LYO,Lyons,ASOS,RM28,cold,82.6,7,92.7,max temp much colder than neighbors
+2025-07-06,ASOS-PTT,Pratt,ASOS,RM28,wet,1.35,3,0.16,far more rain than any neighbor
+2025-07-07,390901,INDIAN BUTTE,RAWS,RM04,missed,0.0,4,1.21,no rain while most neighbors got rain
+2025-07-07,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,61.0,3,93.6,max temp much colder than neighbors
+2025-07-07,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,45.4,0,,impossible rain total
+2025-07-07,ASOS-WLD,Winfield,ASOS,RM28,rain_alone,0.93,6,0.01,rain no neighbor saw
+2025-07-08,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,87.0,3,99.6,max temp much colder than neighbors
+2025-07-09,55807,BIG BEAR PARK,RAWS,RM20,cold,73.0,8,82.2,max temp much colder than neighbors
+2025-07-09,ASOS-1D1,Milbank,ASOS,RM23,cold,62.6,8,85.4,max temp much colder than neighbors
+2025-07-09,ASOS-LAA,Lamar,ASOS,RM27,cold,90.0,3,99.5,max temp much colder than neighbors
+2025-07-10,53806,BLACK CANYON,RAWS,RM16,hot,107.0,8,85.3,max temp much warmer than neighbors
+2025-07-11,481411,WIND RIVER,RAWS,RM08,cold,59.0,4,70.3,max temp much colder than neighbors
+2025-07-11,ASOS-ITR,Burlington,ASOS,RM27,wet,1.51,3,0.14,far more rain than any neighbor
+2025-07-12,ASOS-PTT,Pratt,ASOS,RM28,wet,1.09,3,0.12,far more rain than any neighbor
+2025-07-12,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,217.21,0,,impossible rain total
+2025-07-13,55807,BIG BEAR PARK,RAWS,RM20,cold,70.0,8,78.4,max temp much colder than neighbors
+2025-07-13,ASOS-IDP,Independence,ASOS,RM28,cold,77.0,5,88.6,max temp much colder than neighbors
+2025-07-13,ASOS-OWI,Ottawa,ASOS,RM28,cold,75.2,8,86.9,max temp much colder than neighbors
+2025-07-13,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,14.02,0,,impossible rain total
+2025-07-13,ASOS-UKL,Burlington,ASOS,RM28,wet,1.56,7,0.07,far more rain than any neighbor
+2025-07-14,250105,AGATE,RAWS,RM25,wet,1.64,6,0.06,far more rain than any neighbor
+2025-07-14,483101,GUERNSEY,RAWS,RM25,rain_alone,0.56,5,0.0,rain no neighbor saw
+2025-07-14,55807,BIG BEAR PARK,RAWS,RM20,cold,71.0,8,79.4,max temp much colder than neighbors
+2025-07-15,480306,MILL CREEK,RAWS,RM03,hot,67.0,4,55.9,max temp much warmer than neighbors
+2025-07-15,481002,SCHOOL HOUSE,RAWS,RM03,cold,57.0,4,70.2,max temp much colder than neighbors
+2025-07-15,ASOS-IDP,Independence,ASOS,RM28,cold,80.6,5,92.6,max temp much colder than neighbors
+2025-07-15,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,373.73,0,,impossible rain total
+2025-07-16,392607,WHITETAIL PEAK,RAWS,RM05,hot,55.0,8,46.1,max temp much warmer than neighbors
+2025-07-16,480306,MILL CREEK,RAWS,RM03,hot,55.0,4,46.4,max temp much warmer than neighbors
+2025-07-16,481002,SCHOOL HOUSE,RAWS,RM03,cold,48.0,4,58.7,max temp much colder than neighbors
+2025-07-16,481411,WIND RIVER,RAWS,RM08,cold,54.0,4,72.8,max temp much colder than neighbors
+2025-07-16,481903,ANDERSON RIDGE,RAWS,RM07,hot,79.0,3,63.0,max temp much warmer than neighbors
+2025-07-16,ASOS-1NW,Raymer,ASOS,RM25,cold,62.0,8,79.3,max temp much colder than neighbors
+2025-07-16,ASOS-AKO,Akron/Washington Co,ASOS,RM25,wet,1.43,3,0.1,far more rain than any neighbor
+2025-07-16,ASOS-TQK,Scott City,ASOS,RM27,wet,5.49,4,0.1,far more rain than any neighbor
+2025-07-17,392607,WHITETAIL PEAK,RAWS,RM05,hot,71.0,8,62.2,max temp much warmer than neighbors
+2025-07-17,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,71.0,3,80.6,max temp much colder than neighbors
+2025-07-17,ASOS-PPF,Parsons,ASOS,RM28,missed,0.0,6,0.84,no rain while most neighbors got rain
+2025-07-17,ASOS-TEX,Telluride Regional,ASOS,RM16,cold,68.0,7,76.1,max temp much colder than neighbors
+2025-07-18,395601,MAGPIE CREEK,RAWS,RM23,cold,79.0,3,87.1,max temp much colder than neighbors
+2025-07-18,ASOS-PPF,Parsons,ASOS,RM28,missed,0.0,4,0.82,no rain while most neighbors got rain
+2025-07-18,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,64.4,7,72.7,max temp much colder than neighbors
+2025-07-20,250403,MCKELVIE,RAWS,RM26,missed,0.0,4,0.73,no rain while most neighbors got rain
+2025-07-20,393101,HURON,RAWS,RM23,wet,1.63,3,0.12,far more rain than any neighbor
+2025-07-20,55503,SAND DUNES,RAWS,RM22,hot,89.0,8,79.8,max temp much warmer than neighbors
+2025-07-20,ASOS-LAA,Lamar,ASOS,RM27,cold,88.0,3,99.2,max temp much colder than neighbors
+2025-07-20,ASOS-PSO,Pagosa Springs,ASOS,RM19,cold,53.6,8,87.2,max temp much colder than neighbors
+2025-07-21,ASOS-1HW,Gurley,ASOS,RM25,cold,86.0,5,99.7,max temp much colder than neighbors
+2025-07-21,ASOS-AJZ,Delta,ASOS,RM14,hot,99.0,8,89.5,max temp much warmer than neighbors
+2025-07-21,ASOS-LND,Lander/Hunt Field,ASOS,RM08,cold,70.0,3,93.9,max temp much colder than neighbors
+2025-07-23,392602,PINNACLES,RAWS,RM24,missed,0.0,3,0.61,no rain while most neighbors got rain
+2025-07-23,480212,RATTLESNAKE MTN.,RAWS,RM02,cold,63.0,6,71.8,max temp much colder than neighbors
+2025-07-23,55522274,GRAND MESA,RAWS,RM15,cold,63.0,6,73.1,max temp much colder than neighbors
+2025-07-23,55522274,GRAND MESA,RAWS,RM15,rain_alone,0.75,8,0.01,rain no neighbor saw
+2025-07-24,145801,STATE LINE,RAWS,RM28,wet,2.29,6,0.47,far more rain than any neighbor
+2025-07-24,55522357,ROCKY FORD,RAWS,RM27,missed,0.0,3,0.63,no rain while most neighbors got rain
+2025-07-24,56202,PINION CANYON,RAWS,RM27,rain_alone,0.63,4,0.01,rain no neighbor saw
+2025-07-24,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,71.0,3,88.6,max temp much colder than neighbors
+2025-07-24,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,276.63,0,,impossible rain total
+2025-07-25,ASOS-AJZ,Delta,ASOS,RM14,hot,100.6,8,92.5,max temp much warmer than neighbors
+2025-07-25,ASOS-IAB,Mcconnell_Afb,ASOS,RM28,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-07-26,145201,TALLGRASS PRAIRIE,RAWS,RM28,wet,1.7,6,0.21,far more rain than any neighbor
+2025-07-26,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,83.0,3,101.1,max temp much colder than neighbors
+2025-07-28,480306,MILL CREEK,RAWS,RM03,hot,74.0,4,65.8,max temp much warmer than neighbors
+2025-07-28,56202,PINION CANYON,RAWS,RM27,rain_alone,1.01,3,0.0,rain no neighbor saw
+2025-07-28,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,66.2,7,75.9,max temp much colder than neighbors
+2025-07-29,55807,BIG BEAR PARK,RAWS,RM20,cold,63.0,8,73.0,max temp much colder than neighbors
+2025-07-29,ASOS-BKF,Buckley Angb/Denver,ASOS,RM12,hot,90.0,8,79.0,max temp much warmer than neighbors
+2025-07-29,ASOS-IBM,Kimball,ASOS,RM25,cold,70.0,8,84.8,max temp much colder than neighbors
+2025-07-30,481411,WIND RIVER,RAWS,RM08,cold,63.0,4,74.3,max temp much colder than neighbors
+2025-07-30,481903,ANDERSON RIDGE,RAWS,RM07,hot,78.0,3,69.0,max temp much warmer than neighbors
+2025-07-30,53903,FOUR MILE,RAWS,RM18,wet,1.4,8,0.28,far more rain than any neighbor
+2025-07-30,ASOS-FNB,Falls City/Brenn,ASOS,RM26,missed,0.0,5,0.64,no rain while most neighbors got rain
+2025-07-30,ASOS-OFF,Offutt Afb/Belle,ASOS,RM26,hot,91.0,8,80.5,max temp much warmer than neighbors
+2025-07-31,395105,RED CANYON,RAWS,RM06,hot,77.0,8,68.8,max temp much warmer than neighbors
+2025-07-31,480904,SPLIT ROCK CREEK,RAWS,RM02,wet,1.63,5,0.34,far more rain than any neighbor
+2025-07-31,53605,RAMPART RANGE,RAWS,RM18,cold,63.0,8,71.5,max temp much colder than neighbors
+2025-07-31,ASOS-VMR,Vermillion,ASOS,RM23,rain_alone,0.51,3,0.0,rain no neighbor saw
+2025-08-01,392602,PINNACLES,RAWS,RM24,missed,0.0,3,1.17,no rain while most neighbors got rain
+2025-08-01,ASOS-20V,Kremmling,ASOS,RM11,cold,48.2,8,80.3,max temp much colder than neighbors
+2025-08-01,ASOS-NRN,Norton,ASOS,RM28,cold,66.2,6,74.9,max temp much colder than neighbors
+2025-08-01,ASOS-VMR,Vermillion,ASOS,RM23,cold,66.2,5,74.6,max temp much colder than neighbors
+2025-08-02,ASOS-6E5,Desmet,ASOS,RM23,wet,1.41,3,0.28,far more rain than any neighbor
+2025-08-02,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,76.0,3,93.6,max temp much colder than neighbors
+2025-08-02,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,24.81,0,,impossible rain total
+2025-08-03,ASOS-19S,Sublette,ASOS,RM27,wet,1.32,4,0.32,far more rain than any neighbor
+2025-08-03,ASOS-SPD,Springfield/Comanche Natl Grass,ASOS,RM27,missed,0.0,3,0.56,no rain while most neighbors got rain
+2025-08-03,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,76.17,0,,impossible rain total
+2025-08-04,ASOS-20V,Kremmling,ASOS,RM11,hot,95.0,8,86.3,max temp much warmer than neighbors
+2025-08-04,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,182.78,0,,impossible rain total
+2025-08-04,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,68.0,7,77.6,max temp much colder than neighbors
+2025-08-05,ASOS-20V,Kremmling,ASOS,RM11,cold,77.0,8,86.7,max temp much colder than neighbors
+2025-08-05,ASOS-EEO,Meeker,ASOS,RM14,cold,82.0,8,90.4,max temp much colder than neighbors
+2025-08-05,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,1208.04,0,,impossible rain total
+2025-08-06,ASOS-19S,Sublette,ASOS,RM27,cold,74.7,6,101.3,max temp much colder than neighbors
+2025-08-06,ASOS-C24,Creede,ASOS,RM20,cold,56.5,8,81.0,max temp much colder than neighbors
+2025-08-06,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,91.0,3,102.1,max temp much colder than neighbors
+2025-08-06,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,882.22,0,,impossible rain total
+2025-08-07,ASOS-20V,Kremmling,ASOS,RM11,bad_temp,140.0,0,,impossible temperature
+2025-08-07,ASOS-AIA,Alliance,ASOS,RM25,cold,68.0,4,99.8,max temp much colder than neighbors
+2025-08-07,ASOS-AUH,Aurora,ASOS,RM26,cold,73.8,3,87.2,max temp much colder than neighbors
+2025-08-07,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,96.0,3,104.6,max temp much colder than neighbors
+2025-08-07,ASOS-OWI,Ottawa,ASOS,RM28,cold,75.2,8,92.8,max temp much colder than neighbors
+2025-08-07,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,43.1,0,,impossible rain total
+2025-08-08,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,55.4,8,66.1,max temp much colder than neighbors
+2025-08-08,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,62.6,7,79.6,max temp much colder than neighbors
+2025-08-09,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,53.6,8,61.7,max temp much colder than neighbors
+2025-08-09,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,68.0,7,78.6,max temp much colder than neighbors
+2025-08-10,ASOS-ABH,Ellicott-B Afa,ASOS,RM27,cold,61.0,8,78.2,max temp much colder than neighbors
+2025-08-10,ASOS-DEN,Denver Intnl Arpt,ASOS,RM25,wet,1.43,8,0.33,far more rain than any neighbor
+2025-08-10,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,24.05,0,,impossible rain total
+2025-08-11,ASOS-19S,Sublette,ASOS,RM27,wet,1.03,4,0.22,far more rain than any neighbor
+2025-08-11,ASOS-TQK,Scott City,ASOS,RM27,bad_rain,295.06,0,,impossible rain total
+2025-08-12,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,53.6,8,64.5,max temp much colder than neighbors
+2025-08-12,ASOS-CFV,Coffeyville,ASOS,RM28,cold,70.0,5,89.7,max temp much colder than neighbors
+2025-08-13,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,60.8,8,70.1,max temp much colder than neighbors
+2025-08-13,ASOS-3K7,Leoti,ASOS,RM27,cold,64.4,3,90.6,max temp much colder than neighbors
+2025-08-13,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,68.0,7,77.3,max temp much colder than neighbors
+2025-08-14,51508,STORM KING MOUNTAIN,RAWS,RM15,hot,92.0,8,83.4,max temp much warmer than neighbors
+2025-08-14,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,59.0,8,69.4,max temp much colder than neighbors
+2025-08-14,ASOS-1D8,Redfield,ASOS,RM23,cold,66.2,3,87.9,max temp much colder than neighbors
+2025-08-14,ASOS-C99,Dakota Hills,ASOS,RM13,cold,66.2,8,75.1,max temp much colder than neighbors
+2025-08-14,ASOS-GXY,Greeley/Weld (Awos),ASOS,RM25,cold,85.0,8,99.0,max temp much colder than neighbors
+2025-08-14,ASOS-HON,Huron,ASOS,RM23,wet,1.83,3,0.29,far more rain than any neighbor
+2025-08-14,ASOS-JYR,York,ASOS,RM26,rain_alone,0.82,4,0.05,rain no neighbor saw
+2025-08-14,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,64.4,7,77.6,max temp much colder than neighbors
+2025-08-15,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,55.4,8,67.1,max temp much colder than neighbors
+2025-08-15,ASOS-1D8,Redfield,ASOS,RM23,cold,73.4,3,86.9,max temp much colder than neighbors
+2025-08-15,ASOS-LHX,La Junta Municipal,ASOS,RM27,cold,84.0,3,103.6,max temp much colder than neighbors
+2025-08-15,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,66.2,7,74.6,max temp much colder than neighbors
+2025-08-16,54801,WILLIS CREEK,RAWS,RM22,cold,71.0,8,79.5,max temp much colder than neighbors
+2025-08-16,55522274,GRAND MESA,RAWS,RM15,cold,60.0,6,69.6,max temp much colder than neighbors
+2025-08-16,55522274,GRAND MESA,RAWS,RM15,rain_alone,0.5,8,0.05,rain no neighbor saw
+2025-08-16,ASOS-0CO,Berthoud Pass,ASOS,RM15,cold,48.2,8,58.1,max temp much colder than neighbors
+2025-08-16,ASOS-HQG,Hugoton,ASOS,RM27,cold,82.4,6,95.5,max temp much colder than neighbors
+2025-08-17,481410,ELKHORN,RAWS,RM01,rain_alone,0.62,3,0.02,rain no neighbor saw
 2026-11-08,50505,REDFEATHER,RAWS,RM13,hot,65.0,8,55.9,max temp much warmer than neighbors
 2026-11-08,56203,BOSQUE,RAWS,RM22,hot,63.0,7,54.6,max temp much warmer than neighbors
 2026-11-08,ASOS-CFO,Colorado Air And Space,ASOS,RM25,cold,50.0,8,68.1,max temp much colder than neighbors
@@ -3588,4 +3943,4 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-16,ASOS-PUB,Pueblo Memorial(Aw),ASOS,RM27,cold,50.0,8,60.2,max temp much colder than neighbors
 2026-11-17,56203,BOSQUE,RAWS,RM22,hot,61.0,7,51.5,max temp much warmer than neighbors
 2026-11-17,ASOS-EAN,Wheatland,ASOS,RM25,hot,69.4,5,60.6,max temp much warmer than neighbors
-2026-11-18,481903,ANDERSON RIDGE,RAWS,RM07,cold,24.0,3,35.9,max temp much colder than neighbors
+2026-11-18,481903,ANDERSON RIDGE,RAWS,RM07,cold,24.0,3,36.0,max temp much colder than neighbors

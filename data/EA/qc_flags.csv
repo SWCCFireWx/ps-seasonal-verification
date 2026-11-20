@@ -5368,6 +5368,1233 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2025-04-19,360231,DOLL HILL,RAWS,EA18,cold,58.0,8,78.7,max temp much colder than neighbors
 2025-04-19,ASOS-FGN,Flag Island,ASOS,EA01,cold,37.4,5,48.1,max temp much colder than neighbors
 2025-04-19,ASOS-MKG,Muskegon,ASOS,EA08,cold,62.0,5,70.2,max temp much colder than neighbors
+2025-04-20,360231,DOLL HILL,RAWS,EA18,cold,50.0,8,62.2,max temp much colder than neighbors
+2025-04-20,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,41.0,8,54.9,max temp much colder than neighbors
+2025-04-20,ASOS-FGN,Flag Island,ASOS,EA01,cold,44.6,5,62.6,max temp much colder than neighbors
+2025-04-20,ASOS-GNA,Grand Marais,ASOS,EA03,cold,42.0,4,52.2,max temp much colder than neighbors
+2025-04-20,ASOS-IGQ,Chicago/Lansing,ASOS,EA11,cold,49.6,8,65.2,max temp much colder than neighbors
+2025-04-20,ASOS-SUW,Superior,ASOS,EA04,cold,44.6,8,54.7,max temp much colder than neighbors
+2025-04-21,180335,ASSATEAGUE ISLAND,RAWS,EA24,cold,61.0,6,69.3,max temp much colder than neighbors
+2025-04-21,201302,SPINCICH LAKE,RAWS,EA06,missed,0.0,7,0.89,no rain while most neighbors got rain
+2025-04-21,360231,DOLL HILL,RAWS,EA18,cold,54.0,8,68.1,max temp much colder than neighbors
+2025-04-21,ASOS-FGN,Flag Island,ASOS,EA01,cold,50.0,5,63.1,max temp much colder than neighbors
+2025-04-21,ASOS-PBG,Plattsburgh Afb,ASOS,EA20,cold,53.0,8,63.0,max temp much colder than neighbors
+2025-04-21,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,48.0,6,58.7,max temp much colder than neighbors
+2025-04-21,ASOS-RME,Griffiss Afb / Rome,ASOS,EA18,cold,57.0,5,66.7,max temp much colder than neighbors
+2025-04-22,201004,MUNISING,RAWS,EA06,cold,45.0,8,55.5,max temp much colder than neighbors
+2025-04-22,203101,WELLSTON,RAWS,EA07,hot,65.0,8,55.9,max temp much warmer than neighbors
+2025-04-22,55522362,SAND ISLAND,RAWS,EA04,cold,44.0,5,54.3,max temp much colder than neighbors
+2025-04-22,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,3.03,8,0.0,rain no neighbor saw
+2025-04-22,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,53.0,5,62.1,max temp much colder than neighbors
+2025-04-22,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,65.0,8,80.2,max temp much colder than neighbors
+2025-04-22,ASOS-BOS,Boston/Logan Intl,ASOS,EA23,cold,58.0,8,76.0,max temp much colder than neighbors
+2025-04-22,ASOS-BVY,Beverly Municipal,ASOS,EA23,cold,61.0,8,75.1,max temp much colder than neighbors
+2025-04-22,ASOS-CMX,Hancock,ASOS,EA04,cold,46.0,4,56.9,max temp much colder than neighbors
+2025-04-22,ASOS-DVP,Slayton,ASOS,EA02,cold,59.4,7,69.2,max temp much colder than neighbors
+2025-04-22,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,39.2,8,52.5,max temp much colder than neighbors
+2025-04-22,ASOS-MGN,Harbor Springs,ASOS,EA07,cold,46.4,8,55.6,max temp much colder than neighbors
+2025-04-22,ASOS-P53,Munising,ASOS,EA06,cold,39.0,8,56.1,max temp much colder than neighbors
+2025-04-23,235901,WAH KON TAH,RAWS,EA12,rain_alone,0.7,3,0.02,rain no neighbor saw
+2025-04-23,360231,DOLL HILL,RAWS,EA18,cold,57.0,8,73.4,max temp much colder than neighbors
+2025-04-23,55522362,SAND ISLAND,RAWS,EA04,cold,44.0,5,67.8,max temp much colder than neighbors
+2025-04-23,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,0.56,8,0.0,rain no neighbor saw
+2025-04-23,ASOS-2P2,Washington Island,ASOS,EA06,cold,53.2,6,61.2,max temp much colder than neighbors
+2025-04-23,ASOS-4R5,La Pointe,ASOS,EA04,cold,59.0,7,71.7,max temp much colder than neighbors
+2025-04-23,ASOS-BJJ,Wooster,ASOS,EA15,cold,50.0,8,75.8,max temp much colder than neighbors
+2025-04-23,ASOS-GHG,Marshfield,ASOS,EA23,cold,60.8,8,71.6,max temp much colder than neighbors
+2025-04-23,ASOS-INL,International Falls,ASOS,EA01,cold,43.0,5,51.6,max temp much colder than neighbors
+2025-04-23,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,58.0,6,72.0,max temp much colder than neighbors
+2025-04-23,ASOS-NAK,Annapolis,ASOS,EA24,cold,66.0,8,75.7,max temp much colder than neighbors
+2025-04-23,ASOS-SDC,Williamson,ASOS,EA18,cold,59.0,5,68.2,max temp much colder than neighbors
+2025-04-24,119501,DIXON SPRINGS,RAWS,EA14,bad_rain,13.02,0,,impossible rain total
+2025-04-24,201004,MUNISING,RAWS,EA06,cold,45.0,8,54.2,max temp much colder than neighbors
+2025-04-24,360231,DOLL HILL,RAWS,EA18,cold,62.0,8,79.4,max temp much colder than neighbors
+2025-04-24,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,6.67,8,0.02,rain no neighbor saw
+2025-04-24,ASOS-9MN,Rochester / St Mary,ASOS,EA05,cold,50.0,8,59.4,max temp much colder than neighbors
+2025-04-24,ASOS-BKL,Cleveland Burke Lakefront,ASOS,EA15,cold,73.0,8,81.3,max temp much colder than neighbors
+2025-04-24,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,44.6,8,54.2,max temp much colder than neighbors
+2025-04-24,ASOS-FGN,Flag Island,ASOS,EA01,cold,46.4,5,55.3,max temp much colder than neighbors
+2025-04-24,ASOS-GNA,Grand Marais,ASOS,EA03,cold,43.0,4,54.7,max temp much colder than neighbors
+2025-04-24,ASOS-P53,Munising,ASOS,EA06,cold,45.0,8,54.8,max temp much colder than neighbors
+2025-04-24,ASOS-PBG,Plattsburgh Afb,ASOS,EA20,cold,64.0,8,72.5,max temp much colder than neighbors
+2025-04-24,ASOS-RRT,Warroad,ASOS,EA01,cold,44.6,5,55.4,max temp much colder than neighbors
+2025-04-25,360231,DOLL HILL,RAWS,EA18,cold,53.0,8,68.8,max temp much colder than neighbors
+2025-04-25,361002,ALLEGHENY,RAWS,EA18,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-04-25,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,61.0,5,71.0,max temp much colder than neighbors
+2025-04-25,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,42.8,8,55.7,max temp much colder than neighbors
+2025-04-25,ASOS-EKM,Elkhart Municipa,ASOS,EA11,wet,1.33,8,0.3,far more rain than any neighbor
+2025-04-25,ASOS-FGN,Flag Island,ASOS,EA01,cold,46.4,5,62.0,max temp much colder than neighbors
+2025-04-25,ASOS-GNA,Grand Marais,ASOS,EA03,cold,45.0,4,53.1,max temp much colder than neighbors
+2025-04-25,ASOS-MKG,Muskegon,ASOS,EA08,cold,66.0,5,77.4,max temp much colder than neighbors
+2025-04-25,ASOS-OXB,Ocean City Muni,ASOS,EA24,cold,68.0,5,77.1,max temp much colder than neighbors
+2025-04-25,ASOS-RAC,Racine,ASOS,EA10,cold,49.0,8,58.0,max temp much colder than neighbors
+2025-04-26,270071,LANCASTER,RAWS,EA21,missed,0.0,8,0.73,no rain while most neighbors got rain
+2025-04-26,300312,MT VANHOEVENBERG,RAWS,EA20,missed,0.0,8,0.66,no rain while most neighbors got rain
+2025-04-26,360231,DOLL HILL,RAWS,EA18,cold,51.0,8,62.5,max temp much colder than neighbors
+2025-04-26,55522362,SAND ISLAND,RAWS,EA04,cold,47.0,5,60.6,max temp much colder than neighbors
+2025-04-26,ASOS-ASH,Nashua,ASOS,EA22,missed,0.0,8,1.02,no rain while most neighbors got rain
+2025-04-26,ASOS-CDA,Lyndonville,ASOS,EA21,missed,0.0,8,0.76,no rain while most neighbors got rain
+2025-04-26,ASOS-CQX,Chatham Muni Arpt,ASOS,EA23,missed,0.0,7,0.8,no rain while most neighbors got rain
+2025-04-26,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,46.4,8,61.0,max temp much colder than neighbors
+2025-04-26,ASOS-EFK,Newport,ASOS,EA21,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-04-26,ASOS-FGN,Flag Island,ASOS,EA01,cold,55.4,5,65.0,max temp much colder than neighbors
+2025-04-26,ASOS-FIG,Clearfield-Lawrence Apt(Was N97),ASOS,EA19,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-04-26,ASOS-FSO,Highgate,ASOS,EA21,missed,0.0,7,0.71,no rain while most neighbors got rain
+2025-04-26,ASOS-JOT,Joliet,ASOS,EA10,rain_alone,0.56,7,0.0,rain no neighbor saw
+2025-04-26,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,cold,61.0,8,74.2,max temp much colder than neighbors
+2025-04-26,ASOS-P53,Munising,ASOS,EA06,cold,43.0,8,53.4,max temp much colder than neighbors
+2025-04-26,ASOS-WVL,Waterville (Awos),ASOS,EA22,missed,0.0,5,1.37,no rain while most neighbors got rain
+2025-04-27,203101,WELLSTON,RAWS,EA07,hot,69.0,8,57.9,max temp much warmer than neighbors
+2025-04-27,360231,DOLL HILL,RAWS,EA18,cold,51.0,8,60.7,max temp much colder than neighbors
+2025-04-27,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,42.8,8,62.8,max temp much colder than neighbors
+2025-04-27,ASOS-ISQ,Manistique,ASOS,EA06,cold,50.0,8,60.7,max temp much colder than neighbors
+2025-04-27,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,50.0,6,61.5,max temp much colder than neighbors
+2025-04-27,ASOS-P58,Port Hope,ASOS,EA08,cold,52.0,3,63.4,max temp much colder than neighbors
+2025-04-27,ASOS-SUW,Superior,ASOS,EA04,cold,47.5,8,62.6,max temp much colder than neighbors
+2025-04-28,360231,DOLL HILL,RAWS,EA18,cold,57.0,8,71.6,max temp much colder than neighbors
+2025-04-28,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,51.0,8,75.4,max temp much colder than neighbors
+2025-04-28,ASOS-DKK,Dunkirk Airport,ASOS,EA18,cold,67.0,5,75.7,max temp much colder than neighbors
+2025-04-28,ASOS-FGN,Flag Island,ASOS,EA01,cold,44.6,5,53.1,max temp much colder than neighbors
+2025-04-28,ASOS-GWB,Auburn,ASOS,EA11,cold,48.2,8,77.4,max temp much colder than neighbors
+2025-04-28,ASOS-ISQ,Manistique,ASOS,EA06,cold,53.0,8,63.1,max temp much colder than neighbors
+2025-04-28,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,61.0,6,79.6,max temp much colder than neighbors
+2025-04-28,ASOS-RRL,Merrill,ASOS,EA04,cold,50.7,8,67.7,max temp much colder than neighbors
+2025-04-28,ASOS-SDC,Williamson,ASOS,EA18,cold,64.4,5,73.6,max temp much colder than neighbors
+2025-04-29,170791,MCFARLAND HILL,RAWS,EA22,hot,71.0,3,60.8,max temp much warmer than neighbors
+2025-04-29,281501,EB FORSYTHE,RAWS,EA24,cold,66.0,8,80.7,max temp much colder than neighbors
+2025-04-29,360231,DOLL HILL,RAWS,EA18,cold,64.0,8,80.9,max temp much colder than neighbors
+2025-04-29,55522362,SAND ISLAND,RAWS,EA04,cold,40.0,5,52.7,max temp much colder than neighbors
+2025-04-29,ASOS-4R5,La Pointe,ASOS,EA04,cold,49.0,7,61.7,max temp much colder than neighbors
+2025-04-29,ASOS-AIO,Atlantic,ASOS,EA09,hot,79.0,8,64.9,max temp much warmer than neighbors
+2025-04-29,ASOS-ASX,Ashland,ASOS,EA04,cold,52.0,8,61.3,max temp much colder than neighbors
+2025-04-29,ASOS-BAK,Columbus/Balkala,ASOS,EA14,cold,70.0,8,80.8,max temp much colder than neighbors
+2025-04-29,ASOS-BHB,Bar Habor,ASOS,EA22,cold,62.0,3,72.2,max temp much colder than neighbors
+2025-04-29,ASOS-BJI,Bemidji,ASOS,EA01,wet,1.05,8,0.11,far more rain than any neighbor
+2025-04-29,ASOS-FGN,Flag Island,ASOS,EA01,cold,39.2,5,48.1,max temp much colder than neighbors
+2025-04-29,ASOS-NAK,Annapolis,ASOS,EA24,cold,75.0,8,83.3,max temp much colder than neighbors
+2025-04-29,ASOS-OXB,Ocean City Muni,ASOS,EA24,cold,68.0,5,78.1,max temp much colder than neighbors
+2025-04-29,ASOS-PWM,Portland Intl Jet,ASOS,EA22,cold,69.0,8,81.2,max temp much colder than neighbors
+2025-04-29,ASOS-SJX,Beaver Island,ASOS,EA06,hot,71.6,8,59.3,max temp much warmer than neighbors
+2025-04-30,360231,DOLL HILL,RAWS,EA18,cold,53.0,8,67.8,max temp much colder than neighbors
+2025-04-30,55522362,SAND ISLAND,RAWS,EA04,cold,38.0,5,58.8,max temp much colder than neighbors
+2025-04-30,ASOS-4R5,La Pointe,ASOS,EA04,cold,50.4,7,67.7,max temp much colder than neighbors
+2025-04-30,ASOS-9MN,Rochester / St Mary,ASOS,EA05,cold,48.2,8,67.3,max temp much colder than neighbors
+2025-04-30,ASOS-CMX,Hancock,ASOS,EA04,cold,46.0,4,62.9,max temp much colder than neighbors
+2025-04-30,ASOS-FGN,Flag Island,ASOS,EA01,cold,46.4,5,58.9,max temp much colder than neighbors
+2025-04-30,ASOS-ISQ,Manistique,ASOS,EA06,cold,39.7,8,48.6,max temp much colder than neighbors
+2025-04-30,ASOS-JVY,Jefferson,ASOS,EA14,cold,66.2,8,82.9,max temp much colder than neighbors
+2025-04-30,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,37.4,8,47.7,max temp much colder than neighbors
+2025-04-30,ASOS-MKE,Milwaukee,ASOS,EA10,cold,46.0,8,58.8,max temp much colder than neighbors
+2025-04-30,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,45.0,6,60.2,max temp much colder than neighbors
+2025-04-30,ASOS-MWC,Milwaukee/Lawren,ASOS,EA05,cold,48.2,8,59.4,max temp much colder than neighbors
+2025-04-30,ASOS-OIC,Norwich,ASOS,EA19,hot,64.4,7,55.7,max temp much warmer than neighbors
+2025-04-30,ASOS-P58,Port Hope,ASOS,EA08,cold,41.0,3,51.9,max temp much colder than neighbors
+2025-04-30,ASOS-PHN,Port Huron,ASOS,EA08,cold,51.8,5,60.3,max temp much colder than neighbors
+2025-04-30,ASOS-PVC,Provincetown (Awos),ASOS,EA23,cold,62.0,8,71.8,max temp much colder than neighbors
+2025-04-30,ASOS-SBM,Sheboygan,ASOS,EA05,cold,51.0,8,59.8,max temp much colder than neighbors
+2025-05-01,180335,ASSATEAGUE ISLAND,RAWS,EA24,cold,66.0,6,77.6,max temp much colder than neighbors
+2025-05-01,360231,DOLL HILL,RAWS,EA18,cold,67.0,8,76.8,max temp much colder than neighbors
+2025-05-01,55522362,SAND ISLAND,RAWS,EA04,cold,39.0,5,62.3,max temp much colder than neighbors
+2025-05-01,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,wet,1.2,8,0.23,far more rain than any neighbor
+2025-05-01,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,42.8,8,62.8,max temp much colder than neighbors
+2025-05-01,ASOS-GNA,Grand Marais,ASOS,EA03,cold,47.0,3,64.8,max temp much colder than neighbors
+2025-05-01,ASOS-IAG,Niagara Falls Intl,ASOS,EA18,cold,65.0,4,73.2,max temp much colder than neighbors
+2025-05-01,ASOS-MKG,Muskegon,ASOS,EA08,cold,61.0,5,72.2,max temp much colder than neighbors
+2025-05-01,ASOS-P58,Port Hope,ASOS,EA08,hot,62.0,3,48.2,max temp much warmer than neighbors
+2025-05-01,ASOS-SUW,Superior,ASOS,EA04,cold,48.2,8,64.1,max temp much colder than neighbors
+2025-05-02,281501,EB FORSYTHE,RAWS,EA24,cold,76.0,8,86.2,max temp much colder than neighbors
+2025-05-02,360231,DOLL HILL,RAWS,EA18,cold,64.0,8,72.8,max temp much colder than neighbors
+2025-05-02,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,77.0,8,86.1,max temp much colder than neighbors
+2025-05-02,ASOS-FGN,Flag Island,ASOS,EA01,cold,48.2,5,57.1,max temp much colder than neighbors
+2025-05-02,ASOS-HVN,New Haven/Tweed,ASOS,EA23,cold,72.0,8,80.3,max temp much colder than neighbors
+2025-05-02,ASOS-LWA,South Haven,ASOS,EA08,cold,50.0,7,61.4,max temp much colder than neighbors
+2025-05-02,ASOS-VES,Versailles,ASOS,EA15,cold,60.8,8,73.0,max temp much colder than neighbors
+2025-05-02,ASOS-W22,Buckhannon,ASOS,EA17,hot,95.0,8,78.7,max temp much warmer than neighbors
+2025-05-03,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,58.0,8,77.8,max temp much colder than neighbors
+2025-05-03,281501,EB FORSYTHE,RAWS,EA24,cold,73.0,8,86.2,max temp much colder than neighbors
+2025-05-03,360231,DOLL HILL,RAWS,EA18,cold,53.0,8,64.0,max temp much colder than neighbors
+2025-05-03,ASOS-DKK,Dunkirk Airport,ASOS,EA18,missed,0.0,4,0.61,no rain while most neighbors got rain
+2025-05-03,ASOS-ESC,Escanaba,ASOS,EA06,cold,48.0,8,58.9,max temp much colder than neighbors
+2025-05-03,ASOS-GNA,Grand Marais,ASOS,EA03,cold,43.0,3,70.8,max temp much colder than neighbors
+2025-05-03,ASOS-JFK,New York/Jf Kennedy,ASOS,EA23,cold,70.0,8,85.1,max temp much colder than neighbors
+2025-05-03,ASOS-LPR,Lorain/Elyria,ASOS,EA15,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-05-03,ASOS-MFI,Marshfield,ASOS,EA05,cold,49.0,8,59.7,max temp much colder than neighbors
+2025-05-03,ASOS-MKE,Milwaukee,ASOS,EA10,cold,46.0,8,55.0,max temp much colder than neighbors
+2025-05-03,ASOS-P53,Munising,ASOS,EA06,cold,43.0,8,57.5,max temp much colder than neighbors
+2025-05-03,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,54.0,6,69.7,max temp much colder than neighbors
+2025-05-03,ASOS-TZR,Bolton Field Air,ASOS,EA15,missed,0.0,8,1.0,no rain while most neighbors got rain
+2025-05-04,270071,LANCASTER,RAWS,EA21,missed,0.0,8,0.55,no rain while most neighbors got rain
+2025-05-04,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,83.0,8,71.3,max temp much warmer than neighbors
+2025-05-04,ASOS-BGR,Bangor Intl Arpt,ASOS,EA22,rain_alone,0.53,3,0.04,rain no neighbor saw
+2025-05-04,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,wet,1.85,8,0.19,far more rain than any neighbor
+2025-05-04,ASOS-FGN,Flag Island,ASOS,EA01,cold,71.6,5,81.9,max temp much colder than neighbors
+2025-05-04,ASOS-P53,Munising,ASOS,EA06,cold,57.0,8,67.5,max temp much colder than neighbors
+2025-05-04,ASOS-P58,Port Hope,ASOS,EA08,cold,48.0,3,59.6,max temp much colder than neighbors
+2025-05-04,ASOS-PZQ,Rogers City,ASOS,EA07,cold,57.4,6,65.4,max temp much colder than neighbors
+2025-05-04,ASOS-SLB,Storm Lake,ASOS,EA02,cold,53.6,4,73.5,max temp much colder than neighbors
+2025-05-04,ASOS-TZR,Bolton Field Air,ASOS,EA15,missed,0.0,8,0.5,no rain while most neighbors got rain
+2025-05-05,201004,MUNISING,RAWS,EA06,cold,60.0,8,72.9,max temp much colder than neighbors
+2025-05-05,55522362,SAND ISLAND,RAWS,EA04,cold,44.0,5,76.8,max temp much colder than neighbors
+2025-05-05,ASOS-AIT,Aitkin Ndb,ASOS,EA03,cold,62.6,8,80.1,max temp much colder than neighbors
+2025-05-05,ASOS-CMY,Sparta/Mccoy Aaf,ASOS,EA05,cold,59.0,8,72.9,max temp much colder than neighbors
+2025-05-05,ASOS-DXR,Danbury Municipal,ASOS,EA23,missed,0.0,8,1.54,no rain while most neighbors got rain
+2025-05-05,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,48.2,8,77.6,max temp much colder than neighbors
+2025-05-05,ASOS-ERI,Erie Intl Airport,ASOS,EA18,cold,62.0,3,73.3,max temp much colder than neighbors
+2025-05-05,ASOS-FGN,Flag Island,ASOS,EA01,cold,64.4,5,82.9,max temp much colder than neighbors
+2025-05-05,ASOS-GOV,Grayling Af,ASOS,EA07,cold,51.8,8,65.5,max temp much colder than neighbors
+2025-05-05,ASOS-GUS,Grissom Afb/Peru,ASOS,EA11,cold,55.6,8,64.1,max temp much colder than neighbors
+2025-05-05,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-05-05,ASOS-LPR,Lorain/Elyria,ASOS,EA15,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-05-05,ASOS-P53,Munising,ASOS,EA06,cold,59.0,8,73.5,max temp much colder than neighbors
+2025-05-05,ASOS-RYM,Ray Miller Army Field,ASOS,EA01,cold,68.4,8,79.8,max temp much colder than neighbors
+2025-05-05,ASOS-SUW,Superior,ASOS,EA04,cold,55.0,8,77.4,max temp much colder than neighbors
+2025-05-05,ASOS-TBN,Fort Leonard Woo,ASOS,EA13,cold,58.6,7,69.5,max temp much colder than neighbors
+2025-05-05,ASOS-VOK,Camp Douglas - Volk Field,ASOS,EA05,cold,58.0,8,71.4,max temp much colder than neighbors
+2025-05-06,281501,EB FORSYTHE,RAWS,EA24,cold,69.0,8,77.1,max temp much colder than neighbors
+2025-05-06,ASOS-AOH,Lima,ASOS,EA15,missed,0.0,8,0.84,no rain while most neighbors got rain
+2025-05-06,ASOS-ESC,Escanaba,ASOS,EA06,cold,69.0,8,79.9,max temp much colder than neighbors
+2025-05-06,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,67.0,6,77.3,max temp much colder than neighbors
+2025-05-06,ASOS-MUI,Muir Aaf/Indiantown,ASOS,EA19,missed,0.0,8,0.88,no rain while most neighbors got rain
+2025-05-06,ASOS-P53,Munising,ASOS,EA06,cold,59.0,8,79.6,max temp much colder than neighbors
+2025-05-07,170791,MCFARLAND HILL,RAWS,EA22,hot,66.0,3,54.8,max temp much warmer than neighbors
+2025-05-07,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,61.0,8,69.5,max temp much colder than neighbors
+2025-05-07,ASOS-BKL,Cleveland Burke Lakefront,ASOS,EA15,cold,61.0,8,70.7,max temp much colder than neighbors
+2025-05-07,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,rain_alone,0.95,8,0.01,rain no neighbor saw
+2025-05-07,ASOS-CKC,Grand Marais/Coo,ASOS,EA03,hot,73.4,4,53.0,max temp much warmer than neighbors
+2025-05-07,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,46.4,8,57.8,max temp much colder than neighbors
+2025-05-07,ASOS-P53,Munising,ASOS,EA06,cold,45.0,8,55.4,max temp much colder than neighbors
+2025-05-07,ASOS-RRT,Warroad,ASOS,EA01,cold,57.2,5,66.2,max temp much colder than neighbors
+2025-05-07,ASOS-SUW,Superior,ASOS,EA04,cold,48.6,8,58.0,max temp much colder than neighbors
+2025-05-08,201102,STONINGTON,RAWS,EA06,hot,65.0,8,54.3,max temp much warmer than neighbors
+2025-05-08,ASOS-FGN,Flag Island,ASOS,EA01,cold,55.4,5,74.0,max temp much colder than neighbors
+2025-05-08,ASOS-IWD,Ironwood,ASOS,EA04,cold,53.0,8,66.4,max temp much colder than neighbors
+2025-05-08,ASOS-MKE,Milwaukee,ASOS,EA10,cold,49.0,8,58.1,max temp much colder than neighbors
+2025-05-08,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,50.0,6,58.1,max temp much colder than neighbors
+2025-05-08,ASOS-NEL,Lakehurst Nas,ASOS,EA24,cold,59.0,8,78.5,max temp much colder than neighbors
+2025-05-08,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,59.0,6,68.7,max temp much colder than neighbors
+2025-05-08,ASOS-SQI,Sterling Rockfal,ASOS,EA10,cold,53.0,6,69.6,max temp much colder than neighbors
+2025-05-09,300312,MT VANHOEVENBERG,RAWS,EA20,missed,0.0,8,0.95,no rain while most neighbors got rain
+2025-05-09,55522362,SAND ISLAND,RAWS,EA04,cold,68.0,5,83.3,max temp much colder than neighbors
+2025-05-09,ASOS-2P2,Washington Island,ASOS,EA06,cold,56.3,6,67.9,max temp much colder than neighbors
+2025-05-09,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,78.0,8,64.2,max temp much warmer than neighbors
+2025-05-09,ASOS-CDA,Lyndonville,ASOS,EA21,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-05-09,ASOS-CQX,Chatham Muni Arpt,ASOS,EA23,missed,0.0,7,1.15,no rain while most neighbors got rain
+2025-05-09,ASOS-DYL,Doylestown Airport,ASOS,EA24,missed,0.0,8,0.6,no rain while most neighbors got rain
+2025-05-09,ASOS-FDK,Frederick Muni Apt,ASOS,EA24,hot,70.0,8,61.4,max temp much warmer than neighbors
+2025-05-09,ASOS-FGN,Flag Island,ASOS,EA01,cold,60.8,5,69.1,max temp much colder than neighbors
+2025-05-09,ASOS-LDM,Ludington/Mason,ASOS,EA07,cold,55.0,6,68.5,max temp much colder than neighbors
+2025-05-09,ASOS-LWA,South Haven,ASOS,EA08,cold,56.7,7,66.6,max temp much colder than neighbors
+2025-05-09,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,55.4,8,64.5,max temp much colder than neighbors
+2025-05-09,ASOS-MKG,Muskegon,ASOS,EA08,cold,57.0,5,67.6,max temp much colder than neighbors
+2025-05-09,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,59.0,6,71.5,max temp much colder than neighbors
+2025-05-10,55522362,SAND ISLAND,RAWS,EA04,cold,52.0,5,63.3,max temp much colder than neighbors
+2025-05-10,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,62.0,8,73.3,max temp much colder than neighbors
+2025-05-10,ASOS-BEH,Benton Harbor,ASOS,EA08,cold,63.0,8,73.8,max temp much colder than neighbors
+2025-05-10,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,55.4,8,64.6,max temp much colder than neighbors
+2025-05-10,ASOS-EEN,Keene/Dillant(Awos),ASOS,EA21,cold,47.0,8,62.7,max temp much colder than neighbors
+2025-05-10,ASOS-FGN,Flag Island,ASOS,EA01,cold,62.6,5,74.0,max temp much colder than neighbors
+2025-05-10,ASOS-LWA,South Haven,ASOS,EA08,cold,61.0,7,74.3,max temp much colder than neighbors
+2025-05-10,ASOS-NEL,Lakehurst Nas,ASOS,EA24,cold,47.0,8,73.6,max temp much colder than neighbors
+2025-05-10,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,missed,0.0,7,1.55,no rain while most neighbors got rain
+2025-05-11,55522362,SAND ISLAND,RAWS,EA04,cold,79.0,5,88.3,max temp much colder than neighbors
+2025-05-11,ASOS-9MN,Rochester / St Mary,ASOS,EA05,cold,71.6,8,85.0,max temp much colder than neighbors
+2025-05-11,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,74.0,8,82.8,max temp much colder than neighbors
+2025-05-11,ASOS-CVX,Charlevoix,ASOS,EA07,cold,62.6,8,74.0,max temp much colder than neighbors
+2025-05-11,ASOS-FGN,Flag Island,ASOS,EA01,cold,82.4,5,95.9,max temp much colder than neighbors
+2025-05-11,ASOS-GNA,Grand Marais,ASOS,EA03,cold,52.0,4,85.6,max temp much colder than neighbors
+2025-05-11,ASOS-ISQ,Manistique,ASOS,EA06,cold,54.5,8,66.2,max temp much colder than neighbors
+2025-05-11,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,50.0,8,64.2,max temp much colder than neighbors
+2025-05-11,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,65.0,6,73.5,max temp much colder than neighbors
+2025-05-11,ASOS-P58,Port Hope,ASOS,EA08,cold,48.0,3,64.4,max temp much colder than neighbors
+2025-05-11,ASOS-PVC,Provincetown (Awos),ASOS,EA23,cold,62.0,8,70.2,max temp much colder than neighbors
+2025-05-12,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,68.0,8,80.2,max temp much colder than neighbors
+2025-05-12,55522362,SAND ISLAND,RAWS,EA04,cold,71.0,5,88.8,max temp much colder than neighbors
+2025-05-12,ASOS-CVX,Charlevoix,ASOS,EA07,cold,73.4,8,84.3,max temp much colder than neighbors
+2025-05-12,ASOS-FGN,Flag Island,ASOS,EA01,cold,73.4,5,91.3,max temp much colder than neighbors
+2025-05-12,ASOS-FMH,Otis Angb,ASOS,EA23,hot,77.0,8,66.6,max temp much warmer than neighbors
+2025-05-12,ASOS-GNA,Grand Marais,ASOS,EA03,cold,69.0,4,86.8,max temp much colder than neighbors
+2025-05-12,ASOS-GYY,Gary Regional,ASOS,EA11,cold,71.6,8,80.8,max temp much colder than neighbors
+2025-05-12,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,69.8,8,81.6,max temp much colder than neighbors
+2025-05-12,ASOS-MGN,Harbor Springs,ASOS,EA07,cold,69.3,8,84.2,max temp much colder than neighbors
+2025-05-12,ASOS-MKE,Milwaukee,ASOS,EA10,cold,70.0,8,80.0,max temp much colder than neighbors
+2025-05-12,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,72.0,6,82.1,max temp much colder than neighbors
+2025-05-12,ASOS-P58,Port Hope,ASOS,EA08,cold,60.0,3,79.0,max temp much colder than neighbors
+2025-05-12,ASOS-SLH,Cheboygan,ASOS,EA07,cold,68.0,8,82.7,max temp much colder than neighbors
+2025-05-13,336001,BLUE ROCK,RAWS,EA16,wet,2.99,8,0.63,far more rain than any neighbor
+2025-05-13,55522362,SAND ISLAND,RAWS,EA04,cold,52.0,5,88.8,max temp much colder than neighbors
+2025-05-13,ASOS-4I3,Mount Vernon,ASOS,EA15,cold,62.6,8,72.8,max temp much colder than neighbors
+2025-05-13,ASOS-9MN,Rochester / St Mary,ASOS,EA05,cold,71.6,8,84.6,max temp much colder than neighbors
+2025-05-13,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,79.0,8,69.5,max temp much warmer than neighbors
+2025-05-13,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,55.4,8,89.5,max temp much colder than neighbors
+2025-05-13,ASOS-ESC,Escanaba,ASOS,EA06,cold,67.0,8,80.0,max temp much colder than neighbors
+2025-05-13,ASOS-FGN,Flag Island,ASOS,EA01,cold,68.0,5,91.0,max temp much colder than neighbors
+2025-05-13,ASOS-GHG,Marshfield,ASOS,EA23,cold,62.6,8,71.6,max temp much colder than neighbors
+2025-05-13,ASOS-GNA,Grand Marais,ASOS,EA03,cold,66.0,4,85.9,max temp much colder than neighbors
+2025-05-13,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,62.6,8,80.9,max temp much colder than neighbors
+2025-05-13,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,cold,68.0,7,78.2,max temp much colder than neighbors
+2025-05-13,ASOS-SUW,Superior,ASOS,EA04,cold,65.0,8,89.2,max temp much colder than neighbors
+2025-05-13,ASOS-VTA,Newark,ASOS,EA16,cold,66.0,8,75.5,max temp much colder than neighbors
+2025-05-14,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,62.0,8,75.2,max temp much colder than neighbors
+2025-05-14,55522362,SAND ISLAND,RAWS,EA04,cold,50.0,5,82.2,max temp much colder than neighbors
+2025-05-14,ASOS-2P2,Washington Island,ASOS,EA06,cold,60.6,6,70.3,max temp much colder than neighbors
+2025-05-14,ASOS-BCK,Black River Falls,ASOS,EA05,rain_alone,0.5,8,0.05,rain no neighbor saw
+2025-05-14,ASOS-BDR,Bridgeport/Sikorsky,ASOS,EA23,cold,61.0,8,69.1,max temp much colder than neighbors
+2025-05-14,ASOS-BOS,Boston/Logan Intl,ASOS,EA23,cold,61.0,8,75.8,max temp much colder than neighbors
+2025-05-14,ASOS-BVY,Beverly Municipal,ASOS,EA23,cold,66.0,8,75.6,max temp much colder than neighbors
+2025-05-14,ASOS-DYL,Doylestown Airport,ASOS,EA24,missed,0.0,8,1.59,no rain while most neighbors got rain
+2025-05-14,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,51.8,8,82.0,max temp much colder than neighbors
+2025-05-14,ASOS-ESC,Escanaba,ASOS,EA06,cold,61.0,8,73.0,max temp much colder than neighbors
+2025-05-14,ASOS-GHG,Marshfield,ASOS,EA23,cold,66.2,8,76.6,max temp much colder than neighbors
+2025-05-14,ASOS-GNA,Grand Marais,ASOS,EA03,cold,50.0,4,82.2,max temp much colder than neighbors
+2025-05-14,ASOS-GNA,Grand Marais,ASOS,EA03,rain_alone,0.97,3,0.0,rain no neighbor saw
+2025-05-14,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,missed,0.0,8,0.9,no rain while most neighbors got rain
+2025-05-14,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,53.6,8,71.0,max temp much colder than neighbors
+2025-05-14,ASOS-MKE,Milwaukee,ASOS,EA10,cold,71.0,8,79.1,max temp much colder than neighbors
+2025-05-14,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,69.0,6,79.3,max temp much colder than neighbors
+2025-05-14,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,cold,68.0,7,76.2,max temp much colder than neighbors
+2025-05-14,ASOS-P58,Port Hope,ASOS,EA08,cold,63.0,3,75.1,max temp much colder than neighbors
+2025-05-14,ASOS-SLH,Cheboygan,ASOS,EA07,cold,57.2,8,73.0,max temp much colder than neighbors
+2025-05-14,ASOS-SUW,Superior,ASOS,EA04,cold,63.3,8,81.8,max temp much colder than neighbors
+2025-05-15,431303,WOODFORD STATE PARK,RAWS,EA21,wet,1.22,8,0.17,far more rain than any neighbor
+2025-05-15,55522362,SAND ISLAND,RAWS,EA04,cold,47.0,5,76.8,max temp much colder than neighbors
+2025-05-15,ASOS-4R5,La Pointe,ASOS,EA04,cold,58.0,7,84.7,max temp much colder than neighbors
+2025-05-15,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,66.0,8,77.1,max temp much colder than neighbors
+2025-05-15,ASOS-ASX,Ashland,ASOS,EA04,cold,68.0,8,84.2,max temp much colder than neighbors
+2025-05-15,ASOS-BGM,Binghamton/Broome,ASOS,EA19,rain_alone,0.7,6,0.04,rain no neighbor saw
+2025-05-15,ASOS-CMX,Hancock,ASOS,EA04,cold,70.0,4,82.9,max temp much colder than neighbors
+2025-05-15,ASOS-CQM,Cook Muni Airpor,ASOS,EA01,cold,57.2,8,80.0,max temp much colder than neighbors
+2025-05-15,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,50.0,8,79.2,max temp much colder than neighbors
+2025-05-15,ASOS-ESC,Escanaba,ASOS,EA06,cold,70.0,8,78.2,max temp much colder than neighbors
+2025-05-15,ASOS-ETH,Wheaton Ndb,ASOS,EA02,cold,64.4,8,73.5,max temp much colder than neighbors
+2025-05-15,ASOS-GNA,Grand Marais,ASOS,EA03,cold,54.0,4,77.3,max temp much colder than neighbors
+2025-05-15,ASOS-ISQ,Manistique,ASOS,EA06,cold,71.0,8,79.5,max temp much colder than neighbors
+2025-05-15,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,cold,61.0,8,71.6,max temp much colder than neighbors
+2025-05-15,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,51.8,8,77.2,max temp much colder than neighbors
+2025-05-15,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,67.0,6,80.9,max temp much colder than neighbors
+2025-05-15,ASOS-P58,Port Hope,ASOS,EA08,cold,69.0,3,79.4,max temp much colder than neighbors
+2025-05-15,ASOS-PWM,Portland Intl Jet,ASOS,EA22,cold,63.0,8,72.5,max temp much colder than neighbors
+2025-05-15,ASOS-RRT,Warroad,ASOS,EA01,cold,69.8,5,80.6,max temp much colder than neighbors
+2025-05-15,ASOS-SJX,Beaver Island,ASOS,EA06,cold,69.8,8,81.0,max temp much colder than neighbors
+2025-05-16,170791,MCFARLAND HILL,RAWS,EA22,hot,74.0,3,63.8,max temp much warmer than neighbors
+2025-05-16,ASOS-9MN,Rochester / St Mary,ASOS,EA05,cold,51.8,8,67.5,max temp much colder than neighbors
+2025-05-16,ASOS-BHB,Bar Habor,ASOS,EA22,cold,65.0,3,75.2,max temp much colder than neighbors
+2025-05-16,ASOS-DYL,Doylestown Airport,ASOS,EA24,missed,0.0,8,0.65,no rain while most neighbors got rain
+2025-05-16,ASOS-ESC,Escanaba,ASOS,EA06,cold,64.0,8,76.4,max temp much colder than neighbors
+2025-05-16,ASOS-ISQ,Manistique,ASOS,EA06,cold,64.6,8,78.7,max temp much colder than neighbors
+2025-05-16,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,69.8,8,82.1,max temp much colder than neighbors
+2025-05-16,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,69.0,6,81.6,max temp much colder than neighbors
+2025-05-16,ASOS-SCH,Schenectady Airport,ASOS,EA20,cold,71.6,8,81.7,max temp much colder than neighbors
+2025-05-17,270071,LANCASTER,RAWS,EA21,missed,0.0,8,0.96,no rain while most neighbors got rain
+2025-05-17,300312,MT VANHOEVENBERG,RAWS,EA20,missed,0.0,8,0.82,no rain while most neighbors got rain
+2025-05-17,ASOS-CGS,College Park,ASOS,EA24,cold,64.2,8,87.3,max temp much colder than neighbors
+2025-05-17,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,hot,73.0,7,59.7,max temp much warmer than neighbors
+2025-05-18,55522400,WILSONS CREEK,RAWS,EA12,hot,81.0,7,70.1,max temp much warmer than neighbors
+2025-05-18,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,86.0,8,77.0,max temp much warmer than neighbors
+2025-05-19,216901,REDSTN,RAWS,EA02,missed,0.0,7,0.7,no rain while most neighbors got rain
+2025-05-19,237401,CARR CREEK,RAWS,EA13,missed,0.0,7,1.08,no rain while most neighbors got rain
+2025-05-19,300311,SCHROON LAKE,RAWS,EA20,hot,55.0,8,45.6,max temp much warmer than neighbors
+2025-05-19,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,missed,0.0,8,1.12,no rain while most neighbors got rain
+2025-05-19,ASOS-DBQ,Dubuque,ASOS,EA10,wet,1.04,4,0.06,far more rain than any neighbor
+2025-05-19,ASOS-EOK,Keokuk Muni,ASOS,EA10,missed,0.0,6,1.0,no rain while most neighbors got rain
+2025-05-19,ASOS-MIC,Minneapolis - Crystal,ASOS,EA05,missed,0.0,8,0.62,no rain while most neighbors got rain
+2025-05-19,ASOS-RNH,New Richmond Mun,ASOS,EA04,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-05-20,216901,REDSTN,RAWS,EA02,missed,0.0,7,0.71,no rain while most neighbors got rain
+2025-05-20,ASOS-DKK,Dunkirk Airport,ASOS,EA18,cold,50.0,5,61.7,max temp much colder than neighbors
+2025-05-20,ASOS-HCO,Hallock,ASOS,EA01,hot,60.8,3,52.2,max temp much warmer than neighbors
+2025-05-20,ASOS-MIC,Minneapolis - Crystal,ASOS,EA05,missed,0.0,8,1.34,no rain while most neighbors got rain
+2025-05-20,ASOS-MQJ,Indianapolis Mount Comfort,ASOS,EA11,missed,0.0,8,0.72,no rain while most neighbors got rain
+2025-05-21,361002,ALLEGHENY,RAWS,EA18,missed,0.0,8,1.25,no rain while most neighbors got rain
+2025-05-21,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,69.0,8,60.8,max temp much warmer than neighbors
+2025-05-21,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,missed,0.0,8,0.62,no rain while most neighbors got rain
+2025-05-21,ASOS-DKK,Dunkirk Airport,ASOS,EA18,hot,62.6,5,54.1,max temp much warmer than neighbors
+2025-05-21,ASOS-ESN,Easton,ASOS,EA24,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-05-21,ASOS-GNA,Grand Marais,ASOS,EA03,cold,54.0,4,63.0,max temp much colder than neighbors
+2025-05-21,ASOS-LPR,Lorain/Elyria,ASOS,EA15,missed,0.0,8,0.98,no rain while most neighbors got rain
+2025-05-22,300892,BRASHER FALLS,RAWS,EA20,cold,46.0,5,54.0,max temp much colder than neighbors
+2025-05-22,361002,ALLEGHENY,RAWS,EA18,missed,0.0,8,0.62,no rain while most neighbors got rain
+2025-05-22,55522362,SAND ISLAND,RAWS,EA04,cold,54.0,5,64.8,max temp much colder than neighbors
+2025-05-22,ASOS-CQX,Chatham Muni Arpt,ASOS,EA23,missed,0.0,8,2.55,no rain while most neighbors got rain
+2025-05-22,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,55.4,8,66.6,max temp much colder than neighbors
+2025-05-22,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,missed,0.0,8,0.86,no rain while most neighbors got rain
+2025-05-22,ASOS-NEL,Lakehurst Nas,ASOS,EA24,missed,0.0,8,0.81,no rain while most neighbors got rain
+2025-05-22,ASOS-PVC,Provincetown (Awos),ASOS,EA23,missed,0.0,8,3.12,no rain while most neighbors got rain
+2025-05-23,300892,BRASHER FALLS,RAWS,EA20,cold,46.0,5,54.0,max temp much colder than neighbors
+2025-05-23,360231,DOLL HILL,RAWS,EA18,cold,43.0,8,53.1,max temp much colder than neighbors
+2025-05-23,55522362,SAND ISLAND,RAWS,EA04,bad_temp,147.0,0,,impossible temperature
+2025-05-23,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-23,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,53.6,8,61.8,max temp much colder than neighbors
+2025-05-23,ASOS-I95,Kenton,ASOS,EA15,cold,46.4,8,60.1,max temp much colder than neighbors
+2025-05-23,ASOS-MKE,Milwaukee,ASOS,EA10,cold,54.0,8,62.4,max temp much colder than neighbors
+2025-05-24,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-24,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,55.4,8,64.7,max temp much colder than neighbors
+2025-05-24,ASOS-P53,Munising,ASOS,EA06,cold,48.0,8,58.2,max temp much colder than neighbors
+2025-05-25,201004,MUNISING,RAWS,EA06,cold,53.0,8,61.7,max temp much colder than neighbors
+2025-05-25,55522362,SAND ISLAND,RAWS,EA04,cold,54.0,5,67.8,max temp much colder than neighbors
+2025-05-25,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-25,ASOS-4R5,La Pointe,ASOS,EA04,cold,59.4,7,68.2,max temp much colder than neighbors
+2025-05-25,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,51.8,8,68.4,max temp much colder than neighbors
+2025-05-25,ASOS-GNA,Grand Marais,ASOS,EA03,cold,50.0,4,66.7,max temp much colder than neighbors
+2025-05-25,ASOS-MGC,Michigan City,ASOS,EA08,cold,44.6,8,64.9,max temp much colder than neighbors
+2025-05-25,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,57.0,6,65.8,max temp much colder than neighbors
+2025-05-25,ASOS-P53,Munising,ASOS,EA06,cold,50.0,8,62.3,max temp much colder than neighbors
+2025-05-25,ASOS-SUW,Superior,ASOS,EA04,cold,58.0,8,68.8,max temp much colder than neighbors
+2025-05-26,55522362,SAND ISLAND,RAWS,EA04,cold,50.0,5,71.4,max temp much colder than neighbors
+2025-05-26,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-26,ASOS-4R5,La Pointe,ASOS,EA04,cold,61.0,7,72.2,max temp much colder than neighbors
+2025-05-26,ASOS-BOS,Boston/Logan Intl,ASOS,EA23,cold,62.0,8,70.8,max temp much colder than neighbors
+2025-05-26,ASOS-CVX,Charlevoix,ASOS,EA07,cold,62.6,8,73.3,max temp much colder than neighbors
+2025-05-26,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,51.8,8,72.2,max temp much colder than neighbors
+2025-05-26,ASOS-GNA,Grand Marais,ASOS,EA03,cold,57.0,4,69.7,max temp much colder than neighbors
+2025-05-26,ASOS-MGN,Harbor Springs,ASOS,EA07,cold,55.0,8,73.2,max temp much colder than neighbors
+2025-05-26,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,cold,64.0,7,73.2,max temp much colder than neighbors
+2025-05-26,ASOS-P53,Munising,ASOS,EA06,cold,52.0,8,72.5,max temp much colder than neighbors
+2025-05-26,ASOS-SUW,Superior,ASOS,EA04,cold,57.7,8,72.4,max temp much colder than neighbors
+2025-05-27,201004,MUNISING,RAWS,EA06,cold,61.0,8,74.6,max temp much colder than neighbors
+2025-05-27,55522362,SAND ISLAND,RAWS,EA04,cold,50.0,5,73.2,max temp much colder than neighbors
+2025-05-27,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-27,ASOS-4R5,La Pointe,ASOS,EA04,cold,62.6,7,71.2,max temp much colder than neighbors
+2025-05-27,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,51.8,8,71.7,max temp much colder than neighbors
+2025-05-27,ASOS-GNA,Grand Marais,ASOS,EA03,cold,54.0,4,73.1,max temp much colder than neighbors
+2025-05-27,ASOS-GTB,Fort Drum/Wheeler,ASOS,EA20,cold,69.8,4,78.3,max temp much colder than neighbors
+2025-05-27,ASOS-IKW,Midland,ASOS,EA08,cold,62.6,8,74.0,max temp much colder than neighbors
+2025-05-27,ASOS-P53,Munising,ASOS,EA06,cold,56.0,8,75.3,max temp much colder than neighbors
+2025-05-27,ASOS-P58,Port Hope,ASOS,EA08,cold,56.0,3,70.4,max temp much colder than neighbors
+2025-05-27,ASOS-SUW,Superior,ASOS,EA04,cold,56.5,8,70.7,max temp much colder than neighbors
+2025-05-27,ASOS-VOK,Camp Douglas - Volk Field,ASOS,EA05,cold,60.6,8,70.0,max temp much colder than neighbors
+2025-05-28,201004,MUNISING,RAWS,EA06,cold,58.0,8,74.9,max temp much colder than neighbors
+2025-05-28,360231,DOLL HILL,RAWS,EA18,cold,43.0,8,51.4,max temp much colder than neighbors
+2025-05-28,360231,DOLL HILL,RAWS,EA18,missed,0.0,8,0.8,no rain while most neighbors got rain
+2025-05-28,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-28,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,71.0,8,59.0,max temp much warmer than neighbors
+2025-05-28,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,62.6,8,73.8,max temp much colder than neighbors
+2025-05-28,ASOS-GNA,Grand Marais,ASOS,EA03,cold,56.0,4,75.7,max temp much colder than neighbors
+2025-05-28,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,68.0,8,76.0,max temp much colder than neighbors
+2025-05-28,ASOS-P53,Munising,ASOS,EA06,cold,55.0,8,75.5,max temp much colder than neighbors
+2025-05-28,ASOS-P58,Port Hope,ASOS,EA08,cold,56.0,3,65.4,max temp much colder than neighbors
+2025-05-28,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,74.0,6,82.5,max temp much colder than neighbors
+2025-05-29,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,40.6,0,,impossible rain total
+2025-05-29,ASOS-4I3,Mount Vernon,ASOS,EA15,cold,60.8,8,73.0,max temp much colder than neighbors
+2025-05-29,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,58.0,8,72.8,max temp much colder than neighbors
+2025-05-29,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,wet,1.68,8,0.16,far more rain than any neighbor
+2025-05-29,ASOS-AQP,Appleton Municip,ASOS,EA02,cold,60.8,8,75.6,max temp much colder than neighbors
+2025-05-29,ASOS-CDD,Crane Lake,ASOS,EA01,cold,60.8,8,80.6,max temp much colder than neighbors
+2025-05-29,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,57.2,8,71.1,max temp much colder than neighbors
+2025-05-29,ASOS-ETH,Wheaton Ndb,ASOS,EA02,cold,62.6,8,75.6,max temp much colder than neighbors
+2025-05-29,ASOS-GNA,Grand Marais,ASOS,EA03,cold,69.0,4,80.2,max temp much colder than neighbors
+2025-05-29,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,64.4,8,72.5,max temp much colder than neighbors
+2025-05-29,ASOS-MRT,Marysville,ASOS,EA15,cold,62.6,8,73.3,max temp much colder than neighbors
+2025-05-29,ASOS-P53,Munising,ASOS,EA06,cold,70.0,8,79.4,max temp much colder than neighbors
+2025-05-29,ASOS-PMH,Portsmouth,ASOS,EA16,cold,64.4,8,77.8,max temp much colder than neighbors
+2025-05-29,ASOS-SJX,Beaver Island,ASOS,EA06,cold,66.2,8,78.8,max temp much colder than neighbors
+2025-05-29,ASOS-WWD,Wildwood(Awos),ASOS,EA24,cold,63.0,8,73.0,max temp much colder than neighbors
+2025-05-30,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,39.8,0,,impossible rain total
+2025-05-30,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,71.0,8,79.0,max temp much colder than neighbors
+2025-05-30,ASOS-FGN,Flag Island,ASOS,EA01,cold,73.4,5,84.1,max temp much colder than neighbors
+2025-05-30,ASOS-MKG,Muskegon,ASOS,EA08,cold,62.0,5,71.6,max temp much colder than neighbors
+2025-05-30,ASOS-NAK,Annapolis,ASOS,EA24,cold,72.0,8,80.0,max temp much colder than neighbors
+2025-05-30,ASOS-TZR,Bolton Field Air,ASOS,EA15,missed,0.0,8,0.69,no rain while most neighbors got rain
+2025-05-30,ASOS-VLL,Troy,ASOS,EA15,cold,66.2,8,76.3,max temp much colder than neighbors
+2025-05-31,300312,MT VANHOEVENBERG,RAWS,EA20,missed,0.0,8,0.74,no rain while most neighbors got rain
+2025-05-31,360231,DOLL HILL,RAWS,EA18,cold,44.0,8,55.4,max temp much colder than neighbors
+2025-05-31,55522362,SAND ISLAND,RAWS,EA04,cold,57.0,5,73.2,max temp much colder than neighbors
+2025-05-31,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,3.84,8,0.03,rain no neighbor saw
+2025-05-31,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-05-31,ASOS-4R5,La Pointe,ASOS,EA04,cold,61.3,7,72.7,max temp much colder than neighbors
+2025-05-31,ASOS-AUG,Augusta State Arpt,ASOS,EA22,missed,0.0,4,0.81,no rain while most neighbors got rain
+2025-05-31,ASOS-CDA,Lyndonville,ASOS,EA21,missed,0.0,8,1.21,no rain while most neighbors got rain
+2025-05-31,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,55.4,8,73.3,max temp much colder than neighbors
+2025-05-31,ASOS-EFK,Newport,ASOS,EA21,missed,0.0,8,1.07,no rain while most neighbors got rain
+2025-05-31,ASOS-FSO,Highgate,ASOS,EA21,missed,0.0,7,1.14,no rain while most neighbors got rain
+2025-05-31,ASOS-GNA,Grand Marais,ASOS,EA03,cold,51.0,4,71.7,max temp much colder than neighbors
+2025-05-31,ASOS-MGC,Michigan City,ASOS,EA08,cold,41.0,8,59.1,max temp much colder than neighbors
+2025-05-31,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,59.0,6,70.5,max temp much colder than neighbors
+2025-05-31,ASOS-P53,Munising,ASOS,EA06,cold,48.0,8,59.9,max temp much colder than neighbors
+2025-05-31,ASOS-P58,Port Hope,ASOS,EA08,cold,55.0,3,66.2,max temp much colder than neighbors
+2025-05-31,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,missed,0.0,7,0.71,no rain while most neighbors got rain
+2025-05-31,ASOS-RRT,Warroad,ASOS,EA01,cold,71.6,5,80.1,max temp much colder than neighbors
+2025-05-31,ASOS-SUW,Superior,ASOS,EA04,cold,65.0,8,73.9,max temp much colder than neighbors
+2025-05-31,ASOS-VIH,Vichy/Rolla,ASOS,EA13,cold,60.0,5,78.2,max temp much colder than neighbors
+2025-06-01,55522213,BEAR GAP,RAWS,EA19,cold,58.0,8,66.1,max temp much colder than neighbors
+2025-06-01,55522362,SAND ISLAND,RAWS,EA04,cold,61.0,5,77.7,max temp much colder than neighbors
+2025-06-01,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-01,ASOS-4R5,La Pointe,ASOS,EA04,cold,67.0,7,79.7,max temp much colder than neighbors
+2025-06-01,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,53.6,8,80.8,max temp much colder than neighbors
+2025-06-01,ASOS-FGN,Flag Island,ASOS,EA01,cold,78.8,5,87.7,max temp much colder than neighbors
+2025-06-01,ASOS-LWA,South Haven,ASOS,EA08,cold,58.0,7,66.8,max temp much colder than neighbors
+2025-06-01,ASOS-MKE,Milwaukee,ASOS,EA10,cold,60.0,8,70.6,max temp much colder than neighbors
+2025-06-01,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,62.0,6,71.4,max temp much colder than neighbors
+2025-06-01,ASOS-P53,Munising,ASOS,EA06,cold,58.0,8,69.0,max temp much colder than neighbors
+2025-06-01,ASOS-P58,Port Hope,ASOS,EA08,cold,57.0,3,68.2,max temp much colder than neighbors
+2025-06-01,ASOS-SUW,Superior,ASOS,EA04,cold,61.5,8,80.6,max temp much colder than neighbors
+2025-06-01,ASOS-UUV,Sullivan Regional,ASOS,EA13,cold,66.2,4,81.8,max temp much colder than neighbors
+2025-06-02,201401,REXTON,RAWS,EA06,cold,64.0,8,73.0,max temp much colder than neighbors
+2025-06-02,55522362,SAND ISLAND,RAWS,EA04,cold,63.0,5,89.8,max temp much colder than neighbors
+2025-06-02,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-02,ASOS-2P2,Washington Island,ASOS,EA06,cold,66.2,6,79.1,max temp much colder than neighbors
+2025-06-02,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,60.8,8,89.7,max temp much colder than neighbors
+2025-06-02,ASOS-GNA,Grand Marais,ASOS,EA03,cold,61.0,4,86.4,max temp much colder than neighbors
+2025-06-02,ASOS-HFY,Indianapolis - Greenwood Muni,ASOS,EA11,cold,54.0,8,80.3,max temp much colder than neighbors
+2025-06-02,ASOS-ISQ,Manistique,ASOS,EA06,cold,55.8,8,78.7,max temp much colder than neighbors
+2025-06-02,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,69.8,8,79.0,max temp much colder than neighbors
+2025-06-02,ASOS-PZQ,Rogers City,ASOS,EA07,cold,66.4,6,80.6,max temp much colder than neighbors
+2025-06-02,ASOS-RSP,Camp David,ASOS,EA24,cold,58.0,8,70.2,max temp much colder than neighbors
+2025-06-03,55522362,SAND ISLAND,RAWS,EA04,cold,56.0,5,67.8,max temp much colder than neighbors
+2025-06-03,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-03,ASOS-2P2,Washington Island,ASOS,EA06,cold,60.6,6,78.2,max temp much colder than neighbors
+2025-06-03,ASOS-BOS,Boston/Logan Intl,ASOS,EA23,cold,70.0,8,79.6,max temp much colder than neighbors
+2025-06-03,ASOS-BRL,Burlington,ASOS,EA10,cold,73.0,8,81.1,max temp much colder than neighbors
+2025-06-03,ASOS-BVY,Beverly Municipal,ASOS,EA23,cold,71.0,8,79.7,max temp much colder than neighbors
+2025-06-03,ASOS-EOK,Keokuk Muni,ASOS,EA10,missed,0.0,6,1.05,no rain while most neighbors got rain
+2025-06-03,ASOS-FOD,Fort Dodge,ASOS,EA02,missed,0.0,6,0.75,no rain while most neighbors got rain
+2025-06-03,ASOS-GNA,Grand Marais,ASOS,EA03,cold,60.0,4,68.2,max temp much colder than neighbors
+2025-06-03,ASOS-HMZ,Bedford,ASOS,EA17,cold,68.4,8,80.7,max temp much colder than neighbors
+2025-06-03,ASOS-ISQ,Manistique,ASOS,EA06,cold,57.4,8,78.0,max temp much colder than neighbors
+2025-06-03,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,77.0,8,87.0,max temp much colder than neighbors
+2025-06-03,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,67.0,6,75.2,max temp much colder than neighbors
+2025-06-04,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,76.0,8,86.6,max temp much colder than neighbors
+2025-06-04,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-04,ASOS-1H2,Effingham,ASOS,EA10,missed,0.0,7,0.75,no rain while most neighbors got rain
+2025-06-04,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,65.0,5,74.8,max temp much colder than neighbors
+2025-06-04,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,missed,0.0,8,0.85,no rain while most neighbors got rain
+2025-06-04,ASOS-CFS,Caro,ASOS,EA08,cold,69.8,8,79.4,max temp much colder than neighbors
+2025-06-04,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,73.4,8,85.7,max temp much colder than neighbors
+2025-06-04,ASOS-FGN,Flag Island,ASOS,EA01,cold,37.4,5,71.9,max temp much colder than neighbors
+2025-06-04,ASOS-GNA,Grand Marais,ASOS,EA03,cold,62.0,4,75.8,max temp much colder than neighbors
+2025-06-04,ASOS-ISQ,Manistique,ASOS,EA06,cold,61.0,8,74.1,max temp much colder than neighbors
+2025-06-04,ASOS-MKG,Muskegon,ASOS,EA08,cold,68.0,5,79.2,max temp much colder than neighbors
+2025-06-04,ASOS-P53,Munising,ASOS,EA06,cold,67.0,8,75.1,max temp much colder than neighbors
+2025-06-04,ASOS-RNH,New Richmond Mun,ASOS,EA04,rain_alone,0.55,7,0.01,rain no neighbor saw
+2025-06-05,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,81.0,8,92.4,max temp much colder than neighbors
+2025-06-05,55522362,SAND ISLAND,RAWS,EA04,cold,70.0,5,78.7,max temp much colder than neighbors
+2025-06-05,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-06-05,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,71.0,5,81.8,max temp much colder than neighbors
+2025-06-05,ASOS-BID,Block Island (Awos),ASOS,EA23,cold,74.0,8,82.3,max temp much colder than neighbors
+2025-06-05,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,69.8,8,89.3,max temp much colder than neighbors
+2025-06-05,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,68.0,8,79.7,max temp much colder than neighbors
+2025-06-05,ASOS-ERI,Erie Intl Airport,ASOS,EA18,cold,73.0,3,81.4,max temp much colder than neighbors
+2025-06-05,ASOS-ESC,Escanaba,ASOS,EA06,cold,70.0,8,80.2,max temp much colder than neighbors
+2025-06-05,ASOS-GNA,Grand Marais,ASOS,EA03,cold,65.0,4,76.2,max temp much colder than neighbors
+2025-06-05,ASOS-HMZ,Bedford,ASOS,EA17,cold,73.8,8,85.5,max temp much colder than neighbors
+2025-06-05,ASOS-JFK,New York/Jf Kennedy,ASOS,EA23,cold,80.0,8,88.7,max temp much colder than neighbors
+2025-06-05,ASOS-MFD,Mansfield,ASOS,EA15,wet,3.33,6,0.52,far more rain than any neighbor
+2025-06-05,ASOS-P53,Munising,ASOS,EA06,cold,68.0,8,80.2,max temp much colder than neighbors
+2025-06-05,ASOS-P58,Port Hope,ASOS,EA08,cold,61.0,3,72.2,max temp much colder than neighbors
+2025-06-05,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,73.0,6,88.2,max temp much colder than neighbors
+2025-06-05,ASOS-RRT,Warroad,ASOS,EA01,cold,64.4,4,73.7,max temp much colder than neighbors
+2025-06-06,127901,THE TOWER RAWS,RAWS,EA14,wet,1.29,8,0.3,far more rain than any neighbor
+2025-06-06,201004,MUNISING,RAWS,EA06,cold,58.0,8,71.2,max temp much colder than neighbors
+2025-06-06,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-06,ASOS-4I3,Mount Vernon,ASOS,EA15,cold,71.6,8,79.8,max temp much colder than neighbors
+2025-06-06,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,66.2,8,88.4,max temp much colder than neighbors
+2025-06-06,ASOS-CDD,Crane Lake,ASOS,EA01,cold,60.8,8,74.5,max temp much colder than neighbors
+2025-06-06,ASOS-DMW,Westminster,ASOS,EA24,hot,91.4,8,81.6,max temp much warmer than neighbors
+2025-06-06,ASOS-FSE,Fosston,ASOS,EA01,cold,57.2,8,74.1,max temp much colder than neighbors
+2025-06-06,ASOS-GHG,Marshfield,ASOS,EA23,cold,73.4,8,84.1,max temp much colder than neighbors
+2025-06-06,ASOS-GNA,Grand Marais,ASOS,EA03,cold,54.0,4,72.7,max temp much colder than neighbors
+2025-06-06,ASOS-I16,Pineville,ASOS,EA17,cold,71.4,8,83.5,max temp much colder than neighbors
+2025-06-06,ASOS-N79,Shamokin,ASOS,EA19,wet,1.38,8,0.13,far more rain than any neighbor
+2025-06-06,ASOS-P53,Munising,ASOS,EA06,cold,59.0,8,71.8,max temp much colder than neighbors
+2025-06-06,ASOS-P58,Port Hope,ASOS,EA08,cold,62.0,3,74.9,max temp much colder than neighbors
+2025-06-06,ASOS-RUT,Rutland State(Awos),ASOS,EA21,cold,66.0,8,78.7,max temp much colder than neighbors
+2025-06-07,128905,TIPSAW LAKE,RAWS,EA14,wet,1.23,8,0.26,far more rain than any neighbor
+2025-06-07,ASOS-10G,Millersburg,ASOS,EA16,wet,1.71,8,0.17,far more rain than any neighbor
+2025-06-07,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-07,ASOS-4I3,Mount Vernon,ASOS,EA15,cold,68.0,8,77.5,max temp much colder than neighbors
+2025-06-07,ASOS-AQP,Appleton Municip,ASOS,EA02,cold,71.6,8,80.8,max temp much colder than neighbors
+2025-06-07,ASOS-CDD,Crane Lake,ASOS,EA01,cold,66.2,8,75.1,max temp much colder than neighbors
+2025-06-07,ASOS-CIR,Cairo,ASOS,EA14,wet,1.63,8,0.06,far more rain than any neighbor
+2025-06-07,ASOS-CMX,Hancock,ASOS,EA04,cold,68.0,4,76.9,max temp much colder than neighbors
+2025-06-07,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,55.4,8,75.8,max temp much colder than neighbors
+2025-06-07,ASOS-ETH,Wheaton Ndb,ASOS,EA02,cold,69.8,8,79.5,max temp much colder than neighbors
+2025-06-07,ASOS-GNA,Grand Marais,ASOS,EA03,cold,58.0,4,73.1,max temp much colder than neighbors
+2025-06-07,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,64.4,8,74.2,max temp much colder than neighbors
+2025-06-07,ASOS-P58,Port Hope,ASOS,EA08,cold,60.0,3,73.1,max temp much colder than neighbors
+2025-06-07,ASOS-PVC,Provincetown (Awos),ASOS,EA23,missed,0.0,8,0.7,no rain while most neighbors got rain
+2025-06-07,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,missed,0.0,7,0.6,no rain while most neighbors got rain
+2025-06-07,ASOS-RPJ,Rochelle,ASOS,EA10,wet,1.13,6,0.22,far more rain than any neighbor
+2025-06-07,ASOS-SUW,Superior,ASOS,EA04,cold,59.0,8,75.5,max temp much colder than neighbors
+2025-06-07,ASOS-VLL,Troy,ASOS,EA15,cold,68.0,8,77.5,max temp much colder than neighbors
+2025-06-08,237401,CARR CREEK,RAWS,EA13,missed,0.0,7,0.58,no rain while most neighbors got rain
+2025-06-08,55522362,SAND ISLAND,RAWS,EA04,missed,0.0,4,0.57,no rain while most neighbors got rain
+2025-06-08,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-08,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,82.0,8,73.1,max temp much warmer than neighbors
+2025-06-08,ASOS-FKL,Franklin(Awos),ASOS,EA18,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-06-08,ASOS-FSE,Fosston,ASOS,EA01,cold,48.2,8,58.0,max temp much colder than neighbors
+2025-06-08,ASOS-GNA,Grand Marais,ASOS,EA03,cold,51.0,4,68.2,max temp much colder than neighbors
+2025-06-08,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,62.6,8,77.2,max temp much colder than neighbors
+2025-06-08,ASOS-MCX,Monticello,ASOS,EA11,cold,66.7,8,79.3,max temp much colder than neighbors
+2025-06-08,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,cold,66.0,7,78.2,max temp much colder than neighbors
+2025-06-08,ASOS-P58,Port Hope,ASOS,EA08,cold,68.0,3,76.6,max temp much colder than neighbors
+2025-06-08,ASOS-TZR,Bolton Field Air,ASOS,EA15,missed,0.0,8,0.53,no rain while most neighbors got rain
+2025-06-09,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-09,ASOS-DSV,Dansville Municipal,ASOS,EA18,missed,0.0,6,1.08,no rain while most neighbors got rain
+2025-06-09,ASOS-FDK,Frederick Muni Apt,ASOS,EA24,rain_alone,0.95,8,0.04,rain no neighbor saw
+2025-06-09,ASOS-FGN,Flag Island,ASOS,EA01,cold,37.4,5,53.6,max temp much colder than neighbors
+2025-06-09,ASOS-GNA,Grand Marais,ASOS,EA03,cold,56.0,4,66.8,max temp much colder than neighbors
+2025-06-09,ASOS-MKG,Muskegon,ASOS,EA08,cold,66.0,5,77.4,max temp much colder than neighbors
+2025-06-09,ASOS-OKK,Kokomo,ASOS,EA11,cold,66.0,8,75.4,max temp much colder than neighbors
+2025-06-10,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-10,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,78.0,8,86.1,max temp much colder than neighbors
+2025-06-10,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,66.2,8,75.5,max temp much colder than neighbors
+2025-06-10,ASOS-GNA,Grand Marais,ASOS,EA03,cold,57.0,4,67.7,max temp much colder than neighbors
+2025-06-10,ASOS-LXL,Little Falls,ASOS,EA02,cold,59.0,8,81.6,max temp much colder than neighbors
+2025-06-10,ASOS-PMH,Portsmouth,ASOS,EA16,cold,68.0,8,79.8,max temp much colder than neighbors
+2025-06-10,ASOS-TDZ,Toledo,ASOS,EA15,cold,59.0,8,76.5,max temp much colder than neighbors
+2025-06-11,201004,MUNISING,RAWS,EA06,cold,65.0,8,73.4,max temp much colder than neighbors
+2025-06-11,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,cold,67.0,8,81.8,max temp much colder than neighbors
+2025-06-11,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,41.6,0,,impossible rain total
+2025-06-11,ASOS-BCK,Black River Falls,ASOS,EA05,cold,66.4,8,81.4,max temp much colder than neighbors
+2025-06-11,ASOS-HAI,Three Rivers,ASOS,EA11,cold,67.0,8,84.6,max temp much colder than neighbors
+2025-06-11,ASOS-LDM,Ludington/Mason,ASOS,EA07,cold,66.2,6,82.6,max temp much colder than neighbors
+2025-06-11,ASOS-P53,Munising,ASOS,EA06,cold,63.0,8,74.0,max temp much colder than neighbors
+2025-06-12,201004,MUNISING,RAWS,EA06,cold,53.0,8,65.0,max temp much colder than neighbors
+2025-06-12,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-12,ASOS-4R5,La Pointe,ASOS,EA04,cold,54.5,7,67.1,max temp much colder than neighbors
+2025-06-12,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,69.0,5,80.1,max temp much colder than neighbors
+2025-06-12,ASOS-CMX,Hancock,ASOS,EA04,cold,58.0,4,66.4,max temp much colder than neighbors
+2025-06-12,ASOS-P53,Munising,ASOS,EA06,cold,50.0,8,65.6,max temp much colder than neighbors
+2025-06-12,ASOS-P58,Port Hope,ASOS,EA08,cold,62.0,3,71.8,max temp much colder than neighbors
+2025-06-13,214201,CARLOS AVERY,RAWS,EA03,hot,88.0,8,57.1,max temp much warmer than neighbors
+2025-06-13,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-13,ASOS-AUM,Austin Muni,ASOS,EA02,hot,80.6,8,69.4,max temp much warmer than neighbors
+2025-06-13,ASOS-GNA,Grand Marais,ASOS,EA03,cold,53.0,4,63.1,max temp much colder than neighbors
+2025-06-13,ASOS-MKE,Milwaukee,ASOS,EA10,cold,62.0,8,70.4,max temp much colder than neighbors
+2025-06-13,ASOS-OTM,Ottumwa,ASOS,EA09,missed,0.0,3,0.54,no rain while most neighbors got rain
+2025-06-14,214201,CARLOS AVERY,RAWS,EA03,hot,89.0,8,62.3,max temp much warmer than neighbors
+2025-06-14,361002,ALLEGHENY,RAWS,EA18,missed,0.0,7,0.93,no rain while most neighbors got rain
+2025-06-14,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-14,ASOS-DYL,Doylestown Airport,ASOS,EA24,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-06-14,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,50.0,8,61.6,max temp much colder than neighbors
+2025-06-14,ASOS-GNA,Grand Marais,ASOS,EA03,cold,56.0,4,66.9,max temp much colder than neighbors
+2025-06-14,ASOS-MKE,Milwaukee,ASOS,EA10,cold,64.0,8,74.4,max temp much colder than neighbors
+2025-06-14,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,66.0,6,74.5,max temp much colder than neighbors
+2025-06-14,ASOS-SBM,Sheboygan,ASOS,EA05,cold,66.0,8,75.2,max temp much colder than neighbors
+2025-06-14,ASOS-SUW,Superior,ASOS,EA04,cold,52.0,8,61.2,max temp much colder than neighbors
+2025-06-15,120201,BAILLY,RAWS,EA08,cold,73.0,8,81.7,max temp much colder than neighbors
+2025-06-15,201004,MUNISING,RAWS,EA06,cold,62.0,8,74.1,max temp much colder than neighbors
+2025-06-15,214201,CARLOS AVERY,RAWS,EA03,hot,80.0,8,72.0,max temp much warmer than neighbors
+2025-06-15,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-15,ASOS-4R5,La Pointe,ASOS,EA04,cold,58.0,7,70.1,max temp much colder than neighbors
+2025-06-15,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,75.0,8,66.1,max temp much warmer than neighbors
+2025-06-15,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,rain_alone,0.76,7,0.01,rain no neighbor saw
+2025-06-15,ASOS-CAV,Clarion,ASOS,EA02,wet,1.12,8,0.22,far more rain than any neighbor
+2025-06-15,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,51.8,8,66.9,max temp much colder than neighbors
+2025-06-15,ASOS-MKE,Milwaukee,ASOS,EA10,cold,66.0,8,78.4,max temp much colder than neighbors
+2025-06-15,ASOS-P53,Munising,ASOS,EA06,cold,57.0,8,74.7,max temp much colder than neighbors
+2025-06-15,ASOS-P58,Port Hope,ASOS,EA08,cold,60.0,3,76.2,max temp much colder than neighbors
+2025-06-15,ASOS-SUW,Superior,ASOS,EA04,cold,56.5,8,66.8,max temp much colder than neighbors
+2025-06-15,ASOS-TVC,Traverse Cit,ASOS,EA07,cold,71.0,8,79.5,max temp much colder than neighbors
+2025-06-16,476001,DODGEVILLE,RAWS,EA05,missed,0.0,8,0.68,no rain while most neighbors got rain
+2025-06-16,55522362,SAND ISLAND,RAWS,EA04,cold,59.0,5,75.7,max temp much colder than neighbors
+2025-06-16,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-16,ASOS-1H2,Effingham,ASOS,EA10,missed,0.0,6,0.68,no rain while most neighbors got rain
+2025-06-16,ASOS-2P2,Washington Island,ASOS,EA06,cold,68.4,6,79.2,max temp much colder than neighbors
+2025-06-16,ASOS-BUU,Burlington,ASOS,EA10,cold,65.7,8,81.5,max temp much colder than neighbors
+2025-06-16,ASOS-ESC,Escanaba,ASOS,EA06,cold,71.0,8,81.4,max temp much colder than neighbors
+2025-06-16,ASOS-FRM,Fairmont Muni,ASOS,EA02,missed,0.0,4,0.59,no rain while most neighbors got rain
+2025-06-16,ASOS-GNA,Grand Marais,ASOS,EA03,cold,60.0,4,75.7,max temp much colder than neighbors
+2025-06-16,ASOS-ISQ,Manistique,ASOS,EA06,cold,67.0,8,80.3,max temp much colder than neighbors
+2025-06-16,ASOS-OLZ,Oelwein,ASOS,EA02,wet,1.58,6,0.23,far more rain than any neighbor
+2025-06-16,ASOS-P58,Port Hope,ASOS,EA08,cold,66.0,3,83.0,max temp much colder than neighbors
+2025-06-16,ASOS-W22,Buckhannon,ASOS,EA17,hot,89.6,8,80.6,max temp much warmer than neighbors
+2025-06-17,214201,CARLOS AVERY,RAWS,EA03,hot,89.0,8,79.4,max temp much warmer than neighbors
+2025-06-17,476401,EAGLE,RAWS,EA10,rain_alone,0.65,7,0.03,rain no neighbor saw
+2025-06-17,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-17,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,66.0,8,76.1,max temp much colder than neighbors
+2025-06-17,ASOS-BAK,Columbus/Balkala,ASOS,EA14,cold,75.0,8,84.1,max temp much colder than neighbors
+2025-06-17,ASOS-MDW,Chicago,ASOS,EA10,wet,1.38,8,0.3,far more rain than any neighbor
+2025-06-17,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,77.0,8,86.1,max temp much colder than neighbors
+2025-06-18,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,68.0,8,76.2,max temp much colder than neighbors
+2025-06-18,201302,SPINCICH LAKE,RAWS,EA06,rain_alone,1.15,7,0.01,rain no neighbor saw
+2025-06-18,214201,CARLOS AVERY,RAWS,EA03,hot,95.0,8,82.1,max temp much warmer than neighbors
+2025-06-18,214201,CARLOS AVERY,RAWS,EA03,rain_alone,0.53,8,0.04,rain no neighbor saw
+2025-06-18,300491,LOWVILLE,RAWS,EA20,hot,93.0,4,82.6,max temp much warmer than neighbors
+2025-06-18,360231,DOLL HILL,RAWS,EA18,missed,0.0,8,0.78,no rain while most neighbors got rain
+2025-06-18,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,39.6,0,,impossible rain total
+2025-06-18,ASOS-1H2,Effingham,ASOS,EA10,missed,0.0,6,0.67,no rain while most neighbors got rain
+2025-06-18,ASOS-2R2,Henricks County,ASOS,EA11,missed,0.0,8,0.56,no rain while most neighbors got rain
+2025-06-18,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,75.0,8,84.5,max temp much colder than neighbors
+2025-06-18,ASOS-ESC,Escanaba,ASOS,EA06,cold,71.0,8,82.7,max temp much colder than neighbors
+2025-06-18,ASOS-FWN,Sussex_Airport,ASOS,EA23,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-06-18,ASOS-GNA,Grand Marais,ASOS,EA03,cold,71.0,4,81.2,max temp much colder than neighbors
+2025-06-18,ASOS-HCD,Hutchinson,ASOS,EA02,bad_rain,18.25,0,,impossible rain total
+2025-06-18,ASOS-MCX,Monticello,ASOS,EA11,cold,72.0,8,84.4,max temp much colder than neighbors
+2025-06-18,ASOS-ROC,Rochester/Monroe Co,ASOS,EA18,wet,3.15,6,0.43,far more rain than any neighbor
+2025-06-18,ASOS-RST,Rochester,ASOS,EA05,rain_alone,0.65,5,0.03,rain no neighbor saw
+2025-06-19,214201,CARLOS AVERY,RAWS,EA03,hot,97.0,8,85.6,max temp much warmer than neighbors
+2025-06-19,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-19,ASOS-4R5,La Pointe,ASOS,EA04,cold,63.0,7,81.2,max temp much colder than neighbors
+2025-06-19,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,68.0,5,79.8,max temp much colder than neighbors
+2025-06-19,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,80.0,8,91.8,max temp much colder than neighbors
+2025-06-19,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,missed,0.0,8,0.58,no rain while most neighbors got rain
+2025-06-19,ASOS-ASX,Ashland,ASOS,EA04,cold,65.0,8,81.0,max temp much colder than neighbors
+2025-06-19,ASOS-GNA,Grand Marais,ASOS,EA03,cold,59.0,4,68.3,max temp much colder than neighbors
+2025-06-19,ASOS-LWV,Lawrenceville,ASOS,EA14,cold,74.0,6,84.3,max temp much colder than neighbors
+2025-06-19,ASOS-MGN,Harbor Springs,ASOS,EA07,cold,66.2,8,74.7,max temp much colder than neighbors
+2025-06-20,214201,CARLOS AVERY,RAWS,EA03,hot,96.0,8,84.3,max temp much warmer than neighbors
+2025-06-20,55522362,SAND ISLAND,RAWS,EA04,cold,54.0,5,80.4,max temp much colder than neighbors
+2025-06-20,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-06-20,ASOS-4R5,La Pointe,ASOS,EA04,cold,67.0,7,85.7,max temp much colder than neighbors
+2025-06-20,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,71.0,5,83.0,max temp much colder than neighbors
+2025-06-20,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,rain_alone,0.71,8,0.01,rain no neighbor saw
+2025-06-20,ASOS-ASX,Ashland,ASOS,EA04,cold,76.0,8,84.7,max temp much colder than neighbors
+2025-06-20,ASOS-CQM,Cook Muni Airpor,ASOS,EA01,cold,73.4,8,82.9,max temp much colder than neighbors
+2025-06-20,ASOS-GNA,Grand Marais,ASOS,EA03,cold,55.0,4,82.2,max temp much colder than neighbors
+2025-06-20,ASOS-HIB,Hibbing,ASOS,EA03,rain_alone,0.6,8,0.04,rain no neighbor saw
+2025-06-20,ASOS-ISQ,Manistique,ASOS,EA06,cold,65.3,8,77.7,max temp much colder than neighbors
+2025-06-20,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,66.2,8,77.9,max temp much colder than neighbors
+2025-06-20,ASOS-MTN,Baltimore/Martin,ASOS,EA24,cold,71.6,8,86.1,max temp much colder than neighbors
+2025-06-20,ASOS-MWN,Mount Washington,ASOS,EA21,wet,1.03,8,0.24,far more rain than any neighbor
+2025-06-20,ASOS-SCH,Schenectady Airport,ASOS,EA20,hot,86.0,8,76.8,max temp much warmer than neighbors
+2025-06-20,ASOS-SLH,Cheboygan,ASOS,EA07,cold,68.0,8,78.2,max temp much colder than neighbors
+2025-06-20,ASOS-UBE,Cumberland,ASOS,EA04,wet,1.35,8,0.19,far more rain than any neighbor
+2025-06-21,470502,PHELPS,RAWS,EA04,missed,0.0,8,0.62,no rain while most neighbors got rain
+2025-06-21,55522362,SAND ISLAND,RAWS,EA04,cold,71.0,5,90.8,max temp much colder than neighbors
+2025-06-21,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-21,ASOS-4R5,La Pointe,ASOS,EA04,cold,80.6,7,91.2,max temp much colder than neighbors
+2025-06-21,ASOS-CKN,Crookston Muni,ASOS,EA01,cold,73.4,5,85.6,max temp much colder than neighbors
+2025-06-21,ASOS-CMX,Hancock,ASOS,EA04,cold,74.0,4,89.9,max temp much colder than neighbors
+2025-06-21,ASOS-CQM,Cook Muni Airpor,ASOS,EA01,cold,75.2,8,84.3,max temp much colder than neighbors
+2025-06-21,ASOS-D95,Lapeer,ASOS,EA08,cold,68.0,8,88.8,max temp much colder than neighbors
+2025-06-21,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,66.2,8,91.6,max temp much colder than neighbors
+2025-06-21,ASOS-EVM,Eveleth Muni,ASOS,EA03,cold,68.5,8,85.4,max temp much colder than neighbors
+2025-06-21,ASOS-ISQ,Manistique,ASOS,EA06,cold,69.0,8,83.7,max temp much colder than neighbors
+2025-06-21,ASOS-SUE,Sturgeon Bay,ASOS,EA06,cold,81.0,6,89.4,max temp much colder than neighbors
+2025-06-21,ASOS-SUW,Superior,ASOS,EA04,cold,76.0,8,91.4,max temp much colder than neighbors
+2025-06-22,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-22,ASOS-2P2,Washington Island,ASOS,EA06,cold,81.0,6,90.7,max temp much colder than neighbors
+2025-06-22,ASOS-4R5,La Pointe,ASOS,EA04,cold,64.0,7,93.1,max temp much colder than neighbors
+2025-06-22,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,69.0,5,78.8,max temp much colder than neighbors
+2025-06-22,ASOS-ASX,Ashland,ASOS,EA04,cold,74.0,8,92.2,max temp much colder than neighbors
+2025-06-22,ASOS-CQM,Cook Muni Airpor,ASOS,EA01,cold,69.8,8,85.5,max temp much colder than neighbors
+2025-06-22,ASOS-FGN,Flag Island,ASOS,EA01,cold,66.2,5,78.0,max temp much colder than neighbors
+2025-06-22,ASOS-GNA,Grand Marais,ASOS,EA03,cold,69.0,4,85.3,max temp much colder than neighbors
+2025-06-22,ASOS-ISQ,Manistique,ASOS,EA06,cold,68.0,8,89.1,max temp much colder than neighbors
+2025-06-22,ASOS-PTD,Potsdam,ASOS,EA20,missed,0.0,5,0.75,no rain while most neighbors got rain
+2025-06-23,201401,REXTON,RAWS,EA06,cold,76.0,8,85.8,max temp much colder than neighbors
+2025-06-23,475701,PARDEEVILLE,RAWS,EA05,missed,0.0,8,1.12,no rain while most neighbors got rain
+2025-06-23,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.55,8,0.0,rain no neighbor saw
+2025-06-23,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-23,ASOS-2P2,Washington Island,ASOS,EA06,cold,80.6,6,91.5,max temp much colder than neighbors
+2025-06-23,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,88.0,8,99.2,max temp much colder than neighbors
+2025-06-23,ASOS-BFR,Bedford,ASOS,EA14,cold,77.0,7,92.5,max temp much colder than neighbors
+2025-06-23,ASOS-BUF,Buffalo Intl Arpt,ASOS,EA18,cold,82.0,4,90.7,max temp much colder than neighbors
+2025-06-23,ASOS-ISQ,Manistique,ASOS,EA06,cold,77.0,8,92.1,max temp much colder than neighbors
+2025-06-23,ASOS-LWA,South Haven,ASOS,EA08,cold,86.0,7,94.4,max temp much colder than neighbors
+2025-06-23,ASOS-MAW,Malden,ASOS,EA13,rain_alone,1.12,5,0.0,rain no neighbor saw
+2025-06-23,ASOS-NEL,Lakehurst Nas,ASOS,EA24,cold,80.0,8,97.9,max temp much colder than neighbors
+2025-06-24,201004,MUNISING,RAWS,EA06,cold,64.0,8,75.9,max temp much colder than neighbors
+2025-06-24,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-06-24,ASOS-4I3,Mount Vernon,ASOS,EA15,cold,84.2,8,93.3,max temp much colder than neighbors
+2025-06-24,ASOS-4R5,La Pointe,ASOS,EA04,cold,68.4,7,80.1,max temp much colder than neighbors
+2025-06-24,ASOS-BTL,Battle Creek,ASOS,EA08,wet,2.48,7,0.47,far more rain than any neighbor
+2025-06-24,ASOS-EFT,Monroe,ASOS,EA10,wet,2.17,7,0.19,far more rain than any neighbor
+2025-06-24,ASOS-IWD,Ironwood,ASOS,EA04,cold,70.0,8,78.7,max temp much colder than neighbors
+2025-06-24,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,hot,109.0,8,100.2,max temp much warmer than neighbors
+2025-06-24,ASOS-MQJ,Indianapolis Mount Comfort,ASOS,EA11,cold,81.3,8,93.5,max temp much colder than neighbors
+2025-06-24,ASOS-P53,Munising,ASOS,EA06,cold,66.0,8,76.5,max temp much colder than neighbors
+2025-06-25,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-25,ASOS-48I,Sutton,ASOS,EA17,wet,1.31,4,0.18,far more rain than any neighbor
+2025-06-25,ASOS-CMX,Hancock,ASOS,EA04,cold,58.0,4,76.9,max temp much colder than neighbors
+2025-06-25,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,78.8,8,91.0,max temp much colder than neighbors
+2025-06-25,ASOS-FAM,Farmington,ASOS,EA13,cold,84.0,6,93.2,max temp much colder than neighbors
+2025-06-25,ASOS-GNA,Grand Marais,ASOS,EA03,cold,61.0,4,77.2,max temp much colder than neighbors
+2025-06-25,ASOS-HHG,Huntington,ASOS,EA11,cold,83.0,8,91.8,max temp much colder than neighbors
+2025-06-25,ASOS-HPT,Hampton,ASOS,EA02,cold,75.2,8,86.5,max temp much colder than neighbors
+2025-06-25,ASOS-MKE,Milwaukee,ASOS,EA10,cold,66.0,8,79.6,max temp much colder than neighbors
+2025-06-25,ASOS-MTN,Baltimore/Martin,ASOS,EA24,cold,78.8,8,99.6,max temp much colder than neighbors
+2025-06-25,ASOS-MTO,Mattoon/Charlest,ASOS,EA11,rain_alone,1.02,3,0.0,rain no neighbor saw
+2025-06-25,ASOS-P53,Munising,ASOS,EA06,cold,62.0,8,75.8,max temp much colder than neighbors
+2025-06-25,ASOS-PKB,Parkersburg,ASOS,EA16,rain_alone,0.56,3,0.03,rain no neighbor saw
+2025-06-26,181501,PATUXENT,RAWS,EA24,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-06-26,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-26,ASOS-CIU,Chippewa Intl,ASOS,EA06,missed,0.0,8,0.73,no rain while most neighbors got rain
+2025-06-26,ASOS-FAM,Farmington,ASOS,EA13,cold,83.0,6,92.8,max temp much colder than neighbors
+2025-06-26,ASOS-GNA,Grand Marais,ASOS,EA03,cold,62.0,4,70.7,max temp much colder than neighbors
+2025-06-26,ASOS-RAC,Racine,ASOS,EA10,cold,83.0,8,91.0,max temp much colder than neighbors
+2025-06-26,ASOS-UGN,Waukegan,ASOS,EA10,wet,1.27,8,0.26,far more rain than any neighbor
+2025-06-27,235901,WAH KON TAH,RAWS,EA12,wet,2.2,5,0.48,far more rain than any neighbor
+2025-06-27,55522362,SAND ISLAND,RAWS,EA04,cold,58.0,5,67.3,max temp much colder than neighbors
+2025-06-27,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-27,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,94.0,8,72.5,max temp much warmer than neighbors
+2025-06-28,461601,CONAWAY LAKE,RAWS,EA16,rain_alone,1.07,3,0.02,rain no neighbor saw
+2025-06-28,55522362,SAND ISLAND,RAWS,EA04,cold,68.0,5,82.8,max temp much colder than neighbors
+2025-06-28,ASOS-10G,Millersburg,ASOS,EA16,wet,4.83,8,0.51,far more rain than any neighbor
+2025-06-28,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-06-28,ASOS-4R5,La Pointe,ASOS,EA04,cold,76.0,7,86.2,max temp much colder than neighbors
+2025-06-28,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,70.0,8,88.5,max temp much colder than neighbors
+2025-06-28,ASOS-DEC,Decatur,ASOS,EA10,rain_alone,0.89,4,0.0,rain no neighbor saw
+2025-06-28,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,62.6,8,83.8,max temp much colder than neighbors
+2025-06-28,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,73.0,6,82.0,max temp much colder than neighbors
+2025-06-28,ASOS-OXB,Ocean City Muni,ASOS,EA24,cold,80.0,5,91.1,max temp much colder than neighbors
+2025-06-28,ASOS-SUW,Superior,ASOS,EA04,cold,69.8,8,83.5,max temp much colder than neighbors
+2025-06-28,ASOS-VTA,Newark,ASOS,EA16,wet,1.58,8,0.28,far more rain than any neighbor
+2025-06-29,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,72.0,8,81.1,max temp much colder than neighbors
+2025-06-29,55522362,SAND ISLAND,RAWS,EA04,cold,76.0,5,84.7,max temp much colder than neighbors
+2025-06-29,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,2.44,8,0.02,rain no neighbor saw
+2025-06-29,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,39.0,0,,impossible rain total
+2025-06-29,ASOS-2P2,Washington Island,ASOS,EA06,cold,73.4,6,82.2,max temp much colder than neighbors
+2025-06-29,ASOS-GNA,Grand Marais,ASOS,EA03,cold,63.0,4,84.7,max temp much colder than neighbors
+2025-06-29,ASOS-GPZ,Grand Rapids,ASOS,EA01,cold,75.0,8,83.4,max temp much colder than neighbors
+2025-06-29,ASOS-HUF,Terre Haute,ASOS,EA11,missed,0.0,3,1.12,no rain while most neighbors got rain
+2025-06-29,ASOS-ISQ,Manistique,ASOS,EA06,cold,70.5,8,83.8,max temp much colder than neighbors
+2025-06-29,ASOS-LWD,Lamoni,ASOS,EA09,rain_alone,0.71,4,0.05,rain no neighbor saw
+2025-06-29,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,79.0,6,87.9,max temp much colder than neighbors
+2025-06-30,234502,SULLIVAN,RAWS,EA13,rain_alone,0.82,4,0.01,rain no neighbor saw
+2025-06-30,280051,COYLE FIELD,RAWS,EA24,wet,3.45,8,0.48,far more rain than any neighbor
+2025-06-30,55522203,AUGUSTA,RAWS,EA17,wet,2.22,8,0.42,far more rain than any neighbor
+2025-06-30,55522400,WILSONS CREEK,RAWS,EA12,wet,1.66,6,0.41,far more rain than any neighbor
+2025-06-30,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-06-30,ASOS-6B0,Middlebury,ASOS,EA21,cold,80.6,8,88.9,max temp much colder than neighbors
+2025-06-30,ASOS-BVY,Beverly Municipal,ASOS,EA23,cold,78.0,8,87.8,max temp much colder than neighbors
+2025-06-30,ASOS-FGN,Flag Island,ASOS,EA01,cold,37.4,5,78.7,max temp much colder than neighbors
+2025-06-30,ASOS-FIT,Fitchburg,ASOS,EA23,cold,70.0,8,87.5,max temp much colder than neighbors
+2025-06-30,ASOS-HAE,Hannibal,ASOS,EA10,cold,73.4,4,84.0,max temp much colder than neighbors
+2025-06-30,ASOS-P53,Munising,ASOS,EA06,cold,75.0,8,85.3,max temp much colder than neighbors
+2025-06-30,ASOS-POF,Popular Bluff,ASOS,EA13,wet,1.24,4,0.16,far more rain than any neighbor
+2025-07-01,ASOS-10G,Millersburg,ASOS,EA16,wet,6.71,8,0.23,far more rain than any neighbor
+2025-07-01,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-07-01,ASOS-1H2,Effingham,ASOS,EA10,wet,2.36,7,0.46,far more rain than any neighbor
+2025-07-01,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,72.0,5,80.0,max temp much colder than neighbors
+2025-07-01,ASOS-DYL,Doylestown Airport,ASOS,EA24,missed,0.0,8,1.0,no rain while most neighbors got rain
+2025-07-01,ASOS-FWN,Sussex_Airport,ASOS,EA23,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-07-01,ASOS-HFD,Hartford/Brainard,ASOS,EA23,missed,0.0,8,0.71,no rain while most neighbors got rain
+2025-07-01,ASOS-IAG,Niagara Falls Intl,ASOS,EA18,rain_alone,0.61,4,0.01,rain no neighbor saw
+2025-07-01,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,cold,69.8,7,82.7,max temp much colder than neighbors
+2025-07-01,ASOS-P53,Munising,ASOS,EA06,cold,75.0,8,84.7,max temp much colder than neighbors
+2025-07-01,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,73.0,6,81.8,max temp much colder than neighbors
+2025-07-01,ASOS-UNU,Juneau,ASOS,EA05,cold,66.4,8,82.4,max temp much colder than neighbors
+2025-07-02,460902,WVU RESEARCH FOREST,RAWS,EA17,rain_alone,0.63,7,0.0,rain no neighbor saw
+2025-07-02,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,0.87,8,0.0,rain no neighbor saw
+2025-07-02,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-07-02,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,75.2,8,84.9,max temp much colder than neighbors
+2025-07-02,ASOS-FAM,Farmington,ASOS,EA13,cold,76.0,6,88.2,max temp much colder than neighbors
+2025-07-02,ASOS-FGN,Flag Island,ASOS,EA01,cold,37.4,5,82.1,max temp much colder than neighbors
+2025-07-02,ASOS-GNA,Grand Marais,ASOS,EA03,cold,75.0,4,84.2,max temp much colder than neighbors
+2025-07-02,ASOS-LDM,Ludington/Mason,ASOS,EA07,cold,78.8,6,87.0,max temp much colder than neighbors
+2025-07-02,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,73.4,8,82.0,max temp much colder than neighbors
+2025-07-02,ASOS-MTN,Baltimore/Martin,ASOS,EA24,cold,73.4,8,87.8,max temp much colder than neighbors
+2025-07-02,ASOS-P53,Munising,ASOS,EA06,cold,75.0,8,84.2,max temp much colder than neighbors
+2025-07-02,ASOS-RSV,Robinson,ASOS,EA11,cold,73.4,8,87.7,max temp much colder than neighbors
+2025-07-03,201004,MUNISING,RAWS,EA06,cold,70.0,8,78.8,max temp much colder than neighbors
+2025-07-03,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,41.6,0,,impossible rain total
+2025-07-03,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,73.0,5,83.8,max temp much colder than neighbors
+2025-07-03,ASOS-ASX,Ashland,ASOS,EA04,cold,75.0,8,86.4,max temp much colder than neighbors
+2025-07-03,ASOS-FAM,Farmington,ASOS,EA13,cold,79.0,6,90.5,max temp much colder than neighbors
+2025-07-03,ASOS-FLD,Fond Du Lac,ASOS,EA05,rain_alone,0.76,8,0.0,rain no neighbor saw
+2025-07-03,ASOS-P53,Munising,ASOS,EA06,cold,68.0,8,79.4,max temp much colder than neighbors
+2025-07-04,55522362,SAND ISLAND,RAWS,EA04,cold,66.0,4,90.4,max temp much colder than neighbors
+2025-07-04,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-04,ASOS-2P2,Washington Island,ASOS,EA06,cold,73.6,6,84.9,max temp much colder than neighbors
+2025-07-04,ASOS-BJI,Bemidji,ASOS,EA01,missed,0.0,8,1.27,no rain while most neighbors got rain
+2025-07-04,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,68.0,8,83.8,max temp much colder than neighbors
+2025-07-04,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,71.6,8,93.2,max temp much colder than neighbors
+2025-07-04,ASOS-FAM,Farmington,ASOS,EA13,cold,80.0,6,90.4,max temp much colder than neighbors
+2025-07-04,ASOS-FGN,Flag Island,ASOS,EA01,cold,73.4,5,84.1,max temp much colder than neighbors
+2025-07-04,ASOS-GNA,Grand Marais,ASOS,EA03,cold,66.0,4,81.1,max temp much colder than neighbors
+2025-07-04,ASOS-ISQ,Manistique,ASOS,EA06,cold,73.0,8,82.7,max temp much colder than neighbors
+2025-07-04,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,69.8,8,83.2,max temp much colder than neighbors
+2025-07-04,ASOS-SUW,Superior,ASOS,EA04,cold,83.0,8,92.0,max temp much colder than neighbors
+2025-07-05,55522362,SAND ISLAND,RAWS,EA04,cold,69.0,4,80.8,max temp much colder than neighbors
+2025-07-05,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,41.6,0,,impossible rain total
+2025-07-05,ASOS-BJI,Bemidji,ASOS,EA01,wet,1.56,8,0.12,far more rain than any neighbor
+2025-07-05,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,69.8,8,87.9,max temp much colder than neighbors
+2025-07-05,ASOS-EOK,Keokuk Muni,ASOS,EA10,missed,0.0,5,0.51,no rain while most neighbors got rain
+2025-07-05,ASOS-FAM,Farmington,ASOS,EA13,cold,80.0,6,91.3,max temp much colder than neighbors
+2025-07-05,ASOS-GNA,Grand Marais,ASOS,EA03,cold,72.0,4,82.2,max temp much colder than neighbors
+2025-07-05,ASOS-ISQ,Manistique,ASOS,EA06,cold,71.6,8,86.7,max temp much colder than neighbors
+2025-07-06,471601,LADYSMITH,RAWS,EA04,rain_alone,2.09,6,0.01,rain no neighbor saw
+2025-07-06,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-06,ASOS-BAK,Columbus/Balkala,ASOS,EA14,cold,82.0,8,90.1,max temp much colder than neighbors
+2025-07-06,ASOS-DMW,Westminster,ASOS,EA24,hot,95.0,8,86.9,max temp much warmer than neighbors
+2025-07-06,ASOS-HUF,Terre Haute,ASOS,EA11,missed,0.0,5,0.83,no rain while most neighbors got rain
+2025-07-06,ASOS-IND,Indianapolis,ASOS,EA11,missed,0.0,8,0.86,no rain while most neighbors got rain
+2025-07-06,ASOS-LXT,Lee S Summit,ASOS,EA09,hot,103.0,8,89.4,max temp much warmer than neighbors
+2025-07-06,ASOS-P53,Munising,ASOS,EA06,cold,60.0,8,69.7,max temp much colder than neighbors
+2025-07-06,ASOS-RNH,New Richmond Mun,ASOS,EA04,wet,1.07,8,0.09,far more rain than any neighbor
+2025-07-07,119701,BEAN RIDGE,RAWS,EA14,missed,0.0,8,0.61,no rain while most neighbors got rain
+2025-07-07,180302,CATOCTIN MOUNTAIN,RAWS,EA24,wet,1.24,8,0.08,far more rain than any neighbor
+2025-07-07,201004,MUNISING,RAWS,EA06,cold,63.0,8,74.0,max temp much colder than neighbors
+2025-07-07,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-07-07,ASOS-AIO,Atlantic,ASOS,EA09,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-07-07,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,rain_alone,1.13,6,0.04,rain no neighbor saw
+2025-07-07,ASOS-ESN,Easton,ASOS,EA24,missed,0.0,8,0.62,no rain while most neighbors got rain
+2025-07-07,ASOS-FSO,Highgate,ASOS,EA21,missed,0.0,7,0.64,no rain while most neighbors got rain
+2025-07-07,ASOS-GNA,Grand Marais,ASOS,EA03,cold,65.0,4,75.7,max temp much colder than neighbors
+2025-07-07,ASOS-MKE,Milwaukee,ASOS,EA10,cold,70.0,8,80.3,max temp much colder than neighbors
+2025-07-07,ASOS-OSC,Oscoda/Wurtsmith,ASOS,EA07,cold,66.0,7,74.2,max temp much colder than neighbors
+2025-07-07,ASOS-OZS,Camdenton,ASOS,EA12,cold,69.8,5,89.4,max temp much colder than neighbors
+2025-07-07,ASOS-P53,Munising,ASOS,EA06,cold,63.0,8,74.6,max temp much colder than neighbors
+2025-07-07,ASOS-RHI,Rhinelander,ASOS,EA04,cold,65.0,8,78.1,max temp much colder than neighbors
+2025-07-07,ASOS-SUW,Superior,ASOS,EA04,cold,69.0,8,80.2,max temp much colder than neighbors
+2025-07-08,210301,BAUDETTE,RAWS,EA01,rain_alone,0.94,3,0.04,rain no neighbor saw
+2025-07-08,360151,RIENZE,RAWS,EA19,wet,2.35,7,0.19,far more rain than any neighbor
+2025-07-08,ASOS-10G,Millersburg,ASOS,EA16,wet,4.2,8,0.09,far more rain than any neighbor
+2025-07-08,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-08,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,84.0,8,94.6,max temp much colder than neighbors
+2025-07-08,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,missed,0.0,7,1.03,no rain while most neighbors got rain
+2025-07-08,ASOS-CWI,Clinton,ASOS,EA10,wet,1.41,3,0.06,far more rain than any neighbor
+2025-07-08,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,62.6,8,77.8,max temp much colder than neighbors
+2025-07-08,ASOS-FGN,Flag Island,ASOS,EA01,cold,64.4,5,76.9,max temp much colder than neighbors
+2025-07-08,ASOS-IWD,Ironwood,ASOS,EA04,cold,72.0,8,80.3,max temp much colder than neighbors
+2025-07-08,ASOS-MRJ,Mineral Point,ASOS,EA05,wet,1.3,8,0.23,far more rain than any neighbor
+2025-07-08,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,73.0,6,81.5,max temp much colder than neighbors
+2025-07-08,ASOS-OLE,Olean,ASOS,EA18,cold,68.0,7,76.7,max temp much colder than neighbors
+2025-07-08,ASOS-P58,Port Hope,ASOS,EA08,cold,71.0,3,79.2,max temp much colder than neighbors
+2025-07-08,ASOS-SUW,Superior,ASOS,EA04,cold,68.5,8,77.6,max temp much colder than neighbors
+2025-07-09,201004,MUNISING,RAWS,EA06,cold,63.0,8,75.0,max temp much colder than neighbors
+2025-07-09,203101,WELLSTON,RAWS,EA07,hot,83.0,8,74.5,max temp much warmer than neighbors
+2025-07-09,ASOS-10G,Millersburg,ASOS,EA16,wet,3.24,8,0.71,far more rain than any neighbor
+2025-07-09,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-09,ASOS-ACK,Nantucket Memorial,ASOS,EA23,missed,0.0,4,0.54,no rain while most neighbors got rain
+2025-07-09,ASOS-CQX,Chatham Muni Arpt,ASOS,EA23,missed,0.0,7,0.53,no rain while most neighbors got rain
+2025-07-09,ASOS-DMW,Westminster,ASOS,EA24,hot,96.8,8,88.2,max temp much warmer than neighbors
+2025-07-09,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,73.4,8,83.9,max temp much colder than neighbors
+2025-07-09,ASOS-GNA,Grand Marais,ASOS,EA03,cold,66.0,4,76.7,max temp much colder than neighbors
+2025-07-09,ASOS-GVQ,Batavia,ASOS,EA18,cold,66.0,6,78.4,max temp much colder than neighbors
+2025-07-09,ASOS-JXN,Jackson/Reynolds,ASOS,EA11,missed,0.0,8,0.55,no rain while most neighbors got rain
+2025-07-09,ASOS-LDM,Ludington/Mason,ASOS,EA07,cold,75.2,6,83.7,max temp much colder than neighbors
+2025-07-09,ASOS-OLY,Olney-Noble,ASOS,EA14,rain_alone,0.77,3,0.05,rain no neighbor saw
+2025-07-09,ASOS-P53,Munising,ASOS,EA06,cold,63.0,8,75.6,max temp much colder than neighbors
+2025-07-09,ASOS-PZQ,Rogers City,ASOS,EA07,cold,69.0,6,78.6,max temp much colder than neighbors
+2025-07-09,ASOS-UNU,Juneau,ASOS,EA05,cold,66.0,8,80.0,max temp much colder than neighbors
+2025-07-10,210801,AGASSIZ,RAWS,EA01,rain_alone,1.03,3,0.03,rain no neighbor saw
+2025-07-10,55522362,SAND ISLAND,RAWS,EA04,cold,63.0,5,82.2,max temp much colder than neighbors
+2025-07-10,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-10,ASOS-CQX,Chatham Muni Arpt,ASOS,EA23,missed,0.0,7,0.79,no rain while most neighbors got rain
+2025-07-10,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,77.0,8,85.6,max temp much colder than neighbors
+2025-07-10,ASOS-FAM,Farmington,ASOS,EA13,cold,80.0,6,91.3,max temp much colder than neighbors
+2025-07-10,ASOS-FGN,Flag Island,ASOS,EA01,cold,71.6,5,84.1,max temp much colder than neighbors
+2025-07-10,ASOS-GNA,Grand Marais,ASOS,EA03,cold,62.0,4,77.7,max temp much colder than neighbors
+2025-07-10,ASOS-LEB,Lebanon Municipal,ASOS,EA21,wet,1.17,7,0.27,far more rain than any neighbor
+2025-07-10,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,71.0,6,80.9,max temp much colder than neighbors
+2025-07-10,ASOS-P53,Munising,ASOS,EA06,cold,69.0,8,80.3,max temp much colder than neighbors
+2025-07-11,180201,GREEN RIDGE,RAWS,EA17,wet,1.9,8,0.2,far more rain than any neighbor
+2025-07-11,210405,LITTLEFORK,RAWS,EA01,missed,0.0,5,0.62,no rain while most neighbors got rain
+2025-07-11,465201,ELKHORN,RAWS,EA17,rain_alone,0.6,6,0.01,rain no neighbor saw
+2025-07-11,55522362,SAND ISLAND,RAWS,EA04,cold,71.0,5,88.3,max temp much colder than neighbors
+2025-07-11,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,1.11,8,0.01,rain no neighbor saw
+2025-07-11,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,41.4,0,,impossible rain total
+2025-07-11,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,75.2,8,87.2,max temp much colder than neighbors
+2025-07-11,ASOS-EOK,Keokuk Muni,ASOS,EA10,missed,0.0,6,1.81,no rain while most neighbors got rain
+2025-07-11,ASOS-GNA,Grand Marais,ASOS,EA03,cold,66.0,4,85.7,max temp much colder than neighbors
+2025-07-11,ASOS-INL,International Falls,ASOS,EA01,missed,0.0,4,0.66,no rain while most neighbors got rain
+2025-07-12,300491,LOWVILLE,RAWS,EA20,hot,98.0,4,86.7,max temp much warmer than neighbors
+2025-07-12,55522386,THORNHURST,RAWS,EA19,rain_alone,0.84,8,0.04,rain no neighbor saw
+2025-07-12,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-12,ASOS-BOS,Boston/Logan Intl,ASOS,EA23,cold,76.0,8,84.6,max temp much colder than neighbors
+2025-07-12,ASOS-BVY,Beverly Municipal,ASOS,EA23,cold,76.0,8,84.8,max temp much colder than neighbors
+2025-07-12,ASOS-DMW,Westminster,ASOS,EA24,hot,96.8,8,88.4,max temp much warmer than neighbors
+2025-07-12,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,73.4,8,89.2,max temp much colder than neighbors
+2025-07-12,ASOS-EOK,Keokuk Muni,ASOS,EA10,wet,1.11,6,0.22,far more rain than any neighbor
+2025-07-12,ASOS-EVV,Evansville,ASOS,EA14,cold,82.0,8,91.4,max temp much colder than neighbors
+2025-07-12,ASOS-HGR,Hagerstown Regional,ASOS,EA24,rain_alone,1.1,8,0.01,rain no neighbor saw
+2025-07-12,ASOS-IWI,Wiscasset,ASOS,EA22,rain_alone,0.72,3,0.0,rain no neighbor saw
+2025-07-12,ASOS-NAK,Annapolis,ASOS,EA24,rain_alone,0.83,8,0.0,rain no neighbor saw
+2025-07-13,237401,CARR CREEK,RAWS,EA13,wet,1.13,7,0.28,far more rain than any neighbor
+2025-07-13,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,41.4,0,,impossible rain total
+2025-07-13,ASOS-BVY,Beverly Municipal,ASOS,EA23,cold,74.0,8,84.3,max temp much colder than neighbors
+2025-07-13,ASOS-LNS,Lancaster,ASOS,EA24,missed,0.0,8,1.25,no rain while most neighbors got rain
+2025-07-13,ASOS-LRY,Harrisonville,ASOS,EA09,wet,1.07,8,0.08,far more rain than any neighbor
+2025-07-13,ASOS-VTA,Newark,ASOS,EA16,cold,73.0,8,86.0,max temp much colder than neighbors
+2025-07-14,180335,ASSATEAGUE ISLAND,RAWS,EA24,missed,0.0,5,0.54,no rain while most neighbors got rain
+2025-07-14,210203,ROSEAU,RAWS,EA01,wet,1.19,4,0.13,far more rain than any neighbor
+2025-07-14,301111,CATSKILL CENTER,RAWS,EA23,missed,0.0,4,1.2,no rain while most neighbors got rain
+2025-07-14,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-14,ASOS-BAF,Westfield/Barnes,ASOS,EA23,wet,1.37,8,0.28,far more rain than any neighbor
+2025-07-14,ASOS-DMW,Westminster,ASOS,EA24,hot,96.8,8,85.3,max temp much warmer than neighbors
+2025-07-14,ASOS-DYL,Doylestown Airport,ASOS,EA24,missed,0.0,8,0.5,no rain while most neighbors got rain
+2025-07-14,ASOS-FWN,Sussex_Airport,ASOS,EA23,missed,0.0,8,1.29,no rain while most neighbors got rain
+2025-07-14,ASOS-GNA,Grand Marais,ASOS,EA03,cold,73.0,4,84.4,max temp much colder than neighbors
+2025-07-14,ASOS-INL,International Falls,ASOS,EA01,wet,1.11,3,0.07,far more rain than any neighbor
+2025-07-14,ASOS-JRB,Manhattan - Wall Street,ASOS,EA23,missed,0.0,8,1.9,no rain while most neighbors got rain
+2025-07-14,ASOS-MUI,Muir Aaf/Indiantown,ASOS,EA19,missed,0.0,8,0.96,no rain while most neighbors got rain
+2025-07-14,ASOS-VTA,Newark,ASOS,EA16,cold,75.0,8,83.9,max temp much colder than neighbors
+2025-07-15,55522362,SAND ISLAND,RAWS,EA04,cold,68.0,5,83.3,max temp much colder than neighbors
+2025-07-15,55522362,SAND ISLAND,RAWS,EA04,missed,0.0,4,0.82,no rain while most neighbors got rain
+2025-07-15,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,6.25,7,0.0,rain no neighbor saw
+2025-07-15,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,42.4,0,,impossible rain total
+2025-07-15,ASOS-EST,Estherville,ASOS,EA02,missed,0.0,3,0.81,no rain while most neighbors got rain
+2025-07-15,ASOS-GNA,Grand Marais,ASOS,EA03,cold,65.0,4,77.7,max temp much colder than neighbors
+2025-07-15,ASOS-HZL,Hazelton,ASOS,EA19,cold,73.4,8,84.6,max temp much colder than neighbors
+2025-07-15,ASOS-ISQ,Manistique,ASOS,EA06,cold,74.3,8,85.7,max temp much colder than neighbors
+2025-07-15,ASOS-SPI,Springfield,ASOS,EA10,rain_alone,0.94,3,0.04,rain no neighbor saw
+2025-07-16,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,85.0,8,93.5,max temp much colder than neighbors
+2025-07-16,470207,WASHBURN,RAWS,EA04,wet,1.29,8,0.22,far more rain than any neighbor
+2025-07-16,55522282,HILLCREST WMA,RAWS,EA16,missed,0.0,8,0.93,no rain while most neighbors got rain
+2025-07-16,ASOS-10G,Millersburg,ASOS,EA16,wet,5.25,7,0.58,far more rain than any neighbor
+2025-07-16,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-16,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,missed,0.0,8,0.54,no rain while most neighbors got rain
+2025-07-16,ASOS-ELZ,Wellsville Municipal,ASOS,EA18,wet,1.65,5,0.32,far more rain than any neighbor
+2025-07-16,ASOS-RGK,Red Wing,ASOS,EA05,hot,82.0,8,70.7,max temp much warmer than neighbors
+2025-07-16,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,81.0,6,90.0,max temp much colder than neighbors
+2025-07-17,170791,MCFARLAND HILL,RAWS,EA22,hot,79.0,3,70.7,max temp much warmer than neighbors
+2025-07-17,234502,SULLIVAN,RAWS,EA13,rain_alone,0.69,3,0.0,rain no neighbor saw
+2025-07-17,55522362,SAND ISLAND,RAWS,EA04,cold,67.0,5,75.0,max temp much colder than neighbors
+2025-07-17,ASOS-10G,Millersburg,ASOS,EA16,wet,4.41,8,0.72,far more rain than any neighbor
+2025-07-17,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.16,8,0.01,rain no neighbor saw
+2025-07-17,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,37.2,0,,impossible rain total
+2025-07-17,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,wet,2.0,8,0.09,far more rain than any neighbor
+2025-07-17,ASOS-CAD,Cadillac/Wexford,ASOS,EA07,wet,1.19,8,0.24,far more rain than any neighbor
+2025-07-17,ASOS-GEZ,Shelbyville,ASOS,EA11,rain_alone,1.14,7,0.04,rain no neighbor saw
+2025-07-17,ASOS-GNA,Grand Marais,ASOS,EA03,cold,59.0,4,74.2,max temp much colder than neighbors
+2025-07-17,ASOS-HNB,Huntingburg,ASOS,EA14,cold,73.4,8,90.4,max temp much colder than neighbors
+2025-07-17,ASOS-I95,Kenton,ASOS,EA15,rain_alone,0.82,4,0.0,rain no neighbor saw
+2025-07-17,ASOS-JLN,Joplin,ASOS,EA12,missed,0.0,5,0.79,no rain while most neighbors got rain
+2025-07-17,ASOS-SUS,St. Louis/Spirit,ASOS,EA13,missed,0.0,7,0.65,no rain while most neighbors got rain
+2025-07-18,ASOS-10G,Millersburg,ASOS,EA16,wet,4.28,8,0.47,far more rain than any neighbor
+2025-07-18,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.07,8,0.0,rain no neighbor saw
+2025-07-18,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,38.4,0,,impossible rain total
+2025-07-18,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,93.0,8,84.6,max temp much warmer than neighbors
+2025-07-18,ASOS-BLF,Bluefield/Mercer Co,ASOS,EA17,cold,71.0,8,82.0,max temp much colder than neighbors
+2025-07-18,ASOS-GNA,Grand Marais,ASOS,EA03,cold,62.0,4,72.7,max temp much colder than neighbors
+2025-07-18,ASOS-MBY,Moberly,ASOS,EA09,wet,1.19,4,0.09,far more rain than any neighbor
+2025-07-18,ASOS-MML,Marshall/Ryan,ASOS,EA02,wet,4.73,6,0.94,far more rain than any neighbor
+2025-07-19,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.77,8,0.04,rain no neighbor saw
+2025-07-19,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,37.2,0,,impossible rain total
+2025-07-19,ASOS-1H2,Effingham,ASOS,EA10,missed,0.0,6,1.18,no rain while most neighbors got rain
+2025-07-19,ASOS-CGS,College Park,ASOS,EA24,wet,3.61,8,0.68,far more rain than any neighbor
+2025-07-19,ASOS-FFX,Freemont,ASOS,EA08,cold,60.8,8,80.1,max temp much colder than neighbors
+2025-07-19,ASOS-JYG,St. James,ASOS,EA02,wet,1.93,5,0.38,far more rain than any neighbor
+2025-07-19,ASOS-RFD,Rockford,ASOS,EA10,wet,1.39,5,0.31,far more rain than any neighbor
+2025-07-20,280291,JACKSON,RAWS,EA24,wet,3.12,8,0.54,far more rain than any neighbor
+2025-07-20,55522362,SAND ISLAND,RAWS,EA04,cold,68.0,5,79.3,max temp much colder than neighbors
+2025-07-20,ASOS-10G,Millersburg,ASOS,EA16,wet,6.28,8,0.73,far more rain than any neighbor
+2025-07-20,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,43.2,0,,impossible rain total
+2025-07-20,ASOS-AUG,Augusta State Arpt,ASOS,EA22,missed,0.0,4,0.62,no rain while most neighbors got rain
+2025-07-20,ASOS-COU,Columbia,ASOS,EA12,missed,0.0,3,0.52,no rain while most neighbors got rain
+2025-07-20,ASOS-P53,Munising,ASOS,EA06,cold,66.0,8,74.6,max temp much colder than neighbors
+2025-07-21,235901,WAH KON TAH,RAWS,EA12,missed,0.0,5,0.56,no rain while most neighbors got rain
+2025-07-21,55522362,SAND ISLAND,RAWS,EA04,cold,68.0,5,76.3,max temp much colder than neighbors
+2025-07-21,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,0.87,8,0.0,rain no neighbor saw
+2025-07-21,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.21,8,0.0,rain no neighbor saw
+2025-07-21,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,41.4,0,,impossible rain total
+2025-07-21,ASOS-AJG,Mount Carmel,ASOS,EA14,cold,76.5,8,87.3,max temp much colder than neighbors
+2025-07-21,ASOS-BFR,Bedford,ASOS,EA14,wet,1.1,5,0.21,far more rain than any neighbor
+2025-07-22,465201,ELKHORN,RAWS,EA17,rain_alone,0.63,6,0.01,rain no neighbor saw
+2025-07-22,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.61,8,0.0,rain no neighbor saw
+2025-07-22,ASOS-1B9,Mansfield,ASOS,EA23,bad_rain,31.0,0,,impossible rain total
+2025-07-22,ASOS-4R5,La Pointe,ASOS,EA04,cold,74.7,7,84.2,max temp much colder than neighbors
+2025-07-22,ASOS-AIZ,Kaiser Mem,ASOS,EA12,cold,86.0,8,94.4,max temp much colder than neighbors
+2025-07-22,ASOS-FAM,Farmington,ASOS,EA13,cold,84.0,6,94.8,max temp much colder than neighbors
+2025-07-22,ASOS-GNA,Grand Marais,ASOS,EA03,cold,67.0,4,76.2,max temp much colder than neighbors
+2025-07-22,ASOS-ISQ,Manistique,ASOS,EA06,cold,71.4,8,79.7,max temp much colder than neighbors
+2025-07-22,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,71.6,8,80.3,max temp much colder than neighbors
+2025-07-22,ASOS-P58,Port Hope,ASOS,EA08,cold,70.0,3,79.2,max temp much colder than neighbors
+2025-07-23,119001,CRAB ORCHARD,RAWS,EA14,rain_alone,0.57,7,0.03,rain no neighbor saw
+2025-07-23,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.24,8,0.0,rain no neighbor saw
+2025-07-23,ASOS-DBQ,Dubuque,ASOS,EA10,missed,0.0,5,0.71,no rain while most neighbors got rain
+2025-07-23,ASOS-FAM,Farmington,ASOS,EA13,cold,83.0,6,94.8,max temp much colder than neighbors
+2025-07-23,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,79.0,6,88.5,max temp much colder than neighbors
+2025-07-23,ASOS-RNH,New Richmond Mun,ASOS,EA04,missed,0.0,8,0.78,no rain while most neighbors got rain
+2025-07-23,ASOS-RYV,Watertown,ASOS,EA05,cold,69.8,8,90.5,max temp much colder than neighbors
+2025-07-23,ASOS-SIK,Sikeston,ASOS,EA13,rain_alone,0.55,6,0.03,rain no neighbor saw
+2025-07-24,127901,THE TOWER RAWS,RAWS,EA14,cold,75.0,8,90.8,max temp much colder than neighbors
+2025-07-24,202010,BEAR,RAWS,EA07,missed,0.0,3,0.62,no rain while most neighbors got rain
+2025-07-24,ASOS-10G,Millersburg,ASOS,EA16,wet,1.02,8,0.15,far more rain than any neighbor
+2025-07-24,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.91,8,0.0,rain no neighbor saw
+2025-07-24,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,80.6,8,89.1,max temp much colder than neighbors
+2025-07-24,ASOS-D95,Lapeer,ASOS,EA08,wet,1.27,7,0.31,far more rain than any neighbor
+2025-07-24,ASOS-FAM,Farmington,ASOS,EA13,cold,83.0,6,94.7,max temp much colder than neighbors
+2025-07-24,ASOS-GNA,Grand Marais,ASOS,EA03,cold,71.0,4,81.7,max temp much colder than neighbors
+2025-07-24,ASOS-HAE,Hannibal,ASOS,EA10,cold,78.8,4,88.9,max temp much colder than neighbors
+2025-07-25,127901,THE TOWER RAWS,RAWS,EA14,cold,81.0,8,91.6,max temp much colder than neighbors
+2025-07-25,191203,CACO,RAWS,EA23,hot,93.0,7,83.8,max temp much warmer than neighbors
+2025-07-25,55522362,SAND ISLAND,RAWS,EA04,cold,73.0,5,84.7,max temp much colder than neighbors
+2025-07-25,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,wet,1.52,8,0.27,far more rain than any neighbor
+2025-07-25,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,87.0,8,95.4,max temp much colder than neighbors
+2025-07-25,ASOS-CID,Cedar Rapids,ASOS,EA09,missed,0.0,5,0.7,no rain while most neighbors got rain
+2025-07-25,ASOS-DYT,Duluth (Sky Harb,ASOS,EA03,cold,75.2,8,85.1,max temp much colder than neighbors
+2025-07-25,ASOS-EDJ,Bellefontaine,ASOS,EA15,cold,77.0,8,87.5,max temp much colder than neighbors
+2025-07-25,ASOS-FAM,Farmington,ASOS,EA13,cold,84.0,6,93.5,max temp much colder than neighbors
+2025-07-25,ASOS-P53,Munising,ASOS,EA06,cold,75.0,8,85.0,max temp much colder than neighbors
+2025-07-25,ASOS-RFD,Rockford,ASOS,EA10,wet,1.2,3,0.1,far more rain than any neighbor
+2025-07-26,119501,DIXON SPRINGS,RAWS,EA14,rain_alone,0.51,6,0.05,rain no neighbor saw
+2025-07-26,127901,THE TOWER RAWS,RAWS,EA14,cold,76.0,8,90.1,max temp much colder than neighbors
+2025-07-26,210101,KITTSON,RAWS,EA01,wet,1.6,4,0.38,far more rain than any neighbor
+2025-07-26,214201,CARLOS AVERY,RAWS,EA03,hot,105.0,8,87.9,max temp much warmer than neighbors
+2025-07-26,235901,WAH KON TAH,RAWS,EA12,rain_alone,0.65,3,0.0,rain no neighbor saw
+2025-07-26,ASOS-10G,Millersburg,ASOS,EA16,wet,6.67,8,0.98,far more rain than any neighbor
+2025-07-26,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.75,8,0.0,rain no neighbor saw
+2025-07-26,ASOS-AFJ,Washington County,ASOS,EA16,wet,2.83,8,0.16,far more rain than any neighbor
+2025-07-26,ASOS-ESC,Escanaba,ASOS,EA06,cold,79.0,8,87.6,max temp much colder than neighbors
+2025-07-26,ASOS-INL,International Falls,ASOS,EA01,rain_alone,0.61,4,0.02,rain no neighbor saw
+2025-07-26,ASOS-ISQ,Manistique,ASOS,EA06,cold,77.0,8,86.7,max temp much colder than neighbors
+2025-07-26,ASOS-RGK,Red Wing,ASOS,EA05,cold,75.2,8,87.6,max temp much colder than neighbors
+2025-07-26,ASOS-TIP,Rantoul,ASOS,EA10,wet,1.84,4,0.35,far more rain than any neighbor
+2025-07-27,127901,THE TOWER RAWS,RAWS,EA14,cold,82.0,8,90.6,max temp much colder than neighbors
+2025-07-27,201506,TROUT LAKE,RAWS,EA06,hot,96.0,8,87.5,max temp much warmer than neighbors
+2025-07-27,214201,CARLOS AVERY,RAWS,EA03,bad_temp,142.0,0,,impossible temperature
+2025-07-27,361291,QUARRY TRAIL,RAWS,EA17,wet,1.14,8,0.28,far more rain than any neighbor
+2025-07-27,55522362,SAND ISLAND,RAWS,EA04,cold,82.0,5,91.7,max temp much colder than neighbors
+2025-07-27,ASOS-GGP,Logansport,ASOS,EA11,cold,78.8,8,88.1,max temp much colder than neighbors
+2025-07-27,ASOS-ISQ,Manistique,ASOS,EA06,cold,81.0,8,91.1,max temp much colder than neighbors
+2025-07-27,ASOS-LNS,Lancaster,ASOS,EA24,hot,99.0,8,89.0,max temp much warmer than neighbors
+2025-07-27,ASOS-MBY,Moberly,ASOS,EA09,wet,1.16,4,0.15,far more rain than any neighbor
+2025-07-27,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,77.0,8,90.0,max temp much colder than neighbors
+2025-07-27,ASOS-P53,Munising,ASOS,EA06,cold,84.0,8,92.3,max temp much colder than neighbors
+2025-07-27,ASOS-SAZ,Staples,ASOS,EA01,cold,77.0,8,85.6,max temp much colder than neighbors
+2025-07-28,214201,CARLOS AVERY,RAWS,EA03,hot,124.0,8,86.4,max temp much warmer than neighbors
+2025-07-28,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.6,8,0.01,rain no neighbor saw
+2025-07-28,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,cold,84.0,8,92.5,max temp much colder than neighbors
+2025-07-28,ASOS-BOS,Boston/Logan Intl,ASOS,EA23,cold,82.0,8,91.3,max temp much colder than neighbors
+2025-07-28,ASOS-CDD,Crane Lake,ASOS,EA01,cold,73.4,8,82.4,max temp much colder than neighbors
+2025-07-28,ASOS-FAM,Farmington,ASOS,EA13,cold,87.0,6,95.2,max temp much colder than neighbors
+2025-07-28,ASOS-GNA,Grand Marais,ASOS,EA03,cold,73.0,4,84.4,max temp much colder than neighbors
+2025-07-28,ASOS-HAE,Hannibal,ASOS,EA10,cold,80.6,4,90.4,max temp much colder than neighbors
+2025-07-28,ASOS-HFY,Indianapolis - Greenwood Muni,ASOS,EA11,cold,75.0,8,87.3,max temp much colder than neighbors
+2025-07-28,ASOS-LRJ,Le Mars,ASOS,EA02,cold,82.4,5,90.7,max temp much colder than neighbors
+2025-07-28,ASOS-MVL,Morrisville,ASOS,EA21,cold,71.0,8,87.6,max temp much colder than neighbors
+2025-07-29,214201,CARLOS AVERY,RAWS,EA03,hot,118.0,8,83.7,max temp much warmer than neighbors
+2025-07-29,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.32,8,0.0,rain no neighbor saw
+2025-07-29,ASOS-ACK,Nantucket Memorial,ASOS,EA23,cold,80.0,5,91.0,max temp much colder than neighbors
+2025-07-29,ASOS-DXX,Madison,ASOS,EA02,cold,75.2,8,83.6,max temp much colder than neighbors
+2025-07-29,ASOS-FEP,Freeport,ASOS,EA10,cold,71.6,6,87.9,max temp much colder than neighbors
+2025-07-30,127901,THE TOWER RAWS,RAWS,EA14,cold,68.0,8,91.2,max temp much colder than neighbors
+2025-07-30,214201,CARLOS AVERY,RAWS,EA03,bad_temp,138.0,0,,impossible temperature
+2025-07-30,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.22,8,0.04,rain no neighbor saw
+2025-07-30,ASOS-AIO,Atlantic,ASOS,EA09,hot,88.0,8,79.8,max temp much warmer than neighbors
+2025-07-30,ASOS-ASX,Ashland,ASOS,EA04,cold,68.0,8,76.2,max temp much colder than neighbors
+2025-07-30,ASOS-CRW,Charleston/Kanawha,ASOS,EA16,rain_alone,0.52,5,0.01,rain no neighbor saw
+2025-07-30,ASOS-GHG,Marshfield,ASOS,EA23,cold,84.2,8,93.5,max temp much colder than neighbors
+2025-07-30,ASOS-JOT,Joliet,ASOS,EA10,missed,0.0,8,0.6,no rain while most neighbors got rain
+2025-07-30,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,77.0,6,86.5,max temp much colder than neighbors
+2025-07-31,127901,THE TOWER RAWS,RAWS,EA14,cold,65.0,8,81.9,max temp much colder than neighbors
+2025-07-31,214201,CARLOS AVERY,RAWS,EA03,hot,86.0,8,76.6,max temp much warmer than neighbors
+2025-07-31,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,missed,0.0,8,0.84,no rain while most neighbors got rain
+2025-07-31,ASOS-BLM,Belmar-Farmdale,ASOS,EA24,cold,75.2,8,91.4,max temp much colder than neighbors
+2025-07-31,ASOS-FWN,Sussex_Airport,ASOS,EA23,missed,0.0,8,1.0,no rain while most neighbors got rain
+2025-07-31,ASOS-MQJ,Indianapolis Mount Comfort,ASOS,EA11,missed,0.0,8,0.91,no rain while most neighbors got rain
+2025-07-31,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,wet,1.65,8,0.39,far more rain than any neighbor
+2025-07-31,ASOS-SAW,Gwinn/Sawyer Afb,ASOS,EA04,hot,86.0,8,71.9,max temp much warmer than neighbors
+2025-07-31,ASOS-SCH,Schenectady Airport,ASOS,EA20,cold,64.4,8,72.9,max temp much colder than neighbors
+2025-07-31,ASOS-UMP,Indy Metro,ASOS,EA11,missed,0.0,8,0.91,no rain while most neighbors got rain
+2025-08-01,127901,THE TOWER RAWS,RAWS,EA14,cold,61.0,8,78.7,max temp much colder than neighbors
+2025-08-01,465401,PIPESTEM,RAWS,EA17,missed,0.0,8,0.51,no rain while most neighbors got rain
+2025-08-01,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,hot,92.0,8,74.7,max temp much warmer than neighbors
+2025-08-01,ASOS-APG,Phillips Aaf/Aberdn,ASOS,EA24,rain_alone,1.99,8,0.05,rain no neighbor saw
+2025-08-01,ASOS-DDH,Bennington More State,ASOS,EA21,cold,67.0,8,76.6,max temp much colder than neighbors
+2025-08-01,ASOS-GNA,Grand Marais,ASOS,EA03,cold,69.0,4,79.7,max temp much colder than neighbors
+2025-08-02,127901,THE TOWER RAWS,RAWS,EA14,cold,64.0,8,78.7,max temp much colder than neighbors
+2025-08-02,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.63,8,0.01,rain no neighbor saw
+2025-08-02,ASOS-GNA,Grand Marais,ASOS,EA03,cold,71.0,4,81.7,max temp much colder than neighbors
+2025-08-02,ASOS-MNN,Marion,ASOS,EA15,cold,56.0,8,75.3,max temp much colder than neighbors
+2025-08-02,ASOS-S24,Fremont,ASOS,EA15,rain_alone,0.51,5,0.0,rain no neighbor saw
+2025-08-02,ASOS-SAZ,Staples,ASOS,EA01,cold,59.0,8,75.9,max temp much colder than neighbors
+2025-08-03,127901,THE TOWER RAWS,RAWS,EA14,cold,71.0,8,81.9,max temp much colder than neighbors
+2025-08-03,201506,TROUT LAKE,RAWS,EA06,hot,88.0,8,79.7,max temp much warmer than neighbors
+2025-08-03,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,0.97,8,0.0,rain no neighbor saw
+2025-08-03,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.67,8,0.0,rain no neighbor saw
+2025-08-03,ASOS-FGN,Flag Island,ASOS,EA01,cold,37.4,5,78.1,max temp much colder than neighbors
+2025-08-03,ASOS-GNA,Grand Marais,ASOS,EA03,cold,68.0,4,79.7,max temp much colder than neighbors
+2025-08-03,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,62.6,8,78.9,max temp much colder than neighbors
+2025-08-04,127901,THE TOWER RAWS,RAWS,EA14,cold,70.0,8,81.5,max temp much colder than neighbors
+2025-08-04,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,0.61,8,0.0,rain no neighbor saw
+2025-08-04,ASOS-FGN,Flag Island,ASOS,EA01,cold,33.8,5,76.9,max temp much colder than neighbors
+2025-08-04,ASOS-SUX,Sioux City,ASOS,EA02,cold,67.0,6,75.6,max temp much colder than neighbors
+2025-08-04,ASOS-TWM,Two Harbors,ASOS,EA03,hot,80.6,8,72.3,max temp much warmer than neighbors
+2025-08-04,ASOS-W29,Stevensville,ASOS,EA24,rain_alone,6.86,8,0.02,rain no neighbor saw
+2025-08-05,ASOS-FEP,Freeport,ASOS,EA10,cold,71.6,7,82.1,max temp much colder than neighbors
+2025-08-05,ASOS-FGN,Flag Island,ASOS,EA01,cold,33.8,5,78.8,max temp much colder than neighbors
+2025-08-05,ASOS-GNA,Grand Marais,ASOS,EA03,cold,69.0,4,78.2,max temp much colder than neighbors
+2025-08-05,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,73.4,8,82.2,max temp much colder than neighbors
+2025-08-05,ASOS-WST,Westerly,ASOS,EA23,cold,65.0,8,79.9,max temp much colder than neighbors
+2025-08-06,ASOS-ADU,Audubon,ASOS,EA09,missed,0.0,5,0.78,no rain while most neighbors got rain
+2025-08-06,ASOS-AIO,Atlantic,ASOS,EA09,missed,0.0,8,0.64,no rain while most neighbors got rain
+2025-08-06,ASOS-FAM,Farmington,ASOS,EA13,cold,78.8,6,91.2,max temp much colder than neighbors
+2025-08-06,ASOS-FEP,Freeport,ASOS,EA10,cold,71.6,7,83.3,max temp much colder than neighbors
+2025-08-06,ASOS-FZY,Oswego County,ASOS,EA18,missed,0.0,3,0.91,no rain while most neighbors got rain
+2025-08-06,ASOS-MCD,Mackinac Island,ASOS,EA06,cold,73.4,8,84.9,max temp much colder than neighbors
+2025-08-06,ASOS-MML,Marshall/Ryan,ASOS,EA02,missed,0.0,7,0.56,no rain while most neighbors got rain
+2025-08-06,ASOS-P58,Port Hope,ASOS,EA08,cold,76.0,3,85.4,max temp much colder than neighbors
+2025-08-06,ASOS-SLH,Cheboygan,ASOS,EA07,cold,77.5,8,85.7,max temp much colder than neighbors
+2025-08-07,127901,THE TOWER RAWS,RAWS,EA14,cold,69.0,8,87.6,max temp much colder than neighbors
+2025-08-07,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.27,8,0.0,rain no neighbor saw
+2025-08-07,ASOS-6B0,Middlebury,ASOS,EA21,rain_alone,0.84,8,0.01,rain no neighbor saw
+2025-08-07,ASOS-GNA,Grand Marais,ASOS,EA03,cold,72.0,4,87.7,max temp much colder than neighbors
+2025-08-07,ASOS-GON,Groton/New London,ASOS,EA23,hot,90.0,8,78.1,max temp much warmer than neighbors
+2025-08-07,ASOS-ISQ,Manistique,ASOS,EA06,cold,77.0,8,85.6,max temp much colder than neighbors
+2025-08-07,ASOS-LWD,Lamoni,ASOS,EA09,missed,0.0,3,2.12,no rain while most neighbors got rain
+2025-08-07,ASOS-OTG,Worthington,ASOS,EA02,rain_alone,0.52,3,0.0,rain no neighbor saw
+2025-08-08,127901,THE TOWER RAWS,RAWS,EA14,cold,63.0,8,89.0,max temp much colder than neighbors
+2025-08-08,170791,MCFARLAND HILL,RAWS,EA22,hot,85.0,3,76.8,max temp much warmer than neighbors
+2025-08-08,239004,BIG SPRING,RAWS,EA13,hot,103.0,7,94.7,max temp much warmer than neighbors
+2025-08-08,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.79,8,0.0,rain no neighbor saw
+2025-08-08,ASOS-14Y,Long Prairie,ASOS,EA02,cold,73.4,8,81.6,max temp much colder than neighbors
+2025-08-08,ASOS-BHB,Bar Habor,ASOS,EA22,cold,78.0,3,86.2,max temp much colder than neighbors
+2025-08-08,ASOS-ESC,Escanaba,ASOS,EA06,cold,82.0,8,90.2,max temp much colder than neighbors
+2025-08-08,ASOS-FGN,Flag Island,ASOS,EA01,cold,33.8,5,79.9,max temp much colder than neighbors
+2025-08-08,ASOS-GNA,Grand Marais,ASOS,EA03,cold,72.0,4,84.2,max temp much colder than neighbors
+2025-08-08,ASOS-GON,Groton/New London,ASOS,EA23,hot,87.0,8,78.0,max temp much warmer than neighbors
+2025-08-08,ASOS-ISQ,Manistique,ASOS,EA06,cold,78.3,8,89.2,max temp much colder than neighbors
+2025-08-08,ASOS-MZH,Moose Lake,ASOS,EA03,cold,73.4,8,84.2,max temp much colder than neighbors
+2025-08-08,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,75.2,8,86.6,max temp much colder than neighbors
+2025-08-09,127901,THE TOWER RAWS,RAWS,EA14,cold,67.0,8,89.3,max temp much colder than neighbors
+2025-08-09,239004,BIG SPRING,RAWS,EA13,hot,102.0,7,92.4,max temp much warmer than neighbors
+2025-08-09,55522366,SHIMEK STATE FOREST,RAWS,EA10,rain_alone,0.56,4,0.02,rain no neighbor saw
+2025-08-09,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,2.36,8,0.0,rain no neighbor saw
+2025-08-09,ASOS-AXA,Algona,ASOS,EA02,wet,2.64,8,0.41,far more rain than any neighbor
+2025-08-09,ASOS-FGN,Flag Island,ASOS,EA01,cold,33.8,5,78.9,max temp much colder than neighbors
+2025-08-09,ASOS-SPW,Spencer,ASOS,EA02,missed,0.0,5,0.52,no rain while most neighbors got rain
+2025-08-10,127901,THE TOWER RAWS,RAWS,EA14,cold,64.0,8,89.8,max temp much colder than neighbors
+2025-08-10,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,82.0,8,91.9,max temp much colder than neighbors
+2025-08-10,239004,BIG SPRING,RAWS,EA13,hot,103.0,7,92.1,max temp much warmer than neighbors
+2025-08-10,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,8.83,8,0.0,rain no neighbor saw
+2025-08-10,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.83,8,0.0,rain no neighbor saw
+2025-08-10,ASOS-BLV,Belleville - Scott Afb,ASOS,EA14,missed,0.0,6,0.85,no rain while most neighbors got rain
+2025-08-10,ASOS-EAU,Eau Claire,ASOS,EA05,rain_alone,0.83,4,0.01,rain no neighbor saw
+2025-08-10,ASOS-FGN,Flag Island,ASOS,EA01,cold,33.8,5,73.0,max temp much colder than neighbors
+2025-08-10,ASOS-GNA,Grand Marais,ASOS,EA03,cold,72.0,4,83.0,max temp much colder than neighbors
+2025-08-11,127901,THE TOWER RAWS,RAWS,EA14,cold,70.0,8,90.9,max temp much colder than neighbors
+2025-08-11,171603,RACHEL CARSON - FTS,RAWS,EA22,cold,84.0,8,94.2,max temp much colder than neighbors
+2025-08-11,202010,BEAR,RAWS,EA07,wet,1.13,3,0.18,far more rain than any neighbor
+2025-08-11,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,0.99,8,0.0,rain no neighbor saw
+2025-08-11,ASOS-12N,Andover/Aeroflex-Andover Airport,ASOS,EA23,rain_alone,1.91,8,0.0,rain no neighbor saw
+2025-08-11,ASOS-MVL,Morrisville,ASOS,EA21,cold,65.0,8,92.6,max temp much colder than neighbors
+2025-08-11,ASOS-P53,Munising,ASOS,EA06,cold,75.0,8,83.5,max temp much colder than neighbors
+2025-08-11,ASOS-RKD,Rockland/Knox(Awos),ASOS,EA22,cold,81.0,6,92.9,max temp much colder than neighbors
+2025-08-11,ASOS-VES,Versailles,ASOS,EA15,cold,77.0,8,88.8,max temp much colder than neighbors
+2025-08-12,127901,THE TOWER RAWS,RAWS,EA14,cold,65.0,8,89.4,max temp much colder than neighbors
+2025-08-12,ASOS-10G,Millersburg,ASOS,EA16,rain_alone,0.66,8,0.0,rain no neighbor saw
+2025-08-12,ASOS-2W6,Leonardtown,ASOS,EA24,cold,77.0,8,87.8,max temp much colder than neighbors
+2025-08-12,ASOS-BIV,Holland,ASOS,EA08,cold,71.0,8,86.8,max temp much colder than neighbors
+2025-08-12,ASOS-GNA,Grand Marais,ASOS,EA03,cold,70.0,4,78.2,max temp much colder than neighbors
+2025-08-12,ASOS-HPT,Hampton,ASOS,EA02,cold,69.8,8,81.3,max temp much colder than neighbors
+2025-08-12,ASOS-POF,Popular Bluff,ASOS,EA13,missed,0.0,3,0.92,no rain while most neighbors got rain
+2025-08-13,127901,THE TOWER RAWS,RAWS,EA14,cold,60.0,8,86.0,max temp much colder than neighbors
+2025-08-13,ASOS-2W6,Leonardtown,ASOS,EA24,cold,75.7,8,86.7,max temp much colder than neighbors
+2025-08-13,ASOS-BHB,Bar Habor,ASOS,EA22,cold,81.0,3,91.2,max temp much colder than neighbors
+2025-08-13,ASOS-GEZ,Shelbyville,ASOS,EA11,rain_alone,0.54,5,0.04,rain no neighbor saw
+2025-08-13,ASOS-LJF,Litchfield,ASOS,EA02,cold,64.4,8,78.8,max temp much colder than neighbors
+2025-08-13,ASOS-LNS,Lancaster,ASOS,EA24,wet,1.7,8,0.25,far more rain than any neighbor
+2025-08-13,ASOS-PBG,Plattsburgh Afb,ASOS,EA20,cold,79.0,8,87.3,max temp much colder than neighbors
+2025-08-14,127901,THE TOWER RAWS,RAWS,EA14,cold,64.0,8,88.2,max temp much colder than neighbors
+2025-08-14,206901,HOLLY,RAWS,EA08,rain_alone,0.52,8,0.0,rain no neighbor saw
+2025-08-14,55522213,BEAR GAP,RAWS,EA19,rain_alone,1.76,8,0.0,rain no neighbor saw
+2025-08-14,55522362,SAND ISLAND,RAWS,EA04,cold,71.0,5,80.4,max temp much colder than neighbors
+2025-08-14,ASOS-CMX,Hancock,ASOS,EA04,cold,72.0,4,80.4,max temp much colder than neighbors
+2025-08-15,127901,THE TOWER RAWS,RAWS,EA14,cold,64.0,8,91.2,max temp much colder than neighbors
+2025-08-15,200503,PELKIE,RAWS,EA04,wet,1.16,4,0.2,far more rain than any neighbor
+2025-08-15,210703,GRAND PORTAGE,RAWS,EA03,hot,82.0,3,73.2,max temp much warmer than neighbors
+2025-08-15,215601,MN VALLEY,RAWS,EA02,missed,0.0,8,0.59,no rain while most neighbors got rain
+2025-08-15,55522362,SAND ISLAND,RAWS,EA04,cold,76.0,5,84.3,max temp much colder than neighbors
+2025-08-15,ASOS-CKC,Grand Marais/Coo,ASOS,EA03,cold,71.6,4,80.5,max temp much colder than neighbors
+2025-08-15,ASOS-GNA,Grand Marais,ASOS,EA03,cold,74.0,4,84.7,max temp much colder than neighbors
+2025-08-15,ASOS-ISQ,Manistique,ASOS,EA06,cold,77.0,8,85.0,max temp much colder than neighbors
+2025-08-15,ASOS-RDG,Reading/Spaatz Fld,ASOS,EA24,wet,1.13,8,0.06,far more rain than any neighbor
+2025-08-16,127901,THE TOWER RAWS,RAWS,EA14,cold,74.0,8,91.7,max temp much colder than neighbors
+2025-08-16,210903,RED LAKE,RAWS,EA01,rain_alone,0.6,7,0.02,rain no neighbor saw
+2025-08-16,ASOS-BAK,Columbus/Balkala,ASOS,EA14,cold,82.0,8,91.1,max temp much colder than neighbors
+2025-08-16,ASOS-BHB,Bar Habor,ASOS,EA22,cold,77.0,3,85.4,max temp much colder than neighbors
+2025-08-16,ASOS-DBQ,Dubuque,ASOS,EA10,missed,0.0,4,0.67,no rain while most neighbors got rain
+2025-08-16,ASOS-DNV,Danville,ASOS,EA11,wet,3.3,5,0.36,far more rain than any neighbor
+2025-08-16,ASOS-IWD,Ironwood,ASOS,EA04,missed,0.0,8,0.9,no rain while most neighbors got rain
+2025-08-16,ASOS-MTW,Manitowac Muni,ASOS,EA05,missed,0.0,5,0.8,no rain while most neighbors got rain
+2025-08-16,ASOS-NEL,Lakehurst Nas,ASOS,EA24,cold,71.0,8,86.4,max temp much colder than neighbors
+2025-08-17,127901,THE TOWER RAWS,RAWS,EA14,cold,65.0,8,86.4,max temp much colder than neighbors
+2025-08-17,ASOS-FME,Fort Meade,ASOS,EA24,cold,69.8,8,94.2,max temp much colder than neighbors
+2025-08-17,ASOS-GVQ,Batavia,ASOS,EA18,cold,69.0,6,78.4,max temp much colder than neighbors
+2025-08-17,ASOS-PNE,Philadelphia Ne,ASOS,EA24,missed,0.0,8,0.51,no rain while most neighbors got rain
 2026-11-08,119501,DIXON SPRINGS,RAWS,EA14,rain_alone,0.96,4,0.02,rain no neighbor saw
 2026-11-08,213403,ST. CROIX,RAWS,EA03,cold,47.0,8,56.1,max temp much colder than neighbors
 2026-11-08,55522362,SAND ISLAND,RAWS,EA04,bad_rain,70.15,0,,impossible rain total
@@ -5404,9 +6631,7 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-17,213403,ST. CROIX,RAWS,EA03,cold,42.0,8,52.6,max temp much colder than neighbors
 2026-11-17,55522362,SAND ISLAND,RAWS,EA04,bad_rain,365.99,0,,impossible rain total
 2026-11-17,55522362,SAND ISLAND,RAWS,EA04,hot,72.0,5,52.7,max temp much warmer than neighbors
-2026-11-17,ASOS-IKK,Kankakee,ASOS,EA11,cold,36.0,8,57.2,max temp much colder than neighbors
-2026-11-17,ASOS-OTM,Ottumwa,ASOS,EA09,cold,51.0,8,59.2,max temp much colder than neighbors
+2026-11-17,ASOS-IKK,Kankakee,ASOS,EA11,cold,36.0,8,57.0,max temp much colder than neighbors
 2026-11-18,213403,ST. CROIX,RAWS,EA03,cold,47.0,8,56.1,max temp much colder than neighbors
 2026-11-18,55522362,SAND ISLAND,RAWS,EA04,bad_rain,209.78,0,,impossible rain total
 2026-11-18,55522362,SAND ISLAND,RAWS,EA04,hot,102.0,5,59.0,max temp much warmer than neighbors
-2026-11-18,ASOS-NAK,Annapolis,ASOS,EA24,cold,58.0,8,67.3,max temp much colder than neighbors
