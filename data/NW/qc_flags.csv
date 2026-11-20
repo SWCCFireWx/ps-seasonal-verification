@@ -5534,6 +5534,634 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-04-12,353307,CALIMUS,RAWS,NW07,cold,32.0,8,41.8,max temp much colder than neighbors
 2026-04-13,353036,GRANDAD,RAWS,NW04,cold,36.0,8,46.6,max temp much colder than neighbors
 2026-04-13,451412,HOZOMEEN,RAWS,NW01,hot,56.0,3,46.3,max temp much warmer than neighbors
+2026-04-15,353036,GRANDAD,RAWS,NW04,cold,28.0,8,40.2,max temp much colder than neighbors
+2026-04-15,353616,RED BUTTE,RAWS,NW12,hot,54.0,6,45.8,max temp much warmer than neighbors
+2026-04-15,451917,BUCK CREEK,RAWS,NW02,missed,0.0,8,0.64,no rain while most neighbors got rain
+2026-04-16,352605,ROUND MOUNTAIN,RAWS,NW07,cold,30.0,8,38.6,max temp much colder than neighbors
+2026-04-16,353036,GRANDAD,RAWS,NW04,cold,32.0,8,47.6,max temp much colder than neighbors
+2026-04-16,ASOS-SMP,Stampede Pass,ASOS,NW05,cold,31.0,8,40.7,max temp much colder than neighbors
+2026-04-17,351419,POINT PROM II,RAWS,NW11,rain_alone,0.51,8,0.0,rain no neighbor saw
+2026-04-17,353036,GRANDAD,RAWS,NW04,cold,48.0,8,62.1,max temp much colder than neighbors
+2026-04-17,450211,OWL MT,RAWS,NW01,hot,53.0,7,44.5,max temp much warmer than neighbors
+2026-04-18,352820,SEVEN MILE CREEK,RAWS,NW03,cold,63.0,7,76.3,max temp much colder than neighbors
+2026-04-18,353036,GRANDAD,RAWS,NW04,cold,59.0,8,72.7,max temp much colder than neighbors
+2026-04-18,ASOS-6S2,Florence,ASOS,NW03,cold,57.2,8,76.8,max temp much colder than neighbors
+2026-04-18,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,74.9,max temp much colder than neighbors
+2026-04-18,ASOS-SMP,Stampede Pass,ASOS,NW05,cold,50.0,8,59.3,max temp much colder than neighbors
+2026-04-19,353036,GRANDAD,RAWS,NW04,cold,56.0,8,69.7,max temp much colder than neighbors
+2026-04-19,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,75.5,max temp much colder than neighbors
+2026-04-19,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,67.0,8,76.7,max temp much colder than neighbors
+2026-04-19,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,74.3,max temp much colder than neighbors
+2026-04-19,ASOS-SMP,Stampede Pass,ASOS,NW05,cold,57.0,8,65.4,max temp much colder than neighbors
+2026-04-20,353036,GRANDAD,RAWS,NW04,cold,53.0,8,65.3,max temp much colder than neighbors
+2026-04-20,ASOS-6S2,Florence,ASOS,NW03,cold,60.8,8,69.9,max temp much colder than neighbors
+2026-04-20,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,61.0,8,73.4,max temp much colder than neighbors
+2026-04-20,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,68.2,max temp much colder than neighbors
+2026-04-21,351319,BLACK MTN RIDGE,RAWS,NW11,cold,57.0,4,67.9,max temp much colder than neighbors
+2026-04-21,353036,GRANDAD,RAWS,NW04,cold,36.0,8,48.7,max temp much colder than neighbors
+2026-04-21,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,70.0,8,60.2,max temp much warmer than neighbors
+2026-04-21,ASOS-REO,Rome,ASOS,NW12,hot,78.0,4,66.8,max temp much warmer than neighbors
+2026-04-21,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,71.0,8,61.0,max temp much warmer than neighbors
+2026-04-22,353036,GRANDAD,RAWS,NW04,cold,34.0,8,45.2,max temp much colder than neighbors
+2026-04-22,353307,CALIMUS,RAWS,NW07,cold,33.0,8,41.1,max temp much colder than neighbors
+2026-04-22,451412,HOZOMEEN,RAWS,NW01,hot,66.0,3,52.3,max temp much warmer than neighbors
+2026-04-22,452306,SEDGE RIDGE,RAWS,NW05,hot,60.0,8,42.0,max temp much warmer than neighbors
+2026-04-22,ASOS-SKA,Fairchild Afb,ASOS,NW10,hot,67.0,8,52.8,max temp much warmer than neighbors
+2026-04-23,351419,POINT PROM II,RAWS,NW11,cold,32.0,8,41.3,max temp much colder than neighbors
+2026-04-24,351502,HARL BUTTE,RAWS,NW11,cold,31.0,8,39.3,max temp much colder than neighbors
+2026-04-24,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,70.3,max temp much colder than neighbors
+2026-04-24,353036,GRANDAD,RAWS,NW04,cold,54.0,8,67.1,max temp much colder than neighbors
+2026-04-24,ASOS-NOW,Port Angeles,ASOS,NW01,cold,56.0,8,65.5,max temp much colder than neighbors
+2026-04-25,353036,GRANDAD,RAWS,NW04,cold,48.0,8,62.1,max temp much colder than neighbors
+2026-04-25,450312,HUMPTULLIPS,RAWS,NW01,hot,69.0,8,60.1,max temp much warmer than neighbors
+2026-04-25,ASOS-6S2,Florence,ASOS,NW03,cold,60.8,8,70.1,max temp much colder than neighbors
+2026-04-25,ASOS-SXT,Sexton Summit,ASOS,NW04,cold,41.0,8,58.5,max temp much colder than neighbors
+2026-04-26,350208,TILLAMOOK,RAWS,NW02,cold,60.0,8,68.7,max temp much colder than neighbors
+2026-04-26,353036,GRANDAD,RAWS,NW04,cold,45.0,8,57.6,max temp much colder than neighbors
+2026-04-26,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,58.0,8,69.9,max temp much colder than neighbors
+2026-04-26,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,56.0,7,70.4,max temp much colder than neighbors
+2026-04-26,ASOS-ONP,Newport Municip,ASOS,NW02,cold,53.6,8,67.4,max temp much colder than neighbors
+2026-04-26,ASOS-TMK,Tillamook,ASOS,NW02,cold,59.0,8,68.8,max temp much colder than neighbors
+2026-04-27,350726,WANDERERS PEAK,RAWS,NW03,cold,46.0,8,54.9,max temp much colder than neighbors
+2026-04-27,352547,VILLAGE CREEK,RAWS,NW03,hot,65.0,8,56.8,max temp much warmer than neighbors
+2026-04-27,353036,GRANDAD,RAWS,NW04,cold,44.0,8,59.6,max temp much colder than neighbors
+2026-04-27,451924,DRY CRK,RAWS,NW02,hot,59.0,8,46.1,max temp much warmer than neighbors
+2026-04-27,452306,SEDGE RIDGE,RAWS,NW05,hot,66.0,8,54.7,max temp much warmer than neighbors
+2026-04-27,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,hot,66.0,8,55.9,max temp much warmer than neighbors
+2026-04-27,ASOS-ONP,Newport Municip,ASOS,NW02,cold,51.8,8,60.8,max temp much colder than neighbors
+2026-04-27,ASOS-SXT,Sexton Summit,ASOS,NW04,cold,48.0,8,57.8,max temp much colder than neighbors
+2026-04-28,352820,SEVEN MILE CREEK,RAWS,NW03,cold,57.0,7,67.3,max temp much colder than neighbors
+2026-04-28,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,64.3,max temp much colder than neighbors
+2026-04-29,350208,TILLAMOOK,RAWS,NW02,cold,61.0,8,70.4,max temp much colder than neighbors
+2026-04-29,352820,SEVEN MILE CREEK,RAWS,NW03,cold,59.0,7,71.9,max temp much colder than neighbors
+2026-04-29,ASOS-6S2,Florence,ASOS,NW03,cold,57.2,8,70.6,max temp much colder than neighbors
+2026-04-29,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,70.0,max temp much colder than neighbors
+2026-04-29,ASOS-TMK,Tillamook,ASOS,NW02,cold,60.8,8,70.4,max temp much colder than neighbors
+2026-04-30,350208,TILLAMOOK,RAWS,NW02,cold,68.0,8,80.6,max temp much colder than neighbors
+2026-04-30,352820,SEVEN MILE CREEK,RAWS,NW03,cold,57.0,7,76.3,max temp much colder than neighbors
+2026-04-30,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,62.0,8,75.8,max temp much colder than neighbors
+2026-04-30,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,80.9,max temp much colder than neighbors
+2026-04-30,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,70.0,7,78.4,max temp much colder than neighbors
+2026-04-30,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,59.0,8,67.5,max temp much colder than neighbors
+2026-04-30,ASOS-ONP,Newport Municip,ASOS,NW02,cold,53.6,8,79.4,max temp much colder than neighbors
+2026-04-30,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,80.7,max temp much colder than neighbors
+2026-05-01,350113,TIDEWATER,RAWS,NW02,cold,50.0,8,65.2,max temp much colder than neighbors
+2026-05-01,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,56.0,8,66.9,max temp much colder than neighbors
+2026-05-01,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,56.0,8,71.3,max temp much colder than neighbors
+2026-05-01,ASOS-ONP,Newport Municip,ASOS,NW02,cold,53.6,8,70.7,max temp much colder than neighbors
+2026-05-02,352820,SEVEN MILE CREEK,RAWS,NW03,cold,55.0,7,73.9,max temp much colder than neighbors
+2026-05-02,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,64.0,8,77.1,max temp much colder than neighbors
+2026-05-02,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,67.0,7,77.6,max temp much colder than neighbors
+2026-05-02,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,71.3,max temp much colder than neighbors
+2026-05-03,350208,TILLAMOOK,RAWS,NW02,cold,82.0,8,90.7,max temp much colder than neighbors
+2026-05-03,352820,SEVEN MILE CREEK,RAWS,NW03,cold,59.0,7,85.3,max temp much colder than neighbors
+2026-05-03,353036,GRANDAD,RAWS,NW04,cold,66.0,8,81.6,max temp much colder than neighbors
+2026-05-03,450312,HUMPTULLIPS,RAWS,NW01,hot,88.0,8,80.0,max temp much warmer than neighbors
+2026-05-03,ASOS-6S2,Florence,ASOS,NW03,cold,57.2,8,90.6,max temp much colder than neighbors
+2026-05-03,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,65.0,8,76.5,max temp much colder than neighbors
+2026-05-03,ASOS-ONP,Newport Municip,ASOS,NW02,cold,66.2,8,90.9,max temp much colder than neighbors
+2026-05-03,ASOS-TMK,Tillamook,ASOS,NW02,cold,82.4,8,90.8,max temp much colder than neighbors
+2026-05-04,353115,ILLINOIS VALLEY AIRPORT,RAWS,NW04,hot,67.0,8,56.7,max temp much warmer than neighbors
+2026-05-04,450117,COUGAR MOUNTAIN,RAWS,NW01,hot,76.0,8,66.4,max temp much warmer than neighbors
+2026-05-04,450131,BUCK KNOLL,RAWS,NW01,hot,79.0,8,69.1,max temp much warmer than neighbors
+2026-05-04,452306,SEDGE RIDGE,RAWS,NW05,hot,87.0,8,76.1,max temp much warmer than neighbors
+2026-05-04,ASOS-4S2,Hood River,ASOS,NW06,cold,77.0,8,86.2,max temp much colder than neighbors
+2026-05-04,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,61.0,8,78.5,max temp much colder than neighbors
+2026-05-04,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,61.0,7,77.6,max temp much colder than neighbors
+2026-05-04,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,hot,90.0,8,79.2,max temp much warmer than neighbors
+2026-05-04,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,71.2,max temp much colder than neighbors
+2026-05-05,352024,YELLOWSTONE MTN.,RAWS,NW03,hot,68.0,8,57.6,max temp much warmer than neighbors
+2026-05-05,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,7,73.3,max temp much colder than neighbors
+2026-05-05,ASOS-6S2,Florence,ASOS,NW03,cold,59.0,8,72.6,max temp much colder than neighbors
+2026-05-05,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,59.0,8,67.7,max temp much colder than neighbors
+2026-05-05,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,70.7,max temp much colder than neighbors
+2026-05-06,350215,CEDAR,RAWS,NW02,cold,49.0,8,61.2,max temp much colder than neighbors
+2026-05-06,350727,HORSE CREEK,RAWS,NW03,cold,63.0,8,71.8,max temp much colder than neighbors
+2026-05-06,351710,ROCKHOUSE 1,RAWS,NW02,hot,73.0,8,64.0,max temp much warmer than neighbors
+2026-05-06,352916,AGNESS2,RAWS,NW04,hot,69.0,8,58.1,max temp much warmer than neighbors
+2026-05-06,450121,TOMS CREEK,RAWS,NW01,hot,60.0,8,48.3,max temp much warmer than neighbors
+2026-05-06,450211,OWL MT,RAWS,NW01,hot,57.0,7,45.3,max temp much warmer than neighbors
+2026-05-06,451412,HOZOMEEN,RAWS,NW01,hot,73.0,3,63.3,max temp much warmer than neighbors
+2026-05-07,352820,SEVEN MILE CREEK,RAWS,NW03,cold,65.0,7,76.3,max temp much colder than neighbors
+2026-05-07,450211,OWL MT,RAWS,NW01,bad_rain,103.89,0,,impossible rain total
+2026-05-07,ASOS-6S2,Florence,ASOS,NW03,cold,59.0,8,76.4,max temp much colder than neighbors
+2026-05-07,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,59.0,8,70.3,max temp much colder than neighbors
+2026-05-07,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,57.0,7,67.9,max temp much colder than neighbors
+2026-05-07,ASOS-NOW,Port Angeles,ASOS,NW01,cold,56.0,8,64.1,max temp much colder than neighbors
+2026-05-07,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,76.5,max temp much colder than neighbors
+2026-05-07,ASOS-TMK,Tillamook,ASOS,NW02,cold,60.8,8,71.4,max temp much colder than neighbors
+2026-05-08,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,7,73.9,max temp much colder than neighbors
+2026-05-08,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,71.0,max temp much colder than neighbors
+2026-05-09,351710,ROCKHOUSE 1,RAWS,NW02,hot,80.0,8,71.9,max temp much warmer than neighbors
+2026-05-09,352820,SEVEN MILE CREEK,RAWS,NW03,cold,66.0,7,81.9,max temp much colder than neighbors
+2026-05-09,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,80.1,max temp much colder than neighbors
+2026-05-09,ASOS-NOW,Port Angeles,ASOS,NW01,cold,57.0,8,69.2,max temp much colder than neighbors
+2026-05-09,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,79.7,max temp much colder than neighbors
+2026-05-10,352820,SEVEN MILE CREEK,RAWS,NW03,cold,63.0,7,73.9,max temp much colder than neighbors
+2026-05-10,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,63.0,8,71.4,max temp much colder than neighbors
+2026-05-10,450211,OWL MT,RAWS,NW01,hot,62.0,7,53.5,max temp much warmer than neighbors
+2026-05-10,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,73.2,max temp much colder than neighbors
+2026-05-11,350208,TILLAMOOK,RAWS,NW02,cold,67.0,8,80.4,max temp much colder than neighbors
+2026-05-11,352820,SEVEN MILE CREEK,RAWS,NW03,cold,64.0,7,82.0,max temp much colder than neighbors
+2026-05-11,450211,OWL MT,RAWS,NW01,hot,69.0,7,59.8,max temp much warmer than neighbors
+2026-05-11,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,81.8,max temp much colder than neighbors
+2026-05-11,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,80.4,max temp much colder than neighbors
+2026-05-11,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,80.5,max temp much colder than neighbors
+2026-05-12,451721,FIRE TRNG. ACADEMY,RAWS,NW01,hot,87.0,8,78.1,max temp much warmer than neighbors
+2026-05-12,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,65.0,8,80.0,max temp much colder than neighbors
+2026-05-12,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,71.0,7,81.9,max temp much colder than neighbors
+2026-05-12,ASOS-SMP,Stampede Pass,ASOS,NW05,cold,69.0,8,77.7,max temp much colder than neighbors
+2026-05-13,353036,GRANDAD,RAWS,NW04,cold,50.0,8,58.8,max temp much colder than neighbors
+2026-05-13,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,75.0,8,58.3,max temp much warmer than neighbors
+2026-05-13,ASOS-JSY,Joseph State,ASOS,NW11,hot,80.0,8,71.2,max temp much warmer than neighbors
+2026-05-13,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,missed,0.0,8,0.65,no rain while most neighbors got rain
+2026-05-13,ASOS-SKA,Fairchild Afb,ASOS,NW10,hot,81.0,8,65.2,max temp much warmer than neighbors
+2026-05-13,ASOS-SMP,Stampede Pass,ASOS,NW05,hot,68.0,8,51.5,max temp much warmer than neighbors
+2026-05-13,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,76.0,8,58.5,max temp much warmer than neighbors
+2026-05-14,ASOS-MEH,Meacham,ASOS,NW11,cold,43.0,8,60.7,max temp much colder than neighbors
+2026-05-15,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,missed,0.0,8,0.55,no rain while most neighbors got rain
+2026-05-16,353036,GRANDAD,RAWS,NW04,cold,40.0,8,49.7,max temp much colder than neighbors
+2026-05-17,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,65.5,max temp much colder than neighbors
+2026-05-17,ASOS-SMP,Stampede Pass,ASOS,NW05,cold,38.0,8,48.3,max temp much colder than neighbors
+2026-05-18,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,74.3,max temp much colder than neighbors
+2026-05-18,450312,HUMPTULLIPS,RAWS,NW01,hot,70.0,8,60.5,max temp much warmer than neighbors
+2026-05-18,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,60.0,7,68.6,max temp much colder than neighbors
+2026-05-18,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,72.9,max temp much colder than neighbors
+2026-05-19,352820,SEVEN MILE CREEK,RAWS,NW03,cold,63.0,7,76.8,max temp much colder than neighbors
+2026-05-19,450121,TOMS CREEK,RAWS,NW01,hot,61.0,8,51.6,max temp much warmer than neighbors
+2026-05-19,ASOS-6S2,Florence,ASOS,NW03,cold,60.8,8,74.6,max temp much colder than neighbors
+2026-05-19,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,73.7,max temp much colder than neighbors
+2026-05-20,352820,SEVEN MILE CREEK,RAWS,NW03,cold,58.0,7,76.3,max temp much colder than neighbors
+2026-05-20,ASOS-6S2,Florence,ASOS,NW03,cold,59.0,8,73.5,max temp much colder than neighbors
+2026-05-20,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,72.4,max temp much colder than neighbors
+2026-05-20,ASOS-TMK,Tillamook,ASOS,NW02,cold,60.8,8,71.0,max temp much colder than neighbors
+2026-05-21,350208,TILLAMOOK,RAWS,NW02,cold,68.0,8,82.9,max temp much colder than neighbors
+2026-05-21,352820,SEVEN MILE CREEK,RAWS,NW03,cold,59.0,7,85.3,max temp much colder than neighbors
+2026-05-21,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,71.0,8,81.1,max temp much colder than neighbors
+2026-05-21,452306,SEDGE RIDGE,RAWS,NW05,cold,62.0,8,70.0,max temp much colder than neighbors
+2026-05-21,55522295,JIM CREEK,RAWS,NW01,hot,77.0,8,68.6,max temp much warmer than neighbors
+2026-05-21,ASOS-6S2,Florence,ASOS,NW03,cold,60.8,8,83.6,max temp much colder than neighbors
+2026-05-21,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,69.0,8,80.5,max temp much colder than neighbors
+2026-05-21,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,7,78.7,max temp much colder than neighbors
+2026-05-21,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,61.0,8,70.8,max temp much colder than neighbors
+2026-05-21,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,84.4,max temp much colder than neighbors
+2026-05-21,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,83.0,max temp much colder than neighbors
+2026-05-22,351604,CANNIBAL MOUNTAIN,RAWS,NW03,cold,64.0,8,75.6,max temp much colder than neighbors
+2026-05-22,351710,ROCKHOUSE 1,RAWS,NW02,hot,84.0,8,75.7,max temp much warmer than neighbors
+2026-05-22,352820,SEVEN MILE CREEK,RAWS,NW03,cold,56.0,7,83.3,max temp much colder than neighbors
+2026-05-22,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,69.0,8,80.3,max temp much colder than neighbors
+2026-05-22,ASOS-6S2,Florence,ASOS,NW03,cold,60.8,8,82.1,max temp much colder than neighbors
+2026-05-22,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,61.0,8,77.9,max temp much colder than neighbors
+2026-05-22,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,60.0,7,76.9,max temp much colder than neighbors
+2026-05-22,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,61.0,8,71.0,max temp much colder than neighbors
+2026-05-22,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,82.4,max temp much colder than neighbors
+2026-05-22,ASOS-TMK,Tillamook,ASOS,NW02,cold,62.6,8,81.5,max temp much colder than neighbors
+2026-05-23,350113,TIDEWATER,RAWS,NW02,cold,53.0,8,65.0,max temp much colder than neighbors
+2026-05-23,351604,CANNIBAL MOUNTAIN,RAWS,NW03,cold,62.0,8,71.3,max temp much colder than neighbors
+2026-05-23,352813,BALD KNOB,RAWS,NW04,cold,64.0,8,72.2,max temp much colder than neighbors
+2026-05-23,352820,SEVEN MILE CREEK,RAWS,NW03,cold,56.0,7,80.9,max temp much colder than neighbors
+2026-05-23,ASOS-6S2,Florence,ASOS,NW03,cold,59.0,8,79.1,max temp much colder than neighbors
+2026-05-23,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,59.0,8,70.9,max temp much colder than neighbors
+2026-05-23,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,77.5,max temp much colder than neighbors
+2026-05-24,350208,TILLAMOOK,RAWS,NW02,cold,68.0,8,79.2,max temp much colder than neighbors
+2026-05-24,352820,SEVEN MILE CREEK,RAWS,NW03,cold,71.0,7,85.3,max temp much colder than neighbors
+2026-05-24,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,66.0,8,78.8,max temp much colder than neighbors
+2026-05-24,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,61.0,7,76.1,max temp much colder than neighbors
+2026-05-24,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,82.3,max temp much colder than neighbors
+2026-05-24,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,79.3,max temp much colder than neighbors
+2026-05-25,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,74.0,8,59.7,max temp much warmer than neighbors
+2026-05-25,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,hot,78.0,8,60.8,max temp much warmer than neighbors
+2026-05-25,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,73.0,8,61.0,max temp much warmer than neighbors
+2026-05-26,353612,GRASSY MOUNTAIN,RAWS,NW12,cold,55.0,3,63.5,max temp much colder than neighbors
+2026-05-26,450211,OWL MT,RAWS,NW01,hot,61.0,6,52.9,max temp much warmer than neighbors
+2026-05-26,451917,BUCK CREEK,RAWS,NW02,rain_alone,0.74,8,0.05,rain no neighbor saw
+2026-05-26,ASOS-SKA,Fairchild Afb,ASOS,NW10,hot,75.0,8,57.1,max temp much warmer than neighbors
+2026-05-27,350208,TILLAMOOK,RAWS,NW02,cold,63.0,8,78.1,max temp much colder than neighbors
+2026-05-27,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,63.0,8,76.3,max temp much colder than neighbors
+2026-05-27,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,62.0,7,75.7,max temp much colder than neighbors
+2026-05-27,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,75.9,max temp much colder than neighbors
+2026-05-27,ASOS-TMK,Tillamook,ASOS,NW02,cold,62.6,8,78.1,max temp much colder than neighbors
+2026-05-28,351319,BLACK MTN RIDGE,RAWS,NW11,cold,68.0,4,76.0,max temp much colder than neighbors
+2026-05-28,351710,ROCKHOUSE 1,RAWS,NW02,hot,81.0,8,72.6,max temp much warmer than neighbors
+2026-05-28,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,7,75.0,max temp much colder than neighbors
+2026-05-28,451412,HOZOMEEN,RAWS,NW01,hot,91.0,3,81.2,max temp much warmer than neighbors
+2026-05-28,452121,STEHEKIN-AIRSTRIP,RAWS,NW08,cold,86.0,8,95.0,max temp much colder than neighbors
+2026-05-28,ASOS-6S2,Florence,ASOS,NW03,cold,59.0,8,75.9,max temp much colder than neighbors
+2026-05-28,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,64.0,8,78.7,max temp much colder than neighbors
+2026-05-28,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,62.0,7,79.9,max temp much colder than neighbors
+2026-05-28,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,62.0,8,73.7,max temp much colder than neighbors
+2026-05-28,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,78.2,max temp much colder than neighbors
+2026-05-29,350215,CEDAR,RAWS,NW02,cold,50.0,8,58.1,max temp much colder than neighbors
+2026-05-29,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,76.0,8,62.0,max temp much warmer than neighbors
+2026-05-29,ASOS-SKA,Fairchild Afb,ASOS,NW10,hot,87.0,8,74.4,max temp much warmer than neighbors
+2026-05-29,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,77.0,8,60.5,max temp much warmer than neighbors
+2026-05-30,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,67.4,max temp much colder than neighbors
+2026-05-31,352820,SEVEN MILE CREEK,RAWS,NW03,cold,57.0,7,73.0,max temp much colder than neighbors
+2026-05-31,451412,HOZOMEEN,RAWS,NW01,hot,79.0,3,68.3,max temp much warmer than neighbors
+2026-05-31,451924,DRY CRK,RAWS,NW02,hot,72.0,8,63.9,max temp much warmer than neighbors
+2026-05-31,ASOS-6S2,Florence,ASOS,NW03,cold,59.0,8,73.1,max temp much colder than neighbors
+2026-05-31,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,61.0,8,70.3,max temp much colder than neighbors
+2026-05-31,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,60.0,7,70.4,max temp much colder than neighbors
+2026-05-31,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,73.1,max temp much colder than neighbors
+2026-05-31,ASOS-TMK,Tillamook,ASOS,NW02,cold,59.0,8,72.1,max temp much colder than neighbors
+2026-06-01,350208,TILLAMOOK,RAWS,NW02,cold,71.0,8,83.5,max temp much colder than neighbors
+2026-06-01,352820,SEVEN MILE CREEK,RAWS,NW03,cold,63.0,7,85.9,max temp much colder than neighbors
+2026-06-01,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,84.5,max temp much colder than neighbors
+2026-06-01,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,73.0,8,81.9,max temp much colder than neighbors
+2026-06-01,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,84.4,max temp much colder than neighbors
+2026-06-01,ASOS-TMK,Tillamook,ASOS,NW02,cold,73.4,8,83.6,max temp much colder than neighbors
+2026-06-02,352820,SEVEN MILE CREEK,RAWS,NW03,cold,67.0,7,86.3,max temp much colder than neighbors
+2026-06-02,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,87.9,max temp much colder than neighbors
+2026-06-02,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,74.0,8,88.9,max temp much colder than neighbors
+2026-06-02,ASOS-NOW,Port Angeles,ASOS,NW01,cold,73.0,8,84.0,max temp much colder than neighbors
+2026-06-02,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,72.0,8,82.2,max temp much colder than neighbors
+2026-06-02,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,89.0,max temp much colder than neighbors
+2026-06-02,ASOS-TMK,Tillamook,ASOS,NW02,cold,75.2,8,88.9,max temp much colder than neighbors
+2026-06-03,ASOS-AWO,Arlington Muni,ASOS,NW01,hot,83.0,8,70.2,max temp much warmer than neighbors
+2026-06-03,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,86.0,8,70.6,max temp much warmer than neighbors
+2026-06-03,ASOS-NRA,Coupeville Naval,ASOS,NW01,hot,79.0,8,68.7,max temp much warmer than neighbors
+2026-06-03,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,85.0,8,70.5,max temp much warmer than neighbors
+2026-06-04,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,77.9,max temp much colder than neighbors
+2026-06-04,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,75.4,max temp much colder than neighbors
+2026-06-05,351319,BLACK MTN RIDGE,RAWS,NW11,cold,58.0,5,67.7,max temp much colder than neighbors
+2026-06-06,351502,HARL BUTTE,RAWS,NW11,cold,49.0,8,59.4,max temp much colder than neighbors
+2026-06-06,ASOS-OKH,Oak Harbor,ASOS,NW01,cold,50.0,8,58.2,max temp much colder than neighbors
+2026-06-07,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,7,71.9,max temp much colder than neighbors
+2026-06-07,ASOS-4S1,Gold Beach,ASOS,NW04,cold,59.0,8,67.9,max temp much colder than neighbors
+2026-06-07,ASOS-6S2,Florence,ASOS,NW03,cold,60.8,8,69.6,max temp much colder than neighbors
+2026-06-07,ASOS-OKH,Oak Harbor,ASOS,NW01,cold,48.2,8,62.1,max temp much colder than neighbors
+2026-06-07,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,69.4,max temp much colder than neighbors
+2026-06-08,353122,MERLIN,RAWS,NW04,hot,71.0,8,61.1,max temp much warmer than neighbors
+2026-06-08,452318,HIGHBRIDGE,RAWS,NW05,hot,67.0,8,57.3,max temp much warmer than neighbors
+2026-06-08,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,hot,67.0,8,58.6,max temp much warmer than neighbors
+2026-06-09,352108,WARM SPRINGS BASE,RAWS,NW06,wet,3.34,8,0.06,far more rain than any neighbor
+2026-06-10,352820,SEVEN MILE CREEK,RAWS,NW03,cold,63.0,7,74.0,max temp much colder than neighbors
+2026-06-10,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,70.3,max temp much colder than neighbors
+2026-06-11,350208,TILLAMOOK,RAWS,NW02,cold,67.0,8,77.6,max temp much colder than neighbors
+2026-06-11,352820,SEVEN MILE CREEK,RAWS,NW03,cold,70.0,7,84.0,max temp much colder than neighbors
+2026-06-11,ASOS-6S2,Florence,ASOS,NW03,cold,66.2,8,81.1,max temp much colder than neighbors
+2026-06-11,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,76.9,max temp much colder than neighbors
+2026-06-11,ASOS-CVO,Corvallis Muni,ASOS,NW03,cold,73.0,8,82.0,max temp much colder than neighbors
+2026-06-11,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,7,75.8,max temp much colder than neighbors
+2026-06-11,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,81.9,max temp much colder than neighbors
+2026-06-11,ASOS-S21,Sunriver,ASOS,NW07,cold,69.8,8,78.0,max temp much colder than neighbors
+2026-06-11,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,77.7,max temp much colder than neighbors
+2026-06-12,350208,TILLAMOOK,RAWS,NW02,cold,66.0,8,80.1,max temp much colder than neighbors
+2026-06-12,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,85.9,max temp much colder than neighbors
+2026-06-12,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,82.8,max temp much colder than neighbors
+2026-06-12,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,78.2,max temp much colder than neighbors
+2026-06-12,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,68.0,7,76.7,max temp much colder than neighbors
+2026-06-12,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,62.0,8,71.7,max temp much colder than neighbors
+2026-06-12,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,81.8,max temp much colder than neighbors
+2026-06-12,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,80.2,max temp much colder than neighbors
+2026-06-13,352820,SEVEN MILE CREEK,RAWS,NW03,cold,69.0,7,90.9,max temp much colder than neighbors
+2026-06-13,ASOS-6S2,Florence,ASOS,NW03,cold,78.8,8,90.8,max temp much colder than neighbors
+2026-06-13,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,66.0,8,78.9,max temp much colder than neighbors
+2026-06-13,ASOS-ONP,Newport Municip,ASOS,NW02,cold,73.4,8,90.4,max temp much colder than neighbors
+2026-06-13,ASOS-S21,Sunriver,ASOS,NW07,cold,69.8,8,80.5,max temp much colder than neighbors
+2026-06-14,352820,SEVEN MILE CREEK,RAWS,NW03,cold,83.0,7,97.7,max temp much colder than neighbors
+2026-06-14,ASOS-NOW,Port Angeles,ASOS,NW01,cold,75.0,8,91.5,max temp much colder than neighbors
+2026-06-14,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,73.0,8,84.4,max temp much colder than neighbors
+2026-06-14,ASOS-S21,Sunriver,ASOS,NW07,cold,71.6,8,82.9,max temp much colder than neighbors
+2026-06-14,ASOS-S39,Prineville,ASOS,NW06,cold,55.4,8,85.0,max temp much colder than neighbors
+2026-06-15,350208,TILLAMOOK,RAWS,NW02,cold,76.0,8,94.4,max temp much colder than neighbors
+2026-06-15,ASOS-6S2,Florence,ASOS,NW03,cold,73.4,8,96.6,max temp much colder than neighbors
+2026-06-15,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,77.0,8,92.9,max temp much colder than neighbors
+2026-06-15,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,78.0,7,92.0,max temp much colder than neighbors
+2026-06-15,ASOS-ONP,Newport Municip,ASOS,NW02,cold,69.8,8,98.0,max temp much colder than neighbors
+2026-06-15,ASOS-S21,Sunriver,ASOS,NW07,cold,77.0,8,89.1,max temp much colder than neighbors
+2026-06-15,ASOS-TMK,Tillamook,ASOS,NW02,cold,78.8,8,94.4,max temp much colder than neighbors
+2026-06-16,352820,SEVEN MILE CREEK,RAWS,NW03,cold,64.0,7,89.9,max temp much colder than neighbors
+2026-06-16,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,75.0,8,87.8,max temp much colder than neighbors
+2026-06-16,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,90.0,8,77.1,max temp much warmer than neighbors
+2026-06-16,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,86.4,max temp much colder than neighbors
+2026-06-16,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,90.0,8,77.2,max temp much warmer than neighbors
+2026-06-17,350726,WANDERERS PEAK,RAWS,NW03,cold,65.0,8,73.2,max temp much colder than neighbors
+2026-06-17,352819,LONG PRAIRIE,RAWS,NW03,cold,76.0,8,85.2,max temp much colder than neighbors
+2026-06-17,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,86.0,max temp much colder than neighbors
+2026-06-17,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,82.8,max temp much colder than neighbors
+2026-06-17,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,64.0,8,74.4,max temp much colder than neighbors
+2026-06-17,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,64.0,7,74.0,max temp much colder than neighbors
+2026-06-17,ASOS-NOW,Port Angeles,ASOS,NW01,cold,62.0,8,75.5,max temp much colder than neighbors
+2026-06-17,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,82.1,max temp much colder than neighbors
+2026-06-18,350208,TILLAMOOK,RAWS,NW02,cold,68.0,8,84.8,max temp much colder than neighbors
+2026-06-18,352820,SEVEN MILE CREEK,RAWS,NW03,cold,59.0,7,81.3,max temp much colder than neighbors
+2026-06-18,451412,HOZOMEEN,RAWS,NW01,hot,89.0,3,79.2,max temp much warmer than neighbors
+2026-06-18,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,82.4,max temp much colder than neighbors
+2026-06-18,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,73.0,8,82.8,max temp much colder than neighbors
+2026-06-18,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,65.0,8,75.5,max temp much colder than neighbors
+2026-06-18,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,84.5,max temp much colder than neighbors
+2026-06-18,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,84.9,max temp much colder than neighbors
+2026-06-19,350208,TILLAMOOK,RAWS,NW02,cold,67.0,8,83.1,max temp much colder than neighbors
+2026-06-19,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,65.0,8,83.7,max temp much colder than neighbors
+2026-06-19,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,7,84.4,max temp much colder than neighbors
+2026-06-19,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,83.1,max temp much colder than neighbors
+2026-06-20,352820,SEVEN MILE CREEK,RAWS,NW03,cold,65.0,7,76.9,max temp much colder than neighbors
+2026-06-20,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,65.0,8,74.7,max temp much colder than neighbors
+2026-06-20,451412,HOZOMEEN,RAWS,NW01,hot,82.0,3,73.3,max temp much warmer than neighbors
+2026-06-20,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,84.0,8,70.6,max temp much warmer than neighbors
+2026-06-20,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,85.0,8,71.2,max temp much warmer than neighbors
+2026-06-21,350208,TILLAMOOK,RAWS,NW02,cold,67.0,8,80.0,max temp much colder than neighbors
+2026-06-21,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,7,84.9,max temp much colder than neighbors
+2026-06-21,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,80.1,max temp much colder than neighbors
+2026-06-21,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,65.0,8,79.9,max temp much colder than neighbors
+2026-06-21,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,63.0,7,79.4,max temp much colder than neighbors
+2026-06-21,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,64.0,8,73.5,max temp much colder than neighbors
+2026-06-21,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,81.5,max temp much colder than neighbors
+2026-06-21,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,80.1,max temp much colder than neighbors
+2026-06-22,350208,TILLAMOOK,RAWS,NW02,cold,65.0,8,90.0,max temp much colder than neighbors
+2026-06-22,352813,BALD KNOB,RAWS,NW04,cold,71.0,8,81.7,max temp much colder than neighbors
+2026-06-22,352820,SEVEN MILE CREEK,RAWS,NW03,cold,58.0,7,91.9,max temp much colder than neighbors
+2026-06-22,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,75.0,8,88.3,max temp much colder than neighbors
+2026-06-22,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,88.1,max temp much colder than neighbors
+2026-06-22,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,70.0,8,88.8,max temp much colder than neighbors
+2026-06-22,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,68.0,7,86.7,max temp much colder than neighbors
+2026-06-22,ASOS-NOW,Port Angeles,ASOS,NW01,cold,76.0,8,87.2,max temp much colder than neighbors
+2026-06-22,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,71.0,8,82.9,max temp much colder than neighbors
+2026-06-22,ASOS-ONP,Newport Municip,ASOS,NW02,cold,57.2,8,90.3,max temp much colder than neighbors
+2026-06-22,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,90.1,max temp much colder than neighbors
+2026-06-23,350208,TILLAMOOK,RAWS,NW02,cold,72.0,8,91.5,max temp much colder than neighbors
+2026-06-23,450211,OWL MT,RAWS,NW01,hot,88.0,7,79.3,max temp much warmer than neighbors
+2026-06-23,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,64.0,8,91.9,max temp much colder than neighbors
+2026-06-23,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,80.0,7,92.1,max temp much colder than neighbors
+2026-06-23,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,74.0,8,85.9,max temp much colder than neighbors
+2026-06-23,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,86.2,max temp much colder than neighbors
+2026-06-23,ASOS-ORS,Eastsound/Orcas Island Airport,ASOS,NW01,cold,77.0,8,85.4,max temp much colder than neighbors
+2026-06-23,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,91.6,max temp much colder than neighbors
+2026-06-24,352820,SEVEN MILE CREEK,RAWS,NW03,cold,69.0,7,89.9,max temp much colder than neighbors
+2026-06-24,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,86.9,max temp much colder than neighbors
+2026-06-24,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,65.0,7,84.9,max temp much colder than neighbors
+2026-06-24,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,71.0,8,82.7,max temp much colder than neighbors
+2026-06-24,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,89.3,max temp much colder than neighbors
+2026-06-24,ASOS-UIL,Quillayute State,ASOS,NW01,cold,67.0,4,80.9,max temp much colder than neighbors
+2026-06-25,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,79.0,max temp much colder than neighbors
+2026-06-25,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,85.0,8,66.6,max temp much warmer than neighbors
+2026-06-25,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,hot,79.0,8,67.2,max temp much warmer than neighbors
+2026-06-25,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,85.0,8,66.5,max temp much warmer than neighbors
+2026-06-26,451209,ABERNATHY MTN.,RAWS,NW02,cold,52.0,8,61.8,max temp much colder than neighbors
+2026-06-26,451409,KIDNEY CREEK,RAWS,NW01,hot,58.0,3,49.4,max temp much warmer than neighbors
+2026-06-26,451412,HOZOMEEN,RAWS,NW01,hot,74.0,3,64.3,max temp much warmer than neighbors
+2026-06-26,ASOS-SKA,Fairchild Afb,ASOS,NW10,hot,78.0,8,64.9,max temp much warmer than neighbors
+2026-06-27,ASOS-ONP,Newport Municip,ASOS,NW02,cold,55.4,8,65.6,max temp much colder than neighbors
+2026-06-28,451208,ELK ROCK,RAWS,NW02,rain_alone,0.51,8,0.05,rain no neighbor saw
+2026-06-29,ASOS-NOW,Port Angeles,ASOS,NW01,cold,59.0,8,67.2,max temp much colder than neighbors
+2026-06-29,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,68.0,max temp much colder than neighbors
+2026-06-30,350913,WAMIC MILL,RAWS,NW06,hot,68.0,8,59.3,max temp much warmer than neighbors
+2026-07-01,352813,BALD KNOB,RAWS,NW04,cold,57.0,8,65.2,max temp much colder than neighbors
+2026-07-01,451208,ELK ROCK,RAWS,NW02,cold,50.0,8,58.2,max temp much colder than neighbors
+2026-07-02,352820,SEVEN MILE CREEK,RAWS,NW03,cold,67.0,7,78.9,max temp much colder than neighbors
+2026-07-02,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,75.4,max temp much colder than neighbors
+2026-07-03,352820,SEVEN MILE CREEK,RAWS,NW03,cold,68.0,7,87.8,max temp much colder than neighbors
+2026-07-03,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,71.0,8,84.8,max temp much colder than neighbors
+2026-07-03,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,84.3,max temp much colder than neighbors
+2026-07-04,351319,BLACK MTN RIDGE,RAWS,NW11,cold,74.0,5,82.1,max temp much colder than neighbors
+2026-07-04,351604,CANNIBAL MOUNTAIN,RAWS,NW03,cold,67.0,8,75.6,max temp much colder than neighbors
+2026-07-04,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,85.0,max temp much colder than neighbors
+2026-07-04,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,81.8,max temp much colder than neighbors
+2026-07-05,350208,TILLAMOOK,RAWS,NW02,cold,66.0,8,83.9,max temp much colder than neighbors
+2026-07-05,352820,SEVEN MILE CREEK,RAWS,NW03,cold,60.0,7,87.8,max temp much colder than neighbors
+2026-07-05,451412,HOZOMEEN,RAWS,NW01,hot,87.0,3,76.3,max temp much warmer than neighbors
+2026-07-05,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,85.6,max temp much colder than neighbors
+2026-07-05,ASOS-NOW,Port Angeles,ASOS,NW01,cold,64.0,8,76.2,max temp much colder than neighbors
+2026-07-05,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,63.0,8,73.6,max temp much colder than neighbors
+2026-07-05,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,86.1,max temp much colder than neighbors
+2026-07-05,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,84.0,max temp much colder than neighbors
+2026-07-06,350208,TILLAMOOK,RAWS,NW02,cold,62.0,8,86.1,max temp much colder than neighbors
+2026-07-06,351518,EDEN,RAWS,NW11,hot,88.0,8,77.1,max temp much warmer than neighbors
+2026-07-06,352820,SEVEN MILE CREEK,RAWS,NW03,cold,57.0,7,85.9,max temp much colder than neighbors
+2026-07-06,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,64.0,8,85.2,max temp much colder than neighbors
+2026-07-06,451412,HOZOMEEN,RAWS,NW01,hot,94.0,3,84.2,max temp much warmer than neighbors
+2026-07-06,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,66.0,8,84.9,max temp much colder than neighbors
+2026-07-06,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,6,85.0,max temp much colder than neighbors
+2026-07-06,ASOS-NOW,Port Angeles,ASOS,NW01,cold,60.0,8,81.8,max temp much colder than neighbors
+2026-07-06,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,64.0,8,77.1,max temp much colder than neighbors
+2026-07-06,ASOS-TMK,Tillamook,ASOS,NW02,cold,64.4,8,86.1,max temp much colder than neighbors
+2026-07-07,351710,ROCKHOUSE 1,RAWS,NW02,hot,85.0,8,76.2,max temp much warmer than neighbors
+2026-07-07,451412,HOZOMEEN,RAWS,NW01,hot,90.0,3,77.2,max temp much warmer than neighbors
+2026-07-07,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,87.0,8,77.6,max temp much warmer than neighbors
+2026-07-07,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,63.0,6,76.5,max temp much colder than neighbors
+2026-07-07,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,81.2,max temp much colder than neighbors
+2026-07-07,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,86.0,8,77.5,max temp much warmer than neighbors
+2026-07-07,ASOS-TMK,Tillamook,ASOS,NW02,cold,64.4,8,82.8,max temp much colder than neighbors
+2026-07-08,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,87.3,max temp much colder than neighbors
+2026-07-08,ASOS-6S2,Florence,ASOS,NW03,cold,64.4,8,84.6,max temp much colder than neighbors
+2026-07-08,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,61.0,8,69.1,max temp much colder than neighbors
+2026-07-08,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,85.4,max temp much colder than neighbors
+2026-07-09,350208,TILLAMOOK,RAWS,NW02,cold,67.0,8,83.9,max temp much colder than neighbors
+2026-07-09,352820,SEVEN MILE CREEK,RAWS,NW03,cold,61.0,7,87.9,max temp much colder than neighbors
+2026-07-09,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,85.1,max temp much colder than neighbors
+2026-07-09,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,65.0,8,79.4,max temp much colder than neighbors
+2026-07-09,ASOS-BKE,Baker Municipal,ASOS,NW11,cold,59.0,8,90.6,max temp much colder than neighbors
+2026-07-09,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,64.0,6,77.7,max temp much colder than neighbors
+2026-07-09,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,63.0,8,71.5,max temp much colder than neighbors
+2026-07-09,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,86.9,max temp much colder than neighbors
+2026-07-09,ASOS-TMK,Tillamook,ASOS,NW02,cold,66.2,8,84.0,max temp much colder than neighbors
+2026-07-10,351319,BLACK MTN RIDGE,RAWS,NW11,cold,79.0,5,87.1,max temp much colder than neighbors
+2026-07-10,351710,ROCKHOUSE 1,RAWS,NW02,hot,86.0,8,77.4,max temp much warmer than neighbors
+2026-07-10,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,68.0,8,83.7,max temp much colder than neighbors
+2026-07-10,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,67.0,8,77.9,max temp much colder than neighbors
+2026-07-10,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,6,77.0,max temp much colder than neighbors
+2026-07-10,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,82.7,max temp much colder than neighbors
+2026-07-11,350215,CEDAR,RAWS,NW02,cold,55.0,8,69.2,max temp much colder than neighbors
+2026-07-11,351319,BLACK MTN RIDGE,RAWS,NW11,cold,77.0,5,85.1,max temp much colder than neighbors
+2026-07-11,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,61.0,8,78.2,max temp much colder than neighbors
+2026-07-11,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,66.0,8,74.5,max temp much colder than neighbors
+2026-07-12,352820,SEVEN MILE CREEK,RAWS,NW03,cold,67.0,7,84.9,max temp much colder than neighbors
+2026-07-12,ASOS-6S2,Florence,ASOS,NW03,cold,66.2,8,81.1,max temp much colder than neighbors
+2026-07-12,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,76.7,max temp much colder than neighbors
+2026-07-12,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,82.4,max temp much colder than neighbors
+2026-07-13,352820,SEVEN MILE CREEK,RAWS,NW03,cold,72.0,7,91.3,max temp much colder than neighbors
+2026-07-13,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,77.0,8,89.3,max temp much colder than neighbors
+2026-07-13,ASOS-3S8,Grants Pass,ASOS,NW04,cold,77.0,8,95.7,max temp much colder than neighbors
+2026-07-13,ASOS-6S2,Florence,ASOS,NW03,cold,66.2,8,88.6,max temp much colder than neighbors
+2026-07-13,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,74.0,8,84.7,max temp much colder than neighbors
+2026-07-13,ASOS-NOW,Port Angeles,ASOS,NW01,cold,64.0,8,78.4,max temp much colder than neighbors
+2026-07-13,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,90.5,max temp much colder than neighbors
+2026-07-14,352820,SEVEN MILE CREEK,RAWS,NW03,cold,66.0,7,86.9,max temp much colder than neighbors
+2026-07-14,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,71.0,8,86.4,max temp much colder than neighbors
+2026-07-14,451412,HOZOMEEN,RAWS,NW01,hot,96.0,3,82.3,max temp much warmer than neighbors
+2026-07-14,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,66.0,8,84.9,max temp much colder than neighbors
+2026-07-14,ASOS-EAT,Wenatchee/Pangborn,ASOS,NW10,cold,87.0,8,96.1,max temp much colder than neighbors
+2026-07-14,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,65.0,6,85.4,max temp much colder than neighbors
+2026-07-14,ASOS-NOW,Port Angeles,ASOS,NW01,cold,64.0,8,82.7,max temp much colder than neighbors
+2026-07-14,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,65.0,8,78.6,max temp much colder than neighbors
+2026-07-14,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,85.7,max temp much colder than neighbors
+2026-07-14,ASOS-UIL,Quillayute State,ASOS,NW01,cold,72.0,4,80.9,max temp much colder than neighbors
+2026-07-15,350208,TILLAMOOK,RAWS,NW02,cold,67.0,8,87.1,max temp much colder than neighbors
+2026-07-15,351710,ROCKHOUSE 1,RAWS,NW02,hot,89.0,8,80.3,max temp much warmer than neighbors
+2026-07-15,352820,SEVEN MILE CREEK,RAWS,NW03,cold,66.0,7,86.9,max temp much colder than neighbors
+2026-07-15,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,68.0,8,84.9,max temp much colder than neighbors
+2026-07-15,353511,RIDDLE MTN.,RAWS,NW12,rain_alone,0.71,8,0.0,rain no neighbor saw
+2026-07-15,451924,DRY CRK,RAWS,NW02,hot,90.0,8,78.6,max temp much warmer than neighbors
+2026-07-15,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,66.0,8,83.4,max temp much colder than neighbors
+2026-07-15,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,65.0,6,82.2,max temp much colder than neighbors
+2026-07-15,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,61.0,8,77.4,max temp much colder than neighbors
+2026-07-15,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,85.7,max temp much colder than neighbors
+2026-07-15,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,87.1,max temp much colder than neighbors
+2026-07-16,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,84.0,8,64.3,max temp much warmer than neighbors
+2026-07-16,ASOS-KLS,Kelso-Longveiw Awos,ASOS,NW02,hot,78.0,8,65.5,max temp much warmer than neighbors
+2026-07-16,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,83.0,8,64.8,max temp much warmer than neighbors
+2026-07-17,352820,SEVEN MILE CREEK,RAWS,NW03,cold,69.0,7,84.9,max temp much colder than neighbors
+2026-07-17,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,70.0,8,82.7,max temp much colder than neighbors
+2026-07-17,ASOS-OKH,Oak Harbor,ASOS,NW01,cold,57.2,8,68.0,max temp much colder than neighbors
+2026-07-17,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,80.5,max temp much colder than neighbors
+2026-07-18,352820,SEVEN MILE CREEK,RAWS,NW03,cold,67.0,7,89.3,max temp much colder than neighbors
+2026-07-18,ASOS-6S2,Florence,ASOS,NW03,cold,68.0,8,85.6,max temp much colder than neighbors
+2026-07-18,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,64.0,8,72.2,max temp much colder than neighbors
+2026-07-18,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,86.9,max temp much colder than neighbors
+2026-07-19,350208,TILLAMOOK,RAWS,NW02,cold,66.0,8,87.9,max temp much colder than neighbors
+2026-07-19,352820,SEVEN MILE CREEK,RAWS,NW03,cold,59.0,7,91.3,max temp much colder than neighbors
+2026-07-19,451412,HOZOMEEN,RAWS,NW01,hot,89.0,3,78.3,max temp much warmer than neighbors
+2026-07-19,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,88.0,max temp much colder than neighbors
+2026-07-19,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,82.9,max temp much colder than neighbors
+2026-07-19,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,67.0,6,81.2,max temp much colder than neighbors
+2026-07-19,ASOS-NOW,Port Angeles,ASOS,NW01,cold,65.0,8,78.0,max temp much colder than neighbors
+2026-07-19,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,64.0,8,74.2,max temp much colder than neighbors
+2026-07-19,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,88.7,max temp much colder than neighbors
+2026-07-19,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,88.0,max temp much colder than neighbors
+2026-07-20,350208,TILLAMOOK,RAWS,NW02,cold,69.0,8,89.6,max temp much colder than neighbors
+2026-07-20,352820,SEVEN MILE CREEK,RAWS,NW03,cold,66.0,7,94.0,max temp much colder than neighbors
+2026-07-20,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,81.0,8,93.8,max temp much colder than neighbors
+2026-07-20,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,77.0,6,86.3,max temp much colder than neighbors
+2026-07-20,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,67.0,8,79.1,max temp much colder than neighbors
+2026-07-20,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,92.9,max temp much colder than neighbors
+2026-07-20,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,89.6,max temp much colder than neighbors
+2026-07-20,ASOS-UIL,Quillayute State,ASOS,NW01,cold,75.0,4,83.4,max temp much colder than neighbors
+2026-07-21,350208,TILLAMOOK,RAWS,NW02,cold,70.0,8,100.6,max temp much colder than neighbors
+2026-07-21,351710,ROCKHOUSE 1,RAWS,NW02,hot,102.0,8,93.7,max temp much warmer than neighbors
+2026-07-21,352820,SEVEN MILE CREEK,RAWS,NW03,cold,72.0,7,96.9,max temp much colder than neighbors
+2026-07-21,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,86.0,8,94.3,max temp much colder than neighbors
+2026-07-21,ASOS-3S8,Grants Pass,ASOS,NW04,cold,77.0,8,98.2,max temp much colder than neighbors
+2026-07-21,ASOS-6S2,Florence,ASOS,NW03,cold,66.2,8,95.9,max temp much colder than neighbors
+2026-07-21,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,75.0,8,96.9,max temp much colder than neighbors
+2026-07-21,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,79.0,6,95.9,max temp much colder than neighbors
+2026-07-21,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,73.0,8,84.6,max temp much colder than neighbors
+2026-07-21,ASOS-ONP,Newport Municip,ASOS,NW02,cold,59.0,8,98.9,max temp much colder than neighbors
+2026-07-21,ASOS-TMK,Tillamook,ASOS,NW02,cold,69.8,8,100.7,max temp much colder than neighbors
+2026-07-22,350208,TILLAMOOK,RAWS,NW02,cold,72.0,8,94.0,max temp much colder than neighbors
+2026-07-22,352820,SEVEN MILE CREEK,RAWS,NW03,cold,70.0,7,87.0,max temp much colder than neighbors
+2026-07-22,451412,HOZOMEEN,RAWS,NW01,hot,104.0,3,95.2,max temp much warmer than neighbors
+2026-07-22,ASOS-6S2,Florence,ASOS,NW03,cold,68.0,8,84.6,max temp much colder than neighbors
+2026-07-22,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,74.0,8,96.7,max temp much colder than neighbors
+2026-07-22,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,78.0,6,96.1,max temp much colder than neighbors
+2026-07-22,ASOS-NOW,Port Angeles,ASOS,NW01,cold,72.0,8,93.6,max temp much colder than neighbors
+2026-07-22,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,73.0,8,88.4,max temp much colder than neighbors
+2026-07-22,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,84.4,max temp much colder than neighbors
+2026-07-22,ASOS-TMK,Tillamook,ASOS,NW02,cold,71.6,8,94.1,max temp much colder than neighbors
+2026-07-23,351710,ROCKHOUSE 1,RAWS,NW02,hot,86.0,8,77.1,max temp much warmer than neighbors
+2026-07-23,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,70.0,8,84.3,max temp much colder than neighbors
+2026-07-23,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,92.0,8,76.6,max temp much warmer than neighbors
+2026-07-23,ASOS-ONP,Newport Municip,ASOS,NW02,cold,66.2,8,82.9,max temp much colder than neighbors
+2026-07-23,ASOS-SMP,Stampede Pass,ASOS,NW05,hot,85.0,8,69.5,max temp much warmer than neighbors
+2026-07-23,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,91.0,8,76.8,max temp much warmer than neighbors
+2026-07-23,ASOS-VUO,Pearson Airpark  Vancouver,ASOS,NW02,cold,68.0,8,81.3,max temp much colder than neighbors
+2026-07-24,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,70.0,8,83.9,max temp much colder than neighbors
+2026-07-24,451412,HOZOMEEN,RAWS,NW01,hot,94.0,3,82.2,max temp much warmer than neighbors
+2026-07-24,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,82.4,max temp much colder than neighbors
+2026-07-24,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,68.0,6,80.7,max temp much colder than neighbors
+2026-07-25,350215,CEDAR,RAWS,NW02,cold,56.0,8,66.7,max temp much colder than neighbors
+2026-07-25,450121,TOMS CREEK,RAWS,NW01,hot,64.0,8,55.1,max temp much warmer than neighbors
+2026-07-25,452134,DRY CREEK,RAWS,NW05,cold,73.0,8,81.0,max temp much colder than neighbors
+2026-07-25,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,82.0,8,71.8,max temp much warmer than neighbors
+2026-07-25,ASOS-NOW,Port Angeles,ASOS,NW01,cold,64.0,8,73.2,max temp much colder than neighbors
+2026-07-25,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,74.3,max temp much colder than neighbors
+2026-07-25,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,83.0,8,72.7,max temp much warmer than neighbors
+2026-07-26,352420,MORGAN MOUNTAIN,RAWS,NW11,hot,105.0,8,87.9,max temp much warmer than neighbors
+2026-07-26,352553,BRUSH CREEK,RAWS,NW03,hot,84.0,8,75.3,max temp much warmer than neighbors
+2026-07-26,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,66.0,8,79.8,max temp much colder than neighbors
+2026-07-27,352820,SEVEN MILE CREEK,RAWS,NW03,cold,71.0,7,86.3,max temp much colder than neighbors
+2026-07-27,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,73.0,8,84.9,max temp much colder than neighbors
+2026-07-27,450207,QUILCENE,RAWS,NW01,hot,83.0,8,74.8,max temp much warmer than neighbors
+2026-07-27,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,80.4,max temp much colder than neighbors
+2026-07-27,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,67.0,6,76.7,max temp much colder than neighbors
+2026-07-27,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,85.3,max temp much colder than neighbors
+2026-07-28,352820,SEVEN MILE CREEK,RAWS,NW03,cold,71.0,7,84.3,max temp much colder than neighbors
+2026-07-28,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,72.0,8,83.1,max temp much colder than neighbors
+2026-07-28,451504,MARBLEMOUNT,RAWS,NW01,hot,81.0,7,72.5,max temp much warmer than neighbors
+2026-07-28,ASOS-ONP,Newport Municip,ASOS,NW02,cold,68.0,8,81.2,max temp much colder than neighbors
+2026-07-29,ASOS-NOW,Port Angeles,ASOS,NW01,cold,64.0,8,73.2,max temp much colder than neighbors
+2026-07-30,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,70.0,8,80.6,max temp much colder than neighbors
+2026-07-30,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,65.0,8,73.6,max temp much colder than neighbors
+2026-07-30,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,81.9,max temp much colder than neighbors
+2026-07-31,352820,SEVEN MILE CREEK,RAWS,NW03,cold,71.0,7,89.3,max temp much colder than neighbors
+2026-07-31,353046,CHARLOTTE RIDGE,RAWS,NW03,cold,77.0,8,89.4,max temp much colder than neighbors
+2026-07-31,452121,STEHEKIN-AIRSTRIP,RAWS,NW08,cold,84.0,8,94.9,max temp much colder than neighbors
+2026-07-31,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,75.0,7,87.8,max temp much colder than neighbors
+2026-07-31,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,73.0,6,85.5,max temp much colder than neighbors
+2026-07-31,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,66.0,8,78.5,max temp much colder than neighbors
+2026-07-31,ASOS-ONP,Newport Municip,ASOS,NW02,cold,66.2,8,90.2,max temp much colder than neighbors
+2026-08-01,450312,HUMPTULLIPS,RAWS,NW01,wet,3.38,8,0.59,far more rain than any neighbor
+2026-08-01,ASOS-GRF,Fort Lewis/Gray Aaf,ASOS,NW01,hot,86.0,8,73.1,max temp much warmer than neighbors
+2026-08-01,ASOS-S21,Sunriver,ASOS,NW07,cold,55.4,8,82.7,max temp much colder than neighbors
+2026-08-01,ASOS-TCM,Mc Chord Afb/Tacoma,ASOS,NW01,hot,85.0,8,73.5,max temp much warmer than neighbors
+2026-08-02,352813,BALD KNOB,RAWS,NW04,cold,61.0,8,69.8,max temp much colder than neighbors
+2026-08-02,352820,SEVEN MILE CREEK,RAWS,NW03,cold,67.0,7,80.8,max temp much colder than neighbors
+2026-08-02,353213,ACORN WOMAN PEAK,RAWS,NW04,cold,72.0,8,80.8,max temp much colder than neighbors
+2026-08-02,ASOS-SKA,Fairchild Afb,ASOS,NW10,hot,81.0,8,71.4,max temp much warmer than neighbors
+2026-08-03,352820,SEVEN MILE CREEK,RAWS,NW03,cold,65.0,7,87.0,max temp much colder than neighbors
+2026-08-03,ASOS-6S2,Florence,ASOS,NW03,cold,69.8,8,85.1,max temp much colder than neighbors
+2026-08-03,ASOS-ONP,Newport Municip,ASOS,NW02,cold,68.0,8,86.3,max temp much colder than neighbors
+2026-08-04,350208,TILLAMOOK,RAWS,NW02,cold,81.0,8,91.3,max temp much colder than neighbors
+2026-08-04,352820,SEVEN MILE CREEK,RAWS,NW03,cold,75.0,8,97.1,max temp much colder than neighbors
+2026-08-04,ASOS-6S2,Florence,ASOS,NW03,cold,75.2,8,93.3,max temp much colder than neighbors
+2026-08-04,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,67.0,8,76.1,max temp much colder than neighbors
+2026-08-04,ASOS-ONP,Newport Municip,ASOS,NW02,cold,73.4,8,94.2,max temp much colder than neighbors
+2026-08-04,ASOS-OTH,North Bend,ASOS,NW03,cold,75.0,8,94.5,max temp much colder than neighbors
+2026-08-05,350208,TILLAMOOK,RAWS,NW02,cold,75.0,8,92.2,max temp much colder than neighbors
+2026-08-05,351710,ROCKHOUSE 1,RAWS,NW02,hot,96.0,8,86.8,max temp much warmer than neighbors
+2026-08-05,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,94.1,max temp much colder than neighbors
+2026-08-05,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,82.0,8,93.4,max temp much colder than neighbors
+2026-08-05,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,79.0,7,90.7,max temp much colder than neighbors
+2026-08-05,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,69.0,8,79.5,max temp much colder than neighbors
+2026-08-05,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,94.5,max temp much colder than neighbors
+2026-08-05,ASOS-ORS,Eastsound/Orcas Island Airport,ASOS,NW01,cold,69.8,8,79.4,max temp much colder than neighbors
+2026-08-05,ASOS-TMK,Tillamook,ASOS,NW02,cold,77.0,8,92.3,max temp much colder than neighbors
+2026-08-06,350208,TILLAMOOK,RAWS,NW02,cold,68.0,8,94.6,max temp much colder than neighbors
+2026-08-06,350726,WANDERERS PEAK,RAWS,NW03,cold,82.0,8,90.6,max temp much colder than neighbors
+2026-08-06,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,8,94.7,max temp much colder than neighbors
+2026-08-06,ASOS-6S2,Florence,ASOS,NW03,cold,62.6,8,91.6,max temp much colder than neighbors
+2026-08-06,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,68.0,8,91.9,max temp much colder than neighbors
+2026-08-06,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,67.0,7,90.2,max temp much colder than neighbors
+2026-08-06,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,68.0,8,81.0,max temp much colder than neighbors
+2026-08-06,ASOS-ONP,Newport Municip,ASOS,NW02,cold,60.8,8,94.2,max temp much colder than neighbors
+2026-08-06,ASOS-ORS,Eastsound/Orcas Island Airport,ASOS,NW01,cold,71.6,8,80.8,max temp much colder than neighbors
+2026-08-06,ASOS-TMK,Tillamook,ASOS,NW02,cold,68.0,8,94.6,max temp much colder than neighbors
+2026-08-07,350208,TILLAMOOK,RAWS,NW02,cold,70.0,8,91.4,max temp much colder than neighbors
+2026-08-07,351710,ROCKHOUSE 1,RAWS,NW02,hot,95.0,8,86.1,max temp much warmer than neighbors
+2026-08-07,352820,SEVEN MILE CREEK,RAWS,NW03,cold,66.0,8,94.1,max temp much colder than neighbors
+2026-08-07,450306,MINOT PEAK,RAWS,NW01,cold,72.0,8,80.5,max temp much colder than neighbors
+2026-08-07,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,69.0,8,86.8,max temp much colder than neighbors
+2026-08-07,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,67.0,7,84.4,max temp much colder than neighbors
+2026-08-07,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,67.0,8,79.2,max temp much colder than neighbors
+2026-08-07,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,92.7,max temp much colder than neighbors
+2026-08-07,ASOS-TMK,Tillamook,ASOS,NW02,cold,69.8,8,91.5,max temp much colder than neighbors
+2026-08-08,350208,TILLAMOOK,RAWS,NW02,cold,71.0,8,91.4,max temp much colder than neighbors
+2026-08-08,352820,SEVEN MILE CREEK,RAWS,NW03,cold,69.0,8,95.2,max temp much colder than neighbors
+2026-08-08,450321,BLACK KNOB,RAWS,NW01,cold,72.0,8,84.0,max temp much colder than neighbors
+2026-08-08,ASOS-6S2,Florence,ASOS,NW03,cold,69.8,8,93.1,max temp much colder than neighbors
+2026-08-08,ASOS-AST,Astoria/Clatsop,ASOS,NW02,cold,71.0,8,83.4,max temp much colder than neighbors
+2026-08-08,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,69.0,7,83.0,max temp much colder than neighbors
+2026-08-08,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,67.0,8,79.1,max temp much colder than neighbors
+2026-08-08,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,93.5,max temp much colder than neighbors
+2026-08-08,ASOS-TMK,Tillamook,ASOS,NW02,cold,71.6,8,91.5,max temp much colder than neighbors
+2026-08-09,352820,SEVEN MILE CREEK,RAWS,NW03,cold,62.0,8,90.4,max temp much colder than neighbors
+2026-08-09,ASOS-1S5,Sunnyside,ASOS,NW10,rain_alone,1.77,8,0.0,rain no neighbor saw
+2026-08-09,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,7,78.8,max temp much colder than neighbors
+2026-08-09,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,87.9,max temp much colder than neighbors
+2026-08-10,351604,CANNIBAL MOUNTAIN,RAWS,NW03,cold,73.0,8,81.1,max temp much colder than neighbors
+2026-08-10,352820,SEVEN MILE CREEK,RAWS,NW03,cold,64.0,8,90.1,max temp much colder than neighbors
+2026-08-10,ASOS-6S2,Florence,ASOS,NW03,cold,66.2,8,87.6,max temp much colder than neighbors
+2026-08-10,ASOS-ONP,Newport Municip,ASOS,NW02,cold,66.2,8,87.5,max temp much colder than neighbors
+2026-08-11,351710,ROCKHOUSE 1,RAWS,NW02,hot,89.0,8,80.6,max temp much warmer than neighbors
+2026-08-11,352820,SEVEN MILE CREEK,RAWS,NW03,cold,63.0,8,87.7,max temp much colder than neighbors
+2026-08-11,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,7,79.4,max temp much colder than neighbors
+2026-08-11,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,63.0,8,72.9,max temp much colder than neighbors
+2026-08-11,ASOS-ONP,Newport Municip,ASOS,NW02,cold,62.6,8,87.5,max temp much colder than neighbors
+2026-08-12,350113,TIDEWATER,RAWS,NW02,cold,60.0,8,69.9,max temp much colder than neighbors
+2026-08-12,350215,CEDAR,RAWS,NW02,cold,63.0,8,74.1,max temp much colder than neighbors
+2026-08-12,ASOS-HQM,Hoquiam/Bowerman,ASOS,NW01,cold,66.0,7,77.6,max temp much colder than neighbors
+2026-08-12,ASOS-NUW,Whidbey Island Nas,ASOS,NW01,cold,64.0,8,75.5,max temp much colder than neighbors
+2026-08-12,ASOS-ONP,Newport Municip,ASOS,NW02,cold,64.4,8,81.3,max temp much colder than neighbors
 2026-11-09,451409,KIDNEY CREEK,RAWS,NW01,hot,53.0,3,40.8,max temp much warmer than neighbors
 2026-11-10,55522295,JIM CREEK,RAWS,NW01,missed,0.0,8,0.74,no rain while most neighbors got rain
 2026-11-10,ASOS-NOW,Port Angeles,ASOS,NW01,cold,51.3,8,61.3,max temp much colder than neighbors

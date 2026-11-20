@@ -1091,34 +1091,146 @@ month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,pre
 2026-03,RM26,31,37,3,34,0.21,17,1.39,16,63.9,96.0,13.1,34,30.3,32.8,46.86,31,11,28.5,48.87,10,"MCKELVIE (1 hot day); BESSEY (1 cold day); Aurora (2 hot days); Broken Bow Muni (1 hot day, 1 cold day); Holdrege/Brewstr (2 hot days); Hastings (1 cold day); York (1 hot day); Lexington (3 hot days); Offutt Afb/Belle (1 hot day); Tekamah (1 cold day)",yes
 2026-03,RM27,31,38,7,31,0.0,17,0.81,0,72.7,94.75,13.6,30,16.4,47.3,56.93,31,14,36.9,49.04,5,ROCKY FORD (1 cold day); Syracuse (2 hot days); Colby (1 cold day); Fort Carson/Butts (4 hot days); Schriever Afb (1 cold day),yes
 2026-03,RM28,31,52,5,47,1.06,26,2.12,59,68.6,95.4,11.3,47,34.8,29.7,43.47,31,13,27.5,41.36,5,"TALLGRASS PRAIRIE (1 rain flag); Great_Bend (1 hot day); Hutchinson (reads dry); Mcconnell_Afb (3 hot days); Pittsburg (1 hot day, 1 cold day)",yes
-2026-04,RM01,14,3,2,1,0.43,1,,,49.2,58.0,2.3,1,28.9,20.7,27.37,14,0,18.2,32.3,1,ELKHORN (reads dry),14 of 30 days
-2026-04,RM02,14,17,10,7,0.15,13,0.36,,58.2,72.0,3.7,6,28.7,29.7,35.23,14,0,23.4,37.36,1,Boysen Peak (runs cold),14 of 30 days
-2026-04,RM03,14,3,3,0,0.26,3,,,44.4,58.0,,0,39.8,2.5,8.67,14,0,1.1,8.73,0,,14 of 30 days
-2026-04,RM04,14,13,5,8,0.23,10,0.62,,57.7,78.0,3.5,8,36.1,29.2,34.85,14,0,26.3,38.09,1,INDIAN BUTTE (runs cold),14 of 30 days
-2026-04,RM05,14,9,7,2,0.19,7,,,55.0,77.0,2.0,2,36.3,30.3,36.28,14,0,21.2,32.06,1,WHITETAIL PEAK (2 hot days),14 of 30 days
-2026-04,RM06,14,4,3,1,0.24,4,0.98,,57.1,79.5,3.7,1,31.5,35.8,41.98,14,2,26.7,40.13,0,,14 of 30 days
-2026-04,RM07,14,9,3,6,0.4,6,0.38,,54.5,64.4,5.7,6,29.2,30.9,35.34,14,0,26.7,42.88,1,ANDERSON RIDGE (1 cold day),14 of 30 days
-2026-04,RM08,14,11,6,5,0.04,10,0.56,,57.0,67.0,6.2,5,26.0,32.2,37.76,14,0,29.0,40.27,0,,14 of 30 days
-2026-04,RM09,14,2,2,0,0.58,2,,,53.5,67.0,,0,33.5,32.1,36.42,14,0,29.7,39.95,0,,14 of 30 days
-2026-04,RM10,14,9,6,3,0.87,8,0.82,,57.6,69.0,2.8,2,30.1,34.1,43.11,14,0,30.0,40.45,2,LODORE (1 hot day); Dixon (runs hot),14 of 30 days
-2026-04,RM11,14,15,10,5,0.78,10,,,50.5,59.0,2.3,5,32.3,18.3,27.09,14,0,13.9,28.01,0,,14 of 30 days
-2026-04,RM12,14,15,7,8,0.15,10,0.75,,65.1,75.0,5.5,8,19.1,43.9,47.63,14,14,30.0,35.67,1,Buckley Angb/Denver (1 hot day),14 of 30 days
-2026-04,RM13,14,8,7,1,0.35,7,,,55.2,63.5,2.8,1,21.3,37.7,42.78,14,8,28.2,32.32,1,REDFEATHER (1 cold day),14 of 30 days
-2026-04,RM14,14,14,8,6,1.06,11,0.46,,61.8,73.0,4.5,6,24.2,37.3,44.0,14,0,27.8,37.88,1,Montrose Co. Arpt (reads dry),14 of 30 days
-2026-04,RM15,14,13,8,5,0.66,9,0.73,,52.1,61.0,-3.6,3,29.9,22.5,32.34,14,0,16.8,30.09,4,STORM KING MOUNTAIN (1 hot day); Berthoud Pass (runs cold); Red Cliff Pass (Cdot) (runs cold); Eagle Co. Regional (1 hot day),14 of 30 days
-2026-04,RM16,14,9,7,2,1.05,7,,,57.2,68.0,-1.6,2,24.6,35.7,40.09,14,0,26.5,35.14,1,Nucla (1 cold day),14 of 30 days
-2026-04,RM17,14,14,8,6,0.54,9,0.61,,51.9,59.0,0.7,6,23.9,34.0,39.18,14,0,24.8,33.11,1,Monarch Pass (Cdot) (1 cold day),14 of 30 days
-2026-04,RM18,14,16,11,5,0.1,11,,,61.4,68.0,4.6,4,17.8,44.1,47.34,14,14,35.2,42.46,0,,14 of 30 days
-2026-04,RM19,14,11,8,3,1.26,10,0.43,,59.1,70.0,0.4,3,25.9,37.4,40.8,14,0,25.3,30.14,0,,14 of 30 days
-2026-04,RM20,14,6,4,2,1.09,4,,,50.3,59.0,-6.8,2,29.3,28.1,32.93,14,0,20.7,28.87,0,,14 of 30 days
-2026-04,RM21,14,4,1,3,0.09,2,0.25,,60.7,69.5,1.9,3,18.1,47.0,49.67,14,11,40.3,50.1,0,,14 of 30 days
-2026-04,RM22,14,7,5,2,0.06,5,,,58.2,65.5,2.7,1,18.8,46.2,48.61,14,13,33.9,39.35,1,La Veta Pass (Cdot) (runs cold),14 of 30 days
-2026-04,RM23,14,32,9,23,0.62,21,0.8,,52.0,78.8,-1.5,23,47.8,25.1,33.31,14,1,20.0,37.76,1,MARSHALL CO (1 hot day),14 of 30 days
-2026-04,RM24,14,8,4,4,0.28,7,0.82,,62.5,84.0,6.6,4,28.7,34.6,40.47,14,2,34.7,50.8,1,PORCUPINE (2 cold days),14 of 30 days
-2026-04,RM25,14,33,7,26,0.16,15,0.63,,66.0,81.85,6.4,25,22.5,43.0,45.03,14,14,36.5,44.58,2,Harrisburg (1 cold day); Colorado Air And Space (1 hot day),14 of 30 days
-2026-04,RM26,14,37,3,34,0.85,17,1.09,,61.8,87.0,2.8,34,39.5,34.6,40.86,14,4,28.4,39.84,3,MCKELVIE (1 hot day); Beatrice Municip (1 cold day); Offutt Afb/Belle (1 hot day),14 of 30 days
-2026-04,RM27,14,38,7,31,0.07,17,0.54,,74.0,84.0,8.6,29,18.8,51.1,54.9,14,14,41.0,47.68,2,CIMARRON (reads dry); Fort Carson/Butts (1 cold day),14 of 30 days
-2026-04,RM28,14,52,5,47,1.02,26,1.16,,74.4,87.0,8.8,47,39.4,26.6,34.76,14,1,26.4,36.54,6,Newton (1 cold day); Hutchinson (1 cold day); Lyons (1 hot day); Manhattan (1 cold day); Salina (1 cold day); Winfield (reads wet),14 of 30 days
+2026-04,RM01,30,3,2,1,0.82,2,,,46.4,68.0,-1.8,1,30.7,18.4,28.34,30,0,14.3,32.3,0,,yes
+2026-04,RM02,30,17,10,7,0.74,11,0.76,95,56.4,80.0,-1.6,7,28.8,30.2,42.58,30,3,22.1,52.55,2,"CRANDALL (reads dry); Cody Muni (Awos) (reads dry, 1 hot day)",yes
+2026-04,RM03,30,3,3,0,0.84,3,,,42.5,65.0,,0,40.2,2.0,9.65,30,0,1.0,14.85,1,SCHOOL HOUSE (1 cold day),yes
+2026-04,RM04,30,13,5,8,1.1,10,1.6,74,56.8,81.0,1.3,8,34.0,28.4,37.75,30,1,22.6,50.96,3,INDIAN BUTTE (1 cold day); Newcastle (1 cold day); Ellsworth Afb (1 hot day),yes
+2026-04,RM05,30,9,7,2,1.06,7,,,54.6,83.0,0.6,2,36.2,28.0,39.02,30,1,17.1,37.82,2,WHITETAIL PEAK (2 hot days); Sturgis (1 cold day),yes
+2026-04,RM06,30,4,3,1,1.75,4,2.42,65,57.0,84.5,1.1,1,33.4,34.9,50.23,30,9,24.1,49.44,0,,yes
+2026-04,RM07,30,9,3,6,0.62,5,0.95,81,52.9,70.0,1.8,6,27.9,30.5,36.48,30,0,26.2,47.92,3,"ANDERSON RIDGE (3 hot days, 1 cold day); Big Piney - Marbleton (reads dry, 1 hot day); Pinedale/Ralph Wenz Field (1 cold day)",yes
+2026-04,RM08,30,11,6,5,1.22,9,1.33,94,54.5,74.0,2.7,5,29.4,28.3,38.06,30,0,23.6,48.22,1,SHARPNOSE (reads dry),yes
+2026-04,RM09,30,2,2,0,1.07,2,,,52.5,73.5,,0,33.5,31.5,40.61,30,5,27.4,52.22,1,ESTERBROOK (1 cold day),yes
+2026-04,RM10,30,9,6,3,1.81,8,1.91,105,56.5,74.0,-0.1,2,29.0,32.0,43.11,30,0,28.6,48.95,2,LODORE (1 hot day); Dixon (runs hot),yes
+2026-04,RM11,30,15,10,5,1.57,10,,,49.7,67.0,-0.6,5,30.7,18.9,27.21,30,0,14.3,35.41,0,,yes
+2026-04,RM12,30,15,7,8,0.6,8,1.49,68,64.1,82.0,3.4,8,20.7,41.5,48.45,30,22,27.9,42.14,3,POLE MT (reads dry); Buckley Angb/Denver (3 hot days); Fort Collins (Awos) (reads dry),yes
+2026-04,RM13,30,8,7,1,0.85,7,,,53.6,70.5,0.4,1,23.6,35.9,42.78,30,15,27.1,38.33,1,REDFEATHER (1 cold day),yes
+2026-04,RM14,30,14,8,6,1.61,12,0.99,124,60.7,76.0,1.8,6,23.3,36.1,44.0,30,0,28.1,47.41,0,,yes
+2026-04,RM15,30,13,8,5,1.61,9,1.8,91,52.2,71.0,-6.2,3,28.0,22.2,32.34,30,0,15.9,36.47,4,STORM KING MOUNTAIN (1 hot day); Berthoud Pass (runs cold); Red Cliff Pass (Cdot) (runs cold); Eagle Co. Regional (1 hot day),yes
+2026-04,RM16,30,9,7,2,1.6,7,,,56.3,68.5,-2.2,2,23.3,37.1,43.61,30,0,26.6,39.75,2,JAY (1 hot day); Nucla (1 cold day),yes
+2026-04,RM17,30,14,8,6,0.88,9,1.36,65,51.7,66.1,-1.5,6,22.1,35.2,42.42,30,3,25.8,37.23,2,Gunnison Co. (Awos) (1 cold day); Monarch Pass (Cdot) (1 cold day),yes
+2026-04,RM18,30,16,11,5,0.82,11,,,60.5,75.0,2.7,5,19.2,43.5,50.12,30,26,33.9,47.95,2,Air Force Academy (1 hot day); Monument/Elbert (Cdot) (1 hot day),yes
+2026-04,RM19,30,11,8,3,1.62,10,0.91,124,60.0,73.0,-0.8,3,21.1,39.0,46.83,30,0,26.7,34.72,0,,yes
+2026-04,RM20,30,6,4,2,1.33,4,,,50.7,62.5,-8.7,2,25.0,30.1,38.59,30,0,22.2,35.76,0,,yes
+2026-04,RM21,30,4,1,3,0.09,2,0.57,16,61.3,72.4,0.9,3,15.8,48.9,53.48,30,27,41.7,59.57,0,,yes
+2026-04,RM22,30,7,5,2,0.41,4,,,58.1,71.6,1.0,1,17.5,47.8,54.28,30,28,34.5,53.69,3,BEULAH (1 cold day); BOSQUE (reads dry); La Veta Pass (Cdot) (runs cold),yes
+2026-04,RM23,30,32,9,23,1.77,21,2.06,97,57.2,91.0,0.7,23,40.2,28.5,40.49,30,7,25.9,51.45,3,MARSHALL CO (1 hot day); MAGPIE CREEK (1 cold day); Rosebud (1 cold day),yes
+2026-04,RM24,30,8,4,4,1.0,6,2.08,42,61.3,89.0,3.9,4,30.4,35.7,49.2,30,9,33.4,62.58,2,PINNACLES (reads dry); PORCUPINE (2 cold days),yes
+2026-04,RM25,30,33,7,26,0.5,14,1.7,34,65.2,87.8,4.4,25,23.3,42.6,49.83,30,25,36.0,56.98,5,"Harrisburg (1 cold day); Pine Bluffs (1 cold day); Colorado Air And Space (1 hot day); Greeley/Weld (Awos) (reads dry, 1 cold day); Imperial Municip (1 hot day)",yes
+2026-04,RM26,30,37,3,34,1.78,17,2.7,82,65.5,89.0,3.8,34,36.5,35.2,46.78,30,14,29.3,55.45,7,MCKELVIE (1 hot day); Aurora (2 hot days); Beatrice Municip (1 cold day); Holdrege/Brewstr (1 hot day); York (1 hot day); Lexington (1 hot day); Offutt Afb/Belle (1 hot day),yes
+2026-04,RM27,30,38,7,31,0.47,17,1.45,34,73.3,87.15,6.4,29,18.6,49.8,54.9,30,27,39.8,51.06,4,"CIMARRON (reads dry); Sublette (1 cold day); Fort Carson/Butts (1 hot day, 1 cold day); Burlington (1 hot day)",yes
+2026-04,RM28,30,52,5,47,2.28,25,3.12,69,74.0,87.0,6.4,47,39.7,25.6,34.76,30,1,26.0,39.31,10,"Chanute (1 rain flag); Newton (1 cold day); Fort Scott (2 cold days); Hutchinson (reads dry, 1 cold day); Iola (1 cold day); Lyons (1 hot day); Manhattan (1 cold day); Parsons (1 rain flag); Salina (1 cold day); Winfield (1 cold day)",yes
+2026-05,RM01,31,3,2,1,1.78,2,,,58.5,77.0,0.3,1,24.4,25.6,35.71,31,7,23.0,39.64,0,,yes
+2026-05,RM02,31,17,10,7,1.31,13,1.66,39,68.2,91.0,3.3,6,21.9,34.8,44.95,31,8,30.8,47.67,3,RATTLESNAKE MTN. (1 hot day); Cody Muni (Awos) (3 hot days); Boysen Peak (runs cold),yes
+2026-05,RM03,31,3,3,0,1.32,3,,,52.8,74.0,,0,33.5,16.1,31.57,31,0,15.1,38.22,1,BURGESS (1 cold day),yes
+2026-05,RM04,31,13,5,8,1.12,10,2.68,37,69.2,92.0,4.0,8,26.1,37.1,45.83,31,14,31.8,44.89,2,INDIAN BUTTE (1 rain flag); Ellsworth Afb (3 hot days),yes
+2026-05,RM05,31,9,7,2,2.49,7,,,67.0,87.4,5.1,2,29.6,33.1,45.59,31,7,23.1,32.97,0,,yes
+2026-05,RM06,31,4,3,1,2.07,4,2.97,110,69.1,88.0,3.5,1,26.8,36.9,48.8,31,10,28.5,43.82,1,RED CANYON (1 hot day),yes
+2026-05,RM07,31,9,3,6,0.74,5,1.51,88,63.3,81.0,2.1,6,22.0,32.8,42.98,31,9,31.4,48.28,2,"ANDERSON RIDGE (1 hot day, 1 cold day); Big Piney - Marbleton (reads dry, 1 hot day)",yes
+2026-05,RM08,31,11,6,5,1.44,10,2.06,86,64.6,86.0,2.1,5,25.7,29.4,42.05,31,3,25.1,48.83,1,WIND RIVER (1 cold day),yes
+2026-05,RM09,31,2,2,0,2.19,1,,,61.3,81.5,,0,29.8,29.2,40.69,31,3,26.3,45.15,1,DODGE CREEK (reads dry),yes
+2026-05,RM10,31,9,6,3,1.94,8,1.73,116,66.2,84.0,-1.6,2,24.0,37.1,48.89,31,4,32.2,48.96,1,Dixon (runs hot),yes
+2026-05,RM11,31,15,10,5,1.64,10,,,58.7,75.5,-1.0,5,28.1,23.2,35.06,31,0,18.0,33.4,2,DRY LAKE (1 hot day); Walton Peak (1 cold day),yes
+2026-05,RM12,31,15,7,8,2.46,9,2.04,107,69.5,85.0,0.1,8,28.6,28.9,42.07,31,2,20.3,33.42,2,POLE MT (reads dry); Buckley Angb/Denver (1 hot day),yes
+2026-05,RM13,31,8,7,1,2.76,7,,,59.7,78.0,,0,31.0,23.5,37.01,31,0,15.8,31.55,2,LOST PARK (1 hot day); Dakota Hills (runs cold),yes
+2026-05,RM14,31,14,8,6,1.35,12,0.98,71,70.9,87.5,1.2,6,18.0,41.3,53.97,31,3,32.7,45.5,0,,yes
+2026-05,RM15,31,13,8,5,1.11,9,1.52,30,62.1,78.0,-6.7,3,24.5,27.9,39.78,31,0,22.3,34.99,3,STORM KING MOUNTAIN (runs hot); Berthoud Pass (runs cold); Red Cliff Pass (Cdot) (runs cold),yes
+2026-05,RM16,31,9,7,2,0.72,7,,,67.1,81.5,-2.1,2,17.0,45.5,52.84,31,16,30.7,46.21,1,JAY (1 hot day),yes
+2026-05,RM17,31,14,8,6,0.76,9,1.06,57,59.7,74.2,-3.9,6,22.6,30.9,38.95,31,0,22.7,31.79,2,TAYLOR PARK (1 hot day); Monarch Pass (Cdot) (2 cold days),yes
+2026-05,RM18,31,16,11,5,1.53,11,,,65.2,79.0,-1.1,5,30.1,29.2,38.88,31,2,22.7,34.94,2,RAMPART RANGE (1 cold day); Air Force Academy (1 hot day),yes
+2026-05,RM19,31,11,8,3,0.15,10,0.74,5,71.1,86.0,0.0,3,14.7,48.9,56.73,31,8,33.2,40.48,0,,yes
+2026-05,RM20,31,6,4,2,0.2,4,,,60.2,73.0,-7.7,2,19.9,39.8,46.57,31,0,29.8,40.38,0,,yes
+2026-05,RM21,31,4,1,3,0.32,2,0.6,47,70.1,81.65,0.8,3,15.9,48.2,53.97,31,24,41.4,58.22,0,,yes
+2026-05,RM22,31,7,5,2,2.25,4,,,63.0,77.0,-2.4,1,26.1,32.2,45.5,31,3,23.6,40.84,3,"SAND DUNES (reads dry, 1 hot day); Westcliffe (1 hot day); La Veta Pass (Cdot) (runs cold)",yes
+2026-05,RM23,31,32,9,23,1.74,21,3.2,55,72.1,93.0,3.3,23,31.9,35.7,46.64,31,24,33.5,51.71,1,Redfield (1 cold day),yes
+2026-05,RM24,31,8,4,4,2.81,7,2.71,123,72.6,91.0,5.5,4,26.2,37.4,50.29,31,11,35.3,54.89,0,,yes
+2026-05,RM25,31,32,6,26,1.53,15,2.65,59,73.6,89.0,2.6,25,25.5,37.3,46.14,31,19,32.9,48.54,2,Pine Bluffs (1 cold day); Greeley/Weld (Awos) (2 cold days),yes
+2026-05,RM26,31,37,3,34,3.01,17,4.17,80,76.4,93.0,4.0,34,32.2,36.7,49.19,31,15,31.1,43.75,5,Falls City/Brenn (1 hot day); Holdrege/Brewstr (1 hot day); Hastings (1 hot day); York (1 hot day); Lexington (1 hot day),yes
+2026-05,RM27,31,38,7,31,1.38,18,1.99,61,77.9,92.0,1.8,28,25.9,35.5,49.1,31,3,30.7,43.8,3,Springfield (1 cold day); Johnson (1 cold day); Trinidad/Animas Co. (1 rain flag),yes
+2026-05,RM28,31,52,5,47,3.56,27,4.77,74,79.2,91.4,2.8,46,39.1,27.7,42.1,31,5,23.8,38.89,7,STATE LINE (1 rain flag); Anthony (1 rain flag); Emporia (1 cold day); Newton (1 cold day); Fort Scott (3 cold days); Mcconnell_Afb (2 hot days); Winfield (1 rain flag),yes
+2026-06,RM01,30,3,2,1,0.95,2,,,65.0,78.0,-2.3,1,22.2,36.1,42.55,30,24,32.9,47.72,0,,yes
+2026-06,RM02,30,17,10,7,0.84,11,0.97,28,74.7,92.0,-2.7,7,21.0,40.7,48.22,30,15,36.5,55.4,3,"RATTLESNAKE MTN. (1 hot day); Cody Muni (Awos) (reads dry, 1 hot day); Greybull/South Big Horn Cnty Apt (reads dry)",yes
+2026-06,RM03,30,3,3,0,1.52,3,,,59.5,77.0,,0,36.7,28.5,36.22,30,6,27.0,44.53,2,MILL CREEK (2 hot days); SCHOOL HOUSE (2 cold days),yes
+2026-06,RM04,30,13,5,8,1.32,10,2.03,64,77.0,95.0,0.5,8,28.4,33.2,41.42,30,5,29.9,44.27,3,INDIAN BUTTE (1 rain flag); Ellsworth Afb (3 hot days); Sheridan Co. Arpt (2 cold days),yes
+2026-06,RM05,30,9,7,2,1.38,7,,,73.9,89.0,0.2,2,34.2,34.5,44.59,30,15,23.0,32.3,1,BAKER PARK (1 hot day),yes
+2026-06,RM06,30,4,3,1,1.98,4,3.16,43,75.1,92.0,-1.6,1,33.9,35.5,48.6,30,13,27.0,39.3,1,RED CANYON (1 hot day),yes
+2026-06,RM07,30,9,3,6,0.24,5,1.01,24,74.3,87.0,2.2,5,15.4,48.4,56.38,30,28,45.0,57.21,1,Big Piney - Marbleton (runs hot),yes
+2026-06,RM08,30,11,6,5,0.59,10,1.01,50,76.6,88.0,1.6,5,18.7,41.3,47.9,30,22,37.5,54.03,1,WIND RIVER (2 cold days),yes
+2026-06,RM09,30,2,2,0,1.42,2,,,73.0,86.5,,0,24.0,37.4,46.34,30,18,34.9,49.92,0,,yes
+2026-06,RM10,30,9,6,3,0.33,8,1.02,19,82.3,89.0,3.0,2,11.4,54.2,63.3,30,27,46.0,59.11,1,Dixon (runs hot),yes
+2026-06,RM11,30,15,10,5,0.26,10,,,73.6,81.5,3.8,5,14.4,46.4,54.59,30,27,36.8,46.55,1,DEEP CREEK (runs cold),yes
+2026-06,RM12,30,15,7,8,0.47,9,1.56,45,83.5,93.2,2.1,8,20.2,42.4,51.08,30,19,31.0,39.26,3,SUGARLOAF (1 rain flag); LOOKOUT MOUNTAIN (reads wet); Buckley Angb/Denver (1 hot day),yes
+2026-06,RM13,30,8,7,1,0.4,7,,,74.0,83.0,0.9,1,18.0,38.8,46.33,30,19,29.5,39.88,0,,yes
+2026-06,RM14,30,14,8,6,0.18,12,0.55,28,86.2,92.5,4.1,6,8.2,60.8,70.54,30,27,45.8,60.86,0,,yes
+2026-06,RM15,30,13,8,5,0.31,9,0.88,17,76.6,84.0,-3.3,3,13.5,51.9,60.8,30,28,39.4,50.52,1,Berthoud Pass (runs cold),yes
+2026-06,RM16,30,9,7,2,0.3,7,,,82.4,89.0,-0.8,2,8.9,59.3,67.73,30,30,41.8,55.26,1,Telluride Regional (1 cold day),yes
+2026-06,RM17,30,14,8,6,0.2,9,0.82,21,74.9,82.5,-0.0,6,11.1,47.0,55.88,30,25,34.9,43.84,0,,yes
+2026-06,RM18,30,16,11,5,0.41,10,,,80.4,91.0,3.2,5,17.8,41.4,49.53,30,21,34.5,47.13,4,FT CARSON (reads wet); RAMPART RANGE (1 cold day); Air Force Academy (1 hot day); Cheyenne Mountain (1 cold day),yes
+2026-06,RM19,30,11,8,3,0.22,10,0.37,57,84.2,92.0,2.1,3,10.3,59.2,66.59,30,30,39.5,46.25,0,,yes
+2026-06,RM20,30,6,4,2,0.15,4,,,73.6,81.5,-6.1,2,14.1,52.7,60.88,30,25,37.5,44.34,0,,yes
+2026-06,RM21,30,4,1,3,0.12,2,0.43,28,83.3,90.5,4.5,3,10.9,49.5,56.08,30,26,46.9,56.04,0,,yes
+2026-06,RM22,30,7,5,2,0.13,5,,,78.6,87.8,2.5,1,12.8,42.8,51.72,30,18,35.1,44.96,2,Westcliffe (1 hot day); La Veta Pass (Cdot) (runs cold),yes
+2026-06,RM23,30,32,9,23,2.41,21,3.71,63,79.5,93.0,0.8,23,41.9,27.7,35.99,30,7,27.7,38.49,3,TATANKA PRAIRIE (1 rain flag); MAGPIE CREEK (2 rain flags); Redfield (1 rain flag),yes
+2026-06,RM24,30,8,4,4,1.92,6,2.87,36,79.6,93.0,0.9,4,32.6,35.2,48.45,30,14,34.2,50.62,1,MONTROSE (reads dry),yes
+2026-06,RM25,30,33,7,26,2.13,15,2.17,94,84.1,96.0,1.6,26,25.8,37.4,52.83,30,17,34.2,53.02,8,"AGATE (reads dry, 4 rain flags); GUERNSEY (1 cold day); SOUTH REPUBLICAN (2 rain flags); Harrisburg (1 cold day); Raymer (2 cold days); Pine Bluffs (1 cold day); Akron/Washington Co (1 rain flag); Fort Morgan (1 rain flag)",yes
+2026-06,RM26,30,37,3,34,3.39,17,4.02,85,82.2,94.0,-0.5,34,45.0,29.9,43.6,30,7,27.2,43.03,2,"VALENTINE (1 rain flag); Falls City/Brenn (1 hot day, 1 rain flag)",yes
+2026-06,RM27,30,38,7,31,1.09,15,2.2,55,89.9,100.0,2.5,29,25.9,43.7,52.69,30,12,37.7,50.63,8,"CIMARRON (reads wet); GRANADA (1 rain flag); Fort Carson/Butts (2 hot days); Goodland (1 rain flag); Burlington (1 hot day); Lamar (1 cold day); Pueblo Memorial(Aw) (reads dry, 1 rain flag); Springfield/Comanche Natl Grass (1 rain flag)",yes
+2026-06,RM28,30,52,5,47,6.14,27,4.69,133,85.8,93.0,-0.8,47,51.9,22.7,29.98,30,0,20.4,27.45,10,"KIRWIN (1 rain flag); Coffeyville (1 rain flag); Chanute (1 rain flag); Wellington (1 cold day); El Dorado (1 rain flag); Fort Scott (2 cold days); Mcconnell_Afb (2 hot days, 1 cold day); Parsons (1 rain flag); Pratt (1 cold day); Salina (1 rain flag)",yes
+2026-07,RM01,31,3,2,1,1.54,2,,,81.0,91.4,2.7,1,20.1,38.7,50.2,31,29,31.3,41.25,0,,yes
+2026-07,RM02,31,17,10,7,0.68,10,0.16,206,90.9,104.9,3.5,7,17.0,48.6,60.09,31,30,38.8,58.97,3,WILLOW CREEK (reads dry); Cody Muni (Awos) (reads dry); Worland Municipal (reads dry),yes
+2026-07,RM03,31,3,3,0,1.64,1,,,75.7,88.0,,0,28.1,38.2,50.14,31,27,28.8,47.98,2,"BURGESS (reads wet); SCHOOL HOUSE (reads wet, 1 cold day)",yes
+2026-07,RM04,31,13,5,8,1.15,9,1.57,45,93.5,105.0,6.6,8,20.7,44.6,57.56,31,26,35.1,52.15,1,Douglas/Converse County Airport (reads dry),yes
+2026-07,RM05,31,9,7,2,1.71,6,,,90.4,103.0,8.9,2,27.3,41.4,53.72,31,20,25.5,32.0,3,MT. RUSHMORE (reads dry); WHITETAIL PEAK (1 cold day); Sturgis (1 cold day),yes
+2026-07,RM06,31,4,3,1,2.3,4,3.29,129,91.5,101.5,4.7,1,26.1,44.0,52.53,31,23,31.8,42.68,1,CUSTER STATE PARK (1 rain flag),yes
+2026-07,RM07,31,9,3,6,0.57,5,0.55,131,86.4,95.0,5.3,6,15.8,51.9,62.07,31,31,43.3,58.67,2,MUDDY CREEK (reads dry); Evanston/Burns Fld (1 cold day),yes
+2026-07,RM08,31,11,6,5,0.61,9,0.66,90,88.7,97.0,4.8,5,16.8,49.4,58.17,31,31,38.5,46.61,1,WIND RIVER (reads wet),yes
+2026-07,RM09,31,2,2,0,0.89,2,,,85.5,95.5,,0,19.7,46.0,54.84,31,31,34.7,41.31,0,,yes
+2026-07,RM10,31,9,6,3,0.52,7,0.93,42,91.0,98.0,5.3,3,14.1,56.3,66.47,31,29,42.5,54.42,2,Dixon (4 hot days); Hayden/Yampa (Awos) (reads dry),yes
+2026-07,RM11,31,15,10,5,1.12,9,,,81.6,88.0,4.5,5,19.7,46.2,54.74,31,22,30.4,37.56,3,WILLOW CREEK (reads dry); Walton Peak (1 cold day); Granby (1 cold day),yes
+2026-07,RM12,31,15,7,8,1.12,8,1.47,66,91.6,99.0,4.1,8,19.2,48.5,57.08,31,28,32.9,39.08,3,POLE MT (reads dry); LOOKOUT MOUNTAIN (reads dry); CARPENTER PEAK (1 rain flag),yes
+2026-07,RM13,31,8,7,1,2.05,7,,,80.8,88.0,,0,21.7,42.7,49.36,31,22,28.5,34.76,1,Dakota Hills (runs cold),yes
+2026-07,RM14,31,14,8,6,0.93,6,0.93,80,92.9,99.0,4.3,6,14.7,58.6,68.34,31,23,39.9,49.17,6,PINTO (reads dry); RIFLE (reads dry); PINE RIDGE (reads dry); LITTLE DOLORES (reads dry); Grand Junction (reads dry); Rifle/Garfield Rgnl (reads dry),yes
+2026-07,RM15,31,13,8,5,0.98,9,1.64,45,82.8,91.0,-3.8,3,18.7,49.3,57.55,31,23,33.3,41.14,6,"KEYSER RIDGE (1 rain flag); STORM KING MOUNTAIN (runs hot); GYPSUM (runs hot); GRAND MESA (1 cold day, 1 rain flag); Berthoud Pass (runs cold); Red Cliff Pass (Cdot) (runs cold)",yes
+2026-07,RM16,31,9,7,2,1.64,7,,,86.9,94.0,-1.1,2,17.5,51.4,64.92,31,18,35.0,46.82,2,JAY (runs hot); Telluride Regional (1 cold day),yes
+2026-07,RM17,31,14,8,6,1.52,9,1.72,85,80.2,87.5,0.7,6,18.6,44.3,53.82,31,21,30.8,38.52,2,BEAR CREEK (1 rain flag); Monarch Pass (Cdot) (4 cold days),yes
+2026-07,RM18,31,16,11,5,1.65,11,,,86.9,93.5,4.7,5,19.8,43.9,50.08,31,23,33.0,43.29,1,RAMPART RANGE (runs cold),yes
+2026-07,RM19,31,11,8,3,1.21,10,1.19,79,88.3,96.0,1.6,3,18.3,51.3,63.76,31,15,32.5,42.0,0,,yes
+2026-07,RM20,31,6,4,2,2.35,4,,,77.8,85.0,-5.2,2,23.8,46.3,59.35,31,14,30.8,43.92,2,BIG BEAR PARK (runs cold); LOG CHUTE (1 rain flag),yes
+2026-07,RM21,31,4,1,3,0.48,1,1.0,48,86.9,93.0,5.0,3,17.8,44.8,52.84,31,15,40.2,53.89,1,ALAMOSA (reads dry),yes
+2026-07,RM22,31,7,5,2,2.09,5,,,82.8,89.0,-2.7,2,18.2,45.6,54.75,31,24,32.5,42.89,1,"La Veta Pass (Cdot) (1 cold day, 1 rain flag)",yes
+2026-07,RM23,31,32,9,23,2.51,21,2.94,89,89.0,100.7,3.7,23,44.1,30.4,36.87,31,14,27.7,36.02,8,"TATANKA PRAIRIE (1 rain flag); Gettysburg (1 cold day); Onida (2 cold days); Chamberlain (3 cold days, 1 rain flag); Brookings (1 cold day); Sioux Falls (1 rain flag); Mobridge (1 hot day); Rosebud (1 cold day)",yes
+2026-07,RM24,31,8,4,4,1.34,7,2.12,64,94.4,107.9,7.0,4,24.6,42.6,51.61,31,25,36.4,44.03,0,,yes
+2026-07,RM25,31,33,7,26,1.0,14,2.15,50,93.9,105.8,4.6,26,22.6,42.9,52.23,31,31,34.8,41.88,9,"AGATE (reads dry); SOUTH REPUBLICAN (1 rain flag); Akron/Washington Co (1 cold day, 1 rain flag); Colorado Air And Space (1 cold day); Wheatland (1 hot day); Grant (1 rain flag); Guernsey (1 cold day); Holyoke (1 cold day); Imperial Municip (1 rain flag)",yes
+2026-07,RM26,31,37,3,34,3.17,17,3.29,94,89.2,101.0,2.2,34,48.5,33.1,42.18,31,8,26.7,36.85,4,BESSEY (1 rain flag); Aurora (1 rain flag); Fremont Muni Arp (1 rain flag); Offutt Afb/Belle (1 hot day),yes
+2026-07,RM27,31,38,7,31,1.55,17,2.87,54,95.4,107.3,3.9,29,23.6,47.0,53.05,31,20,37.8,51.38,6,UTE CANYON (1 rain flag); Atwood (1 cold day); Fort Carson/Butts (1 cold day); Garden_City (1 rain flag); Johnson (1 rain flag); La Junta Municipal (1 rain flag),yes
+2026-07,RM28,31,52,5,47,1.8,26,3.8,39,92.5,102.2,1.1,47,45.2,25.3,30.65,31,0,19.9,25.77,9,"TALLGRASS PRAIRIE (1 rain flag); Wichita (Aao) (1 cold day); Newton (2 cold days, 1 rain flag); Hill_City (1 rain flag); Wichita (reads dry); Olathe (1 rain flag); Parsons (1 rain flag); Salina (2 cold days, 1 rain flag); Winfield (1 rain flag)",yes
+2026-08,RM01,12,3,2,1,0.11,2,,,80.5,87.8,1.7,1,12.0,49.1,53.69,12,12,40.0,45.47,0,,12 of 31 days
+2026-08,RM02,12,17,10,7,0.0,13,0.15,,88.0,101.0,-0.1,7,12.3,60.5,63.98,12,12,44.0,55.97,0,,12 of 31 days
+2026-08,RM03,12,3,3,0,0.0,3,,,74.2,83.0,,0,19.0,44.9,50.05,12,12,35.5,41.99,0,,12 of 31 days
+2026-08,RM04,12,13,5,8,0.1,10,0.42,,90.0,99.0,3.0,8,17.7,47.6,53.35,12,12,38.0,46.97,2,DEVILS TOWER (runs hot); Ellsworth Afb (1 hot day),12 of 31 days
+2026-08,RM05,12,9,7,2,0.51,7,,,87.1,97.0,3.6,2,23.9,43.3,49.58,12,10,26.4,30.75,0,,12 of 31 days
+2026-08,RM06,12,4,3,1,0.49,4,1.02,,88.8,102.0,4.3,1,22.8,45.3,52.41,12,10,31.0,39.23,0,,12 of 31 days
+2026-08,RM07,12,9,3,6,0.02,6,0.29,,87.2,93.0,5.6,6,10.2,57.2,60.96,12,12,50.1,64.02,1,ANDERSON RIDGE (1 hot day),12 of 31 days
+2026-08,RM08,12,11,6,5,0.01,10,0.28,,87.8,96.0,4.4,5,11.0,56.2,60.92,12,12,43.3,50.85,1,WIND RIVER (1 cold day),12 of 31 days
+2026-08,RM09,12,2,2,0,0.14,2,,,85.8,94.5,,0,12.5,48.1,53.34,12,12,41.4,52.0,0,,12 of 31 days
+2026-08,RM10,12,9,6,3,0.01,8,0.41,,90.3,95.0,4.7,3,10.9,61.4,64.94,12,12,44.8,55.14,0,,12 of 31 days
+2026-08,RM11,12,15,10,5,0.16,10,,,82.2,88.0,5.6,5,14.0,48.4,53.58,12,12,34.1,40.37,1,Walton Peak (1 cold day),12 of 31 days
+2026-08,RM12,12,15,7,8,0.04,10,0.56,,92.0,100.4,5.7,8,15.3,47.9,52.26,12,12,33.1,38.5,2,Buckley Angb/Denver (1 hot day); Laramie/Gen. Brees (1 hot day),12 of 31 days
+2026-08,RM13,12,8,7,1,0.54,7,,,82.2,90.0,3.7,1,16.7,40.0,44.28,12,8,29.1,34.68,0,,12 of 31 days
+2026-08,RM14,12,14,8,6,0.03,12,0.39,,94.0,97.5,6.9,6,10.6,62.2,66.67,12,12,43.4,51.86,0,,12 of 31 days
+2026-08,RM15,12,13,8,5,0.07,8,0.64,,83.3,88.5,-0.7,3,13.1,51.9,56.52,12,12,36.5,42.36,4,STORM KING MOUNTAIN (runs hot); DOWD JUNCTION (reads wet); Berthoud Pass (runs cold); Red Cliff Pass (Cdot) (runs cold),12 of 31 days
+2026-08,RM16,12,9,7,2,0.12,7,,,90.1,93.0,2.0,1,11.7,56.6,60.9,12,12,39.2,43.64,1,Telluride Regional (runs cold),12 of 31 days
+2026-08,RM17,12,14,8,6,0.16,9,0.78,,81.9,85.5,3.5,6,13.4,41.8,47.66,12,8,30.0,34.42,1,Gunnison Co. (Awos) (1 cold day),12 of 31 days
+2026-08,RM18,12,16,11,5,0.19,11,,,88.3,93.0,7.8,5,15.4,41.0,45.92,12,8,32.2,36.39,0,,12 of 31 days
+2026-08,RM19,12,11,8,3,0.04,10,0.59,,92.7,95.0,7.0,3,11.9,58.9,63.62,12,10,37.3,40.18,0,,12 of 31 days
+2026-08,RM20,12,6,4,2,0.05,4,,,81.1,83.3,0.3,2,16.1,50.7,54.7,12,9,34.2,39.34,1,LOG CHUTE (1 rain flag),12 of 31 days
+2026-08,RM21,12,4,1,3,0.01,2,0.51,,89.6,91.2,8.8,3,12.7,45.6,48.38,12,8,40.4,51.86,0,,12 of 31 days
+2026-08,RM22,12,7,5,2,0.27,5,,,85.0,88.4,6.9,1,14.8,42.7,49.81,12,7,32.0,39.19,2,SAND DUNES (1 hot day); La Veta Pass (Cdot) (runs cold),12 of 31 days
+2026-08,RM23,12,32,9,23,0.14,21,1.13,,84.1,91.4,-0.5,23,44.4,30.3,35.97,12,4,28.7,40.44,2,Milbank (1 rain flag); Redfield (1 rain flag),12 of 31 days
+2026-08,RM24,12,8,4,4,0.29,7,0.62,,92.3,106.5,4.0,4,21.5,44.3,47.45,12,11,38.4,47.28,0,,12 of 31 days
+2026-08,RM25,12,33,7,26,0.05,16,0.69,,93.1,103.0,4.3,25,19.1,43.7,48.38,12,12,35.5,47.99,3,Alliance (1 rain flag); Scottsbluff (1 cold day); Colorado Air And Space (4 cold days),12 of 31 days
+2026-08,RM26,12,37,3,34,0.62,16,1.37,,85.4,93.0,-0.5,34,55.8,28.5,33.2,12,0,25.0,32.73,1,Omaha/Eppley (reads wet),12 of 31 days
+2026-08,RM27,12,38,7,31,0.02,18,1.19,,97.7,105.0,7.1,29,19.8,47.7,57.83,12,7,38.2,46.06,1,Fort Carson/Butts (1 hot day),12 of 31 days
+2026-08,RM28,12,52,5,47,0.18,25,1.52,,94.8,103.0,3.6,47,37.2,24.7,31.42,12,0,20.8,28.44,3,Wichita (Aao) (reads wet); Newton (1 cold day); Lawrence (reads dry),12 of 31 days
 2026-11,RM01,12,3,2,1,0.02,2,,,49.9,64.0,8.4,1,25.4,31.1,34.34,12,4,27.7,32.55,0,,12 of 30 days
 2026-11,RM02,12,17,10,7,0.05,13,0.16,,57.1,63.0,10.8,7,26.9,36.2,38.06,12,0,27.7,35.49,1,Powell (1 cold day),12 of 30 days
 2026-11,RM03,12,3,3,0,0.05,3,,,49.9,60.0,,0,26.0,26.4,30.57,12,0,26.9,33.1,0,,12 of 30 days
