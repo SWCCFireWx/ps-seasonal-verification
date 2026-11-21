@@ -3696,6 +3696,100 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-08-12,20117,HURRICANE,RAWS,GB35,wet,1.11,8,0.19,far more rain than any neighbor
 2026-08-12,422807,LAVA POINT RAWS,RAWS,GB34,wet,1.03,8,0.12,far more rain than any neighbor
 2026-08-12,ASOS-RNO,Reno - Tahoe,ASOS,GB12,rain_alone,0.6,8,0.04,rain no neighbor saw
+2026-08-13,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,91.0,3,74.9,max temp much warmer than neighbors
+2026-08-13,ASOS-RNO,Reno - Tahoe,ASOS,GB12,rain_alone,0.5,8,0.0,rain no neighbor saw
+2026-08-14,260302,POLE CREEK,RAWS,GB18,cold,63.0,3,71.1,max temp much colder than neighbors
+2026-08-14,ASOS-MEV,Miden - Tahoe,ASOS,GB12,cold,55.4,8,83.2,max temp much colder than neighbors
+2026-08-15,101804,COPPER BASIN,RAWS,GB02,cold,62.0,6,71.7,max temp much colder than neighbors
+2026-08-22,ASOS-DIJ,Driggs,ASOS,GB08,bad_rain,25.17,0,,impossible rain total
+2026-08-23,103704,BULL CANYON,RAWS,GB08,wet,1.14,7,0.24,far more rain than any neighbor
+2026-08-24,422609,BRYCE CANYON,RAWS,GB34,wet,2.03,7,0.22,far more rain than any neighbor
+2026-08-24,422710,NORTH LONG POINT,RAWS,GB32,rain_alone,0.63,3,0.0,rain no neighbor saw
+2026-08-25,421305,HORSE RIDGE,RAWS,GB29,cold,74.0,8,82.4,max temp much colder than neighbors
+2026-08-25,ASOS-AFO,Afton,ASOS,GB10,cold,53.6,8,82.9,max temp much colder than neighbors
+2026-08-26,ASOS-DIJ,Driggs,ASOS,GB08,rain_alone,2.3,8,0.0,rain no neighbor saw
+2026-08-27,ASOS-AFO,Afton,ASOS,GB10,cold,62.6,8,85.5,max temp much colder than neighbors
+2026-08-28,ASOS-41U,Manti,ASOS,GB27,cold,73.4,8,86.2,max temp much colder than neighbors
+2026-08-28,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,91.0,3,78.7,max temp much warmer than neighbors
+2026-08-28,ASOS-PVU,Provo Muni (Awos),ASOS,GB25,cold,73.0,8,89.8,max temp much colder than neighbors
+2026-08-29,ASOS-HIF,Hill Afb/Ogden,ASOS,GB25,hot,82.0,8,72.8,max temp much warmer than neighbors
+2026-08-30,ASOS-RIF,Richfield,ASOS,GB28,cold,64.4,6,81.9,max temp much colder than neighbors
+2026-08-31,ASOS-MLF,Milford Municipal,ASOS,GB33,missed,0.0,4,0.57,no rain while most neighbors got rain
+2026-09-02,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,84.0,3,71.9,max temp much warmer than neighbors
+2026-09-04,260315,STAG MOUNTAIN,RAWS,GB18,hot,73.0,3,64.0,max temp much warmer than neighbors
+2026-09-04,261301,CHERRY VALLEY,RAWS,GB13,cold,63.0,4,72.6,max temp much colder than neighbors
+2026-09-05,261301,CHERRY VALLEY,RAWS,GB13,cold,65.0,4,73.6,max temp much colder than neighbors
+2026-09-06,101222,PINE CREEK,RAWS,GB04,cold,59.0,8,67.1,max temp much colder than neighbors
+2026-09-06,ASOS-INS,Indian Springs,ASOS,GB22,hot,90.0,8,80.4,max temp much warmer than neighbors
+2026-09-06,ASOS-LSV,Nellis Afb,ASOS,GB24,hot,97.0,6,85.1,max temp much warmer than neighbors
+2026-09-10,103209,TWIN BUTTES,RAWS,GB06,hot,93.0,8,85.0,max temp much warmer than neighbors
+2026-09-12,421702,BRUIN POINT,RAWS,GB31,rain_alone,1.53,8,0.04,rain no neighbor saw
+2026-09-13,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,90.0,3,81.9,max temp much warmer than neighbors
+2026-09-13,ASOS-U55,Panguitch,ASOS,GB34,cold,69.8,8,80.4,max temp much colder than neighbors
+2026-09-14,ASOS-HIF,Hill Afb/Ogden,ASOS,GB25,hot,84.0,8,69.9,max temp much warmer than neighbors
+2026-09-16,421702,BRUIN POINT,RAWS,GB31,hot,63.0,5,51.1,max temp much warmer than neighbors
+2026-09-16,422610,LARB HOLLOW,RAWS,GB28,cold,61.0,3,70.3,max temp much colder than neighbors
+2026-09-17,55522249,DECATHON  CANYON,RAWS,GB20,cold,62.0,4,70.2,max temp much colder than neighbors
+2026-09-17,ASOS-JAC,Jackson Hole (Awos),ASOS,GB10,cold,59.0,8,67.0,max temp much colder than neighbors
+2026-09-21,ASOS-DTA,Delta,ASOS,GB27,cold,73.4,7,81.5,max temp much colder than neighbors
+2026-09-22,260309,ROCK SPRING CREEK,RAWS,GB18,cold,57.0,5,66.5,max temp much colder than neighbors
+2026-09-23,ASOS-BCE,Bryce Canyon,ASOS,GB34,cold,41.0,8,72.4,max temp much colder than neighbors
+2026-09-23,ASOS-HIF,Hill Afb/Ogden,ASOS,GB25,rain_alone,0.62,7,0.0,rain no neighbor saw
+2026-09-26,260114,DESERT SPRINGS,RAWS,GB12,cold,67.0,8,75.1,max temp much colder than neighbors
+2026-09-26,260309,ROCK SPRING CREEK,RAWS,GB18,hot,75.0,5,66.6,max temp much warmer than neighbors
+2026-09-26,ASOS-DPG,Dugway Prvg Ground,ASOS,GB25,cold,67.0,8,84.6,max temp much colder than neighbors
+2026-09-28,261301,CHERRY VALLEY,RAWS,GB13,wet,1.21,4,0.12,far more rain than any neighbor
+2026-09-28,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,77.0,3,66.2,max temp much warmer than neighbors
+2026-09-29,ASOS-1U7,Bear Lake County,ASOS,GB09,cold,44.6,8,69.1,max temp much colder than neighbors
+2026-09-29,ASOS-DTA,Delta,ASOS,GB27,cold,62.6,7,70.7,max temp much colder than neighbors
+2026-09-30,ASOS-PGA,Page,ASOS,GB35,cold,72.0,4,80.5,max temp much colder than neighbors
+2026-09-30,ASOS-TMT,Austin,ASOS,GB15,cold,55.6,5,78.5,max temp much colder than neighbors
+2026-10-02,ASOS-1U7,Bear Lake County,ASOS,GB09,cold,60.8,8,76.3,max temp much colder than neighbors
+2026-10-02,ASOS-ENV,Wendover (Aut),ASOS,GB25,cold,79.0,3,90.5,max temp much colder than neighbors
+2026-10-08,55522249,DECATHON  CANYON,RAWS,GB20,cold,64.0,4,72.5,max temp much colder than neighbors
+2026-10-09,ASOS-U52,Beaver,ASOS,GB33,cold,68.0,8,80.1,max temp much colder than neighbors
+2026-10-11,104007,COTTON RIDGE,RAWS,GB07,hot,46.0,5,35.4,max temp much warmer than neighbors
+2026-10-11,104103,MOBURG CANYON,RAWS,GB07,hot,54.0,7,39.6,max temp much warmer than neighbors
+2026-10-11,260207,DOUBLE H,RAWS,GB14,cold,37.0,3,46.2,max temp much colder than neighbors
+2026-10-11,260805,CEDAR PASS,RAWS,GB20,cold,48.0,3,57.2,max temp much colder than neighbors
+2026-10-11,261603,COYOTE WASH,RAWS,GB21,missed,0.0,5,1.81,no rain while most neighbors got rain
+2026-10-11,420914,ROSEBUD,RAWS,GB25,hot,61.0,5,46.5,max temp much warmer than neighbors
+2026-10-11,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,77.0,3,62.9,max temp much warmer than neighbors
+2026-10-11,ASOS-INS,Indian Springs,ASOS,GB22,hot,80.0,8,70.5,max temp much warmer than neighbors
+2026-10-11,ASOS-LSV,Nellis Afb,ASOS,GB24,hot,86.0,6,75.0,max temp much warmer than neighbors
+2026-10-11,ASOS-PVU,Provo Muni (Awos),ASOS,GB25,missed,0.0,8,0.68,no rain while most neighbors got rain
+2026-10-12,260117,KNOX 2,RAWS,GB11,hot,55.0,8,44.3,max temp much warmer than neighbors
+2026-10-13,421805,BLACK CEDAR,RAWS,GB28,cold,41.0,7,49.0,max temp much colder than neighbors
+2026-10-14,ASOS-VEL,Vernal,ASOS,GB29,hot,59.0,8,49.5,max temp much warmer than neighbors
+2026-10-15,422710,NORTH LONG POINT,RAWS,GB32,rain_alone,0.63,3,0.0,rain no neighbor saw
+2026-10-16,104103,MOBURG CANYON,RAWS,GB07,cold,54.0,7,62.2,max temp much colder than neighbors
+2026-10-16,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,56.0,5,70.8,max temp much colder than neighbors
+2026-10-17,104103,MOBURG CANYON,RAWS,GB07,cold,54.0,7,63.6,max temp much colder than neighbors
+2026-10-18,ASOS-CNY,Moab/Canyonlands,ASOS,GB31,cold,57.0,3,65.4,max temp much colder than neighbors
+2026-10-19,ASOS-DPG,Dugway Prvg Ground,ASOS,GB25,cold,60.4,8,69.0,max temp much colder than neighbors
+2026-10-20,ASOS-ENV,Wendover (Aut),ASOS,GB25,cold,52.0,3,70.5,max temp much colder than neighbors
+2026-10-22,ASOS-BAM,Battle Mountain,ASOS,GB14,hot,72.0,3,62.7,max temp much warmer than neighbors
+2026-10-24,ASOS-HTH,Hawthorne,ASOS,GB13,cold,53.6,5,64.0,max temp much colder than neighbors
+2026-10-25,101220,TEA POT,RAWS,GB01,hot,61.0,7,52.5,max temp much warmer than neighbors
+2026-10-26,101805,LITTLE CREEK,RAWS,GB02,cold,45.0,8,53.3,max temp much colder than neighbors
+2026-10-26,420703,BEAR RIVER,RAWS,GB26,rain_alone,0.54,8,0.01,rain no neighbor saw
+2026-10-26,ASOS-ENV,Wendover (Aut),ASOS,GB25,cold,59.0,3,67.5,max temp much colder than neighbors
+2026-10-26,ASOS-TMT,Austin,ASOS,GB15,cold,37.0,5,63.4,max temp much colder than neighbors
+2026-10-27,ASOS-HTH,Hawthorne,ASOS,GB13,cold,62.6,5,71.5,max temp much colder than neighbors
+2026-10-28,ASOS-AFO,Afton,ASOS,GB10,cold,35.6,8,48.8,max temp much colder than neighbors
+2026-10-28,ASOS-HTH,Hawthorne,ASOS,GB13,cold,59.0,5,70.3,max temp much colder than neighbors
+2026-10-29,ASOS-DIJ,Driggs,ASOS,GB08,wet,2.31,8,0.13,far more rain than any neighbor
+2026-10-30,261710,WAMP SPRINGS,RAWS,GB23,rain_alone,0.64,8,0.04,rain no neighbor saw
+2026-10-31,101220,TEA POT,RAWS,GB01,cold,41.0,7,49.2,max temp much colder than neighbors
+2026-10-31,421406,UPPER P.R. CANYON,RAWS,GB29,cold,42.0,8,50.6,max temp much colder than neighbors
+2026-11-01,261603,COYOTE WASH,RAWS,GB21,missed,0.0,5,0.91,no rain while most neighbors got rain
+2026-11-01,423106,CHEPETA,RAWS,GB29,missed,0.0,8,0.64,no rain while most neighbors got rain
+2026-11-02,109693,TIMBER MTN,RAWS,GB21,rain_alone,0.7,3,0.02,rain no neighbor saw
+2026-11-02,ASOS-10U,Owyhee,ASOS,GB17,cold,33.8,5,51.4,max temp much colder than neighbors
+2026-11-02,ASOS-BAM,Battle Mountain,ASOS,GB14,cold,41.0,3,56.2,max temp much colder than neighbors
+2026-11-04,ASOS-HTH,Hawthorne,ASOS,GB13,cold,55.4,5,63.9,max temp much colder than neighbors
+2026-11-05,ASOS-HTH,Hawthorne,ASOS,GB13,cold,57.2,5,66.9,max temp much colder than neighbors
+2026-11-06,ASOS-HTH,Hawthorne,ASOS,GB13,cold,57.2,5,67.0,max temp much colder than neighbors
 2026-11-08,101303,INDIANOLA,RAWS,GB02,cold,52.0,8,64.1,max temp much colder than neighbors
 2026-11-08,ASOS-MLF,Milford Municipal,ASOS,GB33,cold,60.0,5,68.8,max temp much colder than neighbors
 2026-11-09,260308,SPRING GULCH,RAWS,GB19,cold,54.0,3,66.2,max temp much colder than neighbors
