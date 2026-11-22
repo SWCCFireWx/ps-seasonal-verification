@@ -551,15 +551,15 @@ month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,pre
 2026-10,NW10,31,25,8,17,0.42,19,1.11,52,64.9,80.0,3.1,17,36.0,30.9,34.75,31,0,20.9,29.48,1,Lexington (1 cold day),yes
 2026-10,NW11,31,24,19,5,0.82,22,1.58,27,62.8,84.0,4.0,5,33.7,36.4,46.11,31,0,21.6,28.74,5,HARL BUTTE (1 cold day); EDEN (runs hot); ALDER RIDGE (1 hot day); Joseph State (1 cold day); La Grande (Awos) (1 cold day),yes
 2026-10,NW12,31,24,21,3,0.51,23,0.66,64,64.9,86.5,3.2,3,27.7,44.6,53.9,31,0,29.2,45.94,2,"CATNIP MOUNTAIN (reads dry, 1 rain flag); LITTLE MCCOY CREEK (1 hot day)",yes
-2026-11,NW01,19,51,24,27,3.72,32,3.84,,54.1,62.5,3.4,25,67.7,4.2,12.62,19,0,4.5,10.62,11,"COUGAR MOUNTAIN (runs hot); MINOT PEAK (1 rain flag); JEFFERSON CREEK (reads wet, 1 hot day); KIDNEY CREEK (runs hot); HOZOMEEN (1 cold day); MARBLEMOUNT (1 cold day); GOLD HILL (2 hot days); ENUMCLAW (1 hot day); JIM CREEK (reads dry, 2 rain flags); Port Angeles (reads dry, 1 cold day); Port Angeles (runs cold)",19 of 30 days
-2026-11,NW02,19,36,25,11,3.52,33,3.49,,52.3,60.5,1.7,11,71.9,3.3,10.85,19,0,3.4,10.04,5,LOG CREEK (1 hot day); ROCKHOUSE 1 (1 hot day); LARCH MT. (2 hot days); CANYON CREEK (2 hot days); Newport Municip (1 cold day),19 of 30 days
-2026-11,NW03,19,31,23,8,3.19,28,3.51,,54.8,66.0,2.7,8,70.1,5.5,10.21,19,0,6.2,10.54,5,GOODWIN PEAK (1 hot day); VILLAGE CREEK (1 hot day); BRUSH CREEK (3 hot days); Corvallis Muni (2 cold days); Roseburg Municipal (1 cold day),19 of 30 days
-2026-11,NW04,19,32,27,5,2.75,28,2.4,,54.3,66.0,2.9,5,57.8,13.7,21.11,19,0,10.5,17.73,4,PEBBLE (reads wet); EMIGRANT (1 hot day); GREEN MOUNTAIN (1 hot day); PROVOLT SEED ORCHARD (1 cold day),19 of 30 days
-2026-11,NW05,19,17,12,5,1.02,14,0.66,,46.7,52.0,1.1,5,67.6,14.6,22.62,19,0,10.1,15.2,2,VIEWPOINT (reads wet); Ellensburg/Bowers (1 cold day),19 of 30 days
-2026-11,NW06,19,25,20,5,0.82,20,,,51.4,63.0,2.9,5,50.2,25.7,31.68,19,0,15.1,21.2,3,WARM SPRINGS BASE (1 cold day); Redmond (Awos) (reads dry); Prineville (1 cold day),19 of 30 days
-2026-11,NW07,19,21,18,3,0.69,20,0.87,,50.5,65.0,1.3,3,47.7,27.2,34.09,19,0,17.6,26.76,2,SELDOM CREEK (2 cold days); KLAMATH MARSH (1 cold day),19 of 30 days
-2026-11,NW08,19,16,14,2,0.48,15,0.76,,47.4,56.0,4.3,2,63.3,18.1,26.1,19,0,13.2,23.41,0,,19 of 30 days
-2026-11,NW09,19,15,14,1,0.92,14,,,45.8,53.0,2.1,1,71.1,13.5,19.87,19,0,8.7,15.76,4,PAL MOORE ORCHARD (1 hot day); KETTLE FALLS (1 cold day); TACOMA CREEK (1 hot day); TEEPEE SEED ORCHARD (1 hot day),19 of 30 days
-2026-11,NW10,19,25,8,17,0.55,18,0.87,,51.9,60.0,3.4,17,66.8,12.5,21.06,19,0,10.0,19.26,3,SADDLE MOUNTAIN (1 cold day); Hermiston (1 hot day); Pendleton Municipal (1 hot day),19 of 30 days
-2026-11,NW11,19,24,19,5,0.91,22,1.21,,48.9,62.0,3.2,4,54.3,24.3,31.42,19,0,15.1,27.28,2,PITTSBURG LANDING (1 cold day); La Grande (Awos) (1 cold day),19 of 30 days
-2026-11,NW12,19,24,21,3,0.92,24,0.53,,50.8,65.0,2.4,3,47.0,29.7,36.75,19,0,20.7,31.64,0,,19 of 30 days
+2026-11,NW01,20,51,24,27,3.72,32,4.05,,53.6,62.5,3.0,25,68.3,4.1,12.62,20,0,4.5,10.62,11,"COUGAR MOUNTAIN (runs hot); MINOT PEAK (1 rain flag); JEFFERSON CREEK (reads wet, 1 hot day); KIDNEY CREEK (runs hot); HOZOMEEN (1 cold day); MARBLEMOUNT (1 cold day); GOLD HILL (2 hot days); ENUMCLAW (1 hot day); JIM CREEK (reads dry, 2 rain flags); Port Angeles (reads dry, 1 cold day); Port Angeles (runs cold)",20 of 30 days
+2026-11,NW02,20,36,25,11,3.52,33,3.69,,51.7,60.5,1.4,11,72.3,3.1,10.85,20,0,3.2,10.04,6,"LOG CREEK (1 hot day); ROCKHOUSE 1 (1 hot day); LARCH MT. (2 hot days); CANYON CREEK (2 hot days); Newport Municip (1 hot day, 1 cold day); Tillamook (1 hot day)",20 of 30 days
+2026-11,NW03,20,31,23,8,3.19,28,3.72,,54.1,66.0,2.5,8,70.4,5.3,10.21,20,0,6.1,10.54,6,CANNIBAL MOUNTAIN (1 hot day); GOODWIN PEAK (1 hot day); VILLAGE CREEK (1 hot day); BRUSH CREEK (3 hot days); Corvallis Muni (2 cold days); Roseburg Municipal (1 cold day),20 of 30 days
+2026-11,NW04,20,32,27,5,2.75,28,2.5,,53.7,66.0,2.6,5,58.2,13.3,21.11,20,0,10.0,17.73,6,PEBBLE (reads wet); EMIGRANT (1 hot day); GREEN MOUNTAIN (1 hot day); BUCKEYE (1 cold day); ILLINOIS VALLEY AIRPORT (1 cold day); PROVOLT SEED ORCHARD (1 cold day),20 of 30 days
+2026-11,NW05,20,17,12,5,1.25,14,0.69,,46.3,52.0,0.9,5,67.7,14.2,22.62,20,0,9.6,15.2,2,VIEWPOINT (reads wet); Ellensburg/Bowers (1 cold day),20 of 30 days
+2026-11,NW06,20,25,20,5,0.82,20,,,51.0,63.0,2.7,5,51.0,25.1,31.68,20,0,14.4,21.2,4,WARM SPRINGS BASE (1 cold day); SALT CREEK-PRINEVILLE (1 cold day); Redmond (Awos) (reads dry); Prineville (1 cold day),20 of 30 days
+2026-11,NW07,20,21,18,3,0.71,19,0.9,,49.8,65.0,1.1,3,48.5,26.4,34.09,20,0,16.7,26.76,3,CALIMUS (reads dry); SELDOM CREEK (2 cold days); KLAMATH MARSH (1 cold day),20 of 30 days
+2026-11,NW08,20,16,14,2,0.48,15,0.8,,46.7,56.0,3.9,2,63.5,17.9,26.1,20,0,13.1,23.41,0,,20 of 30 days
+2026-11,NW09,20,15,14,1,0.92,14,,,45.1,53.0,1.6,1,71.9,13.3,19.87,20,0,8.5,15.76,4,PAL MOORE ORCHARD (1 hot day); KETTLE FALLS (1 cold day); TACOMA CREEK (1 hot day); TEEPEE SEED ORCHARD (1 hot day),20 of 30 days
+2026-11,NW10,20,25,8,17,0.55,18,0.92,,51.3,60.0,3.1,17,67.4,12.1,21.06,20,0,9.5,19.26,3,SADDLE MOUNTAIN (1 cold day); Hermiston (1 hot day); Pendleton Municipal (1 hot day),20 of 30 days
+2026-11,NW11,20,24,19,5,0.98,22,1.28,,48.3,62.0,2.7,4,55.6,23.6,31.42,20,0,14.3,27.28,2,PITTSBURG LANDING (1 cold day); La Grande (Awos) (1 cold day),20 of 30 days
+2026-11,NW12,20,24,21,3,1.08,23,0.56,,49.9,65.0,2.0,3,49.0,28.9,36.75,20,0,19.6,31.64,1,WAGONTIRE (reads dry),20 of 30 days

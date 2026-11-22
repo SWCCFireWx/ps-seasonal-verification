@@ -8395,3 +8395,7 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-19,45736,FREMONT CANYON,RAWS,SC08,missed,0.0,8,1.1,no rain while most neighbors got rain
 2026-11-19,55522314,MEANS LAKE,RAWS,SC14,hot,67.0,8,57.7,max temp much warmer than neighbors
 2026-11-19,ASOS-O32,Reedley,ASOS,SC05,missed,0.0,8,0.76,no rain while most neighbors got rain
+2026-11-20,44521,DINKEY,RAWS,SC02,hot,50.0,8,37.3,max temp much warmer than neighbors
+2026-11-20,44522,SHAVER,RAWS,SC02,hot,49.0,8,38.0,max temp much warmer than neighbors
+2026-11-20,45221,MONTECITO #2,RAWS,SC08,rain_alone,0.88,8,0.01,rain no neighbor saw
+2026-11-20,45435,MILL CREEK (ANF),RAWS,SC09,bad_temp,144.0,0,,impossible temperature

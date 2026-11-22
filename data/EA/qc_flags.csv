@@ -10428,3 +10428,10 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-19,ASOS-IPT,Williamsport,ASOS,EA19,cold,57.0,8,67.2,max temp much colder than neighbors
 2026-11-19,ASOS-NAK,Annapolis,ASOS,EA24,cold,58.0,8,70.0,max temp much colder than neighbors
 2026-11-19,ASOS-ZER,Pottsville,ASOS,EA19,cold,50.0,8,63.6,max temp much colder than neighbors
+2026-11-20,213403,ST. CROIX,RAWS,EA03,cold,54.0,8,63.0,max temp much colder than neighbors
+2026-11-20,55522362,SAND ISLAND,RAWS,EA04,bad_rain,340.88,0,,impossible rain total
+2026-11-20,55522362,SAND ISLAND,RAWS,EA04,hot,84.0,5,62.6,max temp much warmer than neighbors
+2026-11-20,ASOS-BKL,Cleveland Burke Lakefront,ASOS,EA15,cold,57.0,8,66.7,max temp much colder than neighbors
+2026-11-20,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,56.0,6,66.8,max temp much colder than neighbors
+2026-11-20,ASOS-ONZ,Detroit/Grosse I,ASOS,EA15,cold,55.4,8,64.7,max temp much colder than neighbors
+2026-11-20,ASOS-P58,Port Hope,ASOS,EA08,cold,53.0,3,61.4,max temp much colder than neighbors

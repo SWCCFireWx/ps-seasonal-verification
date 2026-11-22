@@ -5693,5 +5693,8 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-19,500751,BOLIO,RAWS,AK01W,hot,46.0,7,33.3,max temp much warmer than neighbors
 2026-11-19,500934,KELLY,RAWS,AK04,cold,-32.0,3,31.0,max temp much colder than neighbors
 2026-11-19,500949,CHISTOCHINA,RAWS,AK12,cold,25.0,3,34.3,max temp much colder than neighbors
-2026-11-19,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,13.0,4,22.2,max temp much colder than neighbors
+2026-11-19,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,13.0,4,21.7,max temp much colder than neighbors
 2026-11-19,ASOS-PATO,Portage Glacier Center (Asos),ASOS,AK14,wet,4.87,8,0.89,far more rain than any neighbor
+2026-11-20,500740,CARIBOU PEAK,RAWS,AK01W,hot,32.0,8,21.3,max temp much warmer than neighbors
+2026-11-20,500761,LYNX,RAWS,AK01W,hot,36.0,8,23.5,max temp much warmer than neighbors
+2026-11-20,500934,KELLY,RAWS,AK04,cold,-27.0,3,28.7,max temp much colder than neighbors
