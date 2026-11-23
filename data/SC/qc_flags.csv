@@ -8399,3 +8399,8 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-20,44522,SHAVER,RAWS,SC02,hot,49.0,8,38.0,max temp much warmer than neighbors
 2026-11-20,45221,MONTECITO #2,RAWS,SC08,rain_alone,0.88,8,0.01,rain no neighbor saw
 2026-11-20,45435,MILL CREEK (ANF),RAWS,SC09,bad_temp,144.0,0,,impossible temperature
+2026-11-21,43210,COTTAGE,RAWS,SC02,cold,33.0,8,43.5,max temp much colder than neighbors
+2026-11-21,43212,BLUE MTN LOOKOUT,RAWS,SC02,cold,34.0,8,43.6,max temp much colder than neighbors
+2026-11-21,44722,BLACKROCK,RAWS,SC03,hot,51.0,8,40.3,max temp much warmer than neighbors
+2026-11-21,ASOS-MMH,Mammoth/June Lakes,ASOS,SC01,cold,23.0,8,41.2,max temp much colder than neighbors
+2026-11-21,ASOS-PRB,Paso Robles,ASOS,SC06,cold,38.0,8,60.7,max temp much colder than neighbors

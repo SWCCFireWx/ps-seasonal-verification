@@ -1287,31 +1287,31 @@ month,psa,days,stations,raws,asos,precip_in,precip_stations,precip_normal_in,pre
 2026-10,RM26,31,37,3,34,1.37,17,2.0,65,71.8,90.0,7.2,34,43.6,22.5,35.87,31,0,21.0,31.13,3,"Holdrege/Brewstr (1 hot day, 1 rain flag); Mccook (1 cold day); Offutt Afb/Belle (2 hot days)",yes
 2026-10,RM27,31,38,7,31,1.91,18,0.96,193,73.5,89.0,4.3,29,38.7,25.1,38.61,31,0,23.2,40.34,0,,yes
 2026-10,RM28,31,54,5,49,2.84,25,2.74,107,77.2,90.0,6.9,48,44.9,19.5,29.25,31,0,18.8,32.51,7,POTAWATOMI (1 rain flag); Wichita (Aao) (1 rain flag); Hays_Muni (1 rain flag); Mcconnell_Afb (1 rain flag); Iola (1 cold day); Russell (1 cold day); Salina (1 cold day),yes
-2026-11,RM01,20,3,2,1,0.1,2,,,48.3,64.0,4.9,1,32.8,27.9,34.34,20,0,23.7,32.55,0,,20 of 30 days
-2026-11,RM02,20,17,10,7,0.26,13,0.27,,54.8,63.0,6.9,7,34.4,33.4,38.06,20,0,24.8,35.49,1,Powell (1 cold day),20 of 30 days
-2026-11,RM03,20,3,3,0,0.26,3,,,47.4,60.0,,0,35.6,22.7,30.57,20,0,20.2,33.1,0,,20 of 30 days
-2026-11,RM04,20,13,5,8,0.25,9,0.27,,57.7,68.0,9.6,7,36.9,27.2,32.58,20,0,20.4,30.71,5,"ECHETA (1 hot day); BEAR LODGE (reads wet, 1 hot day); Douglas/Converse County Airport (1 cold day); Ellsworth Afb (runs cold); Sheridan Co. Arpt (1 cold day)",20 of 30 days
-2026-11,RM05,20,9,7,2,0.28,7,,,57.8,73.0,8.2,2,35.1,27.8,32.61,20,0,20.0,32.81,3,"SPEARFISH (1 cold day, 1 rain flag); Sturgis (1 cold day); Spearfish (1 cold day)",20 of 30 days
-2026-11,RM06,20,5,3,2,0.35,4,0.37,,58.0,69.0,8.6,2,40.1,24.9,31.26,20,0,19.5,27.13,0,,20 of 30 days
-2026-11,RM07,20,9,3,6,0.42,5,0.3,,48.2,59.0,5.5,6,43.4,20.4,27.28,20,0,17.8,29.01,2,"MUDDY CREEK (reads dry); ANDERSON RIDGE (1 cold day, 1 rain flag)",20 of 30 days
-2026-11,RM08,20,11,6,5,0.61,9,0.4,,51.6,60.8,7.6,5,38.5,27.8,33.38,20,0,23.7,34.2,2,WIND RIVER (1 hot day); FALES ROCK (reads dry),20 of 30 days
-2026-11,RM09,20,2,2,0,1.33,1,,,52.2,62.0,,0,37.5,26.2,34.42,20,0,23.3,47.13,2,ESTERBROOK (1 hot day); DODGE CREEK (reads dry),20 of 30 days
-2026-11,RM10,20,9,6,3,1.43,7,0.68,,51.1,59.0,5.2,3,44.1,21.9,27.39,20,0,17.5,26.14,1,Hayden/Yampa (Awos) (reads dry),20 of 30 days
-2026-11,RM11,20,15,10,5,0.64,9,,,49.0,59.0,7.9,4,36.6,18.0,24.77,20,0,12.3,22.88,2,GUNSIGHT (reads dry); Steamboat Springs (1 cold day),20 of 30 days
-2026-11,RM12,20,15,7,8,0.1,9,0.35,,59.6,70.0,5.1,8,29.0,30.5,36.55,20,0,22.4,31.22,2,CARPENTER PEAK (1 rain flag); Broomfield/Jeffco (1 cold day),20 of 30 days
-2026-11,RM13,20,8,7,1,0.09,7,,,53.8,64.0,2.9,1,24.4,34.1,40.68,20,0,24.0,32.35,1,REDFEATHER (1 hot day),20 of 30 days
-2026-11,RM14,20,14,8,6,1.62,11,0.43,,53.3,60.0,2.6,6,46.3,19.8,26.48,20,0,16.2,24.27,0,,20 of 30 days
-2026-11,RM15,20,13,8,5,0.74,8,0.72,,47.9,56.5,1.3,3,37.5,18.5,24.14,20,0,13.1,23.59,3,"GRAND MESA (reads wet, 1 rain flag); Berthoud Pass (runs cold); Sunlight (runs cold)",20 of 30 days
-2026-11,RM16,20,9,7,2,1.84,7,,,51.2,59.0,-3.2,2,43.3,20.2,25.89,20,0,15.9,27.43,0,,20 of 30 days
-2026-11,RM17,20,14,8,6,1.14,9,0.6,,48.5,57.1,1.3,5,35.1,14.1,21.36,20,0,9.1,20.48,2,Leadville/Lake Co. (1 cold day); Monarch Pass (Cdot) (runs cold),20 of 30 days
-2026-11,RM18,20,16,11,5,0.41,10,,,56.8,67.3,3.9,5,28.1,25.9,33.73,20,0,19.8,38.62,1,FT CARSON (reads dry),20 of 30 days
-2026-11,RM19,20,11,8,3,3.92,10,0.65,,52.6,60.8,-0.7,3,46.8,18.4,25.93,20,0,13.9,19.4,1,BUCKLES (1 rain flag),20 of 30 days
-2026-11,RM20,20,6,4,2,2.56,4,,,46.3,55.5,-7.2,2,41.0,12.1,20.91,20,0,8.4,17.92,0,,20 of 30 days
-2026-11,RM21,20,4,1,3,0.46,2,0.26,,52.8,60.0,0.8,3,36.2,22.4,26.78,20,0,19.0,33.45,0,,20 of 30 days
-2026-11,RM22,20,7,5,2,0.89,4,,,52.5,60.0,2.4,1,33.4,26.9,32.11,20,0,20.9,34.12,3,BLACK MOUNTAIN (reads dry); BOSQUE (runs hot); La Veta Pass (Cdot) (runs cold),20 of 30 days
-2026-11,RM23,20,33,9,24,1.22,21,0.5,,54.4,64.4,8.6,23,58.3,14.9,20.56,20,0,17.3,26.54,4,Onida (1 cold day); Wagner (1 cold day); Brookings (1 cold day); Rosebud (runs cold),20 of 30 days
-2026-11,RM24,20,8,4,4,0.51,7,0.35,,58.2,69.0,8.7,4,44.7,19.9,26.3,20,0,22.2,34.83,1,Rapid City (1 cold day),20 of 30 days
-2026-11,RM25,20,33,7,26,0.15,15,0.37,,60.2,70.0,6.5,26,38.2,20.9,28.94,20,0,19.4,31.88,6,AGATE (1 hot day); Harrisburg (1 cold day); Colorado Air And Space (3 cold days); Wheatland (1 hot day); Grant (1 cold day); Ogallala (1 cold day),20 of 30 days
-2026-11,RM26,20,37,3,34,0.55,17,0.79,,58.9,70.7,6.5,34,51.2,16.6,24.45,20,0,17.9,27.86,2,MCKELVIE (1 hot day); Offutt Afb/Belle (2 hot days),20 of 30 days
-2026-11,RM27,20,38,7,31,0.84,18,0.32,,61.9,72.5,3.7,29,43.2,18.6,26.38,20,0,18.5,26.35,1,Pueblo Memorial(Aw) (3 cold days),20 of 30 days
-2026-11,RM28,20,54,5,49,0.82,24,0.96,,62.3,75.1,3.9,49,49.1,14.8,21.68,20,0,15.7,25.26,3,Mcconnell_Afb (1 hot day); Sabetha (1 cold day); Russell (1 rain flag),20 of 30 days
+2026-11,RM01,21,3,2,1,0.11,2,,,47.3,64.0,4.2,1,33.3,27.8,34.34,21,0,23.4,32.55,0,,21 of 30 days
+2026-11,RM02,21,17,10,7,0.27,12,0.29,,53.6,63.0,6.2,7,36.3,33.2,38.06,21,0,24.1,35.49,2,Powell (1 cold day); Worland Municipal (reads dry),21 of 30 days
+2026-11,RM03,21,3,3,0,0.43,2,,,46.1,60.0,,0,37.9,22.3,30.57,21,0,19.3,33.1,1,SCHOOL HOUSE (reads dry),21 of 30 days
+2026-11,RM04,21,13,5,8,0.36,9,0.28,,56.4,68.0,8.5,8,39.0,27.0,32.58,21,0,19.6,30.71,4,"ECHETA (1 hot day); BEAR LODGE (reads wet, 1 hot day); Douglas/Converse County Airport (1 cold day); Sheridan Co. Arpt (1 cold day)",21 of 30 days
+2026-11,RM05,21,9,7,2,0.28,7,,,56.5,73.0,7.0,2,37.4,27.6,32.61,21,0,19.7,32.81,3,"SPEARFISH (1 cold day, 1 rain flag); Sturgis (1 cold day); Spearfish (1 cold day)",21 of 30 days
+2026-11,RM06,21,5,3,2,0.43,4,0.39,,56.7,69.0,7.6,2,42.4,24.7,31.26,21,0,19.1,27.13,0,,21 of 30 days
+2026-11,RM07,21,9,3,6,0.42,5,0.31,,47.3,59.0,5.0,6,44.1,20.2,27.28,21,0,16.9,29.01,2,"MUDDY CREEK (reads dry); ANDERSON RIDGE (1 cold day, 1 rain flag)",21 of 30 days
+2026-11,RM08,21,11,6,5,0.61,9,0.42,,50.7,60.8,6.9,5,39.7,27.6,33.38,21,0,23.5,34.2,2,WIND RIVER (1 hot day); FALES ROCK (reads dry),21 of 30 days
+2026-11,RM09,21,2,2,0,1.33,1,,,51.3,62.0,,0,38.1,26.4,34.42,21,0,23.5,47.13,2,ESTERBROOK (1 hot day); DODGE CREEK (reads dry),21 of 30 days
+2026-11,RM10,21,9,6,3,1.43,7,0.71,,50.4,59.0,4.7,3,44.5,21.7,27.39,21,0,17.1,26.14,1,Hayden/Yampa (Awos) (reads dry),21 of 30 days
+2026-11,RM11,21,15,10,5,0.67,9,,,48.1,59.0,7.4,4,37.0,18.0,24.77,21,0,12.1,22.88,2,GUNSIGHT (reads dry); Steamboat Springs (1 cold day),21 of 30 days
+2026-11,RM12,21,15,7,8,0.11,9,0.36,,58.9,70.0,4.6,8,29.2,30.7,36.55,21,0,22.4,31.22,2,CARPENTER PEAK (1 rain flag); Broomfield/Jeffco (1 cold day),21 of 30 days
+2026-11,RM13,21,8,7,1,0.19,7,,,52.8,64.0,2.1,1,25.3,34.3,40.68,21,0,23.8,32.35,1,REDFEATHER (1 hot day),21 of 30 days
+2026-11,RM14,21,14,8,6,1.62,11,0.45,,52.7,60.0,2.3,6,45.9,19.9,26.48,21,0,16.3,24.27,0,,21 of 30 days
+2026-11,RM15,21,13,8,5,0.88,8,0.75,,47.1,56.5,-3.4,4,38.8,18.4,24.14,21,0,12.7,23.59,3,"GRAND MESA (reads wet, 1 rain flag); Berthoud Pass (runs cold); Sunlight (1 cold day)",21 of 30 days
+2026-11,RM16,21,9,7,2,2.23,7,,,50.6,59.0,-3.6,2,43.5,20.1,25.89,21,0,15.8,27.43,0,,21 of 30 days
+2026-11,RM17,21,14,8,6,1.14,9,0.62,,47.7,57.1,0.8,5,35.4,14.4,21.36,21,0,9.4,20.48,2,Leadville/Lake Co. (1 cold day); Monarch Pass (Cdot) (runs cold),21 of 30 days
+2026-11,RM18,21,16,11,5,0.46,10,,,56.0,67.3,3.3,5,28.6,26.1,33.73,21,0,19.9,38.62,1,FT CARSON (reads dry),21 of 30 days
+2026-11,RM19,21,11,8,3,3.95,10,0.69,,52.0,60.8,-1.1,3,46.4,18.5,25.93,21,0,14.0,19.4,1,BUCKLES (1 rain flag),21 of 30 days
+2026-11,RM20,21,6,4,2,2.58,4,,,45.5,55.5,-7.7,2,40.9,12.2,20.91,21,0,8.5,17.92,0,,21 of 30 days
+2026-11,RM21,21,4,1,3,0.46,2,0.27,,52.3,60.0,0.5,3,35.9,22.5,26.78,21,0,19.3,33.45,0,,21 of 30 days
+2026-11,RM22,21,7,5,2,0.89,4,,,51.7,60.0,1.9,1,33.2,27.0,32.11,21,0,21.1,34.12,3,BLACK MOUNTAIN (reads dry); BOSQUE (runs hot); La Veta Pass (Cdot) (runs cold),21 of 30 days
+2026-11,RM23,21,33,9,24,1.22,21,0.52,,53.8,64.4,8.4,23,58.6,15.0,20.56,21,0,17.3,26.54,4,Onida (1 cold day); Wagner (1 cold day); Brookings (1 cold day); Rosebud (runs cold),21 of 30 days
+2026-11,RM24,21,8,4,4,0.51,7,0.37,,57.1,69.0,7.8,4,45.9,19.8,26.3,21,0,21.8,34.83,1,Rapid City (1 cold day),21 of 30 days
+2026-11,RM25,21,33,7,26,0.15,15,0.38,,59.5,70.0,6.1,26,38.1,20.9,28.94,21,0,19.5,31.88,6,AGATE (1 hot day); Harrisburg (1 cold day); Colorado Air And Space (3 cold days); Wheatland (1 hot day); Grant (1 cold day); Ogallala (1 cold day),21 of 30 days
+2026-11,RM26,21,37,3,34,0.56,17,0.82,,58.8,70.7,6.7,34,52.2,16.5,24.45,21,0,17.8,27.86,2,MCKELVIE (1 hot day); Offutt Afb/Belle (2 hot days),21 of 30 days
+2026-11,RM27,21,38,7,31,0.84,18,0.33,,61.6,72.5,3.5,29,42.7,18.8,26.38,21,0,18.7,26.35,1,Pueblo Memorial(Aw) (3 cold days),21 of 30 days
+2026-11,RM28,21,54,5,49,1.07,23,1.0,,62.4,75.1,4.2,49,50.0,14.8,21.68,21,0,15.8,25.26,4,STATE LINE (reads wet); Mcconnell_Afb (1 hot day); Sabetha (1 cold day); Russell (1 rain flag),21 of 30 days
