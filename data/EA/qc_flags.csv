@@ -10440,5 +10440,12 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-21,55522362,SAND ISLAND,RAWS,EA04,hot,72.0,5,61.7,max temp much warmer than neighbors
 2026-11-21,ASOS-1P1,Plymouth,ASOS,EA21,cold,32.0,8,60.7,max temp much colder than neighbors
 2026-11-21,ASOS-DRM,Drummond Island,ASOS,EA06,cold,51.0,6,66.8,max temp much colder than neighbors
+2026-11-21,ASOS-MTW,Manitowac Muni,ASOS,EA05,cold,60.0,6,68.4,max temp much colder than neighbors
 2026-11-21,ASOS-OXI,Knox,ASOS,EA11,cold,50.0,8,68.4,max temp much colder than neighbors
 2026-11-21,ASOS-PCD,Perryville,ASOS,EA13,cold,57.2,8,73.6,max temp much colder than neighbors
+2026-11-22,55522362,SAND ISLAND,RAWS,EA04,bad_rain,399.23,0,,impossible rain total
+2026-11-22,ASOS-EZZ,Cameron,ASOS,EA09,cold,50.0,7,59.9,max temp much colder than neighbors
+2026-11-22,ASOS-LEB,Lebanon Municipal,ASOS,EA21,cold,48.0,7,57.7,max temp much colder than neighbors
+2026-11-22,ASOS-MCI,Kansas City/Intl,ASOS,EA09,cold,49.0,8,60.0,max temp much colder than neighbors
+2026-11-22,ASOS-PSF,Pittsfield Muni,ASOS,EA23,cold,39.0,8,57.4,max temp much colder than neighbors
+2026-11-22,ASOS-TVK,Centerville,ASOS,EA09,hot,59.0,7,46.5,max temp much warmer than neighbors

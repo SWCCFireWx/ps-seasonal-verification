@@ -5700,7 +5700,7 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-20,500934,KELLY,RAWS,AK04,cold,-27.0,3,28.7,max temp much colder than neighbors
 2026-11-21,500425,LOST CREEK,RAWS,AK02,hot,27.0,3,16.1,max temp much warmer than neighbors
 2026-11-21,500740,CARIBOU PEAK,RAWS,AK01W,hot,23.0,8,6.7,max temp much warmer than neighbors
-2026-11-21,500745,LIVENGOOD,RAWS,AK03S,cold,17.0,6,28.4,max temp much colder than neighbors
+2026-11-21,500745,LIVENGOOD,RAWS,AK03S,cold,17.0,7,28.3,max temp much colder than neighbors
 2026-11-21,500756,STUART CREEK,RAWS,AK01W,hot,31.0,8,11.3,max temp much warmer than neighbors
 2026-11-21,500758,BLAIR LAKES,RAWS,AK01W,hot,26.0,8,12.7,max temp much warmer than neighbors
 2026-11-21,500760,BRIGADIER,RAWS,AK01W,hot,26.0,8,8.0,max temp much warmer than neighbors
@@ -5708,4 +5708,15 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-21,500934,KELLY,RAWS,AK04,cold,-26.0,3,21.5,max temp much colder than neighbors
 2026-11-21,500949,CHISTOCHINA,RAWS,AK12,cold,9.0,3,29.3,max temp much colder than neighbors
 2026-11-21,500975,LITTLE GRANITE CREEK,RAWS,AK13,cold,25.0,8,33.0,max temp much colder than neighbors
-2026-11-21,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-2.0,4,11.7,max temp much colder than neighbors
+2026-11-21,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-2.0,4,11.2,max temp much colder than neighbors
+2026-11-22,500721,CHATANIKA,RAWS,AK01W,hot,27.0,7,15.9,max temp much warmer than neighbors
+2026-11-22,500735,KILBUCK,RAWS,AK10,bad_temp,145.0,0,,impossible temperature
+2026-11-22,500740,CARIBOU PEAK,RAWS,AK01W,hot,28.0,8,11.7,max temp much warmer than neighbors
+2026-11-22,500760,BRIGADIER,RAWS,AK01W,hot,26.0,8,13.0,max temp much warmer than neighbors
+2026-11-22,500761,LYNX,RAWS,AK01W,hot,33.0,8,13.6,max temp much warmer than neighbors
+2026-11-22,500908,KENAI LAKE,RAWS,AK14,cold,27.0,7,37.4,max temp much colder than neighbors
+2026-11-22,500934,KELLY,RAWS,AK04,cold,-21.0,3,33.0,max temp much colder than neighbors
+2026-11-22,500942,RABBIT CREEK,RAWS,AK13,hot,38.0,8,24.0,max temp much warmer than neighbors
+2026-11-22,500949,CHISTOCHINA,RAWS,AK12,cold,2.0,3,19.3,max temp much colder than neighbors
+2026-11-22,ASOS-PAOR,Northway (Asos),ASOS,AK01E,cold,-4.0,4,9.3,max temp much colder than neighbors
+2026-11-22,ASOS-PAVE,Venetie,ASOS,AK02,hot,16.0,3,3.7,max temp much warmer than neighbors
