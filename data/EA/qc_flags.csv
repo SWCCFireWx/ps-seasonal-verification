@@ -10449,3 +10449,6 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-22,ASOS-MCI,Kansas City/Intl,ASOS,EA09,cold,49.0,8,60.0,max temp much colder than neighbors
 2026-11-22,ASOS-PSF,Pittsfield Muni,ASOS,EA23,cold,39.0,8,57.4,max temp much colder than neighbors
 2026-11-22,ASOS-TVK,Centerville,ASOS,EA09,hot,59.0,7,46.5,max temp much warmer than neighbors
+2026-11-23,55522362,SAND ISLAND,RAWS,EA04,bad_rain,744.86,0,,impossible rain total
+2026-11-23,55522362,SAND ISLAND,RAWS,EA04,hot,72.0,5,33.3,max temp much warmer than neighbors
+2026-11-23,ASOS-MCD,Mackinac Island,ASOS,EA06,hot,57.2,8,37.5,max temp much warmer than neighbors

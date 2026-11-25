@@ -18586,3 +18586,6 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-22,ASOS-SOP,Southern_Pines_Awos,ASOS,SA32,missed,0.0,8,1.7,no rain while most neighbors got rain
 2026-11-22,ASOS-SRC,Searcy Muni Airport (M07),ASOS,SA18,cold,54.0,8,72.2,max temp much colder than neighbors
 2026-11-22,ASOS-WDG,Enid/Woodring Muni,ASOS,SA03,hot,64.4,5,52.5,max temp much warmer than neighbors
+2026-11-23,55522208,BAINBRIDGE,RAWS,SA42,hot,74.0,8,65.2,max temp much warmer than neighbors
+2026-11-23,55522240,COCHRAN,RAWS,SA41,hot,72.0,8,62.6,max temp much warmer than neighbors
+2026-11-23,ASOS-MRF,Marfa,ASOS,SA08,cold,40.0,4,53.7,max temp much colder than neighbors
