@@ -6396,10 +6396,15 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-21,42608,HELL HOLE,RAWS,NC07,hot,48.0,8,36.9,max temp much warmer than neighbors
 2026-11-22,40105,SHIP MTN,RAWS,NC04,hot,73.0,8,32.8,max temp much warmer than neighbors
 2026-11-23,40105,SHIP MTN,RAWS,NC04,hot,86.0,8,38.1,max temp much warmer than neighbors
-2026-11-23,40314,COLD SPRINGS,RAWS,NC06,hot,45.0,8,36.8,max temp much warmer than neighbors
-2026-11-23,40315,SURPRISE VALLEY,RAWS,NC08,cold,35.0,8,43.3,max temp much colder than neighbors
+2026-11-23,40314,COLD SPRINGS,RAWS,NC06,hot,45.0,8,36.6,max temp much warmer than neighbors
+2026-11-23,40315,SURPRISE VALLEY,RAWS,NC08,cold,35.0,8,43.1,max temp much colder than neighbors
 2026-11-23,40630,SOLDIER MTN,RAWS,NC06,cold,39.0,8,47.0,max temp much colder than neighbors
 2026-11-23,40915,PIERCE,RAWS,NC07,hot,50.0,8,41.0,max temp much warmer than neighbors
 2026-11-23,41304,SADDLEBACK,RAWS,NC07,cold,33.0,8,45.1,max temp much colder than neighbors
 2026-11-23,41901,DUNCAN,RAWS,NC07,cold,35.0,8,43.0,max temp much colder than neighbors
 2026-11-23,42608,HELL HOLE,RAWS,NC07,hot,58.0,8,48.7,max temp much warmer than neighbors
+2026-11-24,40105,SHIP MTN,RAWS,NC04,hot,87.0,8,43.2,max temp much warmer than neighbors
+2026-11-24,40231,SOMES BAR,RAWS,NC04,cold,49.0,8,57.5,max temp much colder than neighbors
+2026-11-24,40247,BOLAM,RAWS,NC06,hot,55.0,8,44.5,max temp much warmer than neighbors
+2026-11-24,41304,SADDLEBACK,RAWS,NC07,cold,38.0,8,46.1,max temp much colder than neighbors
+2026-11-24,ASOS-CCR,Concord/Buchanan,ASOS,NC03B,cold,54.0,8,62.2,max temp much colder than neighbors
