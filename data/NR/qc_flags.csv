@@ -4908,3 +4908,6 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-24,244803,DERBY MOUNTAIN,RAWS,NR12,hot,45.0,8,36.0,max temp much warmer than neighbors
 2026-11-24,245106,PRYOR MOUNTAIN,RAWS,NR14,hot,42.0,8,33.3,max temp much warmer than neighbors
 2026-11-24,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,26.0,8,42.8,max temp much colder than neighbors
+2026-11-25,245201,FORT HOWES,RAWS,NR14,cold,44.0,4,55.2,max temp much colder than neighbors
+2026-11-25,ASOS-BZN,Bozeman/Gallatin,ASOS,NR09,cold,35.0,8,47.3,max temp much colder than neighbors
+2026-11-26,245416,HARKNESS,RAWS,NR09,hot,44.0,4,30.5,max temp much warmer than neighbors
