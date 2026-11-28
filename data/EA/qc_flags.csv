@@ -10464,7 +10464,14 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-26,ASOS-LPR,Lorain/Elyria,ASOS,EA15,missed,0.0,8,1.27,no rain while most neighbors got rain
 2026-11-26,ASOS-MSV,Monticello,ASOS,EA23,missed,0.0,8,1.65,no rain while most neighbors got rain
 2026-11-26,ASOS-OQN,West Chester,ASOS,EA24,cold,42.8,8,51.2,max temp much colder than neighbors
-2026-11-26,ASOS-PTW,Pottstown Limerick Airport,ASOS,EA24,missed,0.0,8,1.35,no rain while most neighbors got rain
-2026-11-26,ASOS-RDG,Reading/Spaatz Fld,ASOS,EA24,missed,0.0,8,1.42,no rain while most neighbors got rain
+2026-11-26,ASOS-PTW,Pottstown Limerick Airport,ASOS,EA24,missed,0.0,8,1.36,no rain while most neighbors got rain
 2026-11-26,ASOS-SNC,Chester,ASOS,EA23,hot,73.4,8,47.3,max temp much warmer than neighbors
 2026-11-26,ASOS-VAY,South Jersey Regional Airport,ASOS,EA24,missed,0.0,8,2.16,no rain while most neighbors got rain
+2026-11-27,55522362,SAND ISLAND,RAWS,EA04,bad_rain,433.95,0,,impossible rain total
+2026-11-27,55522362,SAND ISLAND,RAWS,EA04,hot,72.0,5,43.3,max temp much warmer than neighbors
+2026-11-27,ASOS-2W6,Leonardtown,ASOS,EA24,bad_rain,57.6,0,,impossible rain total
+2026-11-27,ASOS-GNA,Grand Marais,ASOS,EA03,cold,40.0,4,49.7,max temp much colder than neighbors
+2026-11-27,ASOS-MSV,Monticello,ASOS,EA23,cold,39.2,8,47.7,max temp much colder than neighbors
+2026-11-27,ASOS-SLK,Saranac Lake/Adiron,ASOS,EA20,hot,47.0,4,36.3,max temp much warmer than neighbors
+2026-11-27,ASOS-SWF,Newburgh/Stewart,ASOS,EA23,hot,77.0,8,52.4,max temp much warmer than neighbors
+2026-11-27,ASOS-UNU,Juneau,ASOS,EA05,rain_alone,4.32,8,0.03,rain no neighbor saw

@@ -18602,16 +18602,21 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-25,ASOS-HKA,Blytheville,ASOS,SA18,missed,0.0,6,0.82,no rain while most neighbors got rain
 2026-11-25,ASOS-HXD,Hilton Head Island,ASOS,SA37,hot,62.6,8,54.0,max temp much warmer than neighbors
 2026-11-25,ASOS-ISM,Kissimmee Muni Airport/Orlando,ASOS,SA49,missed,0.0,8,0.58,no rain while most neighbors got rain
+2026-11-25,ASOS-MRF,Marfa,ASOS,SA08,cold,32.0,4,60.2,max temp much colder than neighbors
 2026-11-25,ASOS-RYY,Marietta,ASOS,SA40,missed,0.0,8,0.65,no rain while most neighbors got rain
 2026-11-25,ASOS-TPL,Temple/Miller(Awos),ASOS,SA11,cold,32.0,8,56.6,max temp much colder than neighbors
 2026-11-25,ASOS-X59,Valkaria,ASOS,SA49,missed,0.0,8,0.61,no rain while most neighbors got rain
 2026-11-26,55522208,BAINBRIDGE,RAWS,SA42,hot,57.0,8,47.8,max temp much warmer than neighbors
 2026-11-26,ASOS-27K,Georgetown,ASOS,SA26,missed,0.0,7,1.31,no rain while most neighbors got rain
 2026-11-26,ASOS-ALI,Alice Intl Airport,ASOS,SA14,cold,42.0,8,62.6,max temp much colder than neighbors
-2026-11-26,ASOS-EKQ,Monticello,ASOS,SA27,hot,57.2,8,47.2,max temp much warmer than neighbors
 2026-11-26,ASOS-EKQ,Monticello,ASOS,SA27,missed,0.0,8,0.75,no rain while most neighbors got rain
 2026-11-26,ASOS-FFT,Capital City Airport/Frankfort,ASOS,SA26,missed,0.0,8,1.61,no rain while most neighbors got rain
 2026-11-26,ASOS-FTK,Fort Knox/Godman,ASOS,SA26,missed,0.0,8,1.45,no rain while most neighbors got rain
 2026-11-26,ASOS-GSB,Seymour-Johnson_Afb,ASOS,SA33,missed,0.0,8,3.75,no rain while most neighbors got rain
-2026-11-26,ASOS-PVG,Norfolk/Hampton Roads,ASOS,SA30,bad_rain,149.89,0,,impossible rain total
+2026-11-26,ASOS-MRF,Marfa,ASOS,SA08,cold,31.0,4,57.7,max temp much colder than neighbors
 2026-11-26,ASOS-TWT,Sturgis,ASOS,SA26,missed,0.0,8,1.43,no rain while most neighbors got rain
+2026-11-27,55522208,BAINBRIDGE,RAWS,SA42,hot,59.0,8,51.0,max temp much warmer than neighbors
+2026-11-27,ASOS-CNW,Waco,ASOS,SA11,hot,86.0,8,70.4,max temp much warmer than neighbors
+2026-11-27,ASOS-F95,Blountstown,ASOS,SA47,cold,37.4,8,61.1,max temp much colder than neighbors
+2026-11-27,ASOS-JGG,Williamsburg,ASOS,SA30,cold,45.7,8,54.9,max temp much colder than neighbors
+2026-11-27,ASOS-JKL,Jackson/J. Carroll,ASOS,SA27,wet,1.53,8,0.27,far more rain than any neighbor

@@ -5426,7 +5426,7 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-24,ASOS-VTP,La Veta Pass (Cdot),ASOS,RM22,cold,26.6,7,34.6,max temp much colder than neighbors
 2026-11-25,480212,RATTLESNAKE MTN.,RAWS,RM02,hot,48.0,6,38.9,max temp much warmer than neighbors
 2026-11-25,480804,GRASS CREEK DIVIDE,RAWS,RM02,hot,52.0,8,39.9,max temp much warmer than neighbors
-2026-11-25,51404,DEAD HORSE,RAWS,RM11,hot,52.0,8,42.4,max temp much warmer than neighbors
+2026-11-25,51404,DEAD HORSE,RAWS,RM11,hot,52.0,8,41.9,max temp much warmer than neighbors
 2026-11-25,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,30.2,7,38.7,max temp much colder than neighbors
 2026-11-25,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,35.0,3,54.0,max temp much colder than neighbors
 2026-11-26,481411,WIND RIVER,RAWS,RM08,hot,47.0,4,35.9,max temp much warmer than neighbors
@@ -5434,3 +5434,6 @@ date,station_id,name,type,psa,flag,value,neighbors,neighbor_value,note
 2026-11-26,ASOS-ECS,Newcastle,ASOS,RM04,cold,46.4,8,58.5,max temp much colder than neighbors
 2026-11-26,ASOS-MYP,Monarch Pass (Cdot),ASOS,RM17,cold,30.2,7,38.7,max temp much colder than neighbors
 2026-11-26,ASOS-SHR,Sheridan Co. Arpt,ASOS,RM04,cold,43.0,3,53.5,max temp much colder than neighbors
+2026-11-27,481411,WIND RIVER,RAWS,RM08,hot,44.0,4,34.3,max temp much warmer than neighbors
+2026-11-27,ASOS-PUB,Pueblo Memorial(Aw),ASOS,RM27,cold,63.0,8,71.2,max temp much colder than neighbors
+2026-11-27,ASOS-RIL,Rifle/Garfield Rgnl,ASOS,RM14,cold,47.0,8,55.9,max temp much colder than neighbors
